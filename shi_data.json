@@ -1,9 +1,9 @@
 {
-    "shi": 2.32246,
-    "health_percent": 67.32,
+    "shi": 1.59873,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,35 +11,35 @@
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints and inflation"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Fiscal mismanagement and inflationary pressures"
+            "loc": "London, UK",
+            "deviation": "Financial instability and regulatory issues"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust anti-corruption policies and innovation hubs"
+            "protocol": "Innovative policies and low corruption"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial regulations and stable economy"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Strong policy reforms and sustainable practices"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high-quality education system"
+            "protocol": "Sustainable practices and high-tech infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO MITIGATE RISKS.",
-    "last_updated": "2026-03-13 21:18:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TALKS BETWEEN MAJOR ECONOMIES UNDERWAY, AND RENEWABLE ENERGY INVESTMENTS ON THE RISE.",
+    "last_updated": "2026-03-13 21:50:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.69
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.82
     }
 }
