@@ -1,7 +1,7 @@
 name: GHI Global Diagnostic Sync
 on:
   schedule:
-    - cron: '*/10 * * * *' # Set to 10 mins to preserve API credits
+    - cron: '*/15 * * * *' # Optimized for Vantage free-tier limits
   workflow_dispatch:
 
 jobs:
@@ -19,18 +19,16 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          pip install groq requests
+        run: pip install groq requests
 
       - name: Run GHI Engine
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           DEDICATED_KEY: ${{ secrets.DEDICATED_KEY }}
-          MASSIVE_ENDPOINT: ${{ secrets.MASSIVE_ENDPOINT }}
         run: python main.py
 
-      - name: Commit and Push Results
+      - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "GHI: World Diagnostic Updated"
+          commit_message: "GHI: World Diagnostic Live Update"
           file_pattern: 'shi_data.json'
