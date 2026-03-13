@@ -1,22 +1,21 @@
-name: GHI Global Diagnostic Sync
+name: GHI Engine Sync
+
 on:
   schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+    - cron: '*/5 * * * *' # Runs every 5 minutes
+  workflow_dispatch: # Allows you to run it manually for testing
 
 jobs:
-  audit-job:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.9'
 
       - name: Install Dependencies
         run: pip install groq
@@ -27,7 +26,9 @@ jobs:
         run: python main.py
 
       - name: Commit and Push Results
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "GHI: Model Migration to Llama 3.3"
-          file_pattern: 'shi_data.json'
+        run: |
+          git config --global user.name "GHI-Bot"
+          git config --global user.email "ghi-bot@celsius.tech"
+          git add shi_data.json
+          git commit -m "System Sync: $(date)" || exit 0
+          git push
