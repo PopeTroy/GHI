@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 3.21737,
     "health_percent": 74.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:13",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barrier"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Initiative"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, EXPERTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTION IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-03-13 16:51:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY CONCERNS RISE AS TRADE TENSIONS ESCALATE. OIL PRICES SURGE AMIDST MIDDLE EAST UNREST. EU LEADERS CONVENE FOR EMERGENCY ECONOMIC SUMMIT.",
+    "last_updated": "2026-03-13 16:56:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
