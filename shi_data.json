@@ -1,17 +1,17 @@
 {
-    "shi": 1.62756,
-    "health_percent": 43.12,
+    "shi": 1.49332,
+    "health_percent": 42.15,
     "collapse_type": "INFRASTRUCTURAL",
     "location": "NEW YORK CITY, USA",
     "collapse_time": "48 HOURS",
-    "deficiency": "Power Grid Overload due to insufficient maintenance",
-    "scroller_feed": "\ud83d\udccd IMPACT ZONE: NEW YORK CITY, USA | MODE: INFRASTRUCTURAL | BREAKING: Widespread power outages reported in NYC, authorities scramble to respond",
-    "last_updated": "2026-03-13 14:06:28",
+    "deficiency": "Grid failure due to aging infrastructure and peak demand",
+    "scroller_feed": "\ud83d\udccd IMPACT ZONE: NEW YORK CITY, USA | MODE: INFRASTRUCTURAL | BREAKING: Widespread power outages reported in NYC; citizens advised to stay indoors.",
+    "last_updated": "2026-03-13 15:02:58",
     "formula_metrics": {
-        "N": 0.85,
-        "P": 0.92,
-        "F": 0.78,
-        "T": 0.65,
+        "N": 0.75,
+        "P": 0.82,
+        "F": 0.65,
+        "T": 0.91,
         "B": 0.42,
         "C": 0.58
     }
