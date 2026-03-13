@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 67.42,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Energy Costs"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier deviations"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint congestions"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt servicing costs"
+            "deviation": "Debt Bubble"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation and R&D investments"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy policies"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory reforms"
+            "protocol": "Anti-Corruption Reform"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Energy Policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY PRICE VOLATILITY.",
-    "last_updated": "2026-03-13 15:52:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, OIL PRICES SOAR, AND TRADE TENSIONS ESCALATE",
+    "last_updated": "2026-03-13 16:06:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
