@@ -29,5 +29,5 @@ jobs:
       - name: Commit and Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "GHI: Equation Metrics Reset (No Scaling)"
+          commit_message: "GHI: Equation Metrics Scaled x100"
           file_pattern: 'shi_data.json'
