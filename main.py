@@ -4,32 +4,41 @@ import requests
 from datetime import datetime
 from groq import Groq
 
-def get_market_tension(api_key):
-    # Checking Gold (XAU) as a primary friction indicator
+def get_vantage_data(api_key):
+    # Using Gold (GLD) as a proxy for world economic tension
     url = f"https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=GLD&apikey={api_key}"
     try:
         r = requests.get(url).json()
-        price_change = float(r["Global Quote"]["09. change"])
-        return abs(price_change) # Higher volatility = Higher tension
+        if "Global Quote" in r:
+            return r["Global Quote"]
+        return None
     except:
-        return 0.5 # Default tension constant
+        return None
 
 def run_ghi_diagnostic():
-    # Load Secrets from GitHub
     groq_key = os.getenv('GROQ_API_KEY')
-    dedicated_key = os.getenv('DEDICATED_KEY') # Add your stock key to GitHub Secrets!
+    vantage_key = os.getenv('DEDICATED_KEY')
     
     client = Groq(api_key=groq_key)
-    tension_index = get_market_tension(dedicated_key)
-
-    # The Diagnostic Prompt for Groq
+    market_data = get_vantage_data(vantage_key)
+    
+    # YOUR LOGIC: Diagnose world frictions, bottlenecks, and protocols to find the SHI
     prompt = f"""
-    Analyze the current global state: Tension Index is {tension_index}.
-    Identify a specific World Friction (Trade, Conflict, or Energy).
-    Identify a Bottleneck (Missing Protocol or Obstruction).
-    Calculate the SHI (Stability Health Index) between 0.0000 and 1.0000.
+    AUDIT MISSION: Diagnose the world's current economic frictions, bottlenecks, and filters.
+    INPUT DATA: Current Gold Market Data: {json.dumps(market_data)}
+    
+    1. Identify the primary World Economic Tension.
+    2. Identify the Bottlenecks (missing protocols or obstructions).
+    3. Identify the Protocols in place to resolve these.
+    4. Calculate the SHI (Stability Health Index) based on how much tension is unresolved by protocols.
+    
     Return ONLY a JSON object: 
-    {{"shi": float, "friction": "string", "bottleneck": "string", "protocol": "string"}}
+    {{
+        "shi": float, 
+        "friction": "string", 
+        "bottleneck": "string", 
+        "protocol": "string"
+    }}
     """
 
     completion = client.chat.completions.create(
@@ -40,8 +49,7 @@ def run_ghi_diagnostic():
     
     res = json.loads(completion.choices[0].message.content)
 
-    # Compile the 144K Bridge Data
-    final_data = {
+    output = {
         "shi": res['shi'],
         "active_problem": res['friction'],
         "bottleneck": res['bottleneck'],
@@ -50,7 +58,7 @@ def run_ghi_diagnostic():
     }
 
     with open("shi_data.json", "w") as f:
-        json.dump(final_data, f, indent=4)
+        json.dump(output, f, indent=4)
 
 if __name__ == "__main__":
     run_ghi_diagnostic()
