@@ -1,21 +1,21 @@
 {
-    "shi": 1.28786,
-    "health_percent": 73.42,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.05203,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and high inflation"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "London, UK",
-            "deviation": "Over-reliance on imports and weak policy reforms"
+            "deviation": "Inefficient policy reforms and regulations"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and low debt"
+            "protocol": "Economic diversification and stable governance"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green policies"
+            "loc": "Vancouver, Canada",
+            "protocol": "Social welfare and education programs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY SHORTAGES. SINGAPORE AND DENMARK EMERGE AS BEACONS OF STABILITY AND GROWTH.",
-    "last_updated": "2026-03-13 17:34:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY ON THE RISE GLOBALLY, WITH 3 MAJOR CITIES AT HIGH RISK OF COLLAPSE. EXPERTS URGE GOVERNMENTS TO IMPLEMENT POLICY REFORMS AND DIVERSIFY ECONOMIES.",
+    "last_updated": "2026-03-13 18:03:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 1.35,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
