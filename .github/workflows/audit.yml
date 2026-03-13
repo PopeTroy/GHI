@@ -1,8 +1,8 @@
 name: GHI Global Diagnostic Sync
 on:
   schedule:
-    - cron: '*/15 * * * *' # Optimized for Vantage free-tier limits
-  workflow_dispatch:
+    - cron: '*/15 * * * *' # Every 15 mins to stay under Alpha Vantage limits
+  workflow_dispatch: # Allows you to click "Run workflow" manually
 
 jobs:
   audit-job:
@@ -27,7 +27,7 @@ jobs:
           DEDICATED_KEY: ${{ secrets.DEDICATED_KEY }}
         run: python main.py
 
-      - name: Commit and Push
+      - name: Commit and Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "GHI: World Diagnostic Live Update"
