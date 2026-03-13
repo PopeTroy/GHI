@@ -1,17 +1,18 @@
 {
-    "shi": 0.82286,
-    "health_percent": 42.86,
-    "collapse_type": "INFRASTRUCTURAL",
-    "collapse_time": "72 HOURS",
-    "deficiency": "Energy grid failure predicted due to inadequate maintenance",
-    "scroller_feed": "\u26a0\ufe0f COLLAPSE MODE: INFRASTRUCTURAL | WINDOW: 72 HOURS | BREAKING: Reports of widespread power outages across major cities, authorities urge calm",
-    "last_updated": "2026-03-13 13:15:44",
+    "shi": 1.62756,
+    "health_percent": 61.23,
+    "collapse_type": "RIOT",
+    "location": "Caracas, Venezuela",
+    "collapse_time": "48 HOURS",
+    "deficiency": "Food supply chain disruptions",
+    "scroller_feed": "\ud83d\udccd IMPACT ZONE: Caracas, Venezuela | MODE: RIOT | RISK: Food supply chain disruptions | Venezuelan economy on brink of collapse, potential for widespread civil unrest",
+    "last_updated": "2026-03-13 13:21:52",
     "formula_metrics": {
-        "N": 0.8,
-        "P": 0.6,
-        "F": 0.4,
-        "T": 0.9,
-        "B": 0.7,
-        "C": 0.3
+        "N": 0.85,
+        "P": 0.92,
+        "F": 0.78,
+        "T": 0.65,
+        "B": 0.42,
+        "C": 0.58
     }
 }
