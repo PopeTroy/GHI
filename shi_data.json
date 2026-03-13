@@ -1,18 +1,18 @@
 {
-    "shi": 0.9996,
-    "health_percent": 63.21,
-    "collapse_type": "RIOT",
-    "location": "NEW YORK CITY, UNITED STATES",
+    "shi": 1.62756,
+    "health_percent": 43.12,
+    "collapse_type": "INFRASTRUCTURAL",
+    "location": "NEW YORK CITY, USA",
     "collapse_time": "48 HOURS",
-    "deficiency": "Overwhelming law enforcement resource depletion",
-    "scroller_feed": "\ud83d\udccd IMPACT ZONE: NEW YORK CITY, UNITED STATES | MODE: RIOT | BREAKING: NYC Police Department Reports 300% Increase in Emergency Calls; Local Businesses Boarding Up in Anticipation of Violent Protests",
-    "last_updated": "2026-03-13 13:47:45",
+    "deficiency": "Power Grid Overload due to insufficient maintenance",
+    "scroller_feed": "\ud83d\udccd IMPACT ZONE: NEW YORK CITY, USA | MODE: INFRASTRUCTURAL | BREAKING: Widespread power outages reported in NYC, authorities scramble to respond",
+    "last_updated": "2026-03-13 14:06:28",
     "formula_metrics": {
         "N": 0.85,
-        "P": 0.42,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.39
+        "P": 0.92,
+        "F": 0.78,
+        "T": 0.65,
+        "B": 0.42,
+        "C": 0.58
     }
 }
