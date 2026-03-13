@@ -1,8 +1,8 @@
 name: GHI Global Diagnostic Sync
 on:
   schedule:
-    - cron: '*/15 * * * *' # Runs every 15 mins to stay safe with API limits
-  workflow_dispatch: # Allows you to trigger it manually for testing
+    - cron: '*/10 * * * *' 
+  workflow_dispatch:
 
 jobs:
   audit-job:
@@ -19,19 +19,15 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install groq requests
+        run: pip install groq
 
       - name: Run GHI Engine
-        # These env variables map your GitHub Secrets to the Python script
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          DEDICATED_KEY: ${{ secrets.DEDICATED_KEY }}
         run: python main.py
 
       - name: Commit and Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "GHI: World Diagnostic Live Update"
+          commit_message: "GHI: Dimensional Overwrite Applied"
           file_pattern: 'shi_data.json'
