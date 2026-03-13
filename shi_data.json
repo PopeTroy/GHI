@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 73.42,
+    "shi": 1.11344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:32",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Trade war with neighboring countries"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and inflation"
+            "deviation": "Over-reliance on oil exports"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial instability and regulatory issues"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "High inflation rate"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative policies and low corruption"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable economy"
+            "protocol": "Innovative tax reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable practices and high-tech infrastructure"
+            "protocol": "Green energy initiatives"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified trade policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TALKS BETWEEN MAJOR ECONOMIES UNDERWAY, AND RENEWABLE ENERGY INVESTMENTS ON THE RISE.",
-    "last_updated": "2026-03-13 21:50:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. EXPERTS PREDICT A POTENTIAL ECONOMIC DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-03-13 22:16:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
