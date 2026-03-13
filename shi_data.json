@@ -1,45 +1,45 @@
 {
-    "shi": 1.18104,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:23:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruptions"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Excessive national debt"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption laws"
+            "loc": "London, UK",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Thriving startup ecosystem"
+            "loc": "Berlin, Germany",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-13 19:35:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS ESCALATING, ENERGY CRISIS IMMINENT",
+    "last_updated": "2026-03-13 19:59:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.11,
+        "B": 1.21,
         "C": 0.67
     }
 }
