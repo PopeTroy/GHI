@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 62.15,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High trade tariffs"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply disruptions"
         },
         {
             "loc": "London, UK",
-            "deviation": "Inefficient policy reforms and regulations"
+            "deviation": "Rising debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Economic diversification and stable governance"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative Fintech policies"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Social welfare and education programs"
+            "protocol": "Strong anti-corruption measures"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Effective policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY ON THE RISE GLOBALLY, WITH 3 MAJOR CITIES AT HIGH RISK OF COLLAPSE. EXPERTS URGE GOVERNMENTS TO IMPLEMENT POLICY REFORMS AND DIVERSIFY ECONOMIES.",
-    "last_updated": "2026-03-13 18:03:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH TRADE TENSIONS RISING AND ENERGY PRICES FLUCTUATING. CITIES WITH HIGH SHI NODES ARE IMPLEMENTING INNOVATIVE PROTOCOLS TO MITIGATE RISKS.",
+    "last_updated": "2026-03-13 18:58:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
