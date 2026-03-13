@@ -1,14 +1,17 @@
 {
-    "shi": 2.52,
-    "scroller_feed": "\ud83d\udd34 BOTTLENECKS: Global supply chains face unprecedented disruptions due to rising tensions and logistical failures. Economic instability and environmental degradation pose significant threats to international trade and development. \ud83d\udfe2 PROTOCOLS: GHI introduces the 'Green Solutions' framework, comprising three core protocols: (1) 'Smart Logistics' to optimize supply chain efficiency, (2) 'Eco-Friendly Infrastructure' to reduce environmental impact, and (3) 'Digital Diplomacy' to facilitate international cooperation and conflict resolution.",
-    "status": "MEGA_CIRCUIT_ACTIVE",
-    "last_updated": "2026-03-13 13:04:36",
+    "shi": 0.82286,
+    "health_percent": 42.86,
+    "collapse_type": "INFRASTRUCTURAL",
+    "collapse_time": "72 HOURS",
+    "deficiency": "Energy grid failure predicted due to inadequate maintenance",
+    "scroller_feed": "\u26a0\ufe0f COLLAPSE MODE: INFRASTRUCTURAL | WINDOW: 72 HOURS | BREAKING: Reports of widespread power outages across major cities, authorities urge calm",
+    "last_updated": "2026-03-13 13:15:44",
     "formula_metrics": {
         "N": 0.8,
-        "P": 0.7,
-        "F": 0.9,
-        "T": 0.6,
-        "B": 0.4,
+        "P": 0.6,
+        "F": 0.4,
+        "T": 0.9,
+        "B": 0.7,
         "C": 0.3
     }
 }
