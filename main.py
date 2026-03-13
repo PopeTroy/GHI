@@ -9,24 +9,25 @@ def run_ghi_metric_engine():
 
     client = Groq(api_key=groq_key)
 
-    # UPDATED MISSION: Identify specific Global Bottlenecks vs Protocols
     prompt = """
-    SYSTEM: GHI Global Diagnostic Intelligence.
-    MISSION: Identify the 3 biggest global Bottlenecks (Red Tensions) and 3 corresponding Protocols (Green Solutions).
+    SYSTEM: GHI Quantifiable Equation Engine.
+    MISSION: Calculate SHI and categorize the specific mode of systemic collapse.
     
     EQUATION: (N * P * F * T) / (B * C)
     
-    OUTPUT REQUIREMENTS:
-    - Summarize the Bottlenecks as high-impact news-style alerts.
-    - Summarize the Protocols as GHI-driven resolution strategies.
+    COLLAPSE CATEGORIES:
+    - INFRASTRUCTURAL: Grid failure, supply chain snap, digital blackout.
+    - PROTEST/RIOT: Civil unrest, systemic public distrust, domestic friction.
+    - WAR: Kinetic conflict, border violations, geopolitical escalation.
     
-    Return ONLY JSON:
+    REQUIRED OUTPUT JSON:
     {
         "metrics": {"N": float, "P": float, "F": float, "T": float, "B": float, "C": float},
-        "friction_report": "TEXT FOR SCROLLER",
-        "protocol_report": "TEXT FOR SCROLLER",
-        "bottleneck": "string",
-        "protocol": "string"
+        "health_percent": float,
+        "collapse_type": "INFRASTRUCTURAL | PROTEST | RIOT | WAR",
+        "collapse_time": "string",
+        "deficiency_alert": "string",
+        "scroller_feed": "string"
     }
     """
 
@@ -38,26 +39,26 @@ def run_ghi_metric_engine():
         )
         
         raw = json.loads(completion.choices[0].message.content)
-        m = raw.get('metrics', {})
-
-        # RAW CALCULATION
-        N, P, F, T = float(m.get('N', 1)), float(m.get('P', 1)), float(m.get('F', 1)), float(m.get('T', 1))
-        B, C = float(m.get('B', 1)), float(m.get('C', 1))
-        denominator = (B * C) if (B * C) != 0 else 0.00001
-        calculated_shi = (N * P * F * T) / denominator
+        m = raw['metrics']
+        
+        # Raw SHI Ratio
+        num = m['N'] * m['P'] * m['F'] * m['T']
+        den = m['B'] * m['C']
+        shi = num / (den if den != 0 else 0.00001)
 
         output = {
-            "shi": round(calculated_shi, 5),
-            "scroller_feed": f"🔴 BOTTLENECKS: {raw['friction_report']} 🟢 PROTOCOLS: {raw['protocol_report']}",
-            "status": "MEGA_CIRCUIT_ACTIVE",
+            "shi": round(shi, 5),
+            "health_percent": raw['health_percent'],
+            "collapse_type": raw['collapse_type'],
+            "collapse_time": raw['collapse_time'],
+            "deficiency": raw['deficiency_alert'],
+            "scroller_feed": f"⚠️ COLLAPSE TYPE: {raw['collapse_type']} | WINDOW: {raw['collapse_time']} | {raw['scroller_feed']}",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "formula_metrics": {"N": N, "P": P, "F": F, "T": T, "B": B, "C": C}
+            "formula_metrics": m
         }
 
         with open("shi_data.json", "w") as f:
             json.dump(output, f, indent=4)
-        print(f"GHI Intelligence Sync: Success.")
-
     except Exception as e:
         print(f"Logic Error: {e}")
         exit(1)
