@@ -4,48 +4,35 @@ from datetime import datetime
 from groq import Groq
 
 def run_ghi_metric_engine():
-    # Authentication: Ensure GROQ_API_KEY is set in your GitHub Repository Secrets
     groq_key = os.getenv('GROQ_API_KEY')
     if not groq_key:
-        print("CRITICAL ERROR: GROQ_API_KEY environment variable is missing.")
+        print("CRITICAL ERROR: GROQ_API_KEY missing.")
         return
 
     client = Groq(api_key=groq_key)
 
-    # System prompt forces specific collapse categories and geographic pinpointing
     prompt = """
     SYSTEM: GHI Quantifiable Equation Engine.
-    MISSION: Calculate SHI and identify the GEOGRAPHIC LOCATION of systemic collapse.
+    MISSION: Calculate Global SHI and identify the TOP 3 GEOGRAPHIC NODES of systemic collapse.
     
     EQUATION: (N * P * F * T) / (B * C)
     
-    COLLAPSE MODES: 
-    - INFRASTRUCTURAL: Grid failure, supply chain collapse, digital blackout.
-    - PROTEST: Mass civil unrest, systemic public distrust.
-    - RIOT: Violent domestic friction, localized chaos.
-    - WAR: Kinetic conflict, geopolitical escalation, border violations.
-    
     REQUIRED OUTPUT JSON:
     {
-        "metrics": {
-            "N": float, 
-            "P": float, 
-            "F": float, 
-            "T": float, 
-            "B": float, 
-            "C": float
-        },
+        "metrics": {"N": float, "P": float, "F": float, "T": float, "B": float, "C": float},
         "health_percent": float,
-        "collapse_type": "INFRASTRUCTURAL | PROTEST | RIOT | WAR",
-        "collapse_location": "CITY, COUNTRY (pinpoint the highest risk node)",
-        "collapse_time": "string (e.g., 72 HOURS)",
-        "deficiency_alert": "string (The core failure point)",
-        "scroller_feed": "string (High-impact news bullet style)"
+        "primary_location": "CITY, COUNTRY (Highest Risk)",
+        "risk_nodes": [
+            {"loc": "CITY, COUNTRY", "mode": "WAR/RIOT/PROTEST/INFRA", "risk": "LOW/MED/HIGH"},
+            {"loc": "CITY, COUNTRY", "mode": "WAR/RIOT/PROTEST/INFRA", "risk": "LOW/MED/HIGH"},
+            {"loc": "CITY, COUNTRY", "mode": "WAR/RIOT/PROTEST/INFRA", "risk": "LOW/MED/HIGH"}
+        ],
+        "collapse_time": "string",
+        "scroller_feed": "string"
     }
     """
 
     try:
-        # Generate Diagnostic Data using Llama 3.3 70B
         completion = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
@@ -55,34 +42,30 @@ def run_ghi_metric_engine():
         raw = json.loads(completion.choices[0].message.content)
         m = raw['metrics']
         
-        # Calculate the Raw SHI Ratio (Bridge Logic)
-        # Ratio of Protocols (N*P*F*T) over Friction/Bottlenecks (B*C)
-        numerator = m['N'] * m['P'] * m['F'] * m['T']
-        denominator = m['B'] * m['C']
-        shi_ratio = numerator / (denominator if denominator != 0 else 0.00001)
+        # Calculate Ratio
+        shi = (m['N'] * m['P'] * m['F'] * m['T']) / (m['B'] * m['C'] if m['B'] * m['C'] != 0 else 0.00001)
 
-        # Structure final payload for the 1366px HTML Terminal
-        output_data = {
-            "shi": round(shi_ratio, 5),
+        # Build the dynamic scroller feed using the 3 risk nodes
+        node_summary = " | ".join([f"⚠️ {n['loc']} ({n['mode']})" for n in raw['risk_nodes']])
+
+        output = {
+            "shi": round(shi, 5),
             "health_percent": raw['health_percent'],
-            "collapse_type": raw['collapse_type'].upper(),
-            "location": raw['collapse_location'].upper(),
+            "location": raw['primary_location'].upper(),
             "collapse_time": raw['collapse_time'].upper(),
-            "deficiency": raw['deficiency_alert'],
-            "scroller_feed": f"📍 IMPACT ZONE: {raw['collapse_location'].upper()} | MODE: {raw['collapse_type'].upper()} | {raw['scroller_feed']}",
+            "risk_nodes": raw['risk_nodes'],
+            "scroller_feed": f"GLOBAL DIAGNOSTIC: {node_summary} | {raw['scroller_feed'].upper()}",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "formula_metrics": m
         }
 
-        # Save to shi_data.json (hosted via GitHub Pages)
         with open("shi_data.json", "w") as f:
-            json.dump(output_data, f, indent=4)
+            json.dump(output, f, indent=4)
         
-        print(f"Engine Sync Success: {output_data['location']} | SHI: {output_data['shi']}")
+        print(f"Engine Sync Success: {len(output['risk_nodes'])} Risk Nodes identified.")
 
     except Exception as e:
-        print(f"Logic Engine Execution Failure: {e}")
-        # Exit with error code to notify GitHub Actions if it fails
+        print(f"Logic Error: {e}")
         exit(1)
 
 if __name__ == "__main__":
