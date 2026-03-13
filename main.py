@@ -11,12 +11,12 @@ def run_ghi_metric_engine():
 
     client = Groq(api_key=groq_key)
 
-    # QUANTIFIABLE EQUATION METRICS
+    # MANDATORY EQUATION: (N * P * F * T) / (B * C)
     prompt = """
     SYSTEM: GHI Quantifiable Equation Engine.
     MISSION: Calculate SHI using the formula: (N * P * F * T) / (B * C).
     
-    VARIABLES:
+    REQUIRED VARIABLES (Return as numbers):
     N = Nodes (Structural Integrity)
     P = Protocols (Procedural Efficiency)
     F = Filters (Sensory Control)
@@ -24,7 +24,7 @@ def run_ghi_metric_engine():
     B = Bottlenecks (Friction)
     C = Corruption (Threats)
 
-    SCAN: Analyze the current world state for today's diagnostic anchor.
+    Analyze the current world state to determine these variables.
     
     Return ONLY JSON:
     {
@@ -43,23 +43,30 @@ def run_ghi_metric_engine():
         )
         
         raw = json.loads(completion.choices[0].message.content)
-        m = raw['metrics']
+        m = raw.get('metrics', {})
 
-        # FORMULA CALCULATION WITH X100 SCALING
-        numerator = m['N'] * m['P'] * m['F'] * m['T']
-        denominator = m['B'] * m['C']
+        # EXTRACT AND VALIDATE (Ensures no Code 1 crashes)
+        N = float(m.get('N', 1))
+        P = float(m.get('P', 1))
+        F = float(m.get('F', 1))
+        T = float(m.get('T', 1))
+        B = float(m.get('B', 1))
+        C = float(m.get('C', 1))
+
+        # CALCULATION (x100 SCALE)
+        denominator = B * C
+        if denominator == 0: denominator = 0.00001 # Prevent crash
         
-        # Calculate SHI and scale to 100
-        calculated_shi = (numerator / denominator) * 100
+        calculated_shi = ((N * P * F * T) / denominator) * 100
 
         output = {
             "shi": round(calculated_shi, 5),
-            "active_problem": raw['friction'],
-            "bottleneck": raw['bottleneck'],
-            "protocol": raw['protocol'],
+            "active_problem": raw.get('friction', 'Scanning...'),
+            "bottleneck": raw.get('bottleneck', 'Analyzing...'),
+            "protocol": raw.get('protocol', 'Deploying...'),
             "status": "DIMENSIONAL_OVERRIDE_ACTIVE" if calculated_shi < 50.0 else "MEGA_CIRCUIT_ACTIVE",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "formula_metrics": m
+            "formula_metrics": {"N": N, "P": P, "F": F, "T": T, "B": B, "C": C}
         }
 
         with open("shi_data.json", "w") as f:
