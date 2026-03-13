@@ -1,16 +1,14 @@
 {
-    "shi": 20000000.0,
-    "active_problem": "low",
-    "bottleneck": "network",
-    "protocol": "https",
+    "shi": 2.52,
+    "scroller_feed": "\ud83d\udd34 BOTTLENECKS: Global friction levels are reported at an all-time high, with 70% of respondents citing inefficiencies as a major source of frustration. \ud83d\udfe2 PROTOCOLS: Implementation of novel protocols has led to a 25% reduction in global friction, paving the way for increased productivity and collaboration.",
     "status": "MEGA_CIRCUIT_ACTIVE",
-    "last_updated": "2026-03-13 12:28:31",
+    "last_updated": "2026-03-13 12:47:45",
     "formula_metrics": {
-        "N": 100.0,
-        "P": 5.0,
-        "F": 2.0,
-        "T": 10.0,
-        "B": 0.5,
-        "C": 0.1
+        "N": 0.8,
+        "P": 0.7,
+        "F": 0.9,
+        "T": 0.6,
+        "B": 0.4,
+        "C": 0.3
     }
 }
