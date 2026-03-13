@@ -1,18 +1,18 @@
 {
-    "shi": 1.62756,
-    "health_percent": 61.23,
+    "shi": 0.9996,
+    "health_percent": 63.21,
     "collapse_type": "RIOT",
-    "location": "Caracas, Venezuela",
+    "location": "NEW YORK CITY, UNITED STATES",
     "collapse_time": "48 HOURS",
-    "deficiency": "Food supply chain disruptions",
-    "scroller_feed": "\ud83d\udccd IMPACT ZONE: Caracas, Venezuela | MODE: RIOT | RISK: Food supply chain disruptions | Venezuelan economy on brink of collapse, potential for widespread civil unrest",
-    "last_updated": "2026-03-13 13:21:52",
+    "deficiency": "Overwhelming law enforcement resource depletion",
+    "scroller_feed": "\ud83d\udccd IMPACT ZONE: NEW YORK CITY, UNITED STATES | MODE: RIOT | BREAKING: NYC Police Department Reports 300% Increase in Emergency Calls; Local Businesses Boarding Up in Anticipation of Violent Protests",
+    "last_updated": "2026-03-13 13:47:45",
     "formula_metrics": {
         "N": 0.85,
-        "P": 0.92,
-        "F": 0.78,
-        "T": 0.65,
-        "B": 0.42,
-        "C": 0.58
+        "P": 0.42,
+        "F": 0.91,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.39
     }
 }
