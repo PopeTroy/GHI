@@ -1,45 +1,45 @@
 {
-    "shi": 1.5459,
+    "shi": 2.32246,
     "health_percent": 67.32,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt ratio"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "Fiscal mismanagement and inflationary pressures"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Robust anti-corruption policies and innovation hubs"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Strong policy reforms and sustainable practices"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Diversified economy and high-quality education system"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-03-13 20:44:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO MITIGATE RISKS.",
+    "last_updated": "2026-03-13 21:18:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.13,
-        "C": 0.78
+        "F": 0.92,
+        "T": 1.11,
+        "B": 0.78,
+        "C": 0.69
     }
 }
