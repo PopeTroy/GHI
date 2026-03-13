@@ -1,16 +1,16 @@
-name: GHI Reset Sync
+name: GHI Global Diagnostic Sync
 on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
 jobs:
-  reset-job:
+  audit-job:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -18,16 +18,16 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install
+      - name: Install Dependencies
         run: pip install groq
 
-      - name: Run
+      - name: Run GHI Engine
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python main.py
 
-      - name: Push
+      - name: Commit and Push Results
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "GHI: Mega Circuit Reset"
+          commit_message: "GHI: Equation Metrics Reset (No Scaling)"
           file_pattern: 'shi_data.json'
