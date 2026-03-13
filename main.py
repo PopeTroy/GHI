@@ -24,7 +24,7 @@ def run_ghi_metric_engine():
     B = Bottlenecks (Friction)
     C = Corruption (Threats)
 
-    SCAN: Analyze the current world economic/geopolitical state for today's data anchor.
+    SCAN: Analyze the current world state for today's diagnostic anchor.
     
     Return ONLY JSON:
     {
@@ -45,26 +45,26 @@ def run_ghi_metric_engine():
         raw = json.loads(completion.choices[0].message.content)
         m = raw['metrics']
 
-        # RAW FORMULA CALCULATION (No Scaling)
+        # FORMULA CALCULATION WITH X100 SCALING
         numerator = m['N'] * m['P'] * m['F'] * m['T']
         denominator = m['B'] * m['C']
         
-        # Calculate raw SHI as a decimal ratio
-        calculated_shi = (numerator / denominator)
+        # Calculate SHI and scale to 100
+        calculated_shi = (numerator / denominator) * 100
 
         output = {
             "shi": round(calculated_shi, 5),
             "active_problem": raw['friction'],
             "bottleneck": raw['bottleneck'],
             "protocol": raw['protocol'],
-            "status": "DIMENSIONAL_OVERRIDE_ACTIVE" if calculated_shi < 0.5 else "MEGA_CIRCUIT_ACTIVE",
+            "status": "DIMENSIONAL_OVERRIDE_ACTIVE" if calculated_shi < 50.0 else "MEGA_CIRCUIT_ACTIVE",
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "formula_metrics": m
         }
 
         with open("shi_data.json", "w") as f:
             json.dump(output, f, indent=4)
-        print(f"GHI Engine: Raw SHI locked at {output['shi']}")
+        print(f"GHI Engine: SHI Scaled at {output['shi']}")
 
     except Exception as e:
         print(f"Logic Error: {e}")
