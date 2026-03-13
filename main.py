@@ -1,65 +1,64 @@
 import os
 import json
-import requests
 from datetime import datetime
 from groq import Groq
 
-def get_vantage_data(api_key):
-    # Using Gold (GLD) as the world tension proxy
-    url = f"https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=GLD&apikey={api_key}"
-    try:
-        r = requests.get(url, timeout=10).json()
-        if "Global Quote" in r and r["Global Quote"]:
-            return r["Global Quote"]
-        elif "Note" in r:
-            print("Vantage API Alert: Rate limit reached.")
-        return {"Note": "Market data unavailable - Using baseline tension"}
-    except Exception as e:
-        print(f"Connection Error: {e}")
-        return None
-
-def run_ghi_diagnostic():
-    # Load Secrets
+def run_prophetic_diagnostic():
+    # Only 1 Secret Required: GROQ_API_KEY
     groq_key = os.getenv('GROQ_API_KEY')
-    vantage_key = os.getenv('DEDICATED_KEY')
     
-    if not groq_key or not vantage_key:
-        print("CRITICAL ERROR: GROQ_API_KEY or DEDICATED_KEY not found in GitHub Secrets.")
-        exit(1) # This tells GitHub the run failed if secrets are missing
+    if not groq_key:
+        print("CRITICAL: GROQ_API_KEY missing in GitHub Secrets.")
+        exit(1)
 
-    market_data = get_vantage_data(vantage_key)
+    # Prophetic Constants
+    BRIDGE_STRENGTH = 144000
+    MEGA_CIRCUIT_LAW = "Law of Dimensional Overwrite"
+
     client = Groq(api_key=groq_key)
     
-    # YOUR LOGIC: World tension vs Protocols
+    # THE PURE PROPHETIC PROMPT
+    # No market data needed; Groq scans the current world state internally.
     prompt = f"""
-    AUDIT MISSION: Diagnose world economic frictions and bottlenecks.
-    INPUT: {json.dumps(market_data)}
-    1. Identify the primary World Economic Tension.
-    2. Identify the Bottlenecks (missing protocols).
-    3. Identify the Protocols in place for resolution.
-    4. Calculate the SHI (Stability Health Index) 0.0000 - 1.0000.
-    Return ONLY JSON: {{"shi": float, "friction": "str", "bottleneck": "str", "protocol": "str"}}
+    SYSTEM: GHI Global Diagnostic Engine.
+    PROTOCOL: Unified Grand Prophetic Equation.
+    STABILIZER: {BRIDGE_STRENGTH} (The 144K Bridge).
+    LAW: {MEGA_CIRCUIT_LAW}.
+
+    MISSION:
+    1. Scan current global geopolitical and economic frictions.
+    2. Identify the primary Bottleneck preventing resolution.
+    3. Apply the Law of Dimensional Overwrite to determine the SHI (Stability Health Index).
+    4. Calculate SHI (0.0000 - 1.0000) based on the current resistance vs the 144K Bridge strength.
+
+    Return ONLY JSON:
+    {{
+        "shi": float,
+        "friction": "string",
+        "bottleneck": "string",
+        "protocol": "string"
+    }}
     """
 
-    completion = client.chat.completions.create(
-        model="llama3-7b-8192",
-        messages=[{"role": "user", "content": prompt}],
-        response_format={"type": "json_object"}
-    )
-    
-    res = json.loads(completion.choices[0].message.content)
+    try:
+        completion = client.chat.completions.create(
+            model="llama3-70b-8192",
+            messages=[{"role": "user", "content": prompt}],
+            response_format={"type": "json_object"}
+        )
+        
+        res = json.loads(completion.choices[0].message.content)
 
-    output = {
-        "shi": res['shi'],
-        "active_problem": res['friction'],
-        "bottleneck": res['bottleneck'],
-        "protocol": res['protocol'],
-        "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
+        # Inject Sync Timestamp
+        res["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    with open("shi_data.json", "w") as f:
-        json.dump(output, f, indent=4)
-    print("GHI Sync Successful.")
+        with open("shi_data.json", "w") as f:
+            json.dump(res, f, indent=4)
+        print("GHI Engine: Prophetic Sync Successful.")
+
+    except Exception as e:
+        print(f"Diagnostic Failure: {e}")
+        exit(1)
 
 if __name__ == "__main__":
-    run_ghi_diagnostic()
+    run_prophetic_diagnostic()
