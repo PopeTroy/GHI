@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.21,
+    "shi": 2.44317,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers due to high tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Vancouver, Canada",
+            "deviation": "High debt levels affecting local economy"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inefficient infrastructure and bureaucracy"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy shortages causing disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Effective policy reforms for economic growth"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparency"
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Stockholm, Sweden",
+            "protocol": "High levels of innovation driving economic stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATIVE CITIES LIKE SINGAPORE AND ZURICH LEAD IN ECONOMIC STABILITY",
-    "last_updated": "2026-03-14 06:07:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TENSIONS RISING, TRADE NEGOTIATIONS STALLED, AND ENERGY DEMAND INCREASING.",
+    "last_updated": "2026-03-14 07:04:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "T": 1.1,
+        "B": 0.78,
+        "C": 0.65
     }
 }
