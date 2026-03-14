@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 67.32,
+    "shi": 1.44431,
+    "health_percent": 73.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy shortages and infrastructure inefficiencies"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and regulatory hurdles"
         },
         {
             "loc": "London, UK",
-            "deviation": "Regulatory hurdles and bureaucratic delays"
+            "deviation": "Financial instability and Brexit uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Efficient anti-corruption and policy reform measures"
+            "protocol": "Business-friendly policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and R&D investments"
+            "protocol": "Strong anti-corruption measures and financial stability"
         },
         {
-            "loc": "Helsinki, Finland",
-            "protocol": "Effective public-private partnerships and collaborative governance"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub with high investment in technology and R&D"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND LONDON ARE PARTICULARLY VULNERABLE TO SUPPLY CHAIN DISRUPTIONS AND COLLAPSE. MEANWHILE, CITIES LIKE SINGAPORE, ZURICH, AND HELSINKI ARE LEVERAGING INNOVATIVE PROTOCOLS TO DRIVE GROWTH AND STABILITY.",
-    "last_updated": "2026-03-14 04:25:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER CLIMATE CHANGE IMPACTING ECONOMIC GROWTH",
+    "last_updated": "2026-03-14 05:30:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.65
+        "F": 1.22,
+        "T": 1.05,
+        "B": 1.18,
+        "C": 0.92
     }
 }
