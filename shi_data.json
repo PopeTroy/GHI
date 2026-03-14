@@ -1,45 +1,45 @@
 {
-    "shi": 2.13766,
-    "health_percent": 72.15,
-    "location": "NEW YORK, USA",
+    "shi": 0.82618,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy shortages"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers and congestion"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure overload and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation hub and green energy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms and social stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, TRADE NEGOTIATIONS UNDERWAY, AND A NEW TECH HUB UNVEILED IN THE CITY.",
-    "last_updated": "2026-03-14 10:49:24",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-03-14 11:12:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.75,
-        "B": 0.65,
-        "C": 0.58
+        "P": 0.87,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.98
     }
 }
