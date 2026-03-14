@@ -1,45 +1,45 @@
 {
-    "shi": 0.99407,
-    "health_percent": 73.42,
+    "shi": 3.12133,
+    "health_percent": 72.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High Debt"
+            "deviation": "Trade Restrictions"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Dependence"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt Burden"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Financial Reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, COMMODITY PRICES FLUCTUATING, AND GEOPOLITICAL TENSIONS RISING.",
-    "last_updated": "2026-03-14 19:06:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ALERT: SUPPLY CHAIN DISRUPTIONS SPREAD, ECONOMIC STABILITY AT RISK",
+    "last_updated": "2026-03-14 19:37:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.75,
-        "B": 1.21,
-        "C": 0.67
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.42
     }
 }
