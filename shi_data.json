@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 73.21,
+    "shi": 1.55692,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war with the US"
-        },
-        {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Limited energy export routes"
+            "deviation": "Trade War"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "High dependency on oil exports"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Practices"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption laws"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "High innovation and investment in tech"
+            "protocol": "Financial Stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING, OIL PRICES SURGING, AND TECH INNOVATION BOOMING IN THE US",
-    "last_updated": "2026-03-14 09:19:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, WHILE INNOVATIVE CITIES THRIVE WITH SUSTAINABLE PROTOCOLS.",
+    "last_updated": "2026-03-14 09:52:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 1.1,
+        "B": 0.78,
+        "C": 1.02
     }
 }
