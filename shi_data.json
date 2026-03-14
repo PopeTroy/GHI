@@ -1,45 +1,45 @@
 {
-    "shi": 2.89119,
-    "health_percent": 73.21,
+    "shi": 3.21737,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Price Volatility"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Currency Devaluation"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Investment Incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Sector Reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green Technology Adoption"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY SPIKES AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. INVESTORS SEEK SAFE HAVENS AS DEBT LEVELS SOAR. INNOVATION HUBS EMERGE AS BEACONS OF GROWTH AND STABILITY.",
-    "last_updated": "2026-03-14 13:36:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, EXPERTS WARN OF POTENTIAL COLLAPSE IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-03-14 14:03:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.62,
-        "C": 0.49
+        "B": 0.65,
+        "C": 0.42
     }
 }
