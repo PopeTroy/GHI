@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.25,
+    "health_percent": 67.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade tariffs"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "deviation": "Energy supply constraints"
+            "deviation": "High Tariffs on Electronics"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Soaring national debt"
+            "deviation": "Sanctions Impact on Energy Exports"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Dependence on Oil Exports"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Investment in renewable energy"
+            "protocol": "Streamlined Trade Regulations"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption laws"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Energy Initiatives"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Fostering innovation through tech hubs"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation Hub for Technology"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SIGNAL STABILITY CONCERNS. TRADE TENSIONS BETWEEN MAJOR ECONOMIES MAY ESCALATE, WHILE INNOVATION HUBS SHOW PROMISE FOR GROWTH.",
-    "last_updated": "2026-03-14 07:47:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-03-14 08:02:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
