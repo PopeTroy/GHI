@@ -1,39 +1,39 @@
 {
     "shi": 0.84052,
-    "health_percent": 62.15,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier implementation"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint congestion"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High national debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub establishment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption policy reform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy implementation"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNREST. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR ECONOMIC INDICATORS CLOSELY.",
-    "last_updated": "2026-03-14 11:38:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING DEBT AND TRADE TENSIONS. POLICY MAKERS MUST ACT SWIFTLY TO IMPLEMENT REFORMS AND MITIGATE POTENTIAL COLLAPSE.",
+    "last_updated": "2026-03-14 11:56:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
