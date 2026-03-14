@@ -1,45 +1,45 @@
 {
-    "shi": 1.0043,
-    "health_percent": 74.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "72:14:05",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade War Escalation"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyper-Inflation Crisis"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
+            "loc": "Ukraine, Kiev",
+            "deviation": "Energy Import Disruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption Measures"
-        },
-        {
-            "loc": "San Francisco, USA",
             "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Switzerland, Zurich",
+            "protocol": "Financial Stability"
+        },
+        {
+            "loc": "Norway, Oslo",
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, ECONOMISTS PREDICT MILD RECESSION",
-    "last_updated": "2026-03-14 15:55:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS REACT TO TRADE TENSIONS, EU ECONOMY SHRINKS, AND ASIAN STOCKS SOAR.",
+    "last_updated": "2026-03-14 16:29:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.27,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
