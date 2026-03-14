@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
+    "shi": 2.89119,
     "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade War"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy Chokepoint"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Price Volatility"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Currency Devaluation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Investment Incentives"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reform"
+            "protocol": "Financial Sector Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Initiatives"
+            "protocol": "Green Technology Adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY ON THE RISE, TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-03-14 12:51:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY SPIKES AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. INVESTORS SEEK SAFE HAVENS AS DEBT LEVELS SOAR. INNOVATION HUBS EMERGE AS BEACONS OF GROWTH AND STABILITY.",
+    "last_updated": "2026-03-14 13:36:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "B": 0.62,
+        "C": 0.49
     }
 }
