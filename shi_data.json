@@ -1,45 +1,45 @@
 {
-    "shi": 2.44317,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers due to high tariffs"
+            "loc": "Beijing, China",
+            "deviation": "High trade tariffs"
         },
         {
             "loc": "Vancouver, Canada",
-            "deviation": "High debt levels affecting local economy"
+            "deviation": "Energy supply constraints"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Energy shortages causing disruptions"
+            "loc": "Moscow, Russia",
+            "deviation": "Soaring national debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms for economic growth"
+            "loc": "Singapore",
+            "protocol": "Investment in renewable energy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures"
+            "protocol": "Robust anti-corruption laws"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "High levels of innovation driving economic stability"
+            "loc": "San Francisco, USA",
+            "protocol": "Fostering innovation through tech hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TENSIONS RISING, TRADE NEGOTIATIONS STALLED, AND ENERGY DEMAND INCREASING.",
-    "last_updated": "2026-03-14 07:04:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SIGNAL STABILITY CONCERNS. TRADE TENSIONS BETWEEN MAJOR ECONOMIES MAY ESCALATE, WHILE INNOVATION HUBS SHOW PROMISE FOR GROWTH.",
+    "last_updated": "2026-03-14 07:47:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
