@@ -1,45 +1,45 @@
 {
-    "shi": 1.44431,
-    "health_percent": 73.2,
+    "shi": 1.64792,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and regulatory hurdles"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial instability and Brexit uncertainty"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient infrastructure and bureaucracy"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Business-friendly policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and financial stability"
+            "protocol": "Anti-corruption and transparency"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub with high investment in technology and R&D"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER CLIMATE CHANGE IMPACTING ECONOMIC GROWTH",
-    "last_updated": "2026-03-14 05:30:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATIVE CITIES LIKE SINGAPORE AND ZURICH LEAD IN ECONOMIC STABILITY",
+    "last_updated": "2026-03-14 06:07:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.22,
-        "T": 1.05,
-        "B": 1.18,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
