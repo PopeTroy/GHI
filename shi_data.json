@@ -1,45 +1,45 @@
 {
-    "shi": 2.75264,
-    "health_percent": 78.2,
+    "shi": 2.95142,
+    "health_percent": 74.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "45:22:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
             "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-03-14 21:43:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK: SUPPLY CHAIN DISRUPTIONS REPORTED ACROSS THE GLOBE.",
+    "last_updated": "2026-03-14 21:59:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.75,
-        "C": 0.6
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.48
     }
 }
