@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 74.21,
+    "shi": 1.11677,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Energy shortages and infrastructure inefficiencies"
         },
         {
-            "loc": "Kiev, Ukraine",
-            "deviation": "Trade barriers"
+            "loc": "London, UK",
+            "deviation": "Regulatory hurdles and bureaucratic delays"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Singapore",
+            "protocol": "Efficient anti-corruption and policy reform measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
+            "protocol": "Strong innovation and R&D investments"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "High innovation in technology"
+            "loc": "Helsinki, Finland",
+            "protocol": "Effective public-private partnerships and collaborative governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY INDEX DROPS TO 65.4, EXPERTS WARN OF IMPENDING MARKET VOLATILITY",
-    "last_updated": "2026-03-14 02:47:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND LONDON ARE PARTICULARLY VULNERABLE TO SUPPLY CHAIN DISRUPTIONS AND COLLAPSE. MEANWHILE, CITIES LIKE SINGAPORE, ZURICH, AND HELSINKI ARE LEVERAGING INNOVATIVE PROTOCOLS TO DRIVE GROWTH AND STABILITY.",
+    "last_updated": "2026-03-14 04:25:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.65
     }
 }
