@@ -1,45 +1,45 @@
 {
-    "shi": 0.82618,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.84052,
+    "health_percent": 62.15,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy shortages"
+            "deviation": "Trade barrier implementation"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers and congestion"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint congestion"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure overload and corruption"
+            "loc": "Caracas, Venezuela",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub establishment"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation hub and green energy"
+            "protocol": "Anti-corruption policy reform"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms and social stability"
+            "protocol": "Sustainable energy implementation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-03-14 11:12:24",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNREST. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR ECONOMIC INDICATORS CLOSELY.",
+    "last_updated": "2026-03-14 11:38:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
