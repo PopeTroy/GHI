@@ -1,45 +1,45 @@
 {
-    "shi": 2.57426,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.75264,
+    "health_percent": 78.2,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "45:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
+            "loc": "Zurich, Switzerland",
             "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, WITH KEY CITIES EXPERIENCING BOTTLENECKS IN SUPPLY CHAINS. PROACTIVE PROTOCOLS ARE BEING IMPLEMENTED IN HIGH SHI CITIES TO MITIGATE RISKS.",
-    "last_updated": "2026-03-14 21:14:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-03-14 21:43:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.21,
-        "B": 0.67,
-        "C": 0.79
+        "T": 1.1,
+        "B": 0.75,
+        "C": 0.6
     }
 }
