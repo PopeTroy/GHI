@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 62.5,
+    "shi": 1.0043,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "London, UK",
+            "loc": "Beijing, China",
             "deviation": "Trade Barriers"
         },
         {
-            "loc": "Beijing, China",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
             "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption Measures"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS ECONOMIES ADJUST TO NEW TRADE AGREEMENTS. ENERGY PRICES RISE DUE TO SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-14 15:37:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, ECONOMISTS PREDICT MILD RECESSION",
+    "last_updated": "2026-03-14 15:55:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.11,
+        "B": 1.27,
+        "C": 0.98
     }
 }
