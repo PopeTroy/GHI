@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "shi": 1.08344,
+    "health_percent": 62.15,
+    "location": "LOS ANGELES, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "loc": "New York City, USA",
+            "deviation": "High Debt Levels"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers with EU"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply chain disruptions"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with favorable policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs"
+        },
+        {
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy with low debt levels"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE 2% DOWNTURN AMIDST RISING TRADE TENSIONS, EXPERTS WARN OF POTENTIAL RECESSION",
-    "last_updated": "2026-03-15 09:22:04",
+    "scroller_feed": "CRITICAL: LOS ANGELES, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. KEY NATIONS URGED TO REVISIT TRADE AGREEMENTS AND REFORM POLICIES TO PREVENT COLLAPSE.",
+    "last_updated": "2026-03-15 09:53:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.67
     }
 }
