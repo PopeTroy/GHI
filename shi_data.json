@@ -1,45 +1,45 @@
 {
-    "shi": 13.07057,
-    "health_percent": 73.21,
+    "shi": 1.64792,
+    "health_percent": 68.2,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:42:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Mumbai, India",
+            "deviation": "Energy chokepoints and infrastructural inefficiencies"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and economic instability"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative economic policies and strong anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and economic stability"
+            "protocol": "Stable and secure financial systems"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Tokyo, Japan",
+            "protocol": "Technological advancements and efficient energy management"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AND GROWTH AT RISK DUE TO GLOBAL SUPPLY CHAIN DISRUPTIONS AND RISING ENERGY COSTS.",
-    "last_updated": "2026-03-15 15:54:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, SINGAPORE'S GDP GROWTH RATE AT 5.2%, OIL PRICES RISING DUE TO GEOPOLITICAL TENSIONS.",
+    "last_updated": "2026-03-15 16:25:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.32,
-        "C": 0.21
+        "B": 0.65,
+        "C": 0.82
     }
 }
