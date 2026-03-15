@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
-    "location": "LOS ANGELES, USA",
+    "shi": 0.82551,
+    "health_percent": 62.5,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "High energy costs due to trade barriers"
+        },
+        {
+            "loc": "Shanghai, China",
+            "deviation": "Debt crisis threatening financial stability"
+        },
+        {
             "loc": "New York City, USA",
-            "deviation": "High Debt Levels"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Inefficient port operations causing logistics delays"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hubs"
-        },
-        {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Measures"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Robust anti-corruption measures"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative trade agreements"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Effective policy reforms for economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: LOS ANGELES, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. KEY NATIONS URGED TO REVISIT TRADE AGREEMENTS AND REFORM POLICIES TO PREVENT COLLAPSE.",
-    "last_updated": "2026-03-15 09:53:57",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | JAPAN'S ECONOMY SEES A DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE SWITZERLAND'S ROBUST ANTI-CORRUPTION MEASURES BOOST INVESTOR CONFIDENCE.",
+    "last_updated": "2026-03-15 10:22:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.12,
+        "C": 0.95
     }
 }
