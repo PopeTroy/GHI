@@ -1,45 +1,45 @@
 {
-    "shi": 0.82551,
-    "health_percent": 62.5,
+    "shi": 2.95142,
+    "health_percent": 74.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "47:32:11",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "High energy costs due to trade barriers"
-        },
-        {
-            "loc": "Shanghai, China",
-            "deviation": "Debt crisis threatening financial stability"
+            "loc": "Beijing, China",
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "Inefficient port operations causing logistics delays"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hubs"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative trade agreements"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Effective policy reforms for economic growth"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | JAPAN'S ECONOMY SEES A DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE SWITZERLAND'S ROBUST ANTI-CORRUPTION MEASURES BOOST INVESTOR CONFIDENCE.",
-    "last_updated": "2026-03-15 10:22:38",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | FINANCIAL MARKETS VOLATILE, OIL PRICES RISE, UN WARNS OF GLOBAL FOOD SHORTAGE.",
+    "last_updated": "2026-03-15 10:54:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.12,
-        "C": 0.95
+        "B": 0.62,
+        "C": 0.48
     }
 }
