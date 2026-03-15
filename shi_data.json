@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 1.05203,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption Reform"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, WITH TRADE DISPUTES ESCALATING BETWEEN MAJOR NATIONS. CENTRAL BANKS ARE ADJUSTING INTEREST RATES TO MITIGATE RISK, BUT MARKET VOLATILITY REMAINS HIGH.",
-    "last_updated": "2026-03-15 08:02:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING IN THE ASIA-PACIFIC REGION",
+    "last_updated": "2026-03-15 08:51:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
