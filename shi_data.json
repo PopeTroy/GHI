@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
+    "shi": 0.76411,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt levels"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade barriers with EU"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "deviation": "Energy supply chain disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation hub with favorable policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Reform"
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reform"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy with low debt levels"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING IN THE ASIA-PACIFIC REGION",
-    "last_updated": "2026-03-15 08:51:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE 2% DOWNTURN AMIDST RISING TRADE TENSIONS, EXPERTS WARN OF POTENTIAL RECESSION",
+    "last_updated": "2026-03-15 09:22:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.95
     }
 }
