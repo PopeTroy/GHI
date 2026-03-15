@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 62.11,
+    "shi": 1.59977,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "47:32:10",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt and policy uncertainty"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and low debt"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Policy Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ON HIGH ALERT AS TRADE TENSIONS ESCALATE, OIL PRICES SURGE, AND DEBT LEVELS REACH RECORD HIGHS.",
-    "last_updated": "2026-03-15 21:52:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDEX: -3.2%, OIL PRICES RISE BY 2.1%, TRADE TENSIONS ESCALATE BETWEEN US AND CHINA",
+    "last_updated": "2026-03-15 22:16:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.23,
+        "T": 0.92,
+        "B": 1.11,
+        "C": 0.78
     }
 }
