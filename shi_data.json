@@ -1,45 +1,45 @@
 {
-    "shi": 4.54629,
-    "health_percent": 73.21,
+    "shi": 1.25258,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and supply chain disruptions"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Financial instability and regulatory hurdles"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and transparency initiatives"
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and trade facilitation"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS SUSTAINABLE GROWTH, WITH KEY NATIONS PRIORITIZING INNOVATION AND POLICY REFORMS TO MITIGATE BOTTLENECKS AND ENSURE STABILITY.",
-    "last_updated": "2026-03-15 11:58:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: UNSTABLE TRADE AGREEMENTS DETECTED, INITIATING DIPLOMATIC PROTOCOL",
+    "last_updated": "2026-03-15 13:08:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.62,
-        "T": 0.78,
-        "B": 0.31,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.11,
+        "C": 0.98
     }
 }
