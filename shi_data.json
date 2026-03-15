@@ -1,45 +1,45 @@
 {
-    "shi": 2.95142,
-    "health_percent": 74.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:11",
+    "shi": 3.21737,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "Trade War"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade Barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | FINANCIAL MARKETS VOLATILE, OIL PRICES RISE, UN WARNS OF GLOBAL FOOD SHORTAGE.",
-    "last_updated": "2026-03-15 10:54:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMY: 3.2% GROWTH PREDICTED, OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS, GLOBAL DEBT HITS $250 TRILLION",
+    "last_updated": "2026-03-15 11:21:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.62,
-        "C": 0.48
+        "B": 0.65,
+        "C": 0.42
     }
 }
