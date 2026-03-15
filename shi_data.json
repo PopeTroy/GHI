@@ -1,45 +1,45 @@
 {
-    "shi": 1.56527,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.70259,
+    "health_percent": 74.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and high inflation"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier imposition"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt levels"
+            "deviation": "Corruption and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative policies and low corruption"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reform for economic stability"
+            "protocol": "Strong institutions and business-friendly environment"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption initiatives"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub for tech growth"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS.",
-    "last_updated": "2026-03-15 19:06:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, CENTRAL BANKS INTERVENING TO STABILIZE ECONOMIES.",
+    "last_updated": "2026-03-15 19:39:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.03,
-        "B": 0.78,
-        "C": 0.95
+        "T": 0.78,
+        "B": 0.5,
+        "C": 0.65
     }
 }
