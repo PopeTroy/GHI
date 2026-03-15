@@ -1,45 +1,45 @@
 {
-    "shi": 0.9667,
+    "shi": 4.54629,
     "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:01",
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High Debt"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barrier"
+            "deviation": "Energy chokepoints and supply chain disruptions"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Financial instability and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption and transparency initiatives"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Financial stability and trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SUGGEST A POTENTIAL DOWNTURN, WITH KEY MARKETS EXPERIENCING INSTABILITY. TRADE NEGOTIATIONS STALL, AND ENERGY PRICES SURGE. INNOVATION HUBS DRIVE GROWTH, BUT BOTTLENECKS PERSIST.",
-    "last_updated": "2026-03-15 11:44:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS SUSTAINABLE GROWTH, WITH KEY NATIONS PRIORITIZING INNOVATION AND POLICY REFORMS TO MITIGATE BOTTLENECKS AND ENSURE STABILITY.",
+    "last_updated": "2026-03-15 11:58:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.62,
         "T": 0.78,
-        "B": 1.02,
-        "C": 0.85
+        "B": 0.31,
+        "C": 0.42
     }
 }
