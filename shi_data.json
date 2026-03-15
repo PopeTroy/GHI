@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 13.07057,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:42:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoints"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and economic instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation and anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms and economic stability"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS STABILIZE AFTER NEWS OF TRADE AGREEMENT BETWEEN MAJOR ECONOMIES. OIL PRICES DROP 5% DUE TO INCREASED PRODUCTION. ECONOMIC INDICATORS SHOW STEADY GROWTH IN SINGAPORE AND SWITZERLAND.",
-    "last_updated": "2026-03-15 15:30:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AND GROWTH AT RISK DUE TO GLOBAL SUPPLY CHAIN DISRUPTIONS AND RISING ENERGY COSTS.",
+    "last_updated": "2026-03-15 15:54:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.32,
+        "C": 0.21
     }
 }
