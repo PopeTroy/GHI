@@ -1,30 +1,30 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.23,
+    "shi": 0.90738,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Dubai, UAE",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Sydney, Australia",
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC GROWTH RATE EXPECTED TO SLOW IN Q2, GLOBAL TRADE TENSIONS ESCALATE, NEW INVESTMENTS IN RENEWABLE ENERGY SECTOR ANNOUNCED",
-    "last_updated": "2026-03-16 08:06:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO ONGOING TRADE TENSIONS AND GEOPOLITICAL INSTABILITY.",
+    "last_updated": "2026-03-16 09:11:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 1.1,
+        "C": 0.88
     }
 }
