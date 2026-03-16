@@ -1,21 +1,21 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.53,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.77048,
+    "health_percent": 42.11,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reform for green energy"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-03-16 16:46:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, OIL PRICES SURGE DUE TO MIDDLE EAST CONFLICT, AND EUROPEAN DEBT CRISIS DEEPENS.",
+    "last_updated": "2026-03-16 17:47:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.2,
+        "C": 0.95
     }
 }
