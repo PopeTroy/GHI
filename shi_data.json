@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.53487,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Export Disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and regulatory hurdles"
+            "loc": "Tokyo, Japan",
+            "deviation": "Rising National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Pro-Business Reforms"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovation and investment in renewable energy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation Hub Development"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and stable financial system"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND MOSCOW ARE AT HIGH RISK OF ECONOMIC COLLAPSE.",
-    "last_updated": "2026-03-16 21:01:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AMIDST RISING TENSIONS BETWEEN MAJOR ECONOMIES. EXPERTS WARN OF POTENTIAL BOTTLENECKS IN KEY TRADE ROUTES AND ENERGY SUPPLIES.",
+    "last_updated": "2026-03-16 21:51:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.01,
+        "B": 0.78,
+        "C": 0.95
     }
 }
