@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 67.53,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt levels"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Policy Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUME DECREASED BY 2.1% IN Q2, CITING SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS.",
-    "last_updated": "2026-03-16 15:48:11",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-03-16 16:46:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
