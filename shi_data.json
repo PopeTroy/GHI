@@ -1,45 +1,45 @@
 {
-    "shi": 1.53487,
-    "health_percent": 73.21,
+    "shi": 0.84052,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High Tariffs on Imported Goods"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "loc": " Moscow, Russia",
+            "deviation": "Energy Export Restrictions"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Rising National Debt"
+            "deviation": "Aging Population and High Debt-to-GDP Ratio"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Reforms"
+            "protocol": "Business-Friendly Reforms and Low Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation Hub Development"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Investment in Renewable Energy and Innovation"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Initiatives"
+            "protocol": "Highly Skilled Workforce and Strong Education System"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AMIDST RISING TENSIONS BETWEEN MAJOR ECONOMIES. EXPERTS WARN OF POTENTIAL BOTTLENECKS IN KEY TRADE ROUTES AND ENERGY SUPPLIES.",
-    "last_updated": "2026-03-16 21:51:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM SHOWCASE RESILIENCE THROUGH PROACTIVE PROTOCOLS.",
+    "last_updated": "2026-03-16 22:20:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.78,
+        "T": 0.78,
+        "B": 1.1,
         "C": 0.95
     }
 }
