@@ -1,45 +1,45 @@
 {
-    "shi": 4.90146,
-    "health_percent": 67.25,
+    "shi": 0.76411,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, ANALYSTS PREDICT POTENTIAL INSTABILITY IN EASTERN EUROPEAN TRADE ROUTES.",
-    "last_updated": "2026-03-16 06:54:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC GROWTH RATE EXPECTED TO SLOW IN Q2, GLOBAL TRADE TENSIONS ESCALATE, NEW INVESTMENTS IN RENEWABLE ENERGY SECTOR ANNOUNCED",
+    "last_updated": "2026-03-16 08:06:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.32
+        "B": 1.21,
+        "C": 0.95
     }
 }
