@@ -1,45 +1,45 @@
 {
-    "shi": 2.57051,
-    "health_percent": 74.25,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive dependence on imported energy"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High levels of public debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Bangkok, Thailand",
-            "deviation": "Inefficient trade regulations"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation in financial technology"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption initiatives"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS THREATENED BY RISING TRADE TENSIONS AND DECLINING INVESTMENT IN KEY SECTORS.",
-    "last_updated": "2026-03-16 11:13:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-03-16 11:58:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.51
+        "B": 1.21,
+        "C": 0.67
     }
 }
