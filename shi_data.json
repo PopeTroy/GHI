@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 73.25,
+    "shi": 0.69134,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:12",
+    "collapse_timer": "96:03:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt Ratio"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Dependency"
         },
         {
-            "loc": "Mumbai, India",
+            "loc": "Lagos, Nigeria",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Financial Stability"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Policy Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, WITH THE US DOLLAR EXPERIENCING A SHARP DROP IN VALUE. OIL PRICES HAVE SPIKED DUE TO GEOPOLITICAL TENSIONS IN THE MIDDLE EAST.",
-    "last_updated": "2026-03-17 08:04:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY PRICE FLUCTUATIONS. ECONOMIC INSTABILITY PREDICTED IN KEY REGIONS WITHIN THE NEXT 96 HOURS.",
+    "last_updated": "2026-03-17 09:05:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 1.21,
+        "C": 1.05
     }
 }
