@@ -1,45 +1,45 @@
 {
-    "shi": 1.25561,
-    "health_percent": 78.25,
+    "shi": 1.05203,
+    "health_percent": 73.42,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
+            "loc": "Beijing, China",
+            "deviation": "High debt levels due to infrastructure spending"
+        },
+        {
             "loc": "New York City, USA",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers impacting international trade"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints affecting oil supply"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Advanced financial regulations"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovative renewable energy solutions"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING INFLATION AND TRADE TENSIONS",
-    "last_updated": "2026-03-17 14:08:25",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWS, TOKYO FACES SUPPLY CHAIN DISRUPTIONS, AND SINGAPORE'S FINANCIAL SECTOR THRIVES",
+    "last_updated": "2026-03-17 15:16:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.22,
-        "T": 0.98,
-        "B": 1.11,
-        "C": 1.05
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
