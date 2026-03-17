@@ -1,45 +1,45 @@
 {
-    "shi": 0.82551,
-    "health_percent": 82.15,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:23:42",
+    "shi": 0.84052,
+    "health_percent": 67.32,
+    "location": "BEIJING, CHINA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:21:49",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "New York City, USA",
+            "deviation": "Trade Restrictions"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoint"
+            "loc": "Singapore",
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
+            "loc": "London, UK",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "San Francisco, USA",
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms for Economic Growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS SEEING INCREASED VOLATILITY, POTENTIAL COLLAPSE WARNING ISSUED FOR MAJOR ECONOMIES",
-    "last_updated": "2026-03-17 11:52:55",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RECENT TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMISTS WARNING OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-17 12:45:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.12,
+        "B": 1.1,
         "C": 0.95
     }
 }
