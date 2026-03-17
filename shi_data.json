@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 67.32,
-    "location": "BEIJING, CHINA",
+    "shi": 1.25561,
+    "health_percent": 78.25,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:21:49",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "New York City, USA",
-            "deviation": "Trade Restrictions"
-        },
-        {
-            "loc": "Singapore",
-            "deviation": "Energy Shortage"
+            "deviation": "High Debt"
         },
         {
             "loc": "London, UK",
-            "deviation": "High National Debt"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Singapore",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms for Economic Growth"
+            "loc": "Sydney, Australia",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RECENT TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMISTS WARNING OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-17 12:45:11",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING INFLATION AND TRADE TENSIONS",
+    "last_updated": "2026-03-17 14:08:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "F": 1.22,
+        "T": 0.98,
+        "B": 1.11,
+        "C": 1.05
     }
 }
