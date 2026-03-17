@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.59873,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:23:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Infrastructure congestion and bureaucratic inefficiencies"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social cohesion"
+            "loc": "Seoul, South Korea",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | G20 NATIONS MEET TO DISCUSS GLOBAL ECONOMIC STABILITY, OECD REPORTS A SURGE IN GREEN ENERGY INVESTMENTS, AND THE IMF WARNS OF POTENTIAL TRADE WARS.",
-    "last_updated": "2026-03-17 07:20:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, WITH THE US DOLLAR EXPERIENCING A SHARP DROP IN VALUE. OIL PRICES HAVE SPIKED DUE TO GEOPOLITICAL TENSIONS IN THE MIDDLE EAST.",
+    "last_updated": "2026-03-17 08:04:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.67,
+        "C": 0.82
     }
 }
