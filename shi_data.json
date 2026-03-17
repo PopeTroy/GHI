@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 0.82551,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "42:11:22",
+    "collapse_timer": "96:23:42",
     "bottlenecks": [
         {
-            "loc": "London, UK",
+            "loc": "Beijing, China",
             "deviation": "High debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Beijing, China",
+            "loc": "Moscow, Russia",
             "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, GOVERNMENTS IMPLEMENTING REFORMS TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-03-17 11:05:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS SEEING INCREASED VOLATILITY, POTENTIAL COLLAPSE WARNING ISSUED FOR MAJOR ECONOMIES",
+    "last_updated": "2026-03-17 11:52:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.12,
+        "C": 0.95
     }
 }
