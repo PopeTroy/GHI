@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "shi": 1.06582,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels due to infrastructure spending"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers impacting international trade"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints affecting oil supply"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Advanced financial regulations"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative renewable energy solutions"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWS, TOKYO FACES SUPPLY CHAIN DISRUPTIONS, AND SINGAPORE'S FINANCIAL SECTOR THRIVES",
-    "last_updated": "2026-03-17 15:16:06",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT 74.21%, POTENTIAL COLLAPSE IN 48 HOURS. NEW YORK CITY IDENTIFIED AS HIGH IMPACT LOCATION. BOTTLENECKS DETECTED IN BEIJING, LONDON, AND TOKYO. STABLE NODES IDENTIFIED IN SINGAPORE, ZURICH, AND SAN FRANCISCO.",
+    "last_updated": "2026-03-17 16:35:39",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.23,
+        "C": 0.67
     }
 }
