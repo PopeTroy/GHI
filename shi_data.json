@@ -1,45 +1,45 @@
 {
-    "shi": 0.78209,
-    "health_percent": 72.19,
+    "shi": 0.69134,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:12:01",
+    "collapse_timer": "36:01:22",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "Shanghai, China",
+            "deviation": "High tariff rates"
         },
         {
             "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy import dependence"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Debt-to-GDP ratio"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Streamlined tax policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green innovation hub"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Diversified trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ON THE RISE",
-    "last_updated": "2026-03-16 23:51:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY DUE TO TRADE TENSIONS, ENERGY SHORTAGES, AND RISING DEBT LEVELS.",
+    "last_updated": "2026-03-17 00:58:13",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 1.05
     }
 }
