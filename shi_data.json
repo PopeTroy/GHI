@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 82.15,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "45:30:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Trade barriers and tariffs"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and sanctions"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and entrepreneurship policies"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and low corruption"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green infrastructure"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED SIGNALS, WITH SOME REGIONS EXPERIENCING GROWTH WHILE OTHERS FACE INSTABILITY. TRADE TENSIONS AND ENERGY PRICES CONTINUE TO INFLUENCE MARKET TRENDS.",
-    "last_updated": "2026-03-17 23:19:00",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABLE, WITH MINOR FLUCTUATIONS IN CURRENCY EXCHANGE RATES",
+    "last_updated": "2026-03-17 23:50:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.69
     }
 }
