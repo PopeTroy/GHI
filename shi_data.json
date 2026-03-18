@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 74.25,
-    "location": "LONDON, UNITED KINGDOM",
+    "shi": 38.02348,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "120:00:00",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High Tariff on Electronics"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Disruption due to Infrastructure Damage"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Inefficient infrastructure"
+            "deviation": "Power Outages due to Aging Grid"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Strong policy reforms"
+            "loc": "Singapore",
+            "protocol": "Cutting Edge Logistics and Supply Chain Management"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and innovation"
+            "protocol": "Robust Banking and Financial Regulations"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative Renewable Energy Solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AMIDST RISING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-18 19:52:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES, AND RISING CONCERNS OVER CLIMATE CHANGE AFFECTING SUPPLY CHAINS.",
+    "last_updated": "2026-03-18 20:25:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 0.21,
+        "C": 0.11
     }
 }
