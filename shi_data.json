@@ -1,45 +1,45 @@
 {
-    "shi": 1.89386,
-    "health_percent": 72.31,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "Istanbul, Turkey",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Tokyo, Japan",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "London, UK",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Sydney, Australia",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS ECONOMIC INSTABILITY RISES. KEY CITIES ARE IMPLEMENTING PROTOCOLS TO MITIGATE RISKS AND STIMULATE GROWTH.",
-    "last_updated": "2026-03-18 13:20:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-03-18 14:44:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.75,
-        "C": 0.88
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
