@@ -1,45 +1,45 @@
 {
-    "shi": 2.32982,
-    "health_percent": 62.14,
+    "shi": 1.03803,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:41",
+    "collapse_timer": "120:00:00",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-18 01:00:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, TRADE NEGOTIATIONS STALLED BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-03-18 03:45:21",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.58
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.78
     }
 }
