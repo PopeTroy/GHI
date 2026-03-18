@@ -1,45 +1,45 @@
 {
-    "shi": 1.89285,
-    "health_percent": 73.21,
+    "shi": 1.18835,
+    "health_percent": 72.35,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:59",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High Energy Import Dependence"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "loc": "London, UK",
+            "deviation": "Financial Market Volatility"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "loc": "Mumbai, India",
+            "deviation": "Congested Trade Routes"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-Business Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub Establishment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-Corruption Regulations"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free Trade Zone"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy Adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF WEAKENING, EXPERTS WARN OF POTENTIAL COLLAPSE, OIL PRICES SURGE AMIDST GEOPOLITICAL TENSIONS",
-    "last_updated": "2026-03-18 16:54:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. MARKETS ARE ON HIGH ALERT AS ENERGY PRICES SURGE. CITIES LIKE SINGAPORE AND ZURICH ARE INVESTING HEAVILY IN INNOVATION AND ANTI-CORRUPTION MEASURES TO IMPROVE STABILITY.",
+    "last_updated": "2026-03-18 17:56:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.82
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.17,
+        "C": 0.98
     }
 }
