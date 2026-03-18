@@ -1,45 +1,45 @@
 {
-    "shi": 1.1808,
-    "health_percent": 67.45,
+    "shi": 0.84052,
+    "health_percent": 67.23,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt, trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints, corruption"
+            "deviation": "high trade barriers"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "Over-reliance on imports, high debt"
+            "deviation": "energy supply disruptions"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "debt default risks"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation, policy reforms"
+            "protocol": "streamlined customs procedures"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption, sustainable practices"
+            "protocol": "innovative fintech solutions"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong institutions, low debt"
+            "loc": "Vancouver, Canada",
+            "protocol": "sustainable energy initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE, SINGAPORE INNOVATES WITH GREEN TECH, TOKYO'S SUPPLY CHAIN UNDER THREAT",
-    "last_updated": "2026-03-18 23:19:22",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY TEETERS ON BRINK OF COLLAPSE, KEY LOCATIONS IDENTIFIED FOR STABILIZING INTERVENTIONS.",
+    "last_updated": "2026-03-18 23:47:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 1.02,
-        "B": 1.19,
-        "C": 0.78
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
