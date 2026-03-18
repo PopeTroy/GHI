@@ -1,45 +1,45 @@
 {
-    "shi": 0.98953,
-    "health_percent": 74.21,
+    "shi": 1.89285,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:59",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Export Restrictions"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-Business Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Dubai, UAE",
+            "protocol": "Free Trade Zone"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY SHORTAGES.",
-    "last_updated": "2026-03-18 15:54:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF WEAKENING, EXPERTS WARN OF POTENTIAL COLLAPSE, OIL PRICES SURGE AMIDST GEOPOLITICAL TENSIONS",
+    "last_updated": "2026-03-18 16:54:25",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 1.09,
-        "C": 0.92
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 0.75,
+        "C": 0.82
     }
 }
