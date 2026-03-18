@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.23,
+    "shi": 1.08344,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "loc": "London, UK",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY PRICES, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN DEMONSTRATE RESILIENCE THROUGH INNOVATIVE POLICIES AND CORRUPTION-FREE GOVERNANCE.",
-    "last_updated": "2026-03-18 10:08:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INTERNATIONAL TRADE AGREEMENTS UNDER NEGOTIATION, AND RENEWABLE ENERGY INVESTMENTS ON THE RISE.",
+    "last_updated": "2026-03-18 11:08:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
