@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "health_percent": 68.2,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade Barriers"
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
-    "last_updated": "2026-03-18 22:17:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING PROTOCOLS TO IMPROVE GROWTH AND STABILITY.",
+    "last_updated": "2026-03-18 22:51:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
