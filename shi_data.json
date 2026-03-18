@@ -1,45 +1,45 @@
 {
-    "shi": 2.71111,
+    "shi": 1.25459,
     "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy dependence"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and aging population"
+            "deviation": "High trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Inefficient governance and high corruption"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt to GDP ratio"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Robust policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Strong innovation culture"
         },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Effective anti-corruption measures"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovative technologies adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING WILDLY",
-    "last_updated": "2026-03-18 21:03:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL FINANCIAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE SINGAPORE AND SWITZERLAND SHOWCASE RESILIENCE THROUGH EFFECTIVE GOVERNANCE",
+    "last_updated": "2026-03-18 21:47:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
+        "F": 0.92,
         "T": 1.11,
-        "B": 0.67,
-        "C": 0.92
+        "B": 1.23,
+        "C": 0.81
     }
 }
