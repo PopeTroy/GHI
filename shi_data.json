@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.2,
+    "shi": 1.05203,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Over-reliance on foreign investment and lack of innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong innovation and high-tech industry presence"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and stable trade relationships"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INTERNATIONAL TRADE AGREEMENTS UNDER NEGOTIATION, AND RENEWABLE ENERGY INVESTMENTS ON THE RISE.",
-    "last_updated": "2026-03-18 11:08:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER ENERGY SECURITY GROWING",
+    "last_updated": "2026-03-18 11:57:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
