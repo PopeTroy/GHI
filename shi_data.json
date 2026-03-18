@@ -1,45 +1,45 @@
 {
-    "shi": 1.04627,
-    "health_percent": 74.2,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.64792,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
+            "loc": "Kolkata, India",
+            "deviation": "Infrastructure deficits and red tape"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business policy reforms and low corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative financial sector and stable institutions"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-03-18 06:17:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKETS FLUCTUATE AS GLOBAL TENSIONS RISE; SINGAPORE ANNOUNCES NEW PRO-BUSINESS REFORMS; INDIA INVESTS HEAVILY IN INFRASTRUCTURE DEVELOPMENT.",
+    "last_updated": "2026-03-18 07:32:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.75,
-        "B": 1.02,
-        "C": 0.81
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
