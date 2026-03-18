@@ -1,45 +1,45 @@
 {
-    "shi": 1.18835,
-    "health_percent": 72.35,
+    "shi": 2.341,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "42:11:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Import Dependence"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial Market Volatility"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Congested Trade Routes"
+            "loc": "Paris, France",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub Establishment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Regulations"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy Adoption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. MARKETS ARE ON HIGH ALERT AS ENERGY PRICES SURGE. CITIES LIKE SINGAPORE AND ZURICH ARE INVESTING HEAVILY IN INNOVATION AND ANTI-CORRUPTION MEASURES TO IMPROVE STABILITY.",
-    "last_updated": "2026-03-18 17:56:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS ANXIOUSLY AWAIT ECONOMIC FORECASTS.",
+    "last_updated": "2026-03-18 19:02:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.17,
-        "C": 0.98
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.56,
+        "C": 0.67
     }
 }
