@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 68.2,
-    "location": "NEW YORK, USA",
+    "shi": 1.1808,
+    "health_percent": 67.45,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High debt, trade barriers"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints, corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Over-reliance on imports, high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Innovation, policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption, sustainable practices"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Strong institutions, low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING PROTOCOLS TO IMPROVE GROWTH AND STABILITY.",
-    "last_updated": "2026-03-18 22:51:01",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE, SINGAPORE INNOVATES WITH GREEN TECH, TOKYO'S SUPPLY CHAIN UNDER THREAT",
+    "last_updated": "2026-03-18 23:19:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.82,
+        "F": 0.91,
+        "T": 1.02,
+        "B": 1.19,
+        "C": 0.78
     }
 }
