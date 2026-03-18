@@ -1,45 +1,45 @@
 {
-    "shi": 38.02348,
-    "health_percent": 73.21,
+    "shi": 2.71111,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "120:00:00",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariff on Electronics"
+            "deviation": "High debt and energy dependence"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade Disruption due to Infrastructure Damage"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and aging population"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Power Outages due to Aging Grid"
+            "loc": "Moscow, Russia",
+            "deviation": "Inefficient governance and high corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Cutting Edge Logistics and Supply Chain Management"
+            "protocol": "Robust policy reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Strong innovation culture"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Banking and Financial Regulations"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Renewable Energy Solutions"
+            "protocol": "Effective anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES, AND RISING CONCERNS OVER CLIMATE CHANGE AFFECTING SUPPLY CHAINS.",
-    "last_updated": "2026-03-18 20:25:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING WILDLY",
+    "last_updated": "2026-03-18 21:03:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.11
+        "F": 1.23,
+        "T": 1.11,
+        "B": 0.67,
+        "C": 0.92
     }
 }
