@@ -1,45 +1,45 @@
 {
-    "shi": 1.70204,
+    "shi": 11.40315,
     "health_percent": 67.23,
-    "location": "NEW YORK CITY, USA",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "Trade disputes with neighboring countries"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Over-reliance on oil exports"
         },
         {
-            "loc": "Kiev, Ukraine",
-            "deviation": "Trade Barriers"
+            "loc": "Mumbai, India",
+            "deviation": "High levels of government debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Robust anti-corruption laws"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovative finance and banking regulations"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Effective policy reforms for sustainable growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, SINGAPORE LAUNCHES NEW FINTECH INITIATIVE, AND DENMARK ANNOUNCES PLANS TO INCREASE RENEWABLE ENERGY PRODUCTION.",
-    "last_updated": "2026-03-19 22:19:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS FLASH WARNING SIGNS AS SUPPLY CHAIN DISRUPTIONS ESCALATE.",
+    "last_updated": "2026-03-19 22:51:25",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.12,
-        "B": 0.78,
-        "C": 0.95
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.35
     }
 }
