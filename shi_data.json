@@ -1,45 +1,45 @@
 {
-    "shi": 0.87941,
-    "health_percent": 67.23,
+    "shi": 1.29626,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barrier"
-        },
-        {
-            "loc": "Dammam, Saudi Arabia",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "high debt"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "energy chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "policy reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Tel Aviv, Israel",
-            "protocol": "Innovation"
+            "loc": "San Francisco, USA",
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY, ANALYSTS PREDICT ECONOMIC DOWNTURN WITHIN THE NEXT 6 MONTHS.",
-    "last_updated": "2026-03-19 11:01:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | SYSTEM EXPERIENCING HIGH STRESS, POTENTIAL COLLAPSE IMMINENT. BOTTLENECKS IN ENERGY AND TRADE ARE CAUSING INSTABILITY. HIGH SHI NODES SHOWING PROMISING GROWTH.",
+    "last_updated": "2026-03-19 11:45:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 0.92,
-        "B": 2.1,
-        "C": 0.75
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.56
     }
 }
