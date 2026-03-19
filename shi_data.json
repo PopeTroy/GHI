@@ -1,45 +1,45 @@
 {
-    "shi": 1.06461,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High inflation and economic instability"
+            "loc": "London, UK",
+            "deviation": "Trade barriers and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and economic stability"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and economic stability"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green initiatives"
+            "protocol": "Financial stability and growth improvements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-03-19 14:38:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-03-19 15:34:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.95,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.85
+        "C": 0.69
     }
 }
