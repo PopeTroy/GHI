@@ -1,45 +1,45 @@
 {
-    "shi": 34.85486,
-    "health_percent": 74.23,
+    "shi": 5.07813,
+    "health_percent": 67.52,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
-        },
-        {
-            "loc": "Singapore",
-            "deviation": "Trade barriers with neighboring countries"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy import dependence"
+            "deviation": "Energy Chokepoints and Inflation"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Policy Inefficiencies and Corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovative financial reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hubs and Anti-Corruption Policies"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Energy and Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Low corruption rates and high transparency"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy advancements and green policies"
+            "protocol": "Financial Stability and Transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISKS RISING DUE TO ONGOING TRADE DISPUTES AND SUPPLY CHAIN DISRUPTIONS. KEY CITIES IN ASIA AND EUROPE FACE POTENTIAL COLLAPSE DUE TO HIGH DEBT LEVELS AND ENERGY IMPORT DEPENDENCE. INVEST IN CITIES WITH HIGH SHI FOR STABILITY AND GROWTH.",
-    "last_updated": "2026-03-19 20:02:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND ECONOMIC INSTABILITY.",
+    "last_updated": "2026-03-19 20:52:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.12
+        "T": 0.75,
+        "B": 0.56,
+        "C": 0.29
     }
 }
