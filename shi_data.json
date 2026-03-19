@@ -1,45 +1,45 @@
 {
-    "shi": 1.29626,
-    "health_percent": 67.32,
+    "shi": 2.38356,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high debt"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy import dependency"
         },
         {
-            "loc": "London, UK",
-            "deviation": "trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and digital transformation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "protocol": "Anti-corruption and transparency"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms and investment in human capital"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | SYSTEM EXPERIENCING HIGH STRESS, POTENTIAL COLLAPSE IMMINENT. BOTTLENECKS IN ENERGY AND TRADE ARE CAUSING INSTABILITY. HIGH SHI NODES SHOWING PROMISING GROWTH.",
-    "last_updated": "2026-03-19 11:45:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS ESCALATE AND DEBT LEVELS SOAR, WHILE CITIES LIKE SINGAPORE AND ZURICH LEAD THE WAY IN INNOVATION AND GOOD GOVERNANCE.",
+    "last_updated": "2026-03-19 12:28:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.56
+        "B": 0.67,
+        "C": 0.55
     }
 }
