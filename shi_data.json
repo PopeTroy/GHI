@@ -1,45 +1,45 @@
 {
-    "shi": 2.38356,
-    "health_percent": 82.15,
+    "shi": 0.69134,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:09",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy import dependency"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers and sanctions"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and digital transformation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparency"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms and investment in human capital"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS ESCALATE AND DEBT LEVELS SOAR, WHILE CITIES LIKE SINGAPORE AND ZURICH LEAD THE WAY IN INNOVATION AND GOOD GOVERNANCE.",
-    "last_updated": "2026-03-19 12:28:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ENERGY CRISIS LOOMING IN EASTERN EUROPE.",
+    "last_updated": "2026-03-19 13:49:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.55
+        "B": 1.21,
+        "C": 1.05
     }
 }
