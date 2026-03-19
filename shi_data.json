@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
     "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:20:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war with major partners"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High national debt"
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Anti-corruption legislation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub for tech startups"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SIGNIFICANT VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-19 09:30:31",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE INCREASED VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES",
+    "last_updated": "2026-03-19 10:09:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
