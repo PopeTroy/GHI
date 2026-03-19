@@ -1,45 +1,45 @@
 {
-    "shi": 2.93858,
-    "health_percent": 74.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "shi": 0.84052,
+    "health_percent": 62.11,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "New York City, USA",
             "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
+            "loc": "Moscow, Russia",
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Singapore",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "protocol": "Policy Reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Financial Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-Corruption Policies"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMIC INDICATORS POINT TOWARDS A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
-    "last_updated": "2026-03-19 21:24:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, OIL PRICES RISING, TRADE TENSIONS ESCALATING.",
+    "last_updated": "2026-03-19 21:53:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.61,
-        "C": 0.49
+        "B": 1.1,
+        "C": 0.95
     }
 }
