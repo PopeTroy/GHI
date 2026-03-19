@@ -1,45 +1,45 @@
 {
-    "shi": 11.40315,
-    "health_percent": 67.23,
+    "shi": 1.08657,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "96:23:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade disputes with neighboring countries"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Over-reliance on oil exports"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High levels of government debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust anti-corruption laws"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative finance and banking regulations"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Effective policy reforms for sustainable growth"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS FLASH WARNING SIGNS AS SUPPLY CHAIN DISRUPTIONS ESCALATE.",
-    "last_updated": "2026-03-19 22:51:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS",
+    "last_updated": "2026-03-19 23:17:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.35
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.95
     }
 }
