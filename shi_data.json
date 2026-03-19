@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
     "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:20:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "Trade war with major partners"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy Chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "High national debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "protocol": "Pro-business policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "loc": "London, UK",
+            "protocol": "Anti-corruption legislation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub for tech startups"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 42.1",
-    "last_updated": "2026-03-19 08:49:51",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SIGNIFICANT VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-19 09:30:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
