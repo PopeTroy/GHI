@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 72.15,
+    "shi": 2.29033,
+    "health_percent": 72.35,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and economic instability"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and economic stability"
+            "loc": "Singapore",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and growth improvements"
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
-    "last_updated": "2026-03-19 15:34:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY RATING DOWNGRADED DUE TO RISING TRADE TENSIONS AND DEBT LEVELS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-03-19 16:36:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.59
     }
 }
