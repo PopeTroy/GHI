@@ -1,5 +1,5 @@
 {
-    "shi": 0.69134,
+    "shi": 1.06461,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,39 +7,39 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoint"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High inflation and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms and economic stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Sustainable energy and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ENERGY CRISIS LOOMING IN EASTERN EUROPE.",
-    "last_updated": "2026-03-19 13:49:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-03-19 14:38:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
+        "T": 0.95,
         "B": 1.21,
-        "C": 1.05
+        "C": 0.85
     }
 }
