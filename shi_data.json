@@ -1,45 +1,45 @@
 {
-    "shi": 2.62192,
-    "health_percent": 82.15,
+    "shi": 34.85486,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Energy chokepoints"
+            "loc": "Singapore",
+            "deviation": "Trade barriers with neighboring countries"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy import dependence"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "Dubai, UAE",
+            "protocol": "Innovative financial reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Low corruption rates and high transparency"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy advancements and green policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: ECONOMIC INDICATORS SHOWING SIGNS OF INSTABILITY IN THE GLOBAL MARKET. TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-03-19 19:30:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISKS RISING DUE TO ONGOING TRADE DISPUTES AND SUPPLY CHAIN DISRUPTIONS. KEY CITIES IN ASIA AND EUROPE FACE POTENTIAL COLLAPSE DUE TO HIGH DEBT LEVELS AND ENERGY IMPORT DEPENDENCE. INVEST IN CITIES WITH HIGH SHI FOR STABILITY AND GROWTH.",
+    "last_updated": "2026-03-19 20:02:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.5
+        "B": 0.21,
+        "C": 0.12
     }
 }
