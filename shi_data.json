@@ -1,45 +1,45 @@
 {
-    "shi": 0.82554,
-    "health_percent": 62.5,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.57375,
+    "health_percent": 73.42,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:22",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tensions"
+            "deviation": "High debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy Price Volatility"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Debt Crisis"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Trade Reform"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Regulation"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ENERGY PRICES SOAR DUE TO GEOPOLITICAL UNCERTAINTY. ECONOMISTS WARN OF POTENTIAL DEBT CRISIS IN EMERGING MARKETS.",
-    "last_updated": "2026-03-19 23:47:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC STABILITY AT RISK",
+    "last_updated": "2026-03-20 00:55:21",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.65,
+        "P": 0.85,
+        "F": 1.21,
         "T": 0.92,
-        "B": 1.21,
-        "C": 0.75
+        "B": 1.11,
+        "C": 0.78
     }
 }
