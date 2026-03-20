@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.42,
+    "shi": 3.37824,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers with neighboring countries"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy supply chain disruptions"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation in fintech and cryptocurrency regulations"
-        },
-        {
-            "loc": "Hong Kong, China",
-            "protocol": "Establishment of a comprehensive anti-corruption framework"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Implementation of renewable energy sources"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES ARE EXPERIENCING A 10% DECLINE DUE TO LOGISTICAL CHALLENGES.",
-    "last_updated": "2026-03-20 21:47:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN BY 10% DUE TO INCREASED TRADE TENSIONS. ENERGY PRICES RISE AS MIDDLE EAST TENSIONS ESCALATE.",
+    "last_updated": "2026-03-20 22:02:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.4
     }
 }
