@@ -1,45 +1,45 @@
 {
-    "shi": 1.11345,
-    "health_percent": 74.23,
+    "shi": 0.7977,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "43:11:01",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade tensions with key partners"
+            "deviation": "High debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Dependence on imported energy"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation-driven economic policy"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green technology"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption and transparency measures"
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN SHOWCASE RESILIENT ECONOMIC MODELS THROUGH INNOVATIVE POLICIES AND SUSTAINABLE PRACTICES.",
-    "last_updated": "2026-03-20 03:28:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIC POWERS.",
+    "last_updated": "2026-03-20 05:04:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.67,
-        "T": 0.92,
+        "F": 0.92,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.56
+        "C": 0.91
     }
 }
