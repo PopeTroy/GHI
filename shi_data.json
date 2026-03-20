@@ -1,45 +1,45 @@
 {
-    "shi": 2.55264,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 73.52,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:01:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers with the US"
+            "loc": "New York City, USA",
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy shortages due to high demand"
+            "loc": "Singapore, Singapore",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt and low workforce participation"
+            "loc": "London, UK",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative fintech policies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and green policies"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures and stable governance"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND RECOMMEND DIVERSIFICATION OF TRADE PARTNERS.",
-    "last_updated": "2026-03-20 15:58:38",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC OUTLOOK: STABLE, BUT WITH WARNINGS OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-20 16:53:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.65,
-        "C": 0.93
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
