@@ -1,45 +1,45 @@
 {
-    "shi": 2.60049,
-    "health_percent": 78.25,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 62.15,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:32",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Wars"
+            "deviation": "High debt ratio"
+        },
+        {
+            "loc": "New York, USA",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High Debt"
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL COLLAPSE",
-    "last_updated": "2026-03-20 06:02:40",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: ECONOMIC INSTABILITY WARNING ISSUED FOR EUROPE, STOCK MARKETS PLUMMETING",
+    "last_updated": "2026-03-20 07:09:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.05,
+        "F": 0.92,
+        "T": 0.78,
         "B": 0.65,
-        "C": 0.92
+        "C": 0.42
     }
 }
