@@ -1,45 +1,45 @@
 {
-    "shi": 0.35238,
-    "health_percent": 74.21,
+    "shi": 1.17667,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:15",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, SINGAPORE AND DENMARK RANKED HIGH IN ECONOMIC STABILITY, CHINA'S HIGH DEBT POSES SIGNIFICANT RISK TO GLOBAL MARKETS.",
-    "last_updated": "2026-03-20 23:38:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. CITIES LIKE NEW YORK, BEIJING, AND DUBAI ARE AT HIGH RISK OF COLLAPSE.",
+    "last_updated": "2026-03-20 23:57:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 2.56,
-        "C": 1.1
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.05,
+        "B": 1.21,
+        "C": 0.85
     }
 }
