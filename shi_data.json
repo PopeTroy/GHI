@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 72.11,
-    "location": "BEIJING, CHINA",
+    "shi": 1.18547,
+    "health_percent": 73.2,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "High energy costs due to reliance on imported fuels"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade barriers affecting regional commerce"
+            "loc": "Caracas, Venezuela",
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt servicing issues due to high interest rates"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Investment in renewable energy and green technologies"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Implementation of anti-corruption policies and transparency reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Development of innovation hubs and startup ecosystems"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT: TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES; OIL PRICES SPIKE DUE TO SUPPLY CHAIN DISRUPTIONS; NEW INVESTMENT OPPORTUNITIES EMERGE IN SUSTAINABLE ENERGY SECTOR.",
-    "last_updated": "2026-03-20 19:45:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE. OIL PRICES SURGE AMID MIDDLE EASTERN UNREST.",
+    "last_updated": "2026-03-20 20:03:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
         "T": 1.01,
         "B": 1.23,
-        "C": 0.85
+        "C": 0.78
     }
 }
