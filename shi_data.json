@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 74.25,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "High population growth and infrastructure constraints"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and anti-corruption measures"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social stability"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A MODERATE RISK OF SUPPLY CHAIN DISRUPTION IN THE ASIA-PACIFIC REGION. GOVERNMENTS ARE ADVISED TO REVIEW TRADE POLICIES AND INVEST IN INFRASTRUCTURE DEVELOPMENT TO MITIGATE POTENTIAL BOTTLENECKS.",
-    "last_updated": "2026-03-20 09:09:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-03-20 09:58:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
