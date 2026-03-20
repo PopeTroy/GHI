@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.52,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.71121,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:01:42",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
-            "deviation": "High Trade Barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers impacting 30% of imports"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints causing 25% increase in fuel costs"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High Debt Levels"
+            "loc": "Tokyo, Japan",
+            "deviation": "High national debt exceeding 250% of GDP"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovative fintech regulations"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy infrastructure"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy with strong anti-corruption policies"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC OUTLOOK: STABLE, BUT WITH WARNINGS OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-20 16:53:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
+    "last_updated": "2026-03-20 17:30:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.72,
+        "F": 0.85,
+        "T": 0.92,
+        "B": 1.2,
+        "C": 0.95
     }
 }
