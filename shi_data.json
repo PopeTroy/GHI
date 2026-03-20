@@ -1,45 +1,45 @@
 {
-    "shi": 1.57375,
-    "health_percent": 73.42,
+    "shi": 1.11345,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade tensions with key partners"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Dependence on imported energy"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation-driven economic policy"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hub"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green technology"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Robust anti-corruption and transparency measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC STABILITY AT RISK",
-    "last_updated": "2026-03-20 00:55:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN SHOWCASE RESILIENT ECONOMIC MODELS THROUGH INNOVATIVE POLICIES AND SUSTAINABLE PRACTICES.",
+    "last_updated": "2026-03-20 03:28:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
+        "F": 0.67,
         "T": 0.92,
-        "B": 1.11,
-        "C": 0.78
+        "B": 1.21,
+        "C": 0.56
     }
 }
