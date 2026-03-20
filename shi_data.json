@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 0.84052,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "deviation": "High population growth and infrastructure constraints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN IN THE NEXT QUARTER.",
-    "last_updated": "2026-03-20 08:33:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A MODERATE RISK OF SUPPLY CHAIN DISRUPTION IN THE ASIA-PACIFIC REGION. GOVERNMENTS ARE ADVISED TO REVIEW TRADE POLICIES AND INVEST IN INFRASTRUCTURE DEVELOPMENT TO MITIGATE POTENTIAL BOTTLENECKS.",
+    "last_updated": "2026-03-20 09:09:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.1,
+        "C": 0.95
     }
 }
