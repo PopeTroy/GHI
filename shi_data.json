@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
+    "shi": 1.11344,
+    "health_percent": 72.11,
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High energy dependency"
+            "loc": "Vladivostok, Russia",
+            "deviation": "High energy costs due to reliance on imported fuels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers affecting regional commerce"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade restrictions"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Debt servicing issues due to high interest rates"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs"
+            "protocol": "Investment in renewable energy and green technologies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Implementation of anti-corruption policies and transparency reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption measures"
+            "loc": "Tokyo, Japan",
+            "protocol": "Development of innovation hubs and startup ecosystems"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE WARS ESCALATING, AND ENERGY DEMAND ON THE RISE.",
-    "last_updated": "2026-03-20 19:04:15",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT: TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES; OIL PRICES SPIKE DUE TO SUPPLY CHAIN DISRUPTIONS; NEW INVESTMENT OPPORTUNITIES EMERGE IN SUSTAINABLE ENERGY SECTOR.",
+    "last_updated": "2026-03-20 19:45:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
