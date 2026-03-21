@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 72.55,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive debt and trade tensions"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy shortages and high operational costs"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
             "loc": "London, UK",
-            "deviation": "Regulatory hurdles and bureaucratic inefficiencies"
+            "deviation": "Brexit-related trade uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Economic reforms and streamlined regulations"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative entrepreneurship and green initiatives"
+            "protocol": "Anti-corruption reforms and innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust banking system and investment in human capital"
+            "protocol": "Policy reforms and stable financial system"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, WITH KEY ECONOMIES SHOWING SIGNS OF GROWTH DESPITE RISING CONCERNS OVER TRADE AND ENERGY SECURITY.",
-    "last_updated": "2026-03-21 22:14:09",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-21 22:44:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
