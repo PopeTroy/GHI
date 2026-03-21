@@ -1,45 +1,45 @@
 {
-    "shi": 0.74072,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 0.77048,
+    "health_percent": 62.18,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:16:23",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High Debt Ratio"
+        },
+        {
+            "loc": "New York City, USA",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers and corruption"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Brexit-related uncertainty and high debt"
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms and innovation"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and financial stability"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Investment in renewable energy and technological advancements"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWS TO 2.5% AMID RISING TRADE TENSIONS AND DEBT CONCERNS.",
-    "last_updated": "2026-03-21 12:00:23",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TOKYO'S SUPPLY CHAIN FACES DISRUPTION; BEIJING'S DEBT RATIO REACHES CRITICAL LEVELS; SINGAPORE'S INNOVATION HUB ATTRACTS FOREIGN INVESTMENT.",
+    "last_updated": "2026-03-21 13:08:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.98
+        "B": 1.2,
+        "C": 0.95
     }
 }
