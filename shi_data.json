@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
+    "shi": 2.04324,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:00",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy import dependency"
+            "deviation": "Trade tensions with major economies"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Inefficient trade corridors"
+            "loc": "Dubai, UAE",
+            "deviation": "Over-reliance on oil exports"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Rising national debt"
+            "loc": "Los Angeles, USA",
+            "deviation": "High levels of public debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Singapore",
+            "protocol": "Streamlined business regulations"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption measures"
+            "protocol": "Strong anti-corruption laws"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Prominent innovation hub"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Investments in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLATILITY INCREASES BY 2%, CRUDE OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS, CENTRAL BANKS WORLDWIDE RAISE INTEREST RATES TO COMBAT INFLATION",
-    "last_updated": "2026-03-21 06:42:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE NEGOTIATIONS STALL, AND ENERGY PRICES SKYROCKET.",
+    "last_updated": "2026-03-21 07:22:31",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.87,
+        "F": 1.21,
+        "T": 1.05,
+        "B": 0.95,
+        "C": 0.82
     }
 }
