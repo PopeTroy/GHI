@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.2,
+    "shi": 3.21737,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barrier"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Reform"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC STABILITY UNDER THREAT, GOVERNMENTS URGED TO IMPLEMENT GROWTH PROTOCOLS TO AVOID COLLAPSE",
-    "last_updated": "2026-03-21 08:16:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS PREDICT POTENTIAL COLLAPSE IN 48 HOURS. TRADE NEGOTIATIONS STALLED BETWEEN MAJOR ECONOMIES. INNOVATION HUBS SEEING INCREASED INVESTMENT.",
+    "last_updated": "2026-03-21 08:52:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
