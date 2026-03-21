@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.23,
+    "shi": 27.88389,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:27:11",
+    "collapse_timer": "48:07:32",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy demand"
+            "deviation": "trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Regulatory hurdles"
+            "loc": "Moscow, Russia",
+            "deviation": "energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging workforce"
+            "loc": "Lagos, Nigeria",
+            "deviation": "high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable practices"
+            "loc": "Zurich, Switzerland",
+            "protocol": "anti-corruption"
         },
         {
-            "loc": "Geneva, Switzerland",
-            "protocol": "International cooperation"
+            "loc": "San Francisco, USA",
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, WHILE TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATE. REGIONAL INSTABILITY IN THE MIDDLE EAST AFFECTS OIL PRICES.",
-    "last_updated": "2026-03-21 15:36:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS, ENERGY SHORTAGES, AND INCREASING NATIONAL DEBT LEVELS.",
+    "last_updated": "2026-03-21 15:54:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.21,
+        "C": 0.15
     }
 }
