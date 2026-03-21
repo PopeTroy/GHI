@@ -3,37 +3,37 @@
     "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers due to high tariffs"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints affecting oil supply"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt levels impacting economic stability"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative policy reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy adoption"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy with strong trade relationships"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS. EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
-    "last_updated": "2026-03-21 21:01:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SIGNIFICANT FLUCTUATIONS AS TRADE TENSIONS ESCALATE; GOVERNMENTS SCRAMBLE TO IMPLEMENT STIMULUS PACKAGES AND STABILIZE ECONOMIES.",
+    "last_updated": "2026-03-21 21:34:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
