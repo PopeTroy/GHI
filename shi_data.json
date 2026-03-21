@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.29018,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:14",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "High tariff barriers"
+            "loc": "Beijing, China",
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy grid overcapacity"
+            "loc": "Singapore, Singapore",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Rising national debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Streamlined tax reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Implementing renewable energy sources"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Innovation hub for green technologies"
+            "protocol": "Anti-Corruption Policies"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM ARE LEADING THE WAY IN SUSTAINABLE GROWTH",
-    "last_updated": "2026-03-21 23:34:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, ECONOMISTS PREDICT SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
+    "last_updated": "2026-03-21 23:54:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.1,
+        "B": 1.25,
+        "C": 0.75
     }
 }
