@@ -1,45 +1,45 @@
 {
-    "shi": 11.95024,
-    "health_percent": 67.23,
+    "shi": 1.17484,
+    "health_percent": 73.12,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "High debt levels"
+        },
+        {
+            "loc": "Mumbai, India",
             "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "London, UK",
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS SEE GROWTH IN SUSTAINABLE ENERGY AND TECH SECTORS.",
-    "last_updated": "2026-03-21 02:21:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | THE GLOBAL ECONOMY REMAINS UNDER PRESSURE AS SUPPLY CHAIN DISRUPTIONS CONTINUE TO IMPACT MAJOR CITIES, WITH NEW YORK BEING IDENTIFIED AS A HIGH IMPACT LOCATION",
+    "last_updated": "2026-03-21 04:15:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.35
+        "F": 1.22,
+        "T": 0.76,
+        "B": 0.92,
+        "C": 1.05
     }
 }
