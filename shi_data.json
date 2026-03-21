@@ -1,45 +1,45 @@
 {
-    "shi": 27.88389,
+    "shi": 1.05203,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:32",
+    "collapse_timer": "96:02:13",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "energy chokepoints"
+            "loc": "Dhaka, Bangladesh",
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "high debt"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "protocol": "Innovation"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS, ENERGY SHORTAGES, AND INCREASING NATIONAL DEBT LEVELS.",
-    "last_updated": "2026-03-21 15:54:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO RISING TRADE TENSIONS, WHILE INNOVATIVE CITIES CONTINUE TO ATTRACT FOREIGN INVESTMENT.",
+    "last_updated": "2026-03-21 16:21:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.15
+        "B": 1.21,
+        "C": 0.69
     }
 }
