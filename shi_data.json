@@ -1,21 +1,21 @@
 {
-    "shi": 3.21737,
-    "health_percent": 74.21,
+    "shi": 1.53487,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WHILE REGIONAL INSTABILITIES PERSIST IN THE MIDDLE EAST AND SOUTHEAST ASIA.",
-    "last_updated": "2026-03-21 19:13:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY RISING GLOBALLY, COMMODITY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-03-21 19:38:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.01,
+        "B": 0.78,
+        "C": 0.95
     }
 }
