@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
+    "shi": 0.98953,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade War"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and financial instability"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Shortage"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and low corruption"
+            "loc": "Singapore",
+            "protocol": "Advanced Tax Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "High innovation and stable financial system"
+            "protocol": "Robust Anti-Corruption Measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Strong anti-corruption measures and green initiatives"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovative Startup Ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, WITH THE DOW JONES PLUMMETING 500 POINTS IN A SINGLE DAY. ECONOMISTS WARN OF A POTENTIAL ECONOMIC DOWNTURN AS TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-03-21 11:32:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, TRADERS ADVISE CAUTION.",
+    "last_updated": "2026-03-21 11:50:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "F": 1.21,
+        "T": 0.67,
+        "B": 1.09,
+        "C": 0.92
     }
 }
