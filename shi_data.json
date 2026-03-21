@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 67.25,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 67.2,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "New York City, USA",
+            "deviation": "Over-reliance on foreign energy and high tariffs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient logistics and high transportation costs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Streamlined customs procedures and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Effective policy reforms and stable financial sector"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation-driven economy and high transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH POTENTIAL FOR SUPPLY CHAIN DISRUPTIONS AND TRADE BARRIERS.",
-    "last_updated": "2026-03-21 16:50:30",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY SHOWING SIGNS OF INSTABILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR KEY INDICATORS CLOSELY.",
+    "last_updated": "2026-03-21 17:14:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.65
+        "B": 0.65,
+        "C": 0.42
     }
 }
