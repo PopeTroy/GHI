@@ -1,45 +1,45 @@
 {
-    "shi": 11.27526,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.77781,
+    "health_percent": 74.2,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Mumbai, India",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
             "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, WITH KEY MARKETS EXPERIENCING FLUCTUATIONS IN TRADE AND ENERGY. REGIONAL HOTSPOTS SUCH AS THE MIDDLE EAST AND ASIA ARE AT RISK OF DESTABILIZATION DUE TO BOTTLENECKS IN ENERGY AND TRADE.",
-    "last_updated": "2026-03-21 05:13:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A 2% INCREASE IN TRADE, BUT ENERGY SHORTAGES PERSIST IN EASTERN EUROPE.",
+    "last_updated": "2026-03-21 05:56:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.41,
-        "C": 0.19
+        "B": 0.62,
+        "C": 0.51
     }
 }
