@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.62985,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "San Francisco, USA",
+            "deviation": "Energy Shortages"
         },
         {
-            "loc": "Tehran, Iran",
+            "loc": "Mumbai, India",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption Efforts"
         },
         {
-            "loc": "Toronto, Canada",
+            "loc": "Vancouver, Canada",
             "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, MAJOR TRADE ROUTES FACE DISRUPTIONS, AS ECONOMISTS WARN OF IMPENDING COLLAPSE",
-    "last_updated": "2026-03-21 17:44:04",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS PREDICT ECONOMIC DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-03-21 17:59:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.76
     }
 }
