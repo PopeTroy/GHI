@@ -1,16 +1,16 @@
 {
-    "shi": 1.17667,
-    "health_percent": 74.2,
+    "shi": 11.95024,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:07:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
@@ -21,25 +21,25 @@
     "high_shi": [
         {
             "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "London, UK",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
             "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. CITIES LIKE NEW YORK, BEIJING, AND DUBAI ARE AT HIGH RISK OF COLLAPSE.",
-    "last_updated": "2026-03-20 23:57:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS SEE GROWTH IN SUSTAINABLE ENERGY AND TECH SECTORS.",
+    "last_updated": "2026-03-21 02:21:49",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 1.21,
-        "C": 0.85
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.35
     }
 }
