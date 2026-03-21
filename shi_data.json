@@ -1,45 +1,45 @@
 {
-    "shi": 0.98953,
-    "health_percent": 73.21,
+    "shi": 0.74072,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "42:16:23",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High debt and energy chokepoints"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Shortage"
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High National Debt"
+            "loc": "London, UK",
+            "deviation": "Brexit-related uncertainty and high debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Advanced Tax Reform"
+            "protocol": "Pro-business policy reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Measures"
+            "protocol": "Strong anti-corruption measures and financial stability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovative Startup Ecosystem"
+            "loc": "Tokyo, Japan",
+            "protocol": "Investment in renewable energy and technological advancements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, TRADERS ADVISE CAUTION.",
-    "last_updated": "2026-03-21 11:50:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWS TO 2.5% AMID RISING TRADE TENSIONS AND DEBT CONCERNS.",
+    "last_updated": "2026-03-21 12:00:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 1.09,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.98
     }
 }
