@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.2,
-    "location": "TOKYO, JAPAN",
+    "health_percent": 67.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Over-reliance on foreign energy and high tariffs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inefficient logistics and high transportation costs"
+            "loc": "Tehran, Iran",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined customs procedures and low corruption"
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective policy reforms and stable financial sector"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation-driven economy and high transparency"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY SHOWING SIGNS OF INSTABILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR KEY INDICATORS CLOSELY.",
-    "last_updated": "2026-03-21 17:14:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, MAJOR TRADE ROUTES FACE DISRUPTIONS, AS ECONOMISTS WARN OF IMPENDING COLLAPSE",
+    "last_updated": "2026-03-21 17:44:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
