@@ -1,45 +1,45 @@
 {
-    "shi": 4.59854,
-    "health_percent": 67.23,
+    "shi": 2.28502,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "55:23:13",
+    "collapse_timer": "48:22:13",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High energy demand"
+        },
+        {
+            "loc": "Suez, Egypt",
+            "deviation": "Trade barrier"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "Debt servicing issues"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms and sustainable development"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Environmental and social responsibility initiatives"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED SIGNALS: GROWTH IN EMERGING MARKETS BUT DECLINE IN MATURE ECONOMIES. TRADE TENSIONS REMAIN HIGH, AND INVESTORS ARE ON HIGH ALERT FOR POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-21 19:52:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS.",
+    "last_updated": "2026-03-21 20:15:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.73,
-        "F": 0.62,
-        "T": 0.81,
-        "B": 0.28,
-        "C": 0.41
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 0.67,
+        "C": 0.89
     }
 }
