@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 72.55,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.20507,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Shanghai, China",
+            "deviation": "Over-reliance on imports"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-related trade uncertainty"
+            "loc": "Tokyo, Japan",
+            "deviation": "High public debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms and innovation hubs"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable financial system"
+            "protocol": "Strong financial regulations"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy practices"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-21 22:44:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO TRADE TENSIONS; EXPERTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-21 23:01:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
+        "T": 1.01,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.78
     }
 }
