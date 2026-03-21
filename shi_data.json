@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
+    "shi": 1.64792,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Energy Consumption"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "High Debt Ratio"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption Laws"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Renewable Energy Focus"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES",
-    "last_updated": "2026-03-21 09:50:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY RISES AS TRADE TENSIONS ESCALATE, WITH KEY BOTTLENECKS IDENTIFIED IN ASIA AND SOUTH AMERICA. MEANWHILE, TOP PERFORMERS IN INNOVATION AND GOVERNANCE ARE SETTING NEW STANDARDS FOR STABILITY AND GROWTH.",
+    "last_updated": "2026-03-21 10:12:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.42
+        "C": 0.82
     }
 }
