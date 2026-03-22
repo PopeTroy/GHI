@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 72.15,
+    "shi": 1.05203,
+    "health_percent": 62.1,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "deviation": "Infrastructure deficits and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Advanced financial regulations and innovation ecosystem"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Stringent anti-corruption measures and green technology adoption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and robust social welfare systems"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS, WHILE INNOVATION HUBS EXPERIENCE GROWTH",
-    "last_updated": "2026-03-22 06:10:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. ECONOMISTS PREDICT A SLOWDOWN IN GROWTH FOR THE NEXT QUARTER.",
+    "last_updated": "2026-03-22 07:08:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.69
     }
 }
