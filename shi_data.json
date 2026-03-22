@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.25,
-    "location": "NEW YORK, USA",
+    "shi": 2.22196,
+    "health_percent": 74.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "loc": "Hong Kong, China",
+            "deviation": "Trade restrictions and high debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint and geopolitical tensions"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-Inflation"
+            "loc": "New York City, USA",
+            "deviation": "High debt and inequality"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Streamlined Regulations"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Low Corruption Index"
+            "protocol": "Robust policy reforms and anti-corruption measures"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation and technological advancements"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and social welfare programs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH EFFECTIVE PROTOCOLS AND LOW CORRUPTION RATES.",
-    "last_updated": "2026-03-22 21:45:23",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS IMPLEMENTING EMERGENCY MEASURES TO STABILIZE ECONOMIES.",
+    "last_updated": "2026-03-22 22:00:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.67,
+        "C": 0.59
     }
 }
