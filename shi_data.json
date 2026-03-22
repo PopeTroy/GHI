@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "Trade restrictions and high debt"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Venezuela, Caracas",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint and geopolitical tensions"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High debt and inequality"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust policy reforms and anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation and technological advancements"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social welfare programs"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS IMPLEMENTING EMERGENCY MEASURES TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-03-22 22:00:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TENSIONS RISING, TRADE VOLUMES DECREASING, AND COMMODITY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-03-22 22:35:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.67
     }
 }
