@@ -1,45 +1,45 @@
 {
-    "shi": 2.13108,
-    "health_percent": 78.52,
+    "shi": 6.24266,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and regulatory issues"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt and political instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Strong innovation and research ecosystem"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Sustainable energy practices and low debt levels"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR MAJOR TRADE HUBS, GLOBAL MARKET VOLATILITY EXPECTED TO RISE.",
-    "last_updated": "2026-03-22 16:20:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING EFFECTIVE PROTOCOLS TO MITIGATE THESE RISKS, WHILE CITIES LIKE BEIJING AND TOKYO STRUGGLE WITH BOTTLENECKS.",
+    "last_updated": "2026-03-22 16:51:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
-        "B": 0.75,
-        "C": 0.62
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.67
     }
 }
