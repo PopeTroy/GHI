@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.23,
+    "shi": 2.22196,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "36:02:14",
+    "collapse_timer": "48:02:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "deviation": "Energy shortages and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging Population and Workforce"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Inadequate policy reforms and hyperinflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub Development"
+            "protocol": "Innovative economic policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Sector Reforms"
+            "protocol": "Strong anti-corruption measures and stable banking system"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Green Technology Investments"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Effective policy reforms and high investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CENTRAL BANKS PREPARING FOR POTENTIAL DOWNTURN",
-    "last_updated": "2026-03-22 12:44:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS, IMF WARNS OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-03-22 13:34:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.67,
+        "C": 0.59
     }
 }
