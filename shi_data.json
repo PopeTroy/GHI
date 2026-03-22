@@ -1,45 +1,45 @@
 {
-    "shi": 1.61683,
-    "health_percent": 67.32,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Riyadh, Saudi Arabia",
             "deviation": "Energy Price Volatility"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt Levels"
+            "loc": "Moscow, Russia",
+            "deviation": "Debt Overhang"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-Friendly Regulations"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Initiatives"
+            "protocol": "Streamlined Trade Regulations"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Sector Reforms"
+            "protocol": "Robust Anti-Corruption Measures"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Cutting-Edge Innovation Hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ON HIGH ALERT AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIC POWERS. OIL PRICES SURGE AMIDST SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-22 10:20:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS ESCALATE; ECONOMISTS PREDICT A 25% CHANCE OF RECESSION WITHIN THE NEXT 12 MONTHS.",
+    "last_updated": "2026-03-22 10:50:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.73,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.08,
-        "B": 0.85,
-        "C": 0.76
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
