@@ -1,45 +1,45 @@
 {
-    "shi": 6.24266,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "shi": 2.341,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and regulatory issues"
+            "loc": "Moscow, Russia",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and political instability"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and research ecosystem"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy practices and low debt levels"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING EFFECTIVE PROTOCOLS TO MITIGATE THESE RISKS, WHILE CITIES LIKE BEIJING AND TOKYO STRUGGLE WITH BOTTLENECKS.",
-    "last_updated": "2026-03-22 16:51:06",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, JAPAN'S ECONOMY SHOWS SIGNS OF RESILIENCE, WHILE TRADE TENSIONS BETWEEN US AND CHINA CONTINUE TO ESCALATE.",
+    "last_updated": "2026-03-22 17:14:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
+        "B": 0.56,
         "C": 0.67
     }
 }
