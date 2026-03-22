@@ -1,45 +1,45 @@
 {
-    "shi": 1.57568,
-    "health_percent": 74.2,
+    "shi": 1.64792,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "36:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt Levels"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Disruptions"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Brexit-related economic instability"
+            "deviation": "Aging Population and Workforce"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative economic policies"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub Development"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption laws"
+            "protocol": "Financial Sector Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Investment in renewable energy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Green Technology Investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISES AS TRADE TENSIONS ESCALATE. MARKETS REACT NERVOUSLY TO POTENTIAL COLLAPSE.",
-    "last_updated": "2026-03-22 11:55:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CENTRAL BANKS PREPARING FOR POTENTIAL DOWNTURN",
+    "last_updated": "2026-03-22 12:44:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.91,
-        "T": 0.85,
-        "B": 0.75,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
         "C": 0.82
     }
 }
