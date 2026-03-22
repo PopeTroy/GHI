@@ -1,45 +1,45 @@
 {
-    "shi": 1.84933,
-    "health_percent": 67.32,
+    "shi": 0.82618,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:20:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Energy Costs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and supply constraints"
+            "loc": "Beijing, China",
+            "deviation": "Trade Tensions"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit uncertainty and financial volatility"
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech and pro-business policies"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Stable banking and strong anti-corruption measures"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Practices"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high-quality infrastructure"
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS ESCALATING, AND GEOPOLITICAL UNCERTAINTY ON THE RISE.",
-    "last_updated": "2026-03-22 04:06:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE NEGOTIATIONS STALLED, AND ENERGY PRICES SOARING. ECONOMIC INSTABILITY LOOMING, EXPERTS WARN OF POTENTIAL COLLAPSE.",
+    "last_updated": "2026-03-22 05:23:39",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.82
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.98
     }
 }
