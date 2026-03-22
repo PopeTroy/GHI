@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
+    "shi": 2.59865,
     "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High debt levels"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Lagos, Nigeria",
             "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption policy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reform"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, JAPAN'S ECONOMY SHOWS SIGNS OF RESILIENCE, WHILE TRADE TENSIONS BETWEEN US AND CHINA CONTINUE TO ESCALATE.",
-    "last_updated": "2026-03-22 17:14:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY, ECONOMISTS PREDICT DOWNTURN IN Q2",
+    "last_updated": "2026-03-22 17:44:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.52
     }
 }
