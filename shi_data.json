@@ -1,45 +1,45 @@
 {
-    "shi": 2.1679,
-    "health_percent": 73.2,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:43",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Inefficient infrastructure and bureaucracy"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and low corruption"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high transparency"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS. TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES ARE ONGOING. THE THREAT OF SUPPLY CHAIN DISRUPTIONS REMAINS HIGH.",
-    "last_updated": "2026-03-22 20:28:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY AS SUPPLY CHAIN DISRUPTIONS CONTINUE TO ESCALATE. ECONOMIC INSTABILITY IS ON THE RISE, WITH MULTIPLE COUNTRIES FACING POTENTIAL COLLAPSE. STAY TUNED FOR UPDATES.",
+    "last_updated": "2026-03-22 20:54:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
