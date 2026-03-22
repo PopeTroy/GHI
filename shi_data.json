@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "shi": 1.57375,
+    "health_percent": 73.42,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "43:21:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Hong Kong, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Energy Chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Renewable energy innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Economic diversification policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TENSIONS RISING, TRADE VOLUMES DECREASING, AND COMMODITY PRICES FLUCTUATING WILDLY.",
-    "last_updated": "2026-03-22 22:35:52",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE ASIA-PACIFIC REGION, ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE",
+    "last_updated": "2026-03-22 22:57:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.11,
+        "C": 0.78
     }
 }
