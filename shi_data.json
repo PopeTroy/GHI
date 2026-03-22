@@ -1,45 +1,45 @@
 {
-    "shi": 0.8741,
-    "health_percent": 67.32,
+    "shi": 2.38577,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SUDDEN DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, WITH MAJOR PORTS AND TRADE ROUTES AFFECTED.",
-    "last_updated": "2026-03-22 19:16:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY FACES POTENTIAL DOWNTURN DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL INSTABILITY.",
+    "last_updated": "2026-03-22 19:41:54",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.85
+        "P": 0.83,
+        "F": 0.91,
+        "T": 1.02,
+        "B": 0.75,
+        "C": 0.62
     }
 }
