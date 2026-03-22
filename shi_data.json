@@ -1,45 +1,45 @@
 {
-    "shi": 3.98758,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.17421,
+    "health_percent": 67.35,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Energy Dependency"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and supply chain issues"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Major Trade Barrier"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Cape Town, South Africa",
+            "deviation": "High Public Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption and policy reforms"
-        },
-        {
-            "loc": "Hong Kong, China",
-            "protocol": "Innovation and technological advancements"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and transparency"
+            "protocol": "Anti-Corruption Policies"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT AS SUPPLY CHAIN DISRUPTIONS MOUNT. ASIAN MARKETS SEE SIGNIFICANT VOLATILITY.",
-    "last_updated": "2026-03-22 18:00:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MULTIPLE HIGH-RISK ZONES IDENTIFIED. POLICY REFORMS AND INNOVATION CAN MITIGATE POTENTIAL COLLAPSE.",
+    "last_updated": "2026-03-22 18:51:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.82,
         "F": 1.21,
-        "T": 0.92,
-        "B": 0.67,
-        "C": 0.51
+        "T": 1.05,
+        "B": 0.75,
+        "C": 0.92
     }
 }
