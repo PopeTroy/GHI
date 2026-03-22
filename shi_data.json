@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.17421,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy shortages and rising inequality"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-induced economic instability"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative trade policies"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Renewable energy and social reforms"
+            "loc": "London, UK",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and anti-corruption measures"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. TOKYO IDENTIFIED AS HIGH-IMPACT LOCATION. BOTTLENECKS IN BEIJING, NEW YORK CITY, AND LONDON. STABILITY HUBS IN SINGAPORE, STOCKHOLM, AND VANCOUVER.",
-    "last_updated": "2026-03-22 15:34:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A SLIGHT DOWNTREND IN GLOBAL MARKETS, WITH CONCERNS OVER SUPPLY CHAIN DISRUPTIONS IN THE ASIA-PACIFIC REGION.",
+    "last_updated": "2026-03-22 15:53:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 1.21,
+        "T": 1.05,
+        "B": 0.75,
+        "C": 0.92
     }
 }
