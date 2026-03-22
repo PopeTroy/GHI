@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and high operational costs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "Venezuela, Caracas",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption"
+            "loc": "Tokyo, Japan",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and financial stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and low debt"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS AND BOTTLENECKS. TOKYO IDENTIFIED AS HIGH IMPACT LOCATION. IMPLEMENTING PROTOCOLS SUCH AS INNOVATION AND ANTI-CORRUPTION CAN IMPROVE STABILITY.",
-    "last_updated": "2026-03-22 08:53:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES ARE FLUCTUATING DUE TO GEOPOLITICAL EVENTS.",
+    "last_updated": "2026-03-22 09:24:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
