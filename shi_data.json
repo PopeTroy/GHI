@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.32,
+    "shi": 0.74689,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:16",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Restrictions"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Debt Ceiling Concerns"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Singapore",
+            "protocol": "Smart Port Innovations"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation Hubs"
+            "protocol": "Streamlined Regulations"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Green Technology Investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 74.21. KEY SECTOR ALERTS: MANUFACTURING, FINANCE. HOTSPOTS: SOUTH AMERICA, EASTERN EUROPE.",
-    "last_updated": "2026-03-22 14:39:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINING, ECONOMIC INSTABILITY SPREADING, INVESTORS SEEKING SAFE HAVENS.",
+    "last_updated": "2026-03-22 14:59:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.2,
+        "C": 0.98
     }
 }
