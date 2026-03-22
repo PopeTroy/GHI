@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 62.1,
+    "shi": 1.5805,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure deficits and bureaucratic inefficiencies"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low birth rates"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Advanced financial regulations and innovation ecosystem"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Stringent anti-corruption measures and green technology adoption"
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and robust social welfare systems"
+            "loc": "Zurich, Switzerland",
+            "protocol": "High investment in research and development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. ECONOMISTS PREDICT A SLOWDOWN IN GROWTH FOR THE NEXT QUARTER.",
-    "last_updated": "2026-03-22 07:08:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, OIL PRICES RISING, AND TENSIONS BETWEEN MAJOR ECONOMIES ESCALATING.",
+    "last_updated": "2026-03-22 07:49:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.13,
+        "C": 0.76
     }
 }
