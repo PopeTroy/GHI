@@ -1,45 +1,45 @@
 {
-    "shi": 1.29018,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.05076,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:14",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Energy Chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and policy instability"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High debt and regulatory inefficiencies"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovation and entrepreneurship"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Reforms"
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, ECONOMISTS PREDICT SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
-    "last_updated": "2026-03-21 23:54:06",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, WITH TRADE TENSIONS ON THE RISE AND ENERGY PRICES FLUCTUATING WILDLY. INVESTORS ARE ADVISED TO DIVERSIFY THEIR PORTFOLIOS AND MONITOR ECONOMIC INDICATORS CLOSELY.",
+    "last_updated": "2026-03-22 01:44:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.25,
-        "C": 0.75
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.88
     }
 }
