@@ -1,45 +1,45 @@
 {
-    "shi": 1.5805,
+    "shi": 1.08344,
     "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "high debt from excessive foreign borrowing"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "deviation": "energy chokepoints due to pipeline constraints"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low birth rates"
+            "deviation": "trade barriers from protectionist policies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative policy reforms"
+            "loc": "London, UK",
+            "protocol": "anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong anti-corruption measures"
+            "loc": "Tokyo, Japan",
+            "protocol": "innovation hubs for green technology"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "High investment in research and development"
+            "loc": "Sydney, Australia",
+            "protocol": "policy reforms for entrepreneurship"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, OIL PRICES RISING, AND TENSIONS BETWEEN MAJOR ECONOMIES ESCALATING.",
-    "last_updated": "2026-03-22 07:49:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY PRICE VOLATILITY; CITIES WITH STRONG INNOVATION HUBS AND ANTI-CORRUPTION PROTOCOLS ARE MORE RESILIENT TO POTENTIAL COLLAPSES.",
+    "last_updated": "2026-03-22 08:18:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.95,
-        "B": 1.13,
-        "C": 0.76
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
