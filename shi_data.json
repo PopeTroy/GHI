@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 2.77781,
+    "health_percent": 74.21,
+    "location": "LONDON, UNITED KINGDOM",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:02:14",
     "bottlenecks": [
         {
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "High Energy Chokepoint Risk"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade restrictions"
+            "deviation": "Trade Barrier Impacts"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply chain disruptions"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt"
+            "loc": "New York City, USA",
+            "deviation": "Excessive Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Streamlined Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Initiatives"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms for economic stability"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH TRADE WARS AND ENERGY SHORTAGES AFFECTING MAJOR ECONOMIES.",
-    "last_updated": "2026-03-23 21:49:49",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX ALERT: HIGH IMPACT LOCATION IDENTIFIED, IMPLEMENTING PROTOCOL REFORMS AND ADDRESSING BOTTLENECKS",
+    "last_updated": "2026-03-23 22:17:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.62,
+        "C": 0.51
     }
 }
