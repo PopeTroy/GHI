@@ -1,45 +1,45 @@
 {
-    "shi": 1.55239,
-    "health_percent": 74.23,
+    "shi": 2.75264,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial instability and Brexit uncertainties"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Streamlined policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable governance"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Strong anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL ECONOMY TEETERS ON BRINK OF COLLAPSE AS TRADE TENSIONS ESCALATE AND ENERGY PRICES SKYROCKET. FOLLOW LIVE UPDATES AND EXPERT ANALYSIS.",
-    "last_updated": "2026-03-23 11:55:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, ECONOMIC STABILITY AT RISK. TRADE TENSIONS BETWEEN MAJOR NATIONS ESCALATE.",
+    "last_updated": "2026-03-23 13:01:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.69,
-        "C": 0.82
+        "T": 1.1,
+        "B": 0.75,
+        "C": 0.6
     }
 }
