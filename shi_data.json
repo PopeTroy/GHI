@@ -1,39 +1,39 @@
 {
     "shi": 0.99767,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:23:17",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade tariffs"
+            "loc": "New York, USA",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy shortages"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High national debt"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial reforms"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-23 18:10:41",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS RISE. ENERGY PRICES SURGE DUE TO GEOPOLITICAL INSTABILITY.",
+    "last_updated": "2026-03-23 19:13:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
