@@ -1,27 +1,27 @@
 {
-    "shi": 1.64792,
+    "shi": 0.84052,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Beijing, China",
+            "loc": " Moscow, Russia",
             "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Tokyo, Japan",
             "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
@@ -29,17 +29,17 @@
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, BUT HIGH SHI NODES ARE DRIVING GROWTH THROUGH INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-03-23 14:19:10",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-03-23 15:31:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.1,
+        "C": 0.95
     }
 }
