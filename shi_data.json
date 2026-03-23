@@ -1,27 +1,27 @@
 {
-    "shi": 1.89285,
-    "health_percent": 63.21,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
@@ -32,14 +32,14 @@
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS. MEANWHILE, CITIES LIKE SINGAPORE AND COPENHAGEN ARE LEADING THE WAY IN IMPLEMENTING EFFECTIVE PROTOCOLS FOR GROWTH AND STABILITY.",
-    "last_updated": "2026-03-23 16:31:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-03-23 17:28:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.82
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
