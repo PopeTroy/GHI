@@ -1,45 +1,45 @@
 {
-    "shi": 1.26397,
+    "shi": 4.51926,
     "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Panama City, Panama",
-            "deviation": "Trade Barriers"
+            "loc": "Vladivostok, Russia",
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Suez, Egypt",
+            "deviation": "Energy chokepoint due to geopolitical tensions"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers affecting international trade"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms and policy stability"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovation and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Robust policy framework and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS. INNOVATION HUBS EMERGE AS BEACONS OF STABILITY.",
-    "last_updated": "2026-03-23 23:28:54",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS CONTINUE TO ESCALATE, SUPPLY CHAINS AT RISK; US CENTRAL BANK PLANS TO RAISE INTEREST RATES TO MITIGATE INFLATION; ASIA-PACIFIC REGION SEES INCREASED FOREIGN INVESTMENT",
+    "last_updated": "2026-03-23 23:57:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 1.21,
         "T": 0.92,
-        "B": 1.1,
-        "C": 0.98
+        "B": 0.67,
+        "C": 0.45
     }
 }
