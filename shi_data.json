@@ -1,21 +1,21 @@
 {
-    "shi": 2.341,
-    "health_percent": 74.2,
+    "shi": 1.55239,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and aging population"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and economic instability"
+            "loc": "London, UK",
+            "deviation": "Financial instability and Brexit uncertainties"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-corruption and stable governance"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-03-23 11:10:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL ECONOMY TEETERS ON BRINK OF COLLAPSE AS TRADE TENSIONS ESCALATE AND ENERGY PRICES SKYROCKET. FOLLOW LIVE UPDATES AND EXPERT ANALYSIS.",
+    "last_updated": "2026-03-23 11:55:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.56
+        "B": 0.69,
+        "C": 0.82
     }
 }
