@@ -1,45 +1,45 @@
 {
-    "shi": 1.53487,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions and sanctions"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Economic instability and supply chain disruptions"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and stagnating innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and technology adoption"
+            "protocol": "Business-friendly policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial reforms and stability"
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green initiatives"
+            "loc": "San Francisco, USA",
+            "protocol": "Thriving innovation ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, OIL PRICES RISING, AND GEOPOLITICAL TENSIONS ESCALATING.",
-    "last_updated": "2026-03-23 07:21:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MONITOR TRADE AGREEMENTS AND DEBT LEVELS CLOSELY.",
+    "last_updated": "2026-03-23 08:10:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.78,
-        "C": 0.95
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
