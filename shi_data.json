@@ -1,45 +1,45 @@
 {
-    "shi": 6.43474,
-    "health_percent": 72.11,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.04258,
+    "health_percent": 73.25,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation hubs"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green technology"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Financial policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURBULENCE DUE TO RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF CORRECTIVE MEASURES ARE NOT TAKEN.",
-    "last_updated": "2026-03-23 20:37:47",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY DEMANDS INCREASING. MONITOR CRITICAL HOTSPOTS FOR POTENTIAL COLLAPSE.",
+    "last_updated": "2026-03-23 21:07:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.21
+        "P": 0.87,
+        "F": 1.23,
+        "T": 1.02,
+        "B": 0.95,
+        "C": 0.81
     }
 }
