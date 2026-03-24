@@ -1,45 +1,45 @@
 {
-    "shi": 4.51926,
-    "health_percent": 73.21,
-    "location": "BEIJING, CHINA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "shi": 1.08344,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "High debt levels and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade Barrier"
         },
         {
-            "loc": "Suez, Egypt",
-            "deviation": "Energy chokepoint due to geopolitical tensions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers affecting international trade"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms and policy stability"
+            "protocol": "Anti-Corruption Reform"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and financial stability"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Robust policy framework and trade agreements"
+            "protocol": "Fiscal Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS CONTINUE TO ESCALATE, SUPPLY CHAINS AT RISK; US CENTRAL BANK PLANS TO RAISE INTEREST RATES TO MITIGATE INFLATION; ASIA-PACIFIC REGION SEES INCREASED FOREIGN INVESTMENT",
-    "last_updated": "2026-03-23 23:57:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MULTIPLE COUNTRIES EXPERIENCING TRADE DISRUPTIONS AND ENERGY SHORTAGES.",
+    "last_updated": "2026-03-24 02:23:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 0.67,
-        "C": 0.45
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
