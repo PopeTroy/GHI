@@ -1,45 +1,45 @@
 {
-    "shi": 1.11968,
-    "health_percent": 73.21,
+    "shi": 6.43474,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War Tensions"
+            "deviation": "Trade tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High Debt Levels"
+            "loc": "Venezuela",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy Shortages"
+            "loc": "Greece",
+            "deviation": "High debt levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Laws"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "Sweden",
+            "protocol": "Sustainable energy policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS, INVESTORS SEEK SAFER ASSETS. OIL PRICES DROP 2% DUE TO OVERSUPPLY CONCERNS.",
-    "last_updated": "2026-03-24 20:23:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 2.1% AS US-CHINA TENSIONS ESCALATE, OIL PRICES SURGE TO $75/BBL, EUROZONE DEBT CONCERNS GROW",
+    "last_updated": "2026-03-24 21:01:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 1.2,
-        "C": 0.88
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.65
     }
 }
