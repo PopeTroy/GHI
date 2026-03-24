@@ -1,45 +1,45 @@
 {
-    "shi": 4.90146,
-    "health_percent": 67.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.1797,
+    "health_percent": 72.34,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:07:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Energy Dependence"
         },
         {
-            "loc": "Venezuela City, Venezuela",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, REGIONAL INSTABILITY ON THE RISE. GHI LOGIC ENGINE WARNS OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-24 18:40:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE: TRADE TALKS STALL, ENERGY PRICES SURGE",
+    "last_updated": "2026-03-24 19:40:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.32
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 1.05
     }
 }
