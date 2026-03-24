@@ -1,45 +1,45 @@
 {
-    "shi": 1.43351,
-    "health_percent": 67.45,
+    "shi": 2.89119,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy supply chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Tehran, Iran",
+            "deviation": "Trade barriers and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Innovation and investment in technology"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms for economic stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption and transparency measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE, ECONOMIC INDICATORS SIGNAL POTENTIAL DOWNTURN IN Q2",
-    "last_updated": "2026-03-24 22:52:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC GROWTH SLOWING IN MAJOR ECONOMIES, TRADE TENSIONS RISING BETWEEN NATIONS.",
+    "last_updated": "2026-03-24 23:21:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.95,
-        "B": 1.11,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.49
     }
 }
