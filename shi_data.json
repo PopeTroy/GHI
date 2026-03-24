@@ -1,45 +1,45 @@
 {
-    "shi": 6.43474,
-    "health_percent": 72.5,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs"
+            "deviation": "High Debt to GDP ratio"
         },
         {
-            "loc": "Venezuela",
-            "deviation": "Energy shortages"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints due to geopolitical tensions"
         },
         {
-            "loc": "Greece",
-            "deviation": "High debt levels"
+            "loc": "Delhi, India",
+            "deviation": "Inefficient infrastructure and transportation systems"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub with streamlined policy reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Strong anti-corruption measures and transparency"
         },
         {
-            "loc": "Sweden",
-            "protocol": "Sustainable energy policies"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy with a high level of foreign investment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 2.1% AS US-CHINA TENSIONS ESCALATE, OIL PRICES SURGE TO $75/BBL, EUROZONE DEBT CONCERNS GROW",
-    "last_updated": "2026-03-24 21:01:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. OIL PRICES SURGE DUE TO SUPPLY CHAIN DISRUPTIONS IN THE MIDDLE EAST.",
+    "last_updated": "2026-03-24 21:48:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.65
+        "B": 1.21,
+        "C": 0.67
     }
 }
