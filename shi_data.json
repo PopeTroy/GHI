@@ -1,45 +1,45 @@
 {
-    "shi": 5.15785,
+    "shi": 1.08344,
     "health_percent": 62.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:04:21",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and limited policy reforms"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt and inadequate infrastructure"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms and green technology"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and strong governance"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL TRADE VOLUMES DECLINE BY 10% DUE TO INCREASED TRADE TENSIONS. ANALYSTS PREDICT A 5% DECREASE IN ECONOMIC GROWTH FOR THE UPCOMING QUARTER.",
-    "last_updated": "2026-03-24 15:49:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TENSIONS RISING, MULTIPLE NATIONS EXPERIENCE ECONOMIC SLOWDOWN",
+    "last_updated": "2026-03-24 16:45:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.98,
-        "B": 0.67,
-        "C": 0.42
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
