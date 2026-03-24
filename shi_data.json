@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.64792,
+    "health_percent": 62.15,
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Kiev, Ukraine",
+            "deviation": "High debt and energy dependence"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Corruption and inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Business-friendly policies and low corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong innovation and stable economy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-03-24 13:46:40",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. ECONOMISTS PREDICT A PROLONGED RECESSION IF BOTTLENECKS ARE NOT ADDRESSED.",
+    "last_updated": "2026-03-24 14:46:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
+        "B": 0.65,
         "C": 0.82
     }
 }
