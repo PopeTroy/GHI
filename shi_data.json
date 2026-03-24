@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 2.35611,
+    "health_percent": 78.25,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade Disruptions"
+        },
+        {
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy Chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade Barriers"
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-Corruption Measures"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TENSIONS RISING, MULTIPLE NATIONS EXPERIENCE ECONOMIC SLOWDOWN",
-    "last_updated": "2026-03-24 16:45:38",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 72.5. TRADE TENSIONS RISE IN THE PACIFIC. EU ANNOUNCES NEW GREEN INITIATIVE.",
+    "last_updated": "2026-03-24 17:42:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.02,
+        "B": 0.75,
+        "C": 0.65
     }
 }
