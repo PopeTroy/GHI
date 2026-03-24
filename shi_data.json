@@ -1,9 +1,9 @@
 {
-    "shi": 1.64792,
-    "health_percent": 68.23,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.43351,
+    "health_percent": 67.45,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,10 +11,10 @@
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
+            "loc": "Lagos, Nigeria",
             "deviation": "Trade Barriers"
         }
     ],
@@ -24,7 +24,7 @@
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT AS SUPPLY CHAIN DISRUPTIONS SPREAD, EXPERTS WARN OF POTENTIAL COLLAPSE IN KEY SECTORS.",
-    "last_updated": "2026-03-24 22:17:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE, ECONOMIC INDICATORS SIGNAL POTENTIAL DOWNTURN IN Q2",
+    "last_updated": "2026-03-24 22:52:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "P": 0.87,
+        "F": 1.23,
+        "T": 0.95,
+        "B": 1.11,
+        "C": 0.92
     }
 }
