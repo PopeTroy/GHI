@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 5.15785,
     "health_percent": 62.15,
-    "location": "BEIJING, CHINA",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "96:04:21",
     "bottlenecks": [
         {
-            "loc": "Kiev, Ukraine",
-            "deviation": "High debt and energy dependence"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and limited policy reforms"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and inadequate infrastructure"
+            "deviation": "High debt and inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Business-friendly policies and low corruption"
+            "protocol": "Anti-corruption and innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms and green technology"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and stable economy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Financial stability and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. ECONOMISTS PREDICT A PROLONGED RECESSION IF BOTTLENECKS ARE NOT ADDRESSED.",
-    "last_updated": "2026-03-24 14:46:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL TRADE VOLUMES DECLINE BY 10% DUE TO INCREASED TRADE TENSIONS. ANALYSTS PREDICT A 5% DECREASE IN ECONOMIC GROWTH FOR THE UPCOMING QUARTER.",
+    "last_updated": "2026-03-24 15:49:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "F": 1.21,
+        "T": 0.98,
+        "B": 0.67,
+        "C": 0.42
     }
 }
