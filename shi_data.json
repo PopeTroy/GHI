@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.2,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Energy Consumption"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Trade restrictions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "loc": "Hormuz, Iran",
+            "deviation": "Energy transport risks"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt-to-GDP Ratio"
+            "loc": "Caracas, Venezuela",
+            "deviation": "High inflation rates"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "protocol": "Robust financial regulations"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Practices"
+            "protocol": "Innovative green technologies"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Effective policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT VOLATILITY, WHILE REGIONAL INSTABILITY CONTINUES TO POSE A THREAT TO ECONOMIC GROWTH",
-    "last_updated": "2026-03-25 03:41:06",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WHILE REGIONAL INSTABILITY PERSISTS IN CERTAIN AREAS.",
+    "last_updated": "2026-03-25 05:14:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
