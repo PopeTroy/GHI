@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 0.75615,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:15",
+    "collapse_timer": "48:27:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Shanghai, China",
+            "deviation": "Trade imbalance"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy inefficiency"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL INSTABILITY ON THE RISE, KEY LOCATIONS EXPERIENCING SUPPLY CHAIN DISRUPTIONS, ECONOMIC ANALYSTS PREDICT A 20% DECREASE IN TRADE OVER THE NEXT QUARTER.",
-    "last_updated": "2026-03-25 16:38:49",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, GEOPOLITICAL TENSIONS RISING IN EASTERN EUROPE",
+    "last_updated": "2026-03-25 17:41:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 1.05
+        "C": 0.96
     }
 }
