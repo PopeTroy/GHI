@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.21,
+    "shi": 1.05203,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Energy Consumption"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt-to-GDP Ratio"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Sustainable Energy Practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. ECONOMIC INSTABILITY ON THE RISE.",
-    "last_updated": "2026-03-25 00:58:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT VOLATILITY, WHILE REGIONAL INSTABILITY CONTINUES TO POSE A THREAT TO ECONOMIC GROWTH",
+    "last_updated": "2026-03-25 03:41:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
