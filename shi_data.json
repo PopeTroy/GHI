@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 72.5,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "42:11:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Excessive debt"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy dependency"
-        },
-        {
-            "loc": "London, UK",
+            "loc": "Istanbul, Turkey",
             "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
             "loc": "Stockholm, Sweden",
             "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE CITIES WITH STRONG PROTOCOLS EXHIBIT RESILIENCE",
-    "last_updated": "2026-03-25 14:05:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, OIL PRICES SKYROCKETING, TRADE WARS LOOMING",
+    "last_updated": "2026-03-25 15:17:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
