@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.2,
+    "shi": 1.22604,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High tariffs on imported goods"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy Chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy production disruptions"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "Soaring national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Streamlined customs procedures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Robust anti-corruption laws"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Vibrant startup ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, COMMODITY PRICES SKYROCKETING, AND TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-03-25 06:15:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WITH TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES. INVESTORS EYE GROWTH PROSPECTS IN EMERGING MARKETS.",
+    "last_updated": "2026-03-25 07:30:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "P": 0.82,
+        "F": 0.91,
+        "T": 1.23,
+        "B": 1.1,
+        "C": 0.98
     }
 }
