@@ -1,45 +1,45 @@
 {
-    "shi": 2.58038,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 62.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High Debt Ratio"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Over-reliance on Oil Exports"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative Financial Regulations"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Measures"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified Energy Portfolio"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, TRADE WARS ESCALATE, AND ENERGY DEMANDS CONTINUE TO SURGE.",
-    "last_updated": "2026-03-25 18:35:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, ECONOMISTS PREDICTING A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-03-25 19:30:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.65,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
