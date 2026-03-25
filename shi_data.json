@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoint"
+            "loc": "New York, USA",
+            "deviation": "Energy chokepoints and rising inflation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "Debt Crisis"
+            "loc": "London, UK",
+            "deviation": "Trade policy uncertainty and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Economic Diversification"
+            "loc": "Sydney, Australia",
+            "protocol": "Deregulation and trade liberalization"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING WILDLY.",
-    "last_updated": "2026-03-25 11:53:03",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC INDICATORS FLASHING WARNING SIGNS, AND SUPPLY CHAINS UNDER STRESS",
+    "last_updated": "2026-03-25 12:44:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
