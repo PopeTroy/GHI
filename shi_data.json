@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 72.35,
+    "shi": 0.99274,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Dubai, UAE",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reforms"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY UNDER THREAT AS GLOBAL TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND ZURICH SHOW PROMISE IN DRIVING GROWTH THROUGH INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-03-26 20:19:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-03-26 20:53:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "T": 0.81,
+        "B": 1.21,
+        "C": 0.67
     }
 }
