@@ -1,21 +1,21 @@
 {
-    "shi": 0.99274,
-    "health_percent": 73.42,
+    "shi": 0.69134,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-03-26 20:53:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS AND INVEST IN INNOVATION TO MITIGATE RISKS.",
+    "last_updated": "2026-03-26 21:24:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.81,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 1.05
     }
 }
