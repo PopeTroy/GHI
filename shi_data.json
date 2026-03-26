@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 73.21,
+    "shi": 3.21737,
+    "health_percent": 78.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade Barrier"
-        },
-        {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "Athens, Greece",
+            "loc": "Beijing, China",
             "deviation": "High Debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reform"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Initiative"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY THREATENED BY SUPPLY CHAIN DISRUPTIONS, CITIES WORLDWIDE TAKING PREVENTIVE MEASURES.",
-    "last_updated": "2026-03-26 16:36:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, MARKETS REACT WITH CAUTION. ENERGY PRICES SURGE AS SUPPLIES DWINDLE.",
+    "last_updated": "2026-03-26 17:39:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.65
+        "B": 0.65,
+        "C": 0.42
     }
 }
