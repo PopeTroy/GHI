@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 0.77048,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:49",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers due to high tariffs"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints due to infrastructure limitations"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt levels affecting economic stability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies and agreements"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Strong anti-corruption measures and transparency"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "High investment in renewable energy and green technologies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL INSTABILITY ALERT: MARKETS FLUCTUATE AS GOVERNMENTS RESPOND TO ECONOMIC DOWNTURN. OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS.",
-    "last_updated": "2026-03-26 02:42:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY ALERT: MULTIPLE REGIONS EXPERIENCING HIGH DEVIATIONS FROM STABILITY DUE TO TRADE BARRIERS, ENERGY INFRASTRUCTURE LIMITATIONS, AND HIGH DEBT LEVELS.",
+    "last_updated": "2026-03-26 04:57:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.2,
+        "C": 0.95
     }
 }
