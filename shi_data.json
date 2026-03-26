@@ -1,45 +1,45 @@
 {
-    "shi": 0.80674,
-    "health_percent": 74.21,
+    "shi": 0.77048,
+    "health_percent": 67.35,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:23",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints and high regulatory costs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and declining workforce"
+            "loc": "Teheran, Iran",
+            "deviation": "High inflation and trade restrictions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative economic policies and low corruption"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Highly developed financial system and stable governance"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong social safety net"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | US GDP GROWTH RATE SLOWS TO 2.1% DUE TO GLOBAL ECONOMIC UNCERTAINTY. EUROPEAN MARKETS EXPERIENCE VOLATILITY AMIDST BREXIT NEGOTIATIONS. ASIAN MARKETS SEE INCREASE IN TRADE VOLUME WITH NEWLY SIGNED AGREEMENTS.",
-    "last_updated": "2026-03-26 10:33:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY DUE TO TRADE DISPUTES AND GEOPOLITICAL TENSIONS. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND RECESSION RISKS.",
+    "last_updated": "2026-03-26 11:31:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.87,
-        "B": 1.21,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
