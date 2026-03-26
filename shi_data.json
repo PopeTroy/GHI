@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 67.32,
+    "shi": 5.58862,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
+            "loc": "Vancouver, Canada",
+            "deviation": "High Debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers due to high tariffs"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints due to infrastructure limitations"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt levels affecting economic stability"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade policies and agreements"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Strong anti-corruption measures and transparency"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "High investment in renewable energy and green technologies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY ALERT: MULTIPLE REGIONS EXPERIENCING HIGH DEVIATIONS FROM STABILITY DUE TO TRADE BARRIERS, ENERGY INFRASTRUCTURE LIMITATIONS, AND HIGH DEBT LEVELS.",
-    "last_updated": "2026-03-26 04:57:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY ALERT: TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS, PROMPTING CONCERNS OVER MARKET VOLATILITY AND POTENTIAL BOTTLENECKS IN THE SYSTEM.",
+    "last_updated": "2026-03-26 06:13:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.83,
+        "F": 0.91,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 0.22,
+        "C": 0.69
     }
 }
