@@ -1,21 +1,21 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "43:21:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ON THE RISE, COMMODITY PRICES FLUCTUATING WILDLY",
-    "last_updated": "2026-03-25 23:57:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL INSTABILITY ALERT: MARKETS FLUCTUATE AS GOVERNMENTS RESPOND TO ECONOMIC DOWNTURN. OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS.",
+    "last_updated": "2026-03-26 02:42:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
