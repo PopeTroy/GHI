@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 74.25,
-    "location": "NEW YORK CITY, USA",
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and insufficient policy reforms"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Corruption and lack of innovation"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and trade agreements"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and economic stability"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
-    "last_updated": "2026-03-26 22:17:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TALKS STALLED, ENERGY PRICES SPIKE",
+    "last_updated": "2026-03-26 22:52:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
