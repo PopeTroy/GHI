@@ -1,45 +1,45 @@
 {
-    "shi": 1.04177,
-    "health_percent": 78.23,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barrier restrictions causing 15% decrease in exports"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints causing 20% increase in import costs"
+            "loc": "Shanghai, China",
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "High debt levels causing 10% reduction in government spending"
+            "deviation": "Energy consumption and infrastructure bottlenecks"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Implementation of policy reforms to increase foreign investment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative economic policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub development with increased funding for startups"
+            "protocol": "Strong financial institutions and regulatory frameworks"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption initiatives to improve transparency in government dealings"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy practices and diverse economy"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS TRENDING UPWARDS WITH 2% INCREASE IN TRADE VOLUMES, BUT EXPERTS WARN OF POTENTIAL COLLAPSE DUE TO RISING DEBT LEVELS AND TRADE TENSIONS.",
-    "last_updated": "2026-03-26 08:30:42",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS.",
+    "last_updated": "2026-03-26 09:37:45",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
