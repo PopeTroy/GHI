@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 74.25,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:01",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and insufficient policy reforms"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Corruption and lack of innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation and trade agreements"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and economic stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS FLASHING WARNING SIGNALS AS TRADE TENSIONS ESCALATE AND ENERGY PRICES SURGE.",
-    "last_updated": "2026-03-26 21:52:22",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
+    "last_updated": "2026-03-26 22:17:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
