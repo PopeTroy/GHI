@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.21,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:42",
+    "collapse_timer": "42:11:02",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and corruption"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Economic sanctions and lack of innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Strategic policy reforms and low corruption"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "High level of innovation and investment in technology"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Tel Aviv, Israel",
-            "protocol": "Innovation"
+            "protocol": "Strong anti-corruption measures and high transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE CLOSELY WATCHING THE SITUATION IN NEW YORK, USA, AS CONCERNS OF A SUPPLY CHAIN BREAK CONTINUE TO GROW.",
-    "last_updated": "2026-03-27 14:37:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY. ECONOMIC INDICATORS POINT TO POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE COMING WEEKS.",
+    "last_updated": "2026-03-27 15:30:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
