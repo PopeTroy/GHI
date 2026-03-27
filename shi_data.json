@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.11,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:42:11",
+    "collapse_timer": "48:21:13",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Energy chokepoints and rising costs"
+            "loc": "Dhaka, Bangladesh",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Bureaucratic inefficiencies and corruption"
+            "loc": "Kinshasa, DRC",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation and technological advancements"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strategic investments and fiscal discipline"
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWING DOWN; TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS; OIL PRICES VOLATILE DUE TO GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-03-27 07:49:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT A 20% CHANCE OF RECESSION WITHIN THE NEXT 6 MONTHS.",
+    "last_updated": "2026-03-27 08:35:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
