@@ -1,45 +1,45 @@
 {
-    "shi": 3.09656,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 62.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:14",
+    "collapse_timer": "96:42:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and limited policy reforms"
+            "loc": "Singapore",
+            "deviation": "Energy chokepoints and rising costs"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt and inefficient supply chain management"
+            "deviation": "Bureaucratic inefficiencies and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation and technological advancements"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and efficient supply chain management"
-        },
-        {
-            "loc": "Hong Kong, China",
-            "protocol": "Strategic trade partnerships and diversified economy"
+            "protocol": "Strategic investments and fiscal discipline"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATING. ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY. GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS AND DIVERSIFY ECONOMIES.",
-    "last_updated": "2026-03-27 06:51:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWING DOWN; TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS; OIL PRICES VOLATILE DUE TO GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-03-27 07:49:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 0.62,
-        "C": 0.81
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
