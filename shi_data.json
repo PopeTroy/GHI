@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.21,
+    "shi": 0.77048,
+    "health_percent": 67.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Economic sanctions and lack of innovation"
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Strategic policy reforms and low corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "High level of innovation and investment in technology"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Strong anti-corruption measures and high transparency"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY. ECONOMIC INDICATORS POINT TO POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE COMING WEEKS.",
-    "last_updated": "2026-03-27 15:30:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS. INNOVATIONS IN TECHNOLOGY AND POLICY REFORMS OFFER HOPE FOR GROWTH AND STABILITY.",
+    "last_updated": "2026-03-27 16:29:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.2,
+        "C": 0.95
     }
 }
