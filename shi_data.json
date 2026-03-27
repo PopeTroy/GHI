@@ -1,45 +1,45 @@
 {
-    "shi": 2.17631,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 2.38356,
+    "health_percent": 62.15,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "High debt levels"
+        },
+        {
+            "loc": "Istanbul, Turkey",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Cairo, Egypt",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Stockholm, Sweden",
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS INVESTORS MONITOR POTENTIAL SUPPLY CHAIN DISRUPTIONS AND GOVERNMENT RESPONSES TO ECONOMIC CHALLENGES.",
-    "last_updated": "2026-03-27 09:34:12",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH MULTIPLE NATIONS EXPERIENCING SUPPLY CHAIN DISRUPTIONS AND TRADE BARRIERS.",
+    "last_updated": "2026-03-27 10:27:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.78,
-        "C": 0.67
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.55
     }
 }
