@@ -1,45 +1,45 @@
 {
-    "shi": 1.62182,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:07:42",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and labor shortages"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-business policies and low corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial sector and stable governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong social safety net and high-tech industry"
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE RISING INSTABILITY, WITH KEY CITIES FACING POTENTIAL COLLAPSE. INVEST IN DIVERSIFIED ASSETS AND MONITOR SUPPLY CHAIN RISKS.",
-    "last_updated": "2026-03-27 13:38:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE CLOSELY WATCHING THE SITUATION IN NEW YORK, USA, AS CONCERNS OF A SUPPLY CHAIN BREAK CONTINUE TO GROW.",
+    "last_updated": "2026-03-27 14:37:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.75,
-        "B": 0.65,
-        "C": 0.82
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
