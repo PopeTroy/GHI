@@ -1,45 +1,45 @@
 {
-    "shi": 0.81328,
+    "shi": 6.81943,
     "health_percent": 67.32,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "45:21:01",
     "bottlenecks": [
         {
-            "loc": "New York, USA",
-            "deviation": "High Debt Ratio"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade War"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Anti-Corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS: STOCKS DOWN 3% DUE TO TRADE TENSIONS, OIL PRICES ROSE BY 2% DUE TO SUPPLY CHAIN DISRUPTIONS, ECONOMIC STABILITY INDEX: 42.11%",
-    "last_updated": "2026-03-27 19:52:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING WILDLY, TRADE WARS ESCALATING, AND ENERGY SHORTAGES REPORTED IN MAJOR CITIES.",
+    "last_updated": "2026-03-27 20:24:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.9
+        "B": 0.56,
+        "C": 0.23
     }
 }
