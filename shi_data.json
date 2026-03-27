@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 4.66403,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:27:11",
+    "collapse_timer": "48:27:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt ratio"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barrier"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
+            "deviation": "Energy chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
-    "last_updated": "2026-03-27 18:12:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY INDICATOR FLASHING YELLOW: BEWARE OF POTENTIAL SYSTEMIC RISKS",
+    "last_updated": "2026-03-27 19:12:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 0.95,
+        "T": 1.17,
+        "B": 0.67,
+        "C": 0.42
     }
 }
