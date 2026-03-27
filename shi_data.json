@@ -1,16 +1,16 @@
 {
-    "shi": 1.64792,
-    "health_percent": 62.1,
+    "shi": 1.08344,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beirut, Lebanon",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Stockholm, Sweden",
             "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL TRADE SLOWDOWN, EUROPEAN ENERGY CRISIS, LATIN AMERICAN DEBT CRISIS",
-    "last_updated": "2026-03-27 22:54:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-03-27 23:28:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.67
     }
 }
