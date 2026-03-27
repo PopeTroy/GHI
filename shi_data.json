@@ -1,45 +1,45 @@
 {
-    "shi": 2.13479,
-    "health_percent": 63.21,
+    "shi": 1.01837,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:27:12",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Embargo"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Debt Crisis"
+            "loc": "Mumbai, India",
+            "deviation": "High debt and infrastructure issues"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Free Trade Agreement"
+            "protocol": "Anti-corruption and innovation"
         },
         {
-            "loc": "Switzerland",
-            "protocol": "Anti-Corruption Reform"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy reforms and sustainability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and technological advancement"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN DUE TO RISING TRADE TENSIONS, WHILE CERTAIN CITIES ARE MAKING STRIDES IN POLICY REFORMS AND INNOVATION TO BOOST GROWTH.",
-    "last_updated": "2026-03-27 11:23:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING WARNING SIGNS, EXPERTS WARN OF POTENTIAL MARKET DOWNTURN",
+    "last_updated": "2026-03-27 12:01:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.81,
-        "B": 0.65,
-        "C": 0.58
+        "T": 0.78,
+        "B": 1.25,
+        "C": 0.69
     }
 }
