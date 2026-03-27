@@ -1,45 +1,45 @@
 {
-    "shi": 4.66403,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 0.81328,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:27:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barrier"
+            "loc": "New York, USA",
+            "deviation": "High Debt Ratio"
         },
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "loc": "London, UK",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reform"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY INDICATOR FLASHING YELLOW: BEWARE OF POTENTIAL SYSTEMIC RISKS",
-    "last_updated": "2026-03-27 19:12:06",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS: STOCKS DOWN 3% DUE TO TRADE TENSIONS, OIL PRICES ROSE BY 2% DUE TO SUPPLY CHAIN DISRUPTIONS, ECONOMIC STABILITY INDEX: 42.11%",
+    "last_updated": "2026-03-27 19:52:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
-        "T": 1.17,
-        "B": 0.67,
-        "C": 0.42
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.9
     }
 }
