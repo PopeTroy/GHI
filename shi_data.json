@@ -1,45 +1,45 @@
 {
-    "shi": 1.01837,
+    "shi": 1.62182,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt to GDP ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy export disruptions"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High debt and infrastructure issues"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and labor shortages"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption and innovation"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms and sustainability"
+            "protocol": "Pro-business policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and technological advancement"
+            "protocol": "Innovative financial sector and stable governance"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Strong social safety net and high-tech industry"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING WARNING SIGNS, EXPERTS WARN OF POTENTIAL MARKET DOWNTURN",
-    "last_updated": "2026-03-27 12:01:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE RISING INSTABILITY, WITH KEY CITIES FACING POTENTIAL COLLAPSE. INVEST IN DIVERSIFIED ASSETS AND MONITOR SUPPLY CHAIN RISKS.",
+    "last_updated": "2026-03-27 13:38:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.25,
-        "C": 0.69
+        "T": 0.75,
+        "B": 0.65,
+        "C": 0.82
     }
 }
