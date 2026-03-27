@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 73.21,
+    "shi": 1.45169,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade Disruptions"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade war with neighboring countries"
+            "deviation": "Energy Shortages"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High energy import costs"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and bureaucratic inefficiencies"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policies and low corruption"
+            "protocol": "Innovative Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable economy"
+            "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high innovation index"
+            "loc": "San Francisco, USA",
+            "protocol": "Technological Advancements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS WARN OF POTENTIAL RECESSION.",
-    "last_updated": "2026-03-26 23:52:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS, TRADE TENSIONS, AND RISING DEBT LEVELS.",
+    "last_updated": "2026-03-27 01:15:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.85
     }
 }
