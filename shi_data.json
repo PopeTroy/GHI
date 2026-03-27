@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 72.5,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "43:27:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "15% increase in trade barriers"
+            "deviation": "High debt ratio"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "20% decrease in energy production"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "10% rise in national debt"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Implementation of AI-based policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation in renewable energy sources"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption measures in government"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, SHI NODES SHOW RESILIENCE WITH INNOVATIVE PROTOCOLS.",
-    "last_updated": "2026-03-27 17:28:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-03-27 18:12:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 1.05
+        "C": 0.69
     }
 }
