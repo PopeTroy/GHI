@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.83391,
+    "health_percent": 72.11,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and regulatory hurdles"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint Risks"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and logistics constraints"
+            "loc": "Athens, Greece",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub Development"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and environmental policies"
+            "protocol": "Sustainable Energy Policy"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Economic Diversification Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE, WHILE CITIES LIKE TOKYO AND SINGAPORE EXEMPLIFY RESILIENCE THROUGH INNOVATIVE POLICIES AND STRATEGIC INVESTMENTS.",
-    "last_updated": "2026-03-27 21:48:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING DUE TO TRADE TENSIONS AND DEBT CRISES. NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION DUE TO SUPPLY CHAIN VULNERABILITIES.",
+    "last_updated": "2026-03-27 22:17:00",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.85
     }
 }
