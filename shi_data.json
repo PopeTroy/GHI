@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 67.32,
+    "shi": 1.60983,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "36:02:15",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt Ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable Policy Reform"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS FLASHING RED, INVESTORS ON HIGH ALERT, TRADE TENSIONS ON THE RISE",
-    "last_updated": "2026-03-28 10:46:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, WITH TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS. A HIGH-IMPACT EVENT IS PREDICTED TO OCCUR WITHIN THE NEXT 48 HOURS.",
+    "last_updated": "2026-03-28 11:14:49",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "P": 0.83,
+        "F": 1.21,
+        "T": 0.91,
+        "B": 1.09,
+        "C": 0.75
     }
 }
