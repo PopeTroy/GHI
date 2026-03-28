@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.2,
+    "shi": 1.04049,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
+            "loc": "London, UK",
+            "deviation": "Energy Chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade Barrier"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reform"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Dubai, UAE",
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: ECONOMIC INSTABILITY RISING IN GLOBAL MARKETS. TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-03-28 11:44:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES. ENERGY PRICES FLUCTUATING DUE TO GEOPOLITICAL INSTABILITY.",
+    "last_updated": "2026-03-28 11:59:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 0.81,
+        "B": 1.19,
+        "C": 0.65
     }
 }
