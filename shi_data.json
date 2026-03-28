@@ -1,21 +1,21 @@
 {
-    "shi": 1.30388,
-    "health_percent": 72.5,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "42:07:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
+            "loc": "Tokyo, Japan",
             "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
@@ -28,18 +28,18 @@
             "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Toronto, Canada",
+            "loc": "Vancouver, Canada",
             "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-28 15:41:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE INSTABILITY DUE TO SUPPLY CHAIN DISRUPTIONS, GOVERNMENTS CONSIDER IMPOSING TRADE RESTRICTIONS",
+    "last_updated": "2026-03-28 16:01:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.95
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
