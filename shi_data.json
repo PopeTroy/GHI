@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.56951,
+    "health_percent": 68.25,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:21:17",
+    "collapse_timer": "43:07:21",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
+            "loc": "Hong Kong, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Istanbul, Turkey",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Innovation"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE HIGH ECONOMIC STABILITY",
-    "last_updated": "2026-03-28 05:42:34",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | G20 SUMMIT TO ADDRESS GLOBAL ECONOMIC INSTABILITY. OIL PRICES PLUMMET DUE TO INCREASED PRODUCTION. CYBERSECURITY THREATS ON THE RISE.",
+    "last_updated": "2026-03-28 06:39:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "F": 1.22,
+        "T": 0.91,
+        "B": 1.11,
+        "C": 0.78
     }
 }
