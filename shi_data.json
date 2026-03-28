@@ -1,45 +1,45 @@
 {
-    "shi": 3.07008,
-    "health_percent": 67.32,
+    "shi": 2.44317,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "96:00:00",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR GRID COLLAPSE | GLOBAL ECONOMIC INDICATORS SHOWING STRAIN, POTENTIAL FOR DISRUPTION IN KEY MARKETS",
-    "last_updated": "2026-03-28 19:39:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY IN KEY REGIONS MAY TRIGGER GLOBAL MARKET FLUCTUATIONS. GOVERNMENTS AND INSTITUTIONS ARE ADVISED TO MONITOR AND RESPOND TO EMERGING BOTTLENECKS TO MAINTAIN STABILITY AND PROMOTE GROWTH.",
+    "last_updated": "2026-03-28 19:57:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.1,
+        "B": 0.78,
+        "C": 0.65
     }
 }
