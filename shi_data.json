@@ -1,7 +1,7 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "health_percent": 74.25,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
@@ -10,30 +10,30 @@
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy shortages and inefficient protocols"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Inefficient policy reforms and corruption"
+            "loc": "Mexico City, Mexico",
+            "deviation": "Inefficient policy reforms and high crime rates"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption"
+            "loc": "Singapore",
+            "protocol": "Innovative economic policies"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms and green energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and efficient governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, HIGH-IMPACT LOCATIONS IDENTIFIED FOR STRATEGIC INTERVENTION",
-    "last_updated": "2026-03-28 22:34:56",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. KEY CITIES FACE HIGH RISK OF SUPPLY CHAIN DISRUPTIONS AND COLLAPSE.",
+    "last_updated": "2026-03-28 22:59:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
