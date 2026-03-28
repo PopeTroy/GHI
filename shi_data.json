@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 74.21,
+    "shi": 1.64792,
+    "health_percent": 67.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:14",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "Trade Barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Venezuela",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Greece",
-            "deviation": "High Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Anticorruption Policies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Sweden",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS EXPERIENCE 2% DECLINE AMID GROWING CONCERNS OF SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-28 21:38:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, OIL PRICES FLUCTUATING WILDLY, AND INTERNATIONAL TRADE AGREEMENTS UNDER STRESS.",
+    "last_updated": "2026-03-28 21:58:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
+        "B": 0.65,
         "C": 0.82
     }
 }
