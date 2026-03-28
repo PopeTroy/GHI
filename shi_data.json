@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.23,
+    "health_percent": 74.28,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:10",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
-        {
-            "loc": "London, UK",
-            "deviation": "High debt"
-        },
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption policies"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation hubs"
-        },
-        {
-            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY DEMAND INCREASING.",
-    "last_updated": "2026-03-28 07:33:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS FLASHING WARNING SIGNS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
+    "last_updated": "2026-03-28 08:03:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
