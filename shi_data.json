@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.25,
-    "location": "TOKYO, JAPAN",
+    "shi": 3.12133,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "High Energy Chokepoint"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Barrier"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
-            "loc": "Mexico City, Mexico",
-            "deviation": "Inefficient policy reforms and high crime rates"
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative economic policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures"
+            "protocol": "Anti-Corruption Reform"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and low debt"
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. KEY CITIES FACE HIGH RISK OF SUPPLY CHAIN DISRUPTIONS AND COLLAPSE.",
-    "last_updated": "2026-03-28 22:59:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT 73.21%, NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION. BOTTLENECKS DETECTED IN LOS ANGELES, DUBAI, AND BEIJING. STABLE NODES IDENTIFIED IN SINGAPORE, ZURICH, AND COPENHAGEN.",
+    "last_updated": "2026-03-28 23:40:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.67,
+        "C": 0.42
     }
 }
