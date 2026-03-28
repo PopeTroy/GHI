@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.48833,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:07:12",
+    "collapse_timer": "42:11:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Dubai, UAE",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Anti-Corruption Policies"
         },
         {
-            "loc": "Vancouver, Canada",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE INSTABILITY DUE TO SUPPLY CHAIN DISRUPTIONS, GOVERNMENTS CONSIDER IMPOSING TRADE RESTRICTIONS",
-    "last_updated": "2026-03-28 16:01:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC ALERT: TRADE TENSIONS ESCALATE, SUPPLY CHAINS AT RISK. HIGH-IMPACT LOCATIONS IDENTIFIED, PROTOCOL IMPLEMENTATIONS UNDERWAY.",
+    "last_updated": "2026-03-28 16:47:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.98,
+        "B": 1.06,
+        "C": 0.92
     }
 }
