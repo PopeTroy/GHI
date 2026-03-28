@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 73.21,
+    "shi": 2.70259,
+    "health_percent": 67.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "ECONOMIC DOWNTURN",
-    "collapse_timer": "48:22:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "120:00:00",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Brasilia, Brazil",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy"
+            "loc": "Seoul, South Korea",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC DOWNTURN | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABLE GROWTH AND INNOVATION.",
-    "last_updated": "2026-03-28 20:36:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASING, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-03-28 21:00:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.5
     }
 }
