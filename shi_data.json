@@ -1,45 +1,45 @@
 {
-    "shi": 2.44317,
+    "shi": 0.84052,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "ECONOMIC DOWNTURN",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Brasilia, Brazil",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Renewable Energy"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY IN KEY REGIONS MAY TRIGGER GLOBAL MARKET FLUCTUATIONS. GOVERNMENTS AND INSTITUTIONS ARE ADVISED TO MONITOR AND RESPOND TO EMERGING BOTTLENECKS TO MAINTAIN STABILITY AND PROMOTE GROWTH.",
-    "last_updated": "2026-03-28 19:57:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC DOWNTURN | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABLE GROWTH AND INNOVATION.",
+    "last_updated": "2026-03-28 20:36:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
