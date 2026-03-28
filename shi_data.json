@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 62.11,
-    "location": "TOKYO, JAPAN",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:01",
+    "collapse_timer": "96:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York, USA",
-            "deviation": "High debt"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovation hubs"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy policies"
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, WHILE CITIES WITH STRONG PROTOCOL IMPLEMENTATION EXPERIENCE STEADY GROWTH.",
-    "last_updated": "2026-03-28 18:19:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A 3% DOWNTURN, COMMODITY PRICES SURGE AMIDST SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-28 19:03:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
