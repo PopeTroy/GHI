@@ -1,45 +1,45 @@
 {
-    "shi": 1.93233,
-    "health_percent": 82.15,
+    "shi": 1.59873,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High energy costs due to lack of diversification"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Cairo, Egypt",
+            "deviation": "Water scarcity affecting agricultural production"
         },
         {
-            "loc": "Teheran, Iran",
-            "deviation": "Trade barriers"
+            "loc": "Kiev, Ukraine",
+            "deviation": "Inefficient trade policies hindering economic growth"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovative financial regulations"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Effective anti-corruption measures"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC FORECAST INDICATES INCREASED ECONOMIC STABILITY IN THE ASIA-PACIFIC REGION, WHILE EUROPEAN MARKETS EXPERIENCE A DECLINE DUE TO TRADE TENSIONS",
-    "last_updated": "2026-03-28 14:36:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX FALLS 2.1% DUE TO RISING TENSIONS AND TRADE BARRIERS.",
+    "last_updated": "2026-03-28 15:02:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.82
     }
 }
