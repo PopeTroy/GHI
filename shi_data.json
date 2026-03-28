@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 72.35,
+    "shi": 1.05203,
+    "health_percent": 73.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:21:42",
+    "collapse_timer": "36:47:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Trade barriers and hyper-inflation"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Straits of Malacca",
-            "deviation": "Energy chokepoint and piracy"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation hub and R&D investments"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green policies"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY UNDER THREAT AS TRADE TENSIONS ESCALATE. INVESTORS SEEK SAFER HAVENS AS MARKET VOLATILITY INCREASES.",
-    "last_updated": "2026-03-28 08:54:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, GEOPOLITICAL TENSIONS ESCALATING IN EASTERN EUROPE, AND REPORTS OF WIDESPREAD INFRASTRUCTURE UPGRADES IN KEY ECONOMIC HUBS.",
+    "last_updated": "2026-03-28 09:32:28",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.78
+        "C": 0.69
     }
 }
