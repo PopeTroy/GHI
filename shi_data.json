@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.23,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "high debt and trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High energy consumption"
+            "deviation": "energy chokepoints and corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "political instability and economic uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "policy reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
+            "protocol": "strong anti-corruption and governance"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "technology innovation and entrepreneurship"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES WITH STRONG POLICY REFORMS EXPERIENCE GROWTH",
-    "last_updated": "2026-03-29 17:59:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL TRADE AGREEMENTS TO BE RENEGOTIATED, MARKET VOLATILITY EXPECTED TO INCREASE. ECONOMIC EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-29 18:57:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
