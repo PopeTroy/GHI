@@ -1,21 +1,21 @@
 {
-    "shi": 1.53556,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "shi": 0.84052,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -24,7 +24,7 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 2.1% DUE TO INCREASED PROTECTIONISM. ASIAN MARKETS EXPERIENCE HIGH VOLATILITY. EUROPEAN UNION ANNOUNCES NEW ANTI-CORRUPTION MEASURES.",
-    "last_updated": "2026-03-29 09:35:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING TURMOIL, OIL PRICES SURGING, AND TRADE NEGOTIATIONS STALLED.",
+    "last_updated": "2026-03-29 10:03:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.88
+        "B": 1.1,
+        "C": 0.95
     }
 }
