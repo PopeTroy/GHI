@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
+    "shi": 1.34741,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive trade barriers"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt levels"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation and technology reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms for economic stability"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-03-29 11:16:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE COMING WEEKS.",
+    "last_updated": "2026-03-29 11:46:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "P": 2.67,
+        "F": 0.85,
+        "T": 1.21,
+        "B": 3.19,
+        "C": 0.92
     }
 }
