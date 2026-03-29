@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 2.8152,
+    "health_percent": 74.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tariffs"
+            "deviation": "Trade Barriers, High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Prices"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoints, Corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High Public Debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Inflation, Resource Shortage"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policy"
+            "protocol": "Innovation, Anti-Corruption Policies"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy Reforms, Sustainability"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Energy, Education Incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC ALERT: TRADE TENSIONS ESCALATE BETWEEN CHINA AND THE US, CRUDE OIL PRICES SURGE DUE TO MIDDLE EAST UNREST.",
-    "last_updated": "2026-03-29 23:17:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING. CITIES INVESTING IN SUSTAINABLE INFRASTRUCTURE EXPERIENCING GROWTH. ECONOMIC STABILITY INDEX: 74.25",
+    "last_updated": "2026-03-29 23:50:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.48
     }
 }
