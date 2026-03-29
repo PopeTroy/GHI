@@ -1,45 +1,45 @@
 {
-    "shi": 0.99712,
-    "health_percent": 74.23,
+    "shi": 1.56123,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
-            "loc": "LOS ANGELES, USA",
-            "deviation": "Trade Barrier"
+            "loc": "Beijing, China",
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "MOSCOW, RUSSIA",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and geopolitical tensions"
         },
         {
-            "loc": "ATHENS, GREECE",
-            "deviation": "High Debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "SINGAPORE, SINGAPORE",
-            "protocol": "Policy Reform"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies and anti-corruption reforms"
         },
         {
-            "loc": "STOCKHOLM, SWEDEN",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial regulations and stable economic growth"
         },
         {
-            "loc": "SAN FRANCISCO, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions and social welfare policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. CITIES WITH HIGH SHI SCORES ARE PRIORITIZING POLICY REFORMS AND INNOVATION TO MITIGATE RISKS.",
-    "last_updated": "2026-03-29 16:56:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE, TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATING, AND CONCERNS OVER SUPPLY CHAIN DISRUPTIONS GROWING.",
+    "last_updated": "2026-03-29 17:31:31",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.05,
-        "B": 1.21,
-        "C": 0.98
+        "P": 0.83,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.8
     }
 }
