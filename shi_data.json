@@ -1,45 +1,45 @@
 {
-    "shi": 3.12133,
+    "shi": 3.21737,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "59:23:10",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High Energy Chokepoint"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade Barrier"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Debt Crisis"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Reform"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reform"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT 73.21%, NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION. BOTTLENECKS DETECTED IN LOS ANGELES, DUBAI, AND BEIJING. STABLE NODES IDENTIFIED IN SINGAPORE, ZURICH, AND COPENHAGEN.",
-    "last_updated": "2026-03-28 23:40:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WITH SINGAPORE AND DENMARK LEADING IN ECONOMIC STABILITY AND GROWTH",
+    "last_updated": "2026-03-29 00:00:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
+        "B": 0.65,
         "C": 0.42
     }
 }
