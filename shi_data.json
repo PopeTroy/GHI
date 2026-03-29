@@ -1,45 +1,45 @@
 {
-    "shi": 1.56353,
-    "health_percent": 87.32,
-    "location": "NEW YORK CITY, USA",
+    "shi": 0.78356,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "High tariff rates"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy shortages"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Sovereign debt crisis"
+            "loc": "Singapore",
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability measures"
+            "loc": "Sydney, Australia",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING, POTENTIAL FOR TRADE WARS AND ECONOMIC INSTABILITY",
-    "last_updated": "2026-03-29 12:02:14",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY",
+    "last_updated": "2026-03-29 13:16:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.82,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 0.95,
-        "C": 1.01
+        "F": 0.91,
+        "T": 0.75,
+        "B": 1.21,
+        "C": 0.85
     }
 }
