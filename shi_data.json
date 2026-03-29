@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 62.5,
+    "shi": 1.06582,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers due to geopolitical tensions"
+            "loc": "Beijing, China",
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints affecting regional trade"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High debt and inflation impacting economic stability"
+            "loc": "Mumbai, India",
+            "deviation": "Overreliance on imports and high inflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative trade agreements and low-corruption policies"
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Investment in sustainable energy and green technologies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and stable financial systems"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diverse economy and strong social safety nets"
+            "protocol": "Diversified economy and high-quality infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY CONCERNS. INVEST IN DIVERSIFIED PORTFOLIOS AND MONITOR ECONOMIC INDICATORS FOR SIGNS OF INSTABILITY.",
-    "last_updated": "2026-03-29 14:44:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH MULTIPLE REGIONS EXPERIENCING SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
+    "last_updated": "2026-03-29 15:16:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 1.23,
+        "C": 0.67
     }
 }
