@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 67.35,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers with the US"
+            "deviation": "Excessive trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt and rising interest rates"
+            "loc": "London, UK",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export restrictions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Business-friendly policy reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation and technology reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation in renewable energy"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures"
+            "protocol": "Policy reforms for economic stability"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS REACT TO TRADE TENSIONS, OIL PRICES RISE AS ENERGY DEMANDS INCREASE",
-    "last_updated": "2026-03-29 10:49:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-03-29 11:16:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.67
     }
 }
