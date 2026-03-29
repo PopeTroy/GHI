@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 0.78758,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "59:23:10",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barriers due to policy changes"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints affecting regional trade"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "High national debt impacting economic stability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms promoting economic growth"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Investment in renewable energy sources"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WITH SINGAPORE AND DENMARK LEADING IN ECONOMIC STABILITY AND GROWTH",
-    "last_updated": "2026-03-29 00:00:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND RISING DEBT LEVELS.",
+    "last_updated": "2026-03-29 03:29:51",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.83,
+        "F": 0.65,
+        "T": 0.92,
+        "B": 1.21,
+        "C": 0.75
     }
 }
