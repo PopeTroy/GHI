@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "high debt and trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "energy chokepoints and corruption"
+            "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "political instability and economic uncertainty"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "policy reforms and innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "strong anti-corruption and governance"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "technology innovation and entrepreneurship"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL TRADE AGREEMENTS TO BE RENEGOTIATED, MARKET VOLATILITY EXPECTED TO INCREASE. ECONOMIC EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-03-29 18:57:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-03-29 19:33:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
