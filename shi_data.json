@@ -1,45 +1,45 @@
 {
-    "shi": 1.57375,
-    "health_percent": 82.56,
+    "shi": 0.76411,
+    "health_percent": 62.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers due to geopolitical tensions"
         },
         {
             "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "deviation": "Energy chokepoints affecting regional trade"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Economic instability and corruption"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High debt and inflation impacting economic stability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovative trade agreements and low-corruption policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and low corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Investment in sustainable energy and green technologies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green technology and sustainable practices"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse economy and strong social safety nets"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS REACT TO LATEST ECONOMIC INDICATORS, OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS, EU ANNOUNCES NEW TRADE AGREEMENTS",
-    "last_updated": "2026-03-29 14:01:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY CONCERNS. INVEST IN DIVERSIFIED PORTFOLIOS AND MONITOR ECONOMIC INDICATORS FOR SIGNS OF INSTABILITY.",
+    "last_updated": "2026-03-29 14:44:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.11,
-        "C": 0.78
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
