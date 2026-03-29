@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.53556,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruptions"
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "High debt levels"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified and resilient economy"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATION; ECONOMISTS PREDICT 3% GROWTH BY Q2",
-    "last_updated": "2026-03-29 08:56:03",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 2.1% DUE TO INCREASED PROTECTIONISM. ASIAN MARKETS EXPERIENCE HIGH VOLATILITY. EUROPEAN UNION ANNOUNCES NEW ANTI-CORRUPTION MEASURES.",
+    "last_updated": "2026-03-29 09:35:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.88
     }
 }
