@@ -1,45 +1,45 @@
 {
-    "shi": 1.58806,
-    "health_percent": 73.21,
+    "shi": 1.04996,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war effects causing supply shortage"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Over-reliance on imported energy"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High national debt affecting economic stability"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative trade agreements"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective anti-corruption measures"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy integration"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND ENERGY SCARCITY. CITIES LIKE SINGAPORE AND ZURICH SHOWCASE HIGH STABILITY DUE TO INNOVATIVE POLICIES AND LOW CORRUPTION. THE COUNTDOWN TO POTENTIAL ECONOMIC COLLAPSE HAS BEGUN.",
-    "last_updated": "2026-03-30 06:11:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 65.43, EUROPEAN MARKETS DOWN 2.1% DUE TO SUPPLY CHAIN DISRUPTIONS, IMF WARNS OF RISING DEBT LEVELS IN EMERGING MARKETS",
+    "last_updated": "2026-03-30 08:01:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
+        "F": 0.92,
+        "T": 0.88,
+        "B": 1.21,
         "C": 0.78
     }
 }
