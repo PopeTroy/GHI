@@ -1,16 +1,16 @@
 {
-    "shi": 0.64896,
-    "health_percent": 67.25,
+    "shi": 2.30679,
+    "health_percent": 72.13,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "41:20:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
@@ -21,25 +21,25 @@
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Palo Alto, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE INNOVATION HUBS SHOW SIGNS OF RESILIENCE AND GROWTH.",
-    "last_updated": "2026-03-30 22:34:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, INVESTORS REMAIN CAUTIOUS",
+    "last_updated": "2026-03-30 23:07:13",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 1.05
+        "P": 0.87,
+        "F": 1.21,
+        "T": 1.05,
+        "B": 0.75,
+        "C": 0.92
     }
 }
