@@ -1,45 +1,45 @@
 {
-    "shi": 1.04996,
-    "health_percent": 74.21,
+    "shi": 0.82618,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High debt and energy shortages"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and aging population"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "deviation": "Corruption and lack of innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Business-friendly policies"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
+            "protocol": "Strong social safety net"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 65.43, EUROPEAN MARKETS DOWN 2.1% DUE TO SUPPLY CHAIN DISRUPTIONS, IMF WARNS OF RISING DEBT LEVELS IN EMERGING MARKETS",
-    "last_updated": "2026-03-30 08:01:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE, INVESTORS FLOCK TO SAFE-HAVEN ASSETS",
+    "last_updated": "2026-03-30 09:24:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.88,
+        "T": 0.85,
         "B": 1.21,
-        "C": 0.78
+        "C": 0.98
     }
 }
