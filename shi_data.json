@@ -1,45 +1,45 @@
 {
-    "shi": 1.50601,
+    "shi": 1.58806,
     "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers due to high tariffs"
+            "deviation": "Trade war effects causing supply shortage"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoint at major ports"
+            "loc": "Tokyo, Japan",
+            "deviation": "Over-reliance on imported energy"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High debt levels affecting infrastructure development"
+            "loc": "London, UK",
+            "deviation": "High national debt affecting economic stability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative trade agreements"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Innovation hubs for FinTech and sustainable energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Effective anti-corruption measures"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption initiatives and digital governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HEIGHTENED VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS FORECAST A POTENTIAL 2.5% DIP IN GLOBAL TRADE OVER THE NEXT QUARTER.",
-    "last_updated": "2026-03-30 04:16:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND ENERGY SCARCITY. CITIES LIKE SINGAPORE AND ZURICH SHOWCASE HIGH STABILITY DUE TO INNOVATIVE POLICIES AND LOW CORRUPTION. THE COUNTDOWN TO POTENTIAL ECONOMIC COLLAPSE HAS BEGUN.",
+    "last_updated": "2026-03-30 06:11:25",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.85
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.78
     }
 }
