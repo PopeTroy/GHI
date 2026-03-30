@@ -1,45 +1,45 @@
 {
-    "shi": 2.8152,
-    "health_percent": 74.25,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers, High Debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoints, Corruption"
+            "loc": "Mumbai, India",
+            "deviation": "Energy chokepoints and infrastructure challenges"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Inflation, Resource Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation, Anti-Corruption Policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms, Sustainability"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy reforms and diversification"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green Energy, Education Incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING. CITIES INVESTING IN SUSTAINABLE INFRASTRUCTURE EXPERIENCING GROWTH. ECONOMIC STABILITY INDEX: 74.25",
-    "last_updated": "2026-03-29 23:50:26",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES ARE DOWN 5% DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE THE US ECONOMY SHOWS SIGNS OF STABILITY WITH A 2.1% GDP GROWTH.",
+    "last_updated": "2026-03-30 01:06:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.48
+        "B": 1.21,
+        "C": 0.67
     }
 }
