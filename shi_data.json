@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "health_percent": 57.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "High debt ratio"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy import dependency"
+        },
+        {
+            "loc": "London, UK",
             "deviation": "Trade barriers"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative financial reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Strict anti-corruption policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "Dubai, UAE",
+            "protocol": "Investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND INCREASING NATIONAL DEBT.",
-    "last_updated": "2026-03-30 15:41:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL COLLAPSE WITHIN 48 HOURS.",
+    "last_updated": "2026-03-30 16:39:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
