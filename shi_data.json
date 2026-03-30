@@ -1,45 +1,45 @@
 {
-    "shi": 1.14693,
-    "health_percent": 73.21,
+    "shi": 0.76411,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "loc": "Athens, Greece",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Dependence"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt Crisis"
+            "loc": "Beijing, China",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy Reform"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES AS TRADE TENSIONS ESCALATE. ECONOMISTS WARN OF POTENTIAL COLLAPSE IN EMERGING MARKETS.",
-    "last_updated": "2026-03-30 17:36:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY ALERT: MULTIPLE NODES EXPERIENCING HIGH DEVIATION, SHI PROTOCOL IMPLEMENTATION UNDERWAY",
+    "last_updated": "2026-03-30 18:36:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.9
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
