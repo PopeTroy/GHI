@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
+    "shi": 3.21737,
     "health_percent": 67.32,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Athens, Greece",
-            "deviation": "Trade Barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Beijing, China",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY ALERT: MULTIPLE NODES EXPERIENCING HIGH DEVIATION, SHI PROTOCOL IMPLEMENTATION UNDERWAY",
-    "last_updated": "2026-03-30 18:36:42",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING: POTENTIAL SUPPLY CHAIN DISRUPTIONS AHEAD. KEY CITIES AT RISK: TOKYO, BEIJING, NEW YORK CITY. MONITOR FOR UPDATES.",
+    "last_updated": "2026-03-30 19:38:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
