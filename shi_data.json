@@ -1,45 +1,45 @@
 {
-    "shi": 2.75264,
-    "health_percent": 73.2,
-    "location": "NEW YORK CITY, USA",
+    "shi": 2.46538,
+    "health_percent": 82.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
-        },
-        {
-            "loc": "Moscow, Russia",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY REPORTED IN LATIN AMERICA, POTENTIAL IMPACT ON GLOBAL TRADE",
-    "last_updated": "2026-03-31 19:18:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS. ECONOMISTS ARE WARNING OF A POTENTIAL SUPPLY CHAIN BREAK, WHICH COULD HAVE FAR-REACHING CONSEQUENCES FOR GLOBAL ECONOMIC STABILITY.",
+    "last_updated": "2026-03-31 20:02:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.75,
-        "C": 0.6
+        "T": 1.11,
+        "B": 0.78,
+        "C": 0.65
     }
 }
