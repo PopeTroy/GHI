@@ -1,9 +1,9 @@
 {
-    "shi": 2.46538,
-    "health_percent": 82.15,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -21,25 +21,25 @@
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS. ECONOMISTS ARE WARNING OF A POTENTIAL SUPPLY CHAIN BREAK, WHICH COULD HAVE FAR-REACHING CONSEQUENCES FOR GLOBAL ECONOMIC STABILITY.",
-    "last_updated": "2026-03-31 20:02:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A SLIGHT DOWNTURN IN GLOBAL TRADE, WITH SUPPLY CHAINS EXPERIENCING STRAIN. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING PROTOCOLS TO MITIGATE THE EFFECTS.",
+    "last_updated": "2026-03-31 20:54:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
