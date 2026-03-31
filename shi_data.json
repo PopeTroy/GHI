@@ -1,45 +1,45 @@
 {
-    "shi": 1.03696,
+    "shi": 1.14693,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:03:22",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "Infrastructure and logistics issues"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Policy Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and sustainable practices"
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, ECONOMISTS WARN OF POTENTIAL COLLAPSE IN EMERGING MARKETS",
-    "last_updated": "2026-03-31 08:11:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING. TRADE TENSIONS ESCALATE BETWEEN MAJOR POWERS. ENERGY PRICES SURGE DUE TO REGIONAL CONFLICT.",
+    "last_updated": "2026-03-31 09:17:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.23,
-        "C": 0.98
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.9
     }
 }
