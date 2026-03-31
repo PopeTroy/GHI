@@ -1,45 +1,45 @@
 {
-    "shi": 0.97333,
-    "health_percent": 78.5,
+    "shi": 3.30753,
+    "health_percent": 74.22,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade Barrier"
-        },
-        {
             "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reform"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-03-31 01:04:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HEIGHTENED VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-03-31 04:05:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.95
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.62,
+        "C": 0.78
     }
 }
