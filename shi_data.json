@@ -1,45 +1,45 @@
 {
-    "shi": 1.42129,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 2.75264,
+    "health_percent": 73.2,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS WARN OF POTENTIAL INSTABILITY",
-    "last_updated": "2026-03-31 18:08:07",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY REPORTED IN LATIN AMERICA, POTENTIAL IMPACT ON GLOBAL TRADE",
+    "last_updated": "2026-03-31 19:18:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.98,
-        "B": 1.11,
-        "C": 0.92
+        "F": 0.92,
+        "T": 1.1,
+        "B": 0.75,
+        "C": 0.6
     }
 }
