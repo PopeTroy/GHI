@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 1.32338,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and supply chain constraints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and high debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "protocol": "Anti-corruption and business-friendly environment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Financial stability and high-tech innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A SLIGHT DOWNTURN IN GLOBAL TRADE, WITH SUPPLY CHAINS EXPERIENCING STRAIN. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING PROTOCOLS TO MITIGATE THE EFFECTS.",
-    "last_updated": "2026-03-31 20:54:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES SPIKING.",
+    "last_updated": "2026-03-31 21:33:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.78
     }
 }
