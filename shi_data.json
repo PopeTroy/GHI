@@ -1,45 +1,45 @@
 {
-    "shi": 1.07759,
-    "health_percent": 67.32,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Paris, France",
-            "deviation": "Energy chokepoints and high regulation"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Corruption and lack of policy reforms"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and low debt"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high investment in growth"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-03-31 10:16:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY SHORTAGES. CITIES WITH STRONG POLICY REFORMS AND INNOVATION PROTOCOLS ARE SHOWING RESILIENCE.",
+    "last_updated": "2026-03-31 11:13:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
-        "B": 1.21,
-        "C": 0.76
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
