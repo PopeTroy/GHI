@@ -1,45 +1,45 @@
 {
-    "shi": 3.73445,
-    "health_percent": 73.2,
-    "location": "NEW YORK, USA",
+    "shi": 5.44253,
+    "health_percent": 72.11,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Hong Kong, China",
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
+            "loc": "Istanbul, Turkey",
             "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Dubai, United Arab Emirates",
+            "protocol": "Innovation and Anti-Corruption"
+        },
+        {
+            "loc": "Tallinn, Estonia",
+            "protocol": "Policy Reforms and Digital Governance"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Financial Inclusion and Transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RECENT TRADE AGREEMENTS, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-04-01 15:16:04",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS UNDER THREAT AS TRADE TENSIONS AND ENERGY PRICES CONTINUE TO RISE. THE GHI LOGIC ENGINE HAS IDENTIFIED SINGAPORE AS A HIGH-IMPACT LOCATION, WITH POTENTIAL BOTTLENECKS IN HONG KONG, ISTANBUL, AND CARACAS. MEANWHILE, DUBAI, TALLINN, AND ZURICH ARE SHOWCASING HIGH SHI NODES WITH INNOVATIVE PROTOCOLS IN PLACE.",
+    "last_updated": "2026-04-01 16:15:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
+        "P": 0.87,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 0.63,
         "C": 0.42
     }
 }
