@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.32,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "120:00:00",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and increasing trade barriers"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Energy shortages and high inflation rates"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Over-reliance on imported goods and inadequate infrastructure"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative fintech policies and low corruption rates"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Strong policy reforms and high investment in renewable energy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and effective anti-corruption measures"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED. MARKETS EXPERIENCING HIGH VOLATILITY. TRADE NEGOTIATIONS STALLED. ENERGY PRICES SOARING.",
-    "last_updated": "2026-04-01 10:14:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO STABILIZE ECONOMIES.",
+    "last_updated": "2026-04-01 11:15:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
