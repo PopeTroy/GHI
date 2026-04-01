@@ -1,45 +1,45 @@
 {
-    "shi": 0.87374,
-    "health_percent": 74.21,
+    "shi": 0.84052,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade restrictions"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High energy prices"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Deregulation policies"
+            "protocol": "Innovative Economic Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems"
+            "protocol": "Effective Anti-Corruption Measures"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Technological advancements"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Robust Infrastructure Development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-01 17:13:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL FINANCIAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS. TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. INNOVATIONS IN RENEWABLE ENERGY GAIN TRACTION.",
+    "last_updated": "2026-04-01 18:04:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 1.17,
-        "B": 1.92,
-        "C": 1.05
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
