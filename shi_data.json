@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 3.73445,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:15",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Trade barriers and high regulatory costs"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure inadequacies and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-corruption and transparency measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Financial stability and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS, WHILE LOCAL ECONOMIES SHOW SIGNS OF RESILIENCE. TRADE AGREEMENTS AND ENERGY DIVERSIFICATION ARE KEY TO AVOIDING COLLAPSE.",
-    "last_updated": "2026-04-01 07:56:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF IMPENDING SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-04-01 09:04:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.56,
+        "C": 0.42
     }
 }
