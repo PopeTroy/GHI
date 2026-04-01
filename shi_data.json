@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
+    "shi": 1.09563,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:07:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt Levels"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative Economic Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective Anti-Corruption Measures"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Robust Infrastructure Development"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL FINANCIAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS. TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. INNOVATIONS IN RENEWABLE ENERGY GAIN TRACTION.",
-    "last_updated": "2026-04-01 18:04:41",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY ALERT ISSUED FOR TOKYO, JAPAN. TRADE NEGOTIATIONS UNDERWAY BETWEEN CHINA AND THE US. INNOVATION HUB ESTABLISHED IN SINGAPORE.",
+    "last_updated": "2026-04-01 19:18:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "T": 1.01,
+        "B": 1.25,
+        "C": 0.85
     }
 }
