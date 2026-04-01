@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.5,
+    "shi": 0.69134,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "High energy costs due to port congestion"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and high corruption"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Trade barriers impacting import/export efficiency"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and lack of innovation"
+            "loc": "Shanghai, China",
+            "deviation": "Debt servicing issues affecting infrastructure development"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Streamlined customs procedures and low corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Diversified economy and infrastructure development"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative financial systems and stable governance"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green technology and social welfare programs"
+            "protocol": "Sustainable energy solutions and effective policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE, TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATING, AND GEOPOLITICAL INSTABILITY AFFECTING COMMODITY PRICES.",
-    "last_updated": "2026-04-01 21:51:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS SUPPLY CHAIN DISRUPTIONS IMPACT MAJOR ECONOMIES. REGIONAL INSTABILITY AND DEBT CONCERNS THREATEN ECONOMIC STABILITY.",
+    "last_updated": "2026-04-01 22:24:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 1.05
     }
 }
