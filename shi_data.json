@@ -1,45 +1,45 @@
 {
-    "shi": 3.73445,
+    "shi": 3.21737,
     "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "120:00:00",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt levels and increasing trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and high regulatory costs"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy shortages and high inflation rates"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Infrastructure inadequacies and corruption"
+            "deviation": "Over-reliance on imported goods and inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovative fintech policies and low corruption rates"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-corruption and transparency measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Strong policy reforms and high investment in renewable energy"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and low debt"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and effective anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF IMPENDING SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-04-01 09:04:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED. MARKETS EXPERIENCING HIGH VOLATILITY. TRADE NEGOTIATIONS STALLED. ENERGY PRICES SOARING.",
+    "last_updated": "2026-04-01 10:14:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
+        "B": 0.65,
         "C": 0.42
     }
 }
