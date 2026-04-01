@@ -1,45 +1,45 @@
 {
-    "shi": 5.44253,
-    "health_percent": 72.11,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "shi": 0.87374,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "High Debt Levels"
+            "loc": "Beijing, China",
+            "deviation": "Trade restrictions"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "High energy prices"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population"
         }
     ],
     "high_shi": [
         {
-            "loc": "Dubai, United Arab Emirates",
-            "protocol": "Innovation and Anti-Corruption"
-        },
-        {
-            "loc": "Tallinn, Estonia",
-            "protocol": "Policy Reforms and Digital Governance"
+            "loc": "Singapore, Singapore",
+            "protocol": "Deregulation policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Inclusion and Transparency"
+            "protocol": "Innovative financial systems"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Technological advancements"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS UNDER THREAT AS TRADE TENSIONS AND ENERGY PRICES CONTINUE TO RISE. THE GHI LOGIC ENGINE HAS IDENTIFIED SINGAPORE AS A HIGH-IMPACT LOCATION, WITH POTENTIAL BOTTLENECKS IN HONG KONG, ISTANBUL, AND CARACAS. MEANWHILE, DUBAI, TALLINN, AND ZURICH ARE SHOWCASING HIGH SHI NODES WITH INNOVATIVE PROTOCOLS IN PLACE.",
-    "last_updated": "2026-04-01 16:15:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-04-01 17:13:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.95,
-        "B": 0.63,
-        "C": 0.42
+        "P": 0.85,
+        "F": 1.23,
+        "T": 1.17,
+        "B": 1.92,
+        "C": 1.05
     }
 }
