@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 74.23,
+    "shi": 1.64792,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "96:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and over-reliance on oil exports"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High regulatory barriers and complexity"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Severe trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "protocol": "Innovative fintech regulations"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy initiatives"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Investment in innovation and technology"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and stable trade relationships"
+            "protocol": "Strong anti-corruption policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED SIGNALS, WITH SOME NATIONS EXPERIENCING GROWTH AND OTHERS FACING SIGNIFICANT CHALLENGES. MONITOR THE GHI LOGIC ENGINE FOR REAL-TIME UPDATES AND ANALYSIS.",
-    "last_updated": "2026-03-31 23:53:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY; OIL PRICES SURGE DUE TO MIDDLE EASTERN TENSIONS; EXPERTS WARN OF IMPENDING ECONOMIC DOWNTURN",
+    "last_updated": "2026-04-01 01:47:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "B": 0.65,
+        "C": 0.82
     }
 }
