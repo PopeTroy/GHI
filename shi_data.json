@@ -1,21 +1,21 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "Trade barrier and debt crisis"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy export dependence"
+            "deviation": "Energy chokepoint and corruption"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
+            "deviation": "High debt and infrastructure issues"
         }
     ],
     "high_shi": [
@@ -28,18 +28,18 @@
             "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and trade agreements"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. ECONOMIC GROWTH FORECAST REVISED DOWNWARD.",
-    "last_updated": "2026-04-01 04:35:49",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING TURBULENCE, CENTRAL BANKS ON HIGH ALERT, COMMODITY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-04-01 06:15:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
