@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 1.65582,
+    "health_percent": 73.12,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "54:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Supply Disruption"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barrier Implementation"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High Debt Ratio"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub Establishment"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Policy Reform and Deregulation"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption and Transparency Measures"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, HIGH-IMPACT LOCATIONS IDENTIFIED FOR SWIFT INTERVENTION AND PROTOCOL IMPLEMENTATION.",
-    "last_updated": "2026-04-01 23:48:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND ZURICH MAINTAIN STABILITY THROUGH STRONG POLICY REFORMS AND LOW CORRUPTION RATES.",
+    "last_updated": "2026-04-02 00:59:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.92,
+        "C": 1.05
     }
 }
