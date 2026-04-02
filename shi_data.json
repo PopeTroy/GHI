@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 62.15,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Energy Costs"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Debt Overload"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Financial Stability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATION DUE TO TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS. ECONOMIC STABILITY THREATENED BY HIGH DEBT LEVELS IN CERTAIN REGIONS.",
-    "last_updated": "2026-04-02 12:09:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY DUE TO TRADE TENSIONS AND RISING DEBT LEVELS. CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING INNOVATIVE PROTOCOLS TO MAINTAIN STABILITY AND PROMOTE GROWTH.",
+    "last_updated": "2026-04-02 13:56:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
