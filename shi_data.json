@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 1.18547,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "BEIJING, CHINA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "47:32:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
+            "loc": "Hong Kong, China",
+            "deviation": "High Trade Barriers"
+        },
+        {
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
             "deviation": "High Debt"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Energy Policy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Financial Stability Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW A SIGNIFICANT DECLINE IN GLOBAL TRADE, PROMPTING CONCERNS OF AN IMPENDING RECESSION. GOVERNMENTS ARE URGED TO IMPLEMENT POLICIES TO MITIGATE THE EFFECTS OF THE DOWNTURN.",
-    "last_updated": "2026-04-02 09:47:16",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, OIL PRICES SURGE DUE TO SUPPLY CHAIN DISRUPTIONS, AND ECONOMIC INDICATORS SIGNAL POTENTIAL RECESSION",
+    "last_updated": "2026-04-02 10:38:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.78
     }
 }
