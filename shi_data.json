@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 1.05203,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:49",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
+            "loc": "London, UK",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK: MULTIPLE BOTTLENECKS IDENTIFIED, HIGH SHI NODES SHOW RESILIENCE",
-    "last_updated": "2026-04-02 22:20:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS. ENERGY PRICES RISING DUE TO GEOPOLITICAL INSTABILITY.",
+    "last_updated": "2026-04-02 22:54:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
