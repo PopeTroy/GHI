@@ -1,45 +1,45 @@
 {
-    "shi": 2.46538,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 0.77048,
+    "health_percent": 72.31,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High Debt"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption Measures"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND ENERGY DEMAND INCREASING.",
-    "last_updated": "2026-04-02 17:05:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT A MINOR DOWNTURN IN Q2",
+    "last_updated": "2026-04-02 17:58:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
