@@ -1,45 +1,45 @@
 {
-    "shi": 0.94354,
-    "health_percent": 72.5,
+    "shi": 3.21737,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "56:21:49",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt"
-        },
-        {
             "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hub"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND GEOPOLITICAL INSTABILITY ON THE HORIZON.",
-    "last_updated": "2026-04-02 11:30:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATION DUE TO TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS. ECONOMIC STABILITY THREATENED BY HIGH DEBT LEVELS IN CERTAIN REGIONS.",
+    "last_updated": "2026-04-02 12:09:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.98
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
