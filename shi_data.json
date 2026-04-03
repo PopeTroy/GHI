@@ -1,45 +1,45 @@
 {
-    "shi": 2.35403,
-    "health_percent": 78.52,
+    "shi": 2.22196,
+    "health_percent": 72.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Beijing, China",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Trade Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: SYSTEMIC RISKS ELEVATED. MONITOR TRADE AND ENERGY SECTORS.",
-    "last_updated": "2026-04-03 10:23:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-04-03 11:08:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.69,
-        "C": 0.95
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
