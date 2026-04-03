@@ -1,45 +1,45 @@
 {
-    "shi": 0.94354,
-    "health_percent": 74.21,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and limited policy reforms"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and lack of innovation"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and stable economy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "High level of transparency and stable trade relationships"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES",
-    "last_updated": "2026-04-03 23:00:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN WITHIN THE NEXT 6 MONTHS",
+    "last_updated": "2026-04-03 23:44:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
