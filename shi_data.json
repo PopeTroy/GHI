@@ -1,45 +1,45 @@
 {
-    "shi": 4.90146,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
+    "shi": 1.95204,
+    "health_percent": 78.25,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
+            "loc": "New York City, USA",
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "deviation": "Energy Chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers causing 15% decrease in imports"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoint due to 20% decrease in gas supply"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt with 30% increase in government borrowing"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative green technologies with 25% reduction in carbon emissions"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption policies with 10% increase in foreign investment"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms with 15% increase in entrepreneurship"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STABILIZING, BUT REGIONAL DISPARITIES PERSIST; GHI LOGIC ENGINE RECOMMENDS TARGETED INTERVENTIONS TO ADDRESS BOTTLENECKS AND PROMOTE GROWTH",
-    "last_updated": "2026-04-03 15:23:36",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING RED, GLOBAL TRADE AT RISK OF COLLAPSE. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-04-03 15:58:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.32
+        "P": 0.72,
+        "F": 0.91,
+        "T": 1.02,
+        "B": 0.58,
+        "C": 0.85
     }
 }
