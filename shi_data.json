@@ -1,45 +1,45 @@
 {
-    "shi": 1.86242,
-    "health_percent": 73.21,
+    "shi": 0.82551,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade tensions"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoint"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy import dependence and aging population"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt"
+            "deviation": "Brexit uncertainty and financial instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption laws"
+            "loc": "Singapore",
+            "protocol": "Innovative economic policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hubs"
+            "protocol": "Strong financial regulation and stable governance"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy adoption and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY INCREASING TRADE TENSIONS AND ENERGY SHORTAGES. NEW POLICY REFORMS IN CANADA AND SWITZERLAND SHOW PROMISE FOR GROWTH IMPROVEMENTS.",
-    "last_updated": "2026-04-03 13:46:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS URGED TO IMPLEMENT REFORMS",
+    "last_updated": "2026-04-03 14:31:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 0.92,
-        "B": 0.67,
-        "C": 1.11
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.12,
+        "C": 0.95
     }
 }
