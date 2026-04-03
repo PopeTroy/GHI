@@ -1,45 +1,45 @@
 {
-    "shi": 1.13498,
+    "shi": 2.341,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
+            "loc": "LOS ANGELES, USA",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "DUBAI, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "ATHENS, GREECE",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption measures"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hubs"
-        },
-        {
-            "loc": "Vancouver, Canada",
+            "loc": "SINGAPORE, SINGAPORE",
             "protocol": "Policy reforms"
+        },
+        {
+            "loc": "STOCKHOLM, SWEDEN",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "SEOUL, SOUTH KOREA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE, AND ENERGY PRICES SKYROCKET.",
-    "last_updated": "2026-04-03 20:02:02",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY SHORTAGES.",
+    "last_updated": "2026-04-03 20:50:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.02,
-        "B": 1.15,
-        "C": 0.88
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.56
     }
 }
