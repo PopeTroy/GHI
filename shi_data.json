@@ -1,45 +1,45 @@
 {
-    "shi": 2.95142,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 7.4689,
+    "health_percent": 42.11,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and energy chokepoints"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "High debt and corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and civil unrest"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption and economic diversification"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Reform"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social welfare"
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-04-03 08:35:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POSSIBLE DOWNTURN IN Q2",
+    "last_updated": "2026-04-03 09:34:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.62,
-        "C": 0.48
+        "B": 0.56,
+        "C": 0.21
     }
 }
