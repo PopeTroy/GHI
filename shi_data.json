@@ -1,45 +1,45 @@
 {
-    "shi": 2.38356,
-    "health_percent": 74.2,
+    "shi": 1.01955,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Istanbul, Turkey",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Sweden",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, ECONOMISTS REMAIN CAUTIOUS ABOUT POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-03 00:01:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO ONGOING TRADE DISPUTES AND RISING DEBT LEVELS. ECONOMIC STABILITY IS AT RISK, AND PROACTIVE MEASURES ARE NECESSARY TO MITIGATE POTENTIAL COLLAPSE.",
+    "last_updated": "2026-04-03 03:21:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.55
+        "T": 0.88,
+        "B": 1.28,
+        "C": 0.67
     }
 }
