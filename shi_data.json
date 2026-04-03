@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 2.95142,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers and energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Istanbul, Turkey",
+            "deviation": "High debt and corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and civil unrest"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "Seoul, South Korea",
+            "protocol": "Anti-corruption and economic diversification"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and social welfare"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ESCALATING, AND ENERGY PRICES SOARING.",
-    "last_updated": "2026-04-03 07:47:15",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-04-03 08:35:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.62,
+        "C": 0.48
     }
 }
