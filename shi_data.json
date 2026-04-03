@@ -1,45 +1,45 @@
 {
-    "shi": 0.82551,
-    "health_percent": 67.23,
+    "shi": 4.90146,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade tensions"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy import dependence and aging population"
+            "deviation": "Trade barriers causing 15% decrease in imports"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit uncertainty and financial instability"
+            "deviation": "Energy chokepoint due to 20% decrease in gas supply"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt with 30% increase in government borrowing"
         }
     ],
     "high_shi": [
         {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovative green technologies with 25% reduction in carbon emissions"
+        },
+        {
             "loc": "Singapore",
-            "protocol": "Innovative economic policies and low corruption"
+            "protocol": "Anti-corruption policies with 10% increase in foreign investment"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulation and stable governance"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy adoption and social cohesion"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms with 15% increase in entrepreneurship"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS URGED TO IMPLEMENT REFORMS",
-    "last_updated": "2026-04-03 14:31:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STABILIZING, BUT REGIONAL DISPARITIES PERSIST; GHI LOGIC ENGINE RECOMMENDS TARGETED INTERVENTIONS TO ADDRESS BOTTLENECKS AND PROMOTE GROWTH",
+    "last_updated": "2026-04-03 15:23:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.12,
-        "C": 0.95
+        "B": 0.56,
+        "C": 0.32
     }
 }
