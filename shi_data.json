@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "shi": 7.21342,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "loc": "New York, USA",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Trade barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and economic stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS",
-    "last_updated": "2026-04-04 11:17:58",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR CIVIL UNREST | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY",
+    "last_updated": "2026-04-04 11:47:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.41,
+        "C": 0.29
     }
 }
