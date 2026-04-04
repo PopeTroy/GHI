@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 73.21,
+    "shi": 1.67164,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Iran, Tehran",
-            "deviation": "energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lebanon, Beirut",
-            "deviation": "high debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Estonia, Tallinn",
-            "protocol": "anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption and stable financial system"
         },
         {
-            "loc": "Japan, Tokyo",
-            "protocol": "innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy and sustainable practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, OIL PRICES SURGE DUE TO MIDDLE EAST UNREST, ASIAN MARKETS SHOW SIGNS OF RECOVERY",
-    "last_updated": "2026-04-04 16:56:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TENSIONS ESCALATE, AND ENERGY PRICES SURGE.",
+    "last_updated": "2026-04-04 17:32:31",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.78
+        "T": 1.1,
+        "B": 0.78,
+        "C": 0.95
     }
 }
