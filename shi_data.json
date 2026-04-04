@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "SINGAPORE, SINGAPORE",
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient infrastructure and bureaucratic red tape"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms for Sustainable Growth"
+            "protocol": "Sustainable energy and social welfare"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS SUSTAINABLE GROWTH, WITH CITIES LIKE ZURICH AND COPENHAGEN LEADING THE WAY IN INNOVATION AND POLICY REFORMS. HOWEVER, BOTTLENECKS IN TRADE AND ENERGY ARE CAUSING CONCERNS IN REGIONS LIKE ASIA AND THE MIDDLE EAST.",
-    "last_updated": "2026-04-04 08:06:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-04 08:56:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
