@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
+    "shi": 1.03803,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Venezuela, Caracas",
+            "deviation": "trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "loc": "Iran, Tehran",
+            "deviation": "energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and policy instability"
+            "loc": "Lebanon, Beirut",
+            "deviation": "high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy stability and financial security"
+            "loc": "Estonia, Tallinn",
+            "protocol": "anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and infrastructure development"
+            "loc": "Japan, Tokyo",
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. KEY LOCATIONS SUCH AS NEW YORK, BEIJING, AND MUMBAI FACE HIGH DEVIATION FROM STABILITY. IMPLEMENTING PROTOCOLS SUCH AS INNOVATION AND ANTI-CORRUPTION REFORMS CAN IMPROVE GROWTH AND STABILITY.",
-    "last_updated": "2026-04-04 16:18:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, OIL PRICES SURGE DUE TO MIDDLE EAST UNREST, ASIAN MARKETS SHOW SIGNS OF RECOVERY",
+    "last_updated": "2026-04-04 16:56:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.78
     }
 }
