@@ -1,45 +1,45 @@
 {
-    "shi": 1.65697,
-    "health_percent": 73.21,
+    "shi": 1.57108,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Brexit-related economic uncertainty"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade policies"
+            "loc": "London, UK",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong anti-corruption measures"
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high investment in education"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE. ECONOMISTS PREDICT A 25% CHANCE OF RECESSION WITHIN THE NEXT 6 MONTHS.",
-    "last_updated": "2026-04-04 19:54:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS POINT TO POTENTIAL INSTABILITY IN THE ASIA-PACIFIC REGION. MARKETS ARE CLOSELY WATCHING DEVELOPMENTS.",
+    "last_updated": "2026-04-04 20:22:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
+        "T": 1.11,
         "B": 0.78,
-        "C": 0.88
+        "C": 1.02
     }
 }
