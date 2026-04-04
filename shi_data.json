@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 3.21737,
+    "health_percent": 72.18,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
-            "loc": "Tehran, Iran",
-            "deviation": "Trade restrictions and infrastructure limitations"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong institutions"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND GOVERNMENTS IMPLEMENTING FISCAL POLICIES TO STIMULATE GROWTH.",
-    "last_updated": "2026-04-04 04:47:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS ECONOMIC INSTABILITY CONCERNS GROW; INVESTORS TURN TO SAFE-HAVEN ASSETS",
+    "last_updated": "2026-04-04 05:46:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
