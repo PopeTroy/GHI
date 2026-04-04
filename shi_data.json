@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.25,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 67.32,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "45:21:10",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade Barrier"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Hong Kong, China",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE, GOVERNMENTS SCRAMBLING TO IMPLEMENT STABILIZING MEASURES. LATEST TRADE NUMBERS INDICATE A 5% DECLINE IN INTERNATIONAL TRADE.",
-    "last_updated": "2026-04-04 22:53:21",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC INDICATORS FLASHING WARNING SIGNS.",
+    "last_updated": "2026-04-04 23:22:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.69
     }
 }
