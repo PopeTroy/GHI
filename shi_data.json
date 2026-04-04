@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 73.21,
+    "shi": 2.22196,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:01",
+    "collapse_timer": "45:21:10",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade Barrier"
-        },
-        {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "London, UK",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARNING OF POTENTIAL COLLAPSE IN KEY TRADE HUBS.",
-    "last_updated": "2026-04-04 22:22:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE, GOVERNMENTS SCRAMBLING TO IMPLEMENT STABILIZING MEASURES. LATEST TRADE NUMBERS INDICATE A 5% DECLINE IN INTERNATIONAL TRADE.",
+    "last_updated": "2026-04-04 22:53:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.67,
+        "C": 0.59
     }
 }
