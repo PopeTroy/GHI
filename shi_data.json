@@ -1,45 +1,45 @@
 {
-    "shi": 1.36112,
-    "health_percent": 74.23,
+    "shi": 0.82618,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High National Debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Streamlined Trade Policy"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy Investments"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovation Hub Establishment"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, ECONOMISTS PREDICT MINOR CORRECTION",
-    "last_updated": "2026-04-04 06:42:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES REACH A CRITICAL JUNCTURE.",
+    "last_updated": "2026-04-04 07:37:49",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.87,
         "F": 0.92,
-        "T": 1.21,
-        "B": 1.15,
-        "C": 0.85
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.98
     }
 }
