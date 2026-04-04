@@ -1,45 +1,45 @@
 {
-    "shi": 7.21342,
-    "health_percent": 74.21,
+    "shi": 1.19178,
+    "health_percent": 82.14,
     "location": "TOKYO, JAPAN",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York, USA",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and economic stability"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and low debt"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR CIVIL UNREST | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY",
-    "last_updated": "2026-04-04 11:47:22",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET INDICES ARE EXPERIENCING VOLATILITY, WITH THE TOKYO STOCK EXCHANGE SHOWING A 2.5% DECLINE IN THE LAST HOUR.",
+    "last_updated": "2026-04-04 12:23:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.41,
-        "C": 0.29
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.11,
+        "C": 1.03
     }
 }
