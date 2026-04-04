@@ -1,45 +1,45 @@
 {
-    "shi": 0.94957,
+    "shi": 1.89285,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
+            "loc": "Istanbul, Turkey",
             "deviation": "Energy chokepoints"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "Soaring national debt"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative taxation policies"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption laws"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-04 17:59:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS SUSTAINABLE PRACTICES AND REDUCED CARBON FOOTPRINT. TRADE AGREEMENTS AND POLICY REFORMS ARE BEING IMPLEMENTED TO STIMULATE GROWTH AND STABILITY.",
+    "last_updated": "2026-04-04 18:54:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 1.1,
-        "C": 0.95
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 0.75,
+        "C": 0.82
     }
 }
