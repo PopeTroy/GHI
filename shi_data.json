@@ -1,5 +1,5 @@
 {
-    "shi": 1.57375,
+    "shi": 1.65697,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,39 +7,39 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barrier"
+            "deviation": "Energy chokepoints and aging population"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Brexit-related economic uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovative trade policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high investment in education"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-04-04 19:27:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE. ECONOMISTS PREDICT A 25% CHANCE OF RECESSION WITHIN THE NEXT 6 MONTHS.",
+    "last_updated": "2026-04-04 19:54:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.11,
-        "C": 0.78
+        "F": 0.92,
+        "T": 1.01,
+        "B": 0.78,
+        "C": 0.88
     }
 }
