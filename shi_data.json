@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "Trade barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and infrastructure inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and financial stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN WITHIN THE NEXT 6 MONTHS",
-    "last_updated": "2026-04-03 23:44:04",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY, WITH POTENTIAL FOR TRADE WARS AND ECONOMIC DOWNTURNS. CITIES WITH HIGH SHI ARE INVESTING IN INNOVATIVE PROTOCOLS AND SUSTAINABLE INFRASTRUCTURE.",
+    "last_updated": "2026-04-04 00:03:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
