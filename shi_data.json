@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.45,
+    "shi": 1.93638,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Lagos, Nigeria",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "loc": "Suez, Egypt",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING: TRADE TENSIONS AND DEBT CRISES ON THE RISE. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-04-04 09:39:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SUGGEST A HIGH-RISK ECONOMIC COLLAPSE WITHIN THE NEXT 48 HOURS. HIGH-IMPACT NODES HAVE BEEN IDENTIFIED AND ARE BEING CLOSELY MONITORED.",
+    "last_updated": "2026-04-04 10:05:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.56,
+        "C": 0.81
     }
 }
