@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive trade barriers"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "High energy consumption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Rising national debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative tax reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy solutions"
+            "protocol": "Innovation"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Effective anti-corruption policies"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING MODERATE FLUCTUATIONS. ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS.",
-    "last_updated": "2026-04-04 15:17:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-04 15:49:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "B": 1.21,
+        "C": 0.69
     }
 }
