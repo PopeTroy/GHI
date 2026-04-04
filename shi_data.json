@@ -1,45 +1,45 @@
 {
-    "shi": 1.89285,
+    "shi": 1.57375,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barrier"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS SUSTAINABLE PRACTICES AND REDUCED CARBON FOOTPRINT. TRADE AGREEMENTS AND POLICY REFORMS ARE BEING IMPLEMENTED TO STIMULATE GROWTH AND STABILITY.",
-    "last_updated": "2026-04-04 18:54:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-04-04 19:27:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.82
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.11,
+        "C": 0.78
     }
 }
