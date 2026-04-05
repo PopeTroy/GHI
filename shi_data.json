@@ -1,45 +1,45 @@
 {
-    "shi": 1.02115,
-    "health_percent": 63.21,
+    "shi": 1.25944,
+    "health_percent": 74.56,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade tariffs and port congestion"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Energy shortages and transportation disruptions"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "High debt and decreased investor confidence"
+            "loc": "Kolkata, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech and trade agreements"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "protocol": "Strategic investment in renewable energy and logistics"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures and policy reforms"
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS ESCALATING, AND INNOVATION HUBS DRIVING GROWTH",
-    "last_updated": "2026-04-05 19:40:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, KEY LOCATIONS UNDER STRESS",
+    "last_updated": "2026-04-05 20:00:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.85,
-        "B": 1.23,
-        "C": 0.78
+        "P": 0.85,
+        "F": 0.91,
+        "T": 1.23,
+        "B": 1.11,
+        "C": 0.98
     }
 }
