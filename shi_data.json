@@ -1,45 +1,45 @@
 {
-    "shi": 1.22368,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.02115,
+    "health_percent": 63.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:42:11",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "loc": "Shanghai, China",
+            "deviation": "Trade tariffs and port congestion"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "loc": "Los Angeles, USA",
+            "deviation": "Energy shortages and transportation disruptions"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers and Inefficient Port Operations"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "High debt and decreased investor confidence"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined Customs Procedures"
+            "protocol": "Innovative fintech and trade agreements"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "protocol": "Strategic investment in renewable energy and logistics"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Framework"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hubs and Entrepreneurial Support"
+            "protocol": "Robust anti-corruption measures and policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE, WHILE KEY CITIES IMPLEMENT REFORMS TO BOOST ECONOMIC STABILITY AND GROWTH.",
-    "last_updated": "2026-04-05 19:00:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS ESCALATING, AND INNOVATION HUBS DRIVING GROWTH",
+    "last_updated": "2026-04-05 19:40:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
         "F": 0.92,
-        "T": 1.11,
+        "T": 0.85,
         "B": 1.23,
-        "C": 0.85
+        "C": 0.78
     }
 }
