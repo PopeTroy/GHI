@@ -1,45 +1,45 @@
 {
-    "shi": 2.3879,
-    "health_percent": 82.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:01",
+    "collapse_timer": "42:11:37",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Istanbul, Turkey",
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "New Delhi, India",
+            "loc": "Mumbai, India",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption Policy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND ECONOMIC UNCERTAINTY LOOMING.",
-    "last_updated": "2026-04-05 22:53:31",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY COMPROMISED DUE TO RISING DEBT AND SUPPLY CHAIN DISRUPTIONS. IMPLEMENTING PROTOCOLS SUCH AS POLICY REFORMS, ANTI-CORRUPTION, AND INNOVATION COULD MITIGATE POTENTIAL COLLAPSE.",
+    "last_updated": "2026-04-05 23:25:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.65
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
