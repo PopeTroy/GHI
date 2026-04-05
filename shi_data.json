@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
+    "shi": 1.5025,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade Disputes"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Export Restrictions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit uncertainty and high debt"
+            "loc": "Athens, Greece",
+            "deviation": "High Sovereign Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative Fiscal Policy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and financial stability"
+            "protocol": "Deregulation and Trade Facilitation"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Diversified economy and strong institutions"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Technology Investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC GROWTH SLOWING DOWN IN MAJOR ECONOMIES, AND GEOPOLITICAL TENSIONS RISING.",
-    "last_updated": "2026-04-05 04:10:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN DUE TO RISING TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS, WHILE CITING SINGAPORE, ZURICH, AND COPENHAGEN AS STABLE NODES WITH HIGH SHI DUE TO THEIR INNOVATIVE POLICIES AND GREEN INVESTMENTS.",
+    "last_updated": "2026-04-05 05:53:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "F": 1.21,
+        "T": 0.98,
+        "B": 1.05,
+        "C": 0.92
     }
 }
