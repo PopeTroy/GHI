@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.32,
-    "location": "NEW YORK CITY, UNITED STATES",
+    "shi": 1.22368,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:42:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Disruptions"
         },
         {
-            "loc": "London, United Kingdom",
-            "deviation": "High Debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers and Inefficient Port Operations"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Streamlined Customs Procedures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Robust Anti-Corruption Framework"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs and Entrepreneurial Support"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, UNITED STATES TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING DUE TO GEOPOLITICAL UNREST.",
-    "last_updated": "2026-04-05 18:03:00",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE, WHILE KEY CITIES IMPLEMENT REFORMS TO BOOST ECONOMIC STABILITY AND GROWTH.",
+    "last_updated": "2026-04-05 19:00:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.11,
+        "B": 1.23,
+        "C": 0.85
     }
 }
