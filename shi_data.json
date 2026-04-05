@@ -1,9 +1,9 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 1.1705,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,32 +14,32 @@
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Wellington, New Zealand",
             "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | MARKET VOLATILITY INCREASES AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND STABLE GOVERNANCE.",
-    "last_updated": "2026-04-05 07:53:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS REPORTED, ECONOMIC STABILITY AT RISK.",
+    "last_updated": "2026-04-05 08:34:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.12,
+        "C": 0.67
     }
 }
