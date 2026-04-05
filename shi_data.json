@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 82.15,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers with key partners"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and aging population"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Energy consumption imbalance"
+            "loc": "London, UK",
+            "deviation": "Brexit uncertainty and high debt"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption laws"
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub with high R&D spending"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable policy reforms"
+            "loc": "Sydney, Australia",
+            "protocol": "Diversified economy and strong institutions"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY UNCERTAINTY, SHI NODES SHOW RESILIENCE WITH STRONG INSTITUTIONAL FRAMEWORKS",
-    "last_updated": "2026-04-05 01:15:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC GROWTH SLOWING DOWN IN MAJOR ECONOMIES, AND GEOPOLITICAL TENSIONS RISING.",
+    "last_updated": "2026-04-05 04:10:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
