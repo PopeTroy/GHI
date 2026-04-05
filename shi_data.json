@@ -1,45 +1,45 @@
 {
-    "shi": 1.33691,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 0.84052,
+    "health_percent": 82.15,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:27:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive Trade Barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoint"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers with key partners"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High National Debt"
+            "loc": "Singapore",
+            "deviation": "Energy consumption imbalance"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative Tax Reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Laws"
+            "protocol": "Stringent anti-corruption laws"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Thriving Startup Ecosystem"
+            "protocol": "Innovation hub with high R&D spending"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY DUE TO TRADE TENSIONS AND RISING DEBT LEVELS. INNOVATIVE CITIES LIKE SINGAPORE AND SAN FRANCISCO ARE IMPLEMENTING PROTOCOLS TO MITIGATE RISKS AND DRIVE ECONOMIC GROWTH.",
-    "last_updated": "2026-04-04 23:52:09",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY UNCERTAINTY, SHI NODES SHOW RESILIENCE WITH STRONG INSTITUTIONAL FRAMEWORKS",
+    "last_updated": "2026-04-05 01:15:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 1.11,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.1,
         "C": 0.95
     }
 }
