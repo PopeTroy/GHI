@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08657,
+    "health_percent": 72.55,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and regulatory issues"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints and Regulatory Hurdles"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and Brexit uncertainty"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and Infrastructure Challenges"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable financial system"
+            "loc": "Singapore, Singapore",
+            "protocol": "Robust Policy Reforms and Anti-Corruption Measures"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and social welfare"
+            "protocol": "Innovation and Technological Advancements"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable Financial System and Low Debt"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY CONCERNS. ECONOMISTS ARE MONITORING THE SITUATION CLOSELY.",
-    "last_updated": "2026-04-05 16:25:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS URGING CALM AS ECONOMIES TEETER ON THE BRINK OF INSTABILITY.",
+    "last_updated": "2026-04-05 17:01:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.95
     }
 }
