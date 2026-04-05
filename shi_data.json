@@ -1,45 +1,45 @@
 {
-    "shi": 2.55908,
-    "health_percent": 62.13,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:11",
+    "shi": 0.69134,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "45:23:01",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers and high debt"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and rising corruption"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Brexit implications and economic uncertainty"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms for economic stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulations and investment in emerging technologies"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND REGIONAL TRADE WARS.",
-    "last_updated": "2026-04-05 10:01:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS ECONOMIC UNCERTAINTY RISES. TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATE, WHILE INNOVATION HUBS EXPERIENCE GROWTH.",
+    "last_updated": "2026-04-05 10:48:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.21,
-        "B": 0.58,
-        "C": 0.81
+        "T": 0.78,
+        "B": 1.21,
+        "C": 1.05
     }
 }
