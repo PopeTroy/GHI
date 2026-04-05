@@ -1,45 +1,45 @@
 {
-    "shi": 1.5025,
-    "health_percent": 74.21,
+    "shi": 0.76411,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "42:11:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Disputes"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Export Restrictions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Sovereign Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative Fiscal Policy"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Deregulation and Trade Facilitation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green Technology Investments"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN DUE TO RISING TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS, WHILE CITING SINGAPORE, ZURICH, AND COPENHAGEN AS STABLE NODES WITH HIGH SHI DUE TO THEIR INNOVATIVE POLICIES AND GREEN INVESTMENTS.",
-    "last_updated": "2026-04-05 05:53:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE FLASHING WARNING SIGNS OF POTENTIAL INSTABILITY. TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS ARE ON THE RISE.",
+    "last_updated": "2026-04-05 06:55:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.98,
-        "B": 1.05,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
