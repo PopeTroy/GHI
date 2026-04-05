@@ -1,45 +1,45 @@
 {
-    "shi": 1.73366,
-    "health_percent": 67.23,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Export Restrictions"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Tehran, Iran",
+            "deviation": "Trade Sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms for Economic Growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE NEGOTIATIONS STALLED, AND ENERGY PRICES ON THE RISE.",
-    "last_updated": "2026-04-05 11:17:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO GEOPOLITICAL TENSIONS, WHILE CITIES WITH STRONG INNOVATION PROTOCOLS AND ANTI-CORRUPTION REFORMS DEMONSTRATE STABILITY AND GROWTH",
+    "last_updated": "2026-04-05 11:47:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 1.21,
-        "T": 0.98,
-        "B": 1.09,
-        "C": 0.75
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
