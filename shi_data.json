@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 1.94304,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy shortages"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers and high regulatory costs"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and labor shortages"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption reforms"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and policy reforms"
+            "protocol": "Anti-Corruption Policy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, INFLATION CONCERNS PERSIST, AND GOVERNMENTS SCRAMBLE TO IMPLEMENT STIMULUS PACKAGES.",
-    "last_updated": "2026-04-05 15:22:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-04-05 15:52:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 0.88,
+        "B": 0.75,
+        "C": 0.68
     }
 }
