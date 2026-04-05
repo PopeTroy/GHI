@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "health_percent": 67.32,
+    "location": "NEW YORK CITY, UNITED STATES",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and trade congestion"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Regulatory hurdles and economic turmoil"
+            "loc": "London, United Kingdom",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and economic diversification"
+            "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURMOIL AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH EFFECTIVE GOVERNANCE AND INNOVATION.",
-    "last_updated": "2026-04-05 17:41:54",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, UNITED STATES TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING DUE TO GEOPOLITICAL UNREST.",
+    "last_updated": "2026-04-05 18:03:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
