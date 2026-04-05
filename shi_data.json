@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 74.23,
+    "shi": 1.73366,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "45:23:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation"
         },
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS ECONOMIC UNCERTAINTY RISES. TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATE, WHILE INNOVATION HUBS EXPERIENCE GROWTH.",
-    "last_updated": "2026-04-05 10:48:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE NEGOTIATIONS STALLED, AND ENERGY PRICES ON THE RISE.",
+    "last_updated": "2026-04-05 11:17:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "P": 0.83,
+        "F": 1.21,
+        "T": 0.98,
+        "B": 1.09,
+        "C": 0.75
     }
 }
