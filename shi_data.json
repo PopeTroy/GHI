@@ -1,45 +1,45 @@
 {
-    "shi": 1.1705,
-    "health_percent": 74.21,
+    "shi": 0.77048,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barrier imposition"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy import dependence"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation policy reform"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy adoption"
         },
         {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial regulatory reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS REPORTED, ECONOMIC STABILITY AT RISK.",
-    "last_updated": "2026-04-05 08:34:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE. OIL PRICES SKYROCKETING DUE TO PRODUCTION CUTS. TRADE TENSIONS ESCALATE IN THE APAC REGION.",
+    "last_updated": "2026-04-05 09:23:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.12,
-        "C": 0.67
+        "B": 1.2,
+        "C": 0.95
     }
 }
