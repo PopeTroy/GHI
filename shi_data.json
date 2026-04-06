@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.25,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "shi": 1.06729,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined policy reforms and anti-corruption measures"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "High investment in innovation and clean energy"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong social safety net"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING TURBULENCE, OIL PRICES SURGING, AND TRADE AGREEMENTS UNDER NEGOTIATION.",
-    "last_updated": "2026-04-06 16:26:10",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY THREATENED BY GLOBAL SUPPLY CHAIN DISRUPTIONS, TRADE TENSIONS RISE BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-04-06 17:14:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "P": 0.92,
+        "F": 1.17,
+        "T": 0.83,
+        "B": 1.23,
+        "C": 0.98
     }
 }
