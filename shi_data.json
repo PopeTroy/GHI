@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "health_percent": 62.15,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
             "protocol": "Innovation"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS",
-    "last_updated": "2026-04-06 19:17:14",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT MINOR RECESSION IN Q2",
+    "last_updated": "2026-04-06 20:00:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
