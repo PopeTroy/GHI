@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 73.21,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "45:21:09",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers and corruption"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "deviation": "Aging population and low innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and anti-corruption"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and stable financial systems"
+            "loc": "Singapore",
+            "protocol": "Policy reforms and anti-corruption measures"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy and sustainable practices"
+            "protocol": "Investment in renewable energy and green technologies"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "High innovation and entrepreneurship rates"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER CLIMATE CHANGE INCREASE",
-    "last_updated": "2026-04-06 21:25:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIC POWERS.",
+    "last_updated": "2026-04-06 21:58:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
