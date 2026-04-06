@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "shi": 1.75755,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Over-reliance on imports and lack of policy reforms"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and fiscal responsibility"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
-    "last_updated": "2026-04-06 08:43:41",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, INVESTORS WARNED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-04-06 09:53:11",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.75,
+        "B": 0.91,
+        "C": 0.67
     }
 }
