@@ -1,45 +1,45 @@
 {
-    "shi": 1.93233,
-    "health_percent": 72.15,
+    "shi": 6.81943,
+    "health_percent": 67.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Energy Chokepoint"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt levels and energy dependence"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low birth rates"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Over-reliance on oil exports and trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Diversified economy and sound fiscal policies"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "High-standard education system and environmental sustainability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, POTENTIAL COLLAPSE IN 48 HOURS",
-    "last_updated": "2026-04-06 23:21:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES HAVE DECREASED BY 2.1% IN THE PAST QUARTER, WHILE THE GLOBAL DEBT-TO-GDP RATIO HAS INCREASED TO 253%. ECONOMIC INSTABILITY IS RISING IN EASTERN EUROPE DUE TO REGIONAL CONFLICTS.",
+    "last_updated": "2026-04-06 23:55:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 0.65,
-        "C": 0.78
+        "T": 0.78,
+        "B": 0.56,
+        "C": 0.23
     }
 }
