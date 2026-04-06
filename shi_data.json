@@ -1,9 +1,9 @@
 {
-    "shi": 1.08344,
-    "health_percent": 72.15,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -21,25 +21,25 @@
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE INNOVATIVE CITIES LIKE SAN FRANCISCO AND SINGAPORE SHOW RESILIENCE.",
-    "last_updated": "2026-04-06 13:54:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE INNOVATION HUBS ARE DRIVING GROWTH",
+    "last_updated": "2026-04-06 14:41:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
