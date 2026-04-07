@@ -1,45 +1,45 @@
 {
-    "shi": 1.59179,
-    "health_percent": 74.2,
+    "shi": 2.51055,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "36:07:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy shortages and infrastructure bottlenecks"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade restrictions"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and bureaucratic inefficiencies"
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative financial policies and strong institutional framework"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Investment in renewable energy and cutting-edge technology"
+            "loc": "Singapore",
+            "protocol": "Investment incentives"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stricter anti-corruption laws and robust regulatory environment"
+            "protocol": "Financial reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE INNOVATIVE CITIES ARE DRIVING GROWTH THROUGH POLICY REFORMS AND TECHNOLOGICAL ADVANCEMENTS.",
-    "last_updated": "2026-04-07 14:16:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE WARS ESCALATE, ECONOMIC STABILITY AT RISK",
+    "last_updated": "2026-04-07 15:48:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.82,
         "F": 1.21,
-        "T": 0.95,
-        "B": 1.09,
-        "C": 0.83
+        "T": 0.67,
+        "B": 0.41,
+        "C": 0.93
     }
 }
