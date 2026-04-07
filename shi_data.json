@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.25,
+    "shi": 1.59179,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:15",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and supply chain constraints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy shortages and infrastructure bottlenecks"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and regulatory hurdles"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation reforms"
+            "protocol": "Innovative financial policies and strong institutional framework"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Investment in renewable energy and cutting-edge technology"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and investment in renewable energy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Investment in education and infrastructure development"
+            "protocol": "Stricter anti-corruption laws and robust regulatory environment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH 3 MAJOR CITIES AT RISK OF COLLAPSE DUE TO HIGH DEBT AND TRADE BARRIERS. SINGAPORE, ZURICH, AND VANCOUVER REMAIN STABLE WITH HIGH SHI SCORES.",
-    "last_updated": "2026-04-07 12:43:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE INNOVATIVE CITIES ARE DRIVING GROWTH THROUGH POLICY REFORMS AND TECHNOLOGICAL ADVANCEMENTS.",
+    "last_updated": "2026-04-07 14:16:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "P": 0.87,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.09,
+        "C": 0.83
     }
 }
