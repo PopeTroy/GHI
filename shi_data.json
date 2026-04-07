@@ -1,45 +1,45 @@
 {
-    "shi": 2.8152,
-    "health_percent": 73.21,
+    "shi": 1.64792,
+    "health_percent": 67.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:03:21",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and supply chain constraints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "London, UK",
+            "deviation": "High debt and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Anti-corruption and innovation reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and investment in renewable energy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Policies"
+            "protocol": "Investment in education and infrastructure development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF STABILIZATION, BUT EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE ASIA-PACIFIC REGION.",
-    "last_updated": "2026-04-07 11:41:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH 3 MAJOR CITIES AT RISK OF COLLAPSE DUE TO HIGH DEBT AND TRADE BARRIERS. SINGAPORE, ZURICH, AND VANCOUVER REMAIN STABLE WITH HIGH SHI SCORES.",
+    "last_updated": "2026-04-07 12:43:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.48
+        "C": 0.82
     }
 }
