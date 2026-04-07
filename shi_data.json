@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 62.15,
+    "shi": 1.44606,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Excessive Trade Tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Export Disruptions"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Streamlined Business Regulations"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policy"
+            "protocol": "Robust Financial Sector Oversight"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovative Tech Infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, GOVERNMENTS IMPLEMENT EMERGENCY MEASURES TO MITIGATE SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-07 08:46:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO TRADE TENSIONS AND ENERGY PRICE VOLATILITY.",
+    "last_updated": "2026-04-07 09:52:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "F": 1.22,
+        "T": 0.98,
         "B": 1.1,
-        "C": 0.95
+        "C": 0.92
     }
 }
