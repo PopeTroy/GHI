@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 2.75264,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
+            "loc": "New York City, USA",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "London, UK",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN. NEW TRADE AGREEMENTS ANNOUNCED BETWEEN MAJOR NATIONS, AIMING TO REDUCE BOTTLENECKS.",
-    "last_updated": "2026-04-07 21:57:33",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A SURGE IN TRADE VOLUMES, WHILE TOKYO FACES A POTENTIAL SUPPLY CHAIN BREAKDOWN DUE TO LOGISTICAL ISSUES.",
+    "last_updated": "2026-04-07 22:41:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "T": 1.1,
+        "B": 0.75,
+        "C": 0.6
     }
 }
