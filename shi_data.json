@@ -1,45 +1,45 @@
 {
-    "shi": 6.81943,
-    "health_percent": 67.21,
+    "shi": 0.84052,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and energy dependence"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low birth rates"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Over-reliance on oil exports and trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Diversified economy and sound fiscal policies"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "High-standard education system and environmental sustainability"
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES HAVE DECREASED BY 2.1% IN THE PAST QUARTER, WHILE THE GLOBAL DEBT-TO-GDP RATIO HAS INCREASED TO 253%. ECONOMIC INSTABILITY IS RISING IN EASTERN EUROPE DUE TO REGIONAL CONFLICTS.",
-    "last_updated": "2026-04-06 23:55:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. KEY LOCATIONS IDENTIFIED FOR POTENTIAL BOTTLENECKS AND GROWTH OPPORTUNITIES.",
+    "last_updated": "2026-04-07 02:03:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.23
+        "B": 1.1,
+        "C": 0.95
     }
 }
