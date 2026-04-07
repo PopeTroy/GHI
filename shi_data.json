@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 72.11,
+    "shi": 1.64792,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Price Volatility"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Debt Restructuring"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "London, UK",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Practices"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, OIL PRICES RISE DUE TO SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-07 21:10:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN. NEW TRADE AGREEMENTS ANNOUNCED BETWEEN MAJOR NATIONS, AIMING TO REDUCE BOTTLENECKS.",
+    "last_updated": "2026-04-07 21:57:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 0.65,
+        "C": 0.82
     }
 }
