@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 73.21,
+    "shi": 0.89118,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:32",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints and trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation and entrepreneurship"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial stability and regulation"
+            "protocol": "Anti-corruption measures"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING HIGH VOLATILITY DUE TO TRADE TENSIONS AND ECONOMIC INSTABILITY. EXPERTS WARN OF A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-04-08 06:53:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR SITUATION CLOSELY.",
+    "last_updated": "2026-04-08 08:06:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "B": 1.12,
+        "C": 0.88
     }
 }
