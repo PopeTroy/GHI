@@ -1,45 +1,45 @@
 {
-    "shi": 1.06534,
+    "shi": 0.69134,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:07:32",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Mumbai, India",
+            "deviation": "Energy chokepoints and trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and poor policy reforms"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "protocol": "Anti-corruption and policy reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation and entrepreneurship"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable economy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong institutions"
+            "protocol": "Strong financial stability and regulation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMISTS WARNING OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND ECONOMIC INSTABILITY",
-    "last_updated": "2026-04-08 05:24:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING HIGH VOLATILITY DUE TO TRADE TENSIONS AND ECONOMIC INSTABILITY. EXPERTS WARN OF A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-04-08 06:53:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.76
+        "C": 1.05
     }
 }
