@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 72.5,
+    "shi": 1.06582,
+    "health_percent": 73.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and grid instability"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and bureaucratic inefficiencies"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Effective policy reforms and innovation"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and stable economy"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high investment in human capital"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY PERSISTS, WITH MULTIPLE NATIONS FACING SUPPLY CHAIN DISRUPTIONS AND POTENTIAL COLLAPSE. KEY CITIES AND COUNTRIES MUST PRIORITIZE PROTOCOL IMPLEMENTATION TO MITIGATE BOTTLENECKS AND ENSURE STABILITY.",
-    "last_updated": "2026-04-08 11:33:45",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURMOIL AS TRADE TENSIONS RISE, WHILE CITIES LIKE TOKYO AND SINGAPORE DEMONSTRATE RESILIENCE THROUGH STRATEGIC PROTOCOL IMPLEMENTATION.",
+    "last_updated": "2026-04-08 12:38:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.23,
+        "C": 0.67
     }
 }
