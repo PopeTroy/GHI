@@ -1,45 +1,45 @@
 {
-    "shi": 4.90146,
+    "shi": 2.92737,
     "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Shanghai, China",
-            "deviation": "Trade barriers and energy shortages"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and inefficient protocols"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and lack of innovation"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Efficient policy reforms and anti-corruption measures"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and technological advancements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "High level of stability and economic growth"
+            "loc": "Wellington, New Zealand",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | REPORTS OF INCREASED TRADE TENSIONS BETWEEN MAJOR ECONOMIES, WARNINGS OF POTENTIAL GRID COLLAPSE IN THE US, AND CIVIL UNREST IN SEVERAL REGIONS.",
-    "last_updated": "2026-04-08 20:56:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN SHOW RESILIENCE WITH STRONG INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-04-08 21:40:39",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.83,
+        "F": 0.91,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.32
+        "B": 0.42,
+        "C": 0.69
     }
 }
