@@ -1,45 +1,45 @@
 {
-    "shi": 2.08682,
-    "health_percent": 72.19,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:41",
+    "shi": 11.95024,
+    "health_percent": 62.11,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers and Corruption"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Inefficient policy reforms and high inflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Policy Reforms"
+            "protocol": "Innovation and effective policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Low Corruption and High Transparency"
+            "protocol": "Low debt and corruption, high transparency"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub with Strong Entrepreneurial Culture"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and efficient governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RISING DEBT LEVELS AND TRADE TENSIONS. CITIES WITH HIGH SHI SCORES SUCH AS SINGAPORE AND ZURICH ARE SEEING INCREASED INVESTMENT AND GROWTH.",
-    "last_updated": "2026-04-08 14:14:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF COLLAPSE DUE TO SUPPLY CHAIN DISRUPTIONS AND INEFFICIENT POLICY REFORMS.",
+    "last_updated": "2026-04-08 15:47:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.69,
-        "C": 0.61
+        "B": 0.21,
+        "C": 0.35
     }
 }
