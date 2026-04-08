@@ -1,45 +1,45 @@
 {
-    "shi": 11.95024,
-    "health_percent": 62.11,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Inefficient policy reforms and high inflation"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and effective policy reforms"
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Low debt and corruption, high transparency"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and efficient governance"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF COLLAPSE DUE TO SUPPLY CHAIN DISRUPTIONS AND INEFFICIENT POLICY REFORMS.",
-    "last_updated": "2026-04-08 15:47:27",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURBULENCE DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMIC INSTABILITY IS RISING IN EASTERN EUROPE. INNOVATIONS IN RENEWABLE ENERGY ARE DRIVING GROWTH IN SCANDINAVIA.",
+    "last_updated": "2026-04-08 16:46:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.35
+        "B": 0.65,
+        "C": 0.42
     }
 }
