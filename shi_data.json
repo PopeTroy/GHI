@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High Port Congestion"
+            "loc": "Beijing, China",
+            "deviation": "High tariffs on electronics"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade Disruptions due to Geopolitical Tensions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy Shortages"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and labor shortages"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative trade policies"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Pro-Innovation Policies"
+            "protocol": "Robust financial regulations"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Strong Anti-Corruption Measures"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Development Initiatives"
+            "protocol": "Sustainable energy investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. NEW YORK IDENTIFIED AS HIGH-IMPACT LOCATION. BOTTLENECKS IN LOS ANGELES, SINGAPORE, AND ROTTERDAM REQUIRE IMMEDIATE ATTENTION. ZURICH, COPENHAGEN, AND VANCOUVER SHOWCASE EXEMPLARY PROTOCOLS FOR GROWTH AND STABILITY.",
-    "last_updated": "2026-04-08 09:17:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SURGE, AND CYBERSECURITY THREATS INCREASE. ECONOMIC STABILITY TEETERS ON THE EDGE AS NATIONS SCRAMBLE TO RESPOND.",
+    "last_updated": "2026-04-08 10:32:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.67
     }
 }
