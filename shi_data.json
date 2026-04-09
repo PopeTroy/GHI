@@ -1,45 +1,45 @@
 {
-    "shi": 1.4076,
-    "health_percent": 74.56,
+    "shi": 1.08657,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Brasilia, Brazil",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Reform"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. INVESTORS SEEK SAFE-HAVEN ASSETS.",
-    "last_updated": "2026-04-09 08:24:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, TRADE TENSIONS ESCALATE BETWEEN MAJOR WORLD POWERS, INNOVATION HUBS DRIVE GROWTH IN KEY CITIES.",
+    "last_updated": "2026-04-09 09:47:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.88
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.95
     }
 }
