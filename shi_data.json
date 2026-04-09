@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.23,
+    "shi": 3.21737,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:00",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy shortages"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Soaring debt levels"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative tax reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Cutting-edge technology investments"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, WITH MULTIPLE CITIES EXPERIENCING SUPPLY CHAIN DISRUPTIONS AND RISING DEBT LEVELS.",
-    "last_updated": "2026-04-09 17:19:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ON THE RISE, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-04-09 18:14:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.82
+        "C": 0.42
     }
 }
