@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 73.21,
+    "shi": 1.4076,
+    "health_percent": 74.56,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Supply Disruptions"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt Crisis"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Energy Policies"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-04-09 07:02:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. INVESTORS SEEK SAFE-HAVEN ASSETS.",
+    "last_updated": "2026-04-09 08:24:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.88
     }
 }
