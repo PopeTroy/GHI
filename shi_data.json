@@ -1,45 +1,45 @@
 {
-    "shi": 4.89751,
-    "health_percent": 73.19,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "54:21:02",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "36:02:15",
     "bottlenecks": [
         {
-            "loc": "New York, USA",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Shanghai, China",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and aging population"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt"
+            "deviation": "Brexit uncertainty and financial instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Silicon Valley, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and sustainable growth"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW DECLINE IN GLOBAL TRADE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-09 20:31:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, ECONOMIES BRACING FOR POTENTIAL DOWNTURN",
+    "last_updated": "2026-04-09 21:25:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.67,
-        "T": 0.91,
-        "B": 0.35,
-        "C": 0.42
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
