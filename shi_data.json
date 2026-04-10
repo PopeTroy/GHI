@@ -1,45 +1,45 @@
 {
-    "shi": 0.83295,
-    "health_percent": 76.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 0.67749,
+    "health_percent": 67.45,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Supply chain disruptions and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Robust policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption measures"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative financial systems and stable governance"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and effective risk management strategies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS REPORTED, ECONOMIC FORECAST REVISED DOWNWARD. EU ANNOUNCES NEW TRADE AGREEMENT, AIMING TO REDUCE DEPENDENCIES. US FEDERAL RESERVE RAISES INTEREST RATES TO COMBAT INFLATION.",
-    "last_updated": "2026-04-10 22:50:44",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS IN ASIA AND EASTERN EUROPE. HIGH SHI NODES IN SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH.",
+    "last_updated": "2026-04-10 23:22:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.95,
         "T": 0.78,
-        "B": 1.11,
-        "C": 0.95
+        "B": 1.23,
+        "C": 1.05
     }
 }
