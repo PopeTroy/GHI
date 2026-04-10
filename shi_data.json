@@ -1,45 +1,45 @@
 {
-    "shi": 0.67749,
-    "health_percent": 67.45,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "shi": 3.21737,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "46:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers and corruption"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Supply chain disruptions and infrastructure bottlenecks"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust policy reforms and anti-corruption measures"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems and stable governance"
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and effective risk management strategies"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS IN ASIA AND EASTERN EUROPE. HIGH SHI NODES IN SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH.",
-    "last_updated": "2026-04-10 23:22:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISES AS TRADE TENSIONS ESCALATE. MARKETS BRACE FOR POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-10 23:56:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 1.05
+        "B": 0.65,
+        "C": 0.42
     }
 }
