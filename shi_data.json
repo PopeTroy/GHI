@@ -1,45 +1,45 @@
 {
-    "shi": 1.9501,
-    "health_percent": 72.11,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.40945,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "New York City, USA",
             "deviation": "Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Riyadh, Saudi Arabia",
             "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO INCREASING DEBT AND TRADE TENSIONS.",
-    "last_updated": "2026-04-10 05:49:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE AS TARIFFS ARE IMPOSED ON MAJOR ECONOMIES. ENERGY PRICES SKYROCKET DUE TO GEOPOLITICAL INSTABILITY. DEBT CRISIS LOOMS IN EU AS ECONOMIES STRUGGLE TO RECOVER.",
+    "last_updated": "2026-04-10 07:11:21",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 0.67,
-        "C": 0.85
+        "P": 0.85,
+        "F": 1.2,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.9
     }
 }
