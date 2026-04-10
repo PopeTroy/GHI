@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 74.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 3.21737,
+    "health_percent": 67.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy shortages and grid overloads"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and currency fluctuations"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High debt and infrastructure decay"
+            "loc": "London, UK",
+            "deviation": "Brexit-related trade uncertainties"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub and free trade policies"
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy and sustainable practices"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and anti-corruption reforms"
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC STABILITY AT RISK. HIGH-IMPACT LOCATIONS IDENTIFIED FOR PROACTIVE MEASURES.",
-    "last_updated": "2026-04-10 14:58:08",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND DEBT LEVELS. CITIES LIKE NEW YORK AND LONDON ARE AT HIGH RISK OF SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-10 15:58:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
