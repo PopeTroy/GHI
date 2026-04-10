@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.11,
+    "shi": 0.83295,
+    "health_percent": 76.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade restrictions"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub development"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial sector reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy initiatives"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, ECONOMISTS WARNING OF POTENTIAL ECONOMIC DOWNTURN",
-    "last_updated": "2026-04-10 22:01:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS REPORTED, ECONOMIC FORECAST REVISED DOWNWARD. EU ANNOUNCES NEW TRADE AGREEMENT, AIMING TO REDUCE DEPENDENCIES. US FEDERAL RESERVE RAISES INTEREST RATES TO COMBAT INFLATION.",
+    "last_updated": "2026-04-10 22:50:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.11,
+        "C": 0.95
     }
 }
