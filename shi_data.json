@@ -1,45 +1,45 @@
 {
-    "shi": 3.02087,
+    "shi": 0.84052,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:42:11",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "loc": "New York City, USA",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Soaring Debt Levels"
+            "loc": "London, UK",
+            "deviation": "Energy shortages"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX DOWN BY 5 POINTS, CITING INCREASED TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-04-10 17:48:04",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, REGIONAL INSTABILITY ON THE RISE, ECONOMIC INDICATORS SHOW A DOWNWARD TREND",
+    "last_updated": "2026-04-10 18:35:07",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 1.01,
-        "B": 0.56,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
