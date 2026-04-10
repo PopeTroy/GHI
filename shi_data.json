@@ -1,45 +1,45 @@
 {
-    "shi": 1.08657,
-    "health_percent": 78.5,
+    "shi": 2.95142,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High debt and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "Houston, USA",
-            "deviation": "Energy chokepoints and infrastructure decay"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Chicago, USA",
-            "deviation": "Rising corruption and declining policy reforms"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation and anti-corruption initiatives"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Boston, USA",
-            "protocol": "Policy reforms and investment in renewable energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Seattle, USA",
-            "protocol": "Strong governance and investment in human capital"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TALKS BETWEEN MAJOR ECONOMIES STALLED, AND CONCERNS OVER CLIMATE CHANGE MITIGATION EFFORTS",
-    "last_updated": "2026-04-10 08:48:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY WARNING ISSUED FOR Q3, CITING POTENTIAL RISKS IN EMERGING MARKETS.",
+    "last_updated": "2026-04-10 09:55:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.95
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.48
     }
 }
