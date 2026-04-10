@@ -1,45 +1,45 @@
 {
-    "shi": 1.09196,
-    "health_percent": 67.42,
+    "shi": 0.99624,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Oil Price Volatility"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Trade Agreement"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABILITY",
-    "last_updated": "2026-04-10 20:51:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ON THE RISE, ECONOMIC INDICATORS SUGGEST IMPENDING INSTABILITY",
+    "last_updated": "2026-04-10 21:25:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.88,
-        "B": 1.21,
-        "C": 0.75
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.95
     }
 }
