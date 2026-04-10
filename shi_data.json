@@ -1,45 +1,45 @@
 {
-    "shi": 1.40945,
-    "health_percent": 73.21,
+    "shi": 1.08657,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Houston, USA",
+            "deviation": "Energy chokepoints and infrastructure decay"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Chicago, USA",
+            "deviation": "Rising corruption and declining policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation and anti-corruption initiatives"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "loc": "Boston, USA",
+            "protocol": "Policy reforms and investment in renewable energy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Seattle, USA",
+            "protocol": "Strong governance and investment in human capital"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE AS TARIFFS ARE IMPOSED ON MAJOR ECONOMIES. ENERGY PRICES SKYROCKET DUE TO GEOPOLITICAL INSTABILITY. DEBT CRISIS LOOMS IN EU AS ECONOMIES STRUGGLE TO RECOVER.",
-    "last_updated": "2026-04-10 07:11:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TALKS BETWEEN MAJOR ECONOMIES STALLED, AND CONCERNS OVER CLIMATE CHANGE MITIGATION EFFORTS",
+    "last_updated": "2026-04-10 08:48:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.2,
-        "T": 0.95,
-        "B": 1.1,
-        "C": 0.9
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.95
     }
 }
