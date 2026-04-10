@@ -1,39 +1,39 @@
 {
     "shi": 0.77048,
-    "health_percent": 68.25,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "loc": "Tokyo, Japan",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. INVEST IN DIVERSIFIED PORTFOLIOS TO MITIGATE RISKS.",
-    "last_updated": "2026-04-10 12:35:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS.",
+    "last_updated": "2026-04-10 13:59:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
