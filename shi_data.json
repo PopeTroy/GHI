@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
+    "shi": 1.09196,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:12",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy shortfall due to inadequate infrastructure"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers limiting import and export activities"
+            "loc": "Dubai, UAE",
+            "deviation": "Oil Price Volatility"
         },
         {
             "loc": "London, UK",
-            "deviation": "High national debt impacting economic stability"
+            "deviation": "Brexit Uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech policy reforms"
+            "protocol": "Trade Agreement"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Effective anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong research and development investments"
+            "loc": "Vancouver, Canada",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY. ECONOMISTS WARN OF POTENTIAL TRADE WARS. NEW YORK REMAINS A HIGH-IMPACT LOCATION DUE TO ITS SIGNIFICANT FINANCIAL INFLUENCE.",
-    "last_updated": "2026-04-10 20:03:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABILITY",
+    "last_updated": "2026-04-10 20:51:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
+        "T": 0.88,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.75
     }
 }
