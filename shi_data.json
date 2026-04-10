@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 78.56,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.05203,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "56:21:39",
+    "collapse_timer": "48:02:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Energy shortfall due to inadequate infrastructure"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers limiting import and export activities"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
+            "loc": "London, UK",
+            "deviation": "High national debt impacting economic stability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Laws"
+            "protocol": "Innovative fintech policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "loc": "Tokyo, Japan",
+            "protocol": "Effective anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Strong research and development investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS PLUNGE, OIL PRICES SOAR, AND ECONOMIC INSTABILITY SPREADS",
-    "last_updated": "2026-04-10 19:29:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY. ECONOMISTS WARN OF POTENTIAL TRADE WARS. NEW YORK REMAINS A HIGH-IMPACT LOCATION DUE TO ITS SIGNIFICANT FINANCIAL INFLUENCE.",
+    "last_updated": "2026-04-10 20:03:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
