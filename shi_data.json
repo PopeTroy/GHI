@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 72.5,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "shi": 1.06582,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy shortages and grid overloads"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Trade barriers"
+            "loc": "Mumbai, India",
+            "deviation": "High debt and infrastructure decay"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Innovation hub and free trade policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation hub"
+            "protocol": "Renewable energy and sustainable practices"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and anti-corruption reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS.",
-    "last_updated": "2026-04-10 13:59:51",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC STABILITY AT RISK. HIGH-IMPACT LOCATIONS IDENTIFIED FOR PROACTIVE MEASURES.",
+    "last_updated": "2026-04-10 14:58:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.23,
+        "C": 0.67
     }
 }
