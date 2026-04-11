@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 67.32,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "42:11:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Tokyo, Japan",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High debt and corruption"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption and policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation and technological advancements"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and economic growth"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC STABILITY AT RISK. HIGH IMPACT LOCATIONS IDENTIFIED, PROTOCOLS IMPLEMENTED TO MITIGATE COLLAPSE.",
-    "last_updated": "2026-04-11 16:59:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES",
+    "last_updated": "2026-04-11 17:40:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
