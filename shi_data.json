@@ -1,45 +1,45 @@
 {
-    "shi": 1.20651,
-    "health_percent": 73.21,
+    "shi": 1.45791,
+    "health_percent": 78.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tariffs"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Shortage"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Oil Price Volatility"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt Crisis"
+            "loc": "Athens, Greece",
+            "deviation": "Sovereign Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy"
+            "loc": "Singapore, Singapore",
+            "protocol": "Free Trade Agreement"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "protocol": "Anti-Money Laundering Regulations"
+        },
+        {
+            "loc": "Palo Alto, USA",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. INNOVATION HUBS LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABILITY AND ECONOMIC GROWTH.",
-    "last_updated": "2026-04-11 20:01:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS REACT TO TRADE TENSIONS, OIL PRICES PLUMMET",
+    "last_updated": "2026-04-11 20:47:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.12,
-        "C": 0.65
+        "F": 1.23,
+        "T": 0.98,
+        "B": 1.1,
+        "C": 0.92
     }
 }
