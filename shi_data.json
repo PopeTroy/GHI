@@ -1,21 +1,21 @@
 {
-    "shi": 1.80173,
-    "health_percent": 82.11,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy consumption"
+            "deviation": "Trade war disruptions"
         },
         {
-            "loc": "Mexico City, Mexico",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Venezuela, Caracas",
+            "deviation": "High debt and economic instability"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "loc": "Iran, Tehran",
+            "deviation": "Energy sanctions and supply chain issues"
         }
     ],
     "high_shi": [
@@ -24,22 +24,22 @@
             "protocol": "Pro-business policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovation and technological advancements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy innovations"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and anti-corruption initiatives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-11 22:19:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATORS IN SINGAPORE AND COPENHAGEN PUSH FOR SUSTAINABLE GROWTH.",
+    "last_updated": "2026-04-11 22:55:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 0.65,
-        "C": 0.75
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
