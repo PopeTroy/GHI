@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "shi": 1.05203,
+    "health_percent": 73.2,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and supply chain disruptions"
+            "loc": "New York, USA",
+            "deviation": "Trade barriers with key partners"
         },
         {
             "loc": "London, UK",
-            "deviation": "Corruption and policy inefficiencies"
+            "deviation": "Energy shortages due to geopolitical tensions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and green technology"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub for fintech and renewables"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and fiscal responsibility"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy policy and green infrastructure investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISES, KEY CITIES AT RISK OF COLLAPSE. TRADE NEGOTIATIONS STALLED, AND DEBT LEVELS INCREASING. INNOVATION HUBS SHOW PROMISE FOR GROWTH AND STABILITY.",
-    "last_updated": "2026-04-11 08:24:21",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TALKS STALLED, AND ENERGY PRICES SURGE AMIDST RISING TENSIONS IN THE MIDDLE EAST",
+    "last_updated": "2026-04-11 09:06:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
