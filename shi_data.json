@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 1.20651,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:42",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers causing 15% decline in exports"
+            "deviation": "Trade Tariffs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoint resulting in 20% increase in prices"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "High debt levels leading to 10% decrease in government spending"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub with 25% annual growth in tech sector"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms resulting in 15% increase in foreign investment"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms leading to 12% growth in sustainable energy sector"
+            "protocol": "Financial Stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE CERTAIN CITIES ARE IMPLEMENTING PROTOCOLS TO IMPROVE ECONOMIC STABILITY AND GROWTH",
-    "last_updated": "2026-04-11 19:42:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. INNOVATION HUBS LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABILITY AND ECONOMIC GROWTH.",
+    "last_updated": "2026-04-11 20:01:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.12,
+        "C": 0.65
     }
 }
