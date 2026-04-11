@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
-    "health_percent": 74.23,
+    "shi": 1.64792,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:14",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruptions"
+            "loc": "Los Angeles, USA",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Debt crisis"
+            "deviation": "Trade Barrier"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Effective anti-corruption policies"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial reforms"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | BREAKING: GLOBAL MARKETS REACT TO NEWS OF POTENTIAL TRADE AGREEMENT BETWEEN THE US AND CHINA, WITH STOCKS RISING 2% IN EARLY TRADING.",
-    "last_updated": "2026-04-11 06:43:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND DEBT LEVELS",
+    "last_updated": "2026-04-11 07:38:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.56
+        "B": 0.65,
+        "C": 0.82
     }
 }
