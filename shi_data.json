@@ -1,45 +1,45 @@
 {
-    "shi": 1.50601,
-    "health_percent": 62.15,
+    "shi": 3.10752,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Aging population and low innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and anti-corruption measures"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation and tech adoption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Fiscal discipline and stable banking system"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING, US AND CHINA ENGAGE IN TRADE TALKS, OIL PRICES FLUCTUATE AMID MIDDLE EAST TENSIONS",
-    "last_updated": "2026-04-11 11:04:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS REACT TO LATEST ECONOMIC DATA, OIL PRICES SURGE AMIDST GEOPOLITICAL TENSIONS",
+    "last_updated": "2026-04-11 11:40:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.83,
-        "F": 0.92,
+        "F": 0.91,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.85
+        "B": 0.65,
+        "C": 0.42
     }
 }
