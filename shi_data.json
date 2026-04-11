@@ -1,7 +1,7 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.22,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.76411,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
@@ -10,36 +10,36 @@
             "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Infrastructure and logistics challenges"
+            "loc": "Mumbai, India",
+            "deviation": "High debt and corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative trade policies and digital infrastructure"
+            "protocol": "Anti-corruption and policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation and technological advancements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and anti-corruption measures"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and green technologies"
+            "protocol": "Financial stability and economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT: POTENTIAL COLLAPSE IN 48 HOURS. MONITOR SUPPLY CHAINS AND TRADE AGREEMENTS CLOSELY.",
-    "last_updated": "2026-04-11 16:20:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC STABILITY AT RISK. HIGH IMPACT LOCATIONS IDENTIFIED, PROTOCOLS IMPLEMENTED TO MITIGATE COLLAPSE.",
+    "last_updated": "2026-04-11 16:59:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.95
     }
 }
