@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.32,
+    "shi": 0.77048,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and supply chain disruptions"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barrier"
+            "loc": "London, UK",
+            "deviation": "Corruption and policy inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and green technology"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and fiscal responsibility"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND DEBT LEVELS",
-    "last_updated": "2026-04-11 07:38:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISES, KEY CITIES AT RISK OF COLLAPSE. TRADE NEGOTIATIONS STALLED, AND DEBT LEVELS INCREASING. INNOVATION HUBS SHOW PROMISE FOR GROWTH AND STABILITY.",
+    "last_updated": "2026-04-11 08:24:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.2,
+        "C": 0.95
     }
 }
