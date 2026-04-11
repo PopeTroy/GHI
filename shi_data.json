@@ -2,38 +2,38 @@
     "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war disruptions"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High debt and economic instability"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Iran, Tehran",
-            "deviation": "Energy sanctions and supply chain issues"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy innovations"
+            "loc": "Seoul, South Korea",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and anti-corruption measures"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATORS IN SINGAPORE AND COPENHAGEN PUSH FOR SUSTAINABLE GROWTH.",
-    "last_updated": "2026-04-11 22:55:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A MODERATE RISK OF INSTABILITY, WITH TRADE TENSIONS AND ENERGY PRICES CONTRIBUTING TO POTENTIAL DISRUPTIONS.",
+    "last_updated": "2026-04-11 23:32:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
