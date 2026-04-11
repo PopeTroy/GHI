@@ -1,45 +1,45 @@
 {
-    "shi": 34.71709,
-    "health_percent": 74.21,
+    "shi": 2.341,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Beijing, China",
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Effective anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Innovative financial reforms"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS ADVISED TO TAKE PROACTIVE MEASURES",
-    "last_updated": "2026-04-11 05:45:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | BREAKING: GLOBAL MARKETS REACT TO NEWS OF POTENTIAL TRADE AGREEMENT BETWEEN THE US AND CHINA, WITH STOCKS RISING 2% IN EARLY TRADING.",
+    "last_updated": "2026-04-11 06:43:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.23,
-        "C": 0.11
+        "B": 0.67,
+        "C": 0.56
     }
 }
