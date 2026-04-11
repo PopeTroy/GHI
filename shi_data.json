@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "shi": 1.05794,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "60:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH TRADE TENSIONS AND DEBT CONCERNS DRIVING MARKETS DOWNWARD. MEANWHILE, CITIES LIKE TOKYO AND SINGAPORE ARE LEVERAGING INNOVATION AND POLICY REFORMS TO DRIVE GROWTH AND STABILITY.",
-    "last_updated": "2026-04-11 14:49:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE INCREASED VOLATILITY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-04-11 15:19:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.67
     }
 }
