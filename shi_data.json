@@ -1,45 +1,45 @@
 {
-    "shi": 1.0043,
+    "shi": 34.71709,
     "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt Ratio"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Tax Reform"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Initiative"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub Development"
+            "loc": "Sydney, Australia",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR EASTERN EUROPE, GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE NEGOTIATIONS BETWEEN US AND CHINA STALL",
-    "last_updated": "2026-04-11 04:29:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS ADVISED TO TAKE PROACTIVE MEASURES",
+    "last_updated": "2026-04-11 05:45:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.27,
-        "C": 0.98
+        "T": 0.78,
+        "B": 0.23,
+        "C": 0.11
     }
 }
