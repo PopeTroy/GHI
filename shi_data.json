@@ -1,45 +1,45 @@
 {
-    "shi": 1.18547,
-    "health_percent": 73.21,
+    "shi": 1.64792,
+    "health_percent": 63.2,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade barriers due to increasing protectionism"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export restrictions"
+            "loc": "Singapore",
+            "deviation": "Energy chokepoints causing supply chain disruptions"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Athens, Greece",
+            "deviation": "High debt levels leading to economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Advanced anti-corruption laws"
+            "loc": "Dubai, UAE",
+            "protocol": "Innovation hubs fostering economic growth"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative renewable energy solutions"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Effective policy reforms promoting stability"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective policy reforms for economic stability"
+            "protocol": "Anti-corruption initiatives ensuring transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS ECONOMIC UNCERTAINTY RISES, WITH NEW YORK IDENTIFIED AS A HIGH-IMPACT LOCATION DUE TO POTENTIAL HYPER-INFLATION RISKS.",
-    "last_updated": "2026-04-12 09:54:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, EXPERTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE COMING MONTHS",
+    "last_updated": "2026-04-12 10:34:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.78
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
