@@ -1,45 +1,45 @@
 {
-    "shi": 1.99533,
-    "health_percent": 74.2,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and limited trade agreements"
+            "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy supply chain disruptions and high inflation rates"
+            "loc": "New York City, USA",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Over-reliance on imported goods and materials"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined customs procedures and corruption-free trade practices"
+            "protocol": "Anti-Corruption Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems and strong policy framework"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and effective anti-corruption measures"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE AGREEMENTS UNDER NEGOTIATION, AND INNOVATIVE TECHNOLOGIES BEING DEVELOPED TO ADDRESS ECONOMIC CHALLENGES",
-    "last_updated": "2026-04-12 12:30:00",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES ARE SLOWING, INDICATING POTENTIAL ECONOMIC INSTABILITY. KEY INDUSTRIES ARE EXPERIENCING SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-12 13:42:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.62,
-        "C": 0.71
+        "B": 0.65,
+        "C": 0.42
     }
 }
