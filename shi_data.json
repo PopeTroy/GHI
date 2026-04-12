@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.52,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy shortage"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS WARNING OF POTENTIAL DOWNTURN",
-    "last_updated": "2026-04-12 11:19:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE NEGOTIATIONS UNDERWAY BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-04-12 11:51:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
