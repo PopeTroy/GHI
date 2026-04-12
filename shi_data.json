@@ -1,21 +1,21 @@
 {
-    "shi": 0.9375,
-    "health_percent": 67.21,
+    "shi": 0.84052,
+    "health_percent": 82.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:49",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Shanghai, China",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
@@ -24,21 +24,21 @@
             "protocol": "Innovation hub"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Anti-corruption measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK, HIGH IMPACT LOCATIONS IDENTIFIED, PROTOCOLS IMPLEMENTED TO MITIGATE COLLAPSE",
-    "last_updated": "2026-04-12 16:22:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS DUE TO RISING TRADE TENSIONS. SUPPLY CHAIN DISRUPTIONS REPORTED IN MAJOR SHIPPING LANES.",
+    "last_updated": "2026-04-12 17:01:43",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.1,
         "C": 0.95
     }
