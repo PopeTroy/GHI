@@ -1,45 +1,45 @@
 {
-    "shi": 2.48746,
-    "health_percent": 78.23,
-    "location": "LOS ANGELES, UNITED STATES",
+    "shi": 4.90146,
+    "health_percent": 74.21,
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and high debt"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers and gridlock"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and infrastructure issues"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Helsinki, Finland",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and financial stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: LOS ANGELES, UNITED STATES TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS EXPECTED WITHIN 48 HOURS DUE TO SUPPLY CHAIN CONSTRAINTS AND RISING TRADE TENSIONS.",
-    "last_updated": "2026-04-12 19:54:05",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR GEOPOLITICAL TENSIONS.",
+    "last_updated": "2026-04-12 20:28:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.67,
-        "C": 0.75
+        "T": 0.78,
+        "B": 0.56,
+        "C": 0.32
     }
 }
