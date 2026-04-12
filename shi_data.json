@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "shi": 0.81491,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Tokyo, Japan",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES ARE SLOWING, INDICATING POTENTIAL ECONOMIC INSTABILITY. KEY INDUSTRIES ARE EXPERIENCING SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-12 13:42:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS IMPLEMENTING EMERGENCY MEASURES TO STABILIZE ECONOMIES.",
+    "last_updated": "2026-04-12 14:26:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.85
     }
 }
