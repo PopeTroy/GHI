@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.21,
+    "shi": 0.84052,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:49",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Dubai, UAE",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MILD FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIC POWERS.",
-    "last_updated": "2026-04-12 06:58:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMISTS PREDICT SIGNIFICANT DOWNTURN IN Q2",
+    "last_updated": "2026-04-12 08:05:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.1,
+        "C": 0.95
     }
 }
