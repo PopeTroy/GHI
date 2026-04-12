@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
+    "shi": 2.59494,
+    "health_percent": 73.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inadequate infrastructure and policy inefficiencies"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative economic policies and strong anti-corruption measures"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulations and stable governance"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable growth strategies and high investment in education"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WITH THE US AND CHINA ENGAGING IN HIGH-STAKES NEGOTIATIONS. ECONOMIC ANALYSTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IF AN AGREEMENT IS NOT REACHED SOON.",
-    "last_updated": "2026-04-12 18:26:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE WARS ESCALATING, AND ENERGY PRICES SKYROCKETING.",
+    "last_updated": "2026-04-12 19:13:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "F": 1.21,
+        "T": 1.08,
         "B": 0.67,
-        "C": 0.59
+        "C": 0.92
     }
 }
