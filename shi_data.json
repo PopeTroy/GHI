@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 63.2,
+    "shi": 1.08344,
+    "health_percent": 73.52,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "47:32:10",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Trade barriers due to increasing protectionism"
+            "loc": "Beijing, China",
+            "deviation": "Energy shortage"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Energy chokepoints causing supply chain disruptions"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt levels leading to economic instability"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovation hubs fostering economic growth"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Effective policy reforms promoting stability"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption initiatives ensuring transparency"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, EXPERTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE COMING MONTHS",
-    "last_updated": "2026-04-12 10:34:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS WARNING OF POTENTIAL DOWNTURN",
+    "last_updated": "2026-04-12 11:19:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.67
     }
 }
