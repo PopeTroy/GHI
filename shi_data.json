@@ -3,37 +3,37 @@
     "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Debt Crisis"
+            "loc": "Mumbai, India",
+            "deviation": "Inadequate infrastructure and policy inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Financial Reforms"
+            "protocol": "Innovative economic policies and strong anti-corruption measures"
         },
         {
-            "loc": "Geneva, Switzerland",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial regulations and stable governance"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable growth strategies and high investment in education"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING DOWNTURN DUE TO TRADE TENSIONS AND ENERGY SCARCITY. ECONOMISTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS. CITIES WITH HIGH SHI PROTOCOLS ARE EXPERIENCING GROWTH.",
-    "last_updated": "2026-04-12 17:47:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WITH THE US AND CHINA ENGAGING IN HIGH-STAKES NEGOTIATIONS. ECONOMIC ANALYSTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IF AN AGREEMENT IS NOT REACHED SOON.",
+    "last_updated": "2026-04-12 18:26:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
