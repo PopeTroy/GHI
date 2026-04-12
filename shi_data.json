@@ -1,45 +1,45 @@
 {
-    "shi": 4.90146,
-    "health_percent": 74.21,
-    "location": "BEIJING, CHINA",
+    "shi": 1.36222,
+    "health_percent": 72.11,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and high debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers and gridlock"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and infrastructure issues"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR GEOPOLITICAL TENSIONS.",
-    "last_updated": "2026-04-12 20:28:23",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING AS CONCERNS OVER SUPPLY CHAIN DISRUPTIONS RISE, WITH TOKYO IDENTIFIED AS A HIGH-IMPACT LOCATION. BOTTLENECKS IN BEIJING, MOSCOW, AND ATHENS ARE CONTRIBUTING TO INSTABILITY, WHILE SINGAPORE, ZURICH, AND SAN FRANCISCO DEMONSTRATE STRONG ECONOMIC HEALTH.",
+    "last_updated": "2026-04-12 21:02:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.32
+        "P": 2.67,
+        "F": 0.85,
+        "T": 1.21,
+        "B": 3.19,
+        "C": 0.91
     }
 }
