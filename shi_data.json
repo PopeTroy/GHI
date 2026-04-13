@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 0.69134,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade war with neighboring countries"
+        },
+        {
+            "loc": "Cairo, Egypt",
+            "deviation": "Water scarcity and Nile river disputes"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "International sanctions and energy export limitations"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Smart city initiatives and corruption reduction"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy and green infrastructure development"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and pro-innovation policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, HIGH IMPACT LOCATIONS IDENTIFIED FOR URGENT PROTOCOL IMPLEMENTATION.",
-    "last_updated": "2026-04-13 22:54:15",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WHILE REGIONAL INSTABILITY PERSISTS IN THE MIDDLE EAST AND EASTERN EUROPE.",
+    "last_updated": "2026-04-13 23:37:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 1.05
     }
 }
