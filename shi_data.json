@@ -1,45 +1,45 @@
 {
-    "shi": 1.55007,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.53371,
+    "health_percent": 67.23,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:27:12",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY IN MAJOR CITIES, WHILE INNOVATIONS IN TECHNOLOGY AND GOVERNANCE ARE BOOSTING GROWTH IN SELECT REGIONS.",
-    "last_updated": "2026-04-13 06:06:40",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWS DOWN DUE TO PANDEMIC, OIL PRICES SURGE AMIDST MIDDLE EAST TENSIONS, EU ANNOUNCES NEW ANTI-CORRUPTION LAWS",
+    "last_updated": "2026-04-13 08:20:55",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.02,
-        "B": 0.78,
-        "C": 0.95
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.18,
+        "C": 0.75
     }
 }
