@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.23,
+    "shi": 1.03493,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:43",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade barrier imposition"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy supply constraints"
+            "deviation": "Energy sector inefficiencies"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Debt-to-GDP ratio concerns"
+            "deviation": "High public debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and regulation"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
             "protocol": "Sustainable energy policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AMIDST RISING TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS.",
-    "last_updated": "2026-04-13 21:06:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AMIDST RISING TRADE TENSIONS AND ENERGY UNCERTAINTY.",
+    "last_updated": "2026-04-13 21:59:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 1.23,
+        "C": 0.69
     }
 }
