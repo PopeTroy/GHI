@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 63.2,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:02:15",
+    "shi": 2.77781,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:02:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints and Over-reliance on Imports"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Financial Instability and Regulatory Bottlenecks"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption and Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and Diversification of Economy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Investment in Renewable Energy and Sustainable Infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-12 23:38:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. KEY CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF ECONOMIC COLLAPSE.",
+    "last_updated": "2026-04-13 00:05:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 0.62,
+        "C": 0.51
     }
 }
