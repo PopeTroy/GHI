@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.9757,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt-to-GDP ratio"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and geopolitical tensions"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints in the Northeast"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers affecting IT exports"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policies and low corruption"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and high-tech innovation"
+            "protocol": "Streamlined tax reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social welfare systems"
+            "protocol": "Renewable energy integration"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Innovation hub for clean tech"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE WARS ESCALATING, AND SUPPLY CHAIN DISRUPTIONS REPORTED IN MULTIPLE REGIONS.",
-    "last_updated": "2026-04-13 11:39:56",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH TRADE TENSIONS AND DEBT LEVELS INCREASING ACROSS MAJOR ECONOMIES.",
+    "last_updated": "2026-04-13 12:45:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.92,
+        "C": 0.88
     }
 }
