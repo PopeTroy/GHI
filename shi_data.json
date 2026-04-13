@@ -1,45 +1,45 @@
 {
-    "shi": 2.77781,
+    "shi": 1.67164,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:12",
+    "collapse_timer": "42:11:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints and Over-reliance on Imports"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "London, UK",
-            "deviation": "Financial Instability and Regulatory Bottlenecks"
+            "deviation": "Energy chokepoints and inefficient regulations"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Poor infrastructure and high corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption and Policy Reforms"
+            "protocol": "Efficient policy reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and Diversification of Economy"
+            "protocol": "Anti-corruption and stable financial systems"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Investment in Renewable Energy and Sustainable Infrastructure"
+            "protocol": "Sustainable energy and robust trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. KEY CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF ECONOMIC COLLAPSE.",
-    "last_updated": "2026-04-13 00:05:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY DEMAND INCREASING DUE TO EXTREME WEATHER CONDITIONS",
+    "last_updated": "2026-04-13 03:49:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.62,
-        "C": 0.51
+        "T": 1.1,
+        "B": 0.78,
+        "C": 0.95
     }
 }
