@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.048,
+    "health_percent": 74.52,
+    "location": "LONDON, UNITED KINGDOM",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "96:43:21",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "New York City, USA",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt levels"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption measures"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hubs"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING. ENERGY MARKETS UNSTABLE. DEBT LEVELS REACHING CRITICAL POINTS IN SEVERAL COUNTRIES.",
-    "last_updated": "2026-04-14 10:51:48",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, ENERGY PRICES SKYROCKET DUE TO GEOPOLITICAL INSTABILITY",
+    "last_updated": "2026-04-14 11:47:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.95,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
