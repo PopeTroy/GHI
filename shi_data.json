@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "health_percent": 67.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Rising Debt Levels"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy Shortages"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative Tax Reforms"
+            "protocol": "Anti-corruption measures"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong Anti-Corruption Laws"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Policies"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS ARE CRUCIAL FOR GROWTH AND STABILITY.",
-    "last_updated": "2026-04-14 09:46:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING. ENERGY MARKETS UNSTABLE. DEBT LEVELS REACHING CRITICAL POINTS IN SEVERAL COUNTRIES.",
+    "last_updated": "2026-04-14 10:51:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
