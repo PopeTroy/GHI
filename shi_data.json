@@ -1,45 +1,45 @@
 {
-    "shi": 2.64416,
-    "health_percent": 73.21,
+    "shi": 1.05589,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and high operational costs"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Corruption and inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Advanced innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Strong economic governance and low debt"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and efficient supply chain management"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, ENERGY SHORTAGES, AND DEBT CRISES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAKDOWN IN THE COMING WEEKS.",
-    "last_updated": "2026-04-14 20:29:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE SINGAPORE AND DENMARK LEAD IN SUSTAINABLE PRACTICES AND ECONOMIC STABILITY.",
+    "last_updated": "2026-04-14 21:26:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.11,
-        "T": 1.23,
-        "B": 0.67,
-        "C": 0.91
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.02,
+        "B": 1.11,
+        "C": 0.98
     }
 }
