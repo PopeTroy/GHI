@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.42,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt levels"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Energy supply disruptions and corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure deficits and regulatory hurdles"
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt-to-GDP ratio concerns"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Strong policy reforms and innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and R&D investments"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-corruption and transparency reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy policy implementations"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ON THE RISE. ENERGY PRICES FLUCTUATING WILDLY. ECONOMIC UNCERTAINTY GRIPS MAJOR MARKETS.",
-    "last_updated": "2026-04-14 14:30:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTIES. GOVERNMENTS AND INSTITUTIONS URGED TO IMPLEMENT GROWTH-ENHANCING PROTOCOLS TO MITIGATE BOTTLENECKS AND PROMOTE SUSTAINABLE DEVELOPMENT.",
+    "last_updated": "2026-04-14 15:51:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.69
     }
 }
