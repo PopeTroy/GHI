@@ -1,45 +1,45 @@
 {
-    "shi": 2.1414,
+    "shi": 2.64416,
     "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "New York City, USA",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Riyadh, Saudi Arabia",
             "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
             "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMIC STABILITY AT RISK.",
-    "last_updated": "2026-04-14 19:23:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, ENERGY SHORTAGES, AND DEBT CRISES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAKDOWN IN THE COMING WEEKS.",
+    "last_updated": "2026-04-14 20:29:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.85,
-        "B": 0.75,
-        "C": 0.61
+        "P": 0.82,
+        "F": 1.11,
+        "T": 1.23,
+        "B": 0.67,
+        "C": 0.91
     }
 }
