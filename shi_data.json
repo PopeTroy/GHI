@@ -1,45 +1,45 @@
 {
-    "shi": 1.05589,
-    "health_percent": 74.25,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "96:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and high operational costs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and inadequate infrastructure"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Advanced innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong economic governance and low debt"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and efficient supply chain management"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE SINGAPORE AND DENMARK LEAD IN SUSTAINABLE PRACTICES AND ECONOMIC STABILITY.",
-    "last_updated": "2026-04-14 21:26:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY INSECURITY.",
+    "last_updated": "2026-04-14 22:10:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.02,
-        "B": 1.11,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
