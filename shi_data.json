@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "42:11:49",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade war with neighboring countries"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Water scarcity and Nile river disputes"
+            "loc": "Singapore",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "International sanctions and energy export limitations"
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Smart city initiatives and corruption reduction"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy and green infrastructure development"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and pro-innovation policies"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WHILE REGIONAL INSTABILITY PERSISTS IN THE MIDDLE EAST AND EASTERN EUROPE.",
-    "last_updated": "2026-04-13 23:37:37",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SKYROCKET, AND CYBERSECURITY THREATS LOOM LARGE.",
+    "last_updated": "2026-04-14 01:09:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "B": 0.65,
+        "C": 0.42
     }
 }
