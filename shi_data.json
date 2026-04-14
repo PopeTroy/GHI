@@ -1,45 +1,45 @@
 {
-    "shi": 2.62425,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 2.1414,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "New York City, USA",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "San Francisco, USA",
+            "loc": "Zurich, Switzerland",
             "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | WARNING: TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY.",
-    "last_updated": "2026-04-14 17:58:15",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMIC STABILITY AT RISK.",
+    "last_updated": "2026-04-14 19:23:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 0.65,
-        "C": 0.78
+        "P": 0.87,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 0.75,
+        "C": 0.61
     }
 }
