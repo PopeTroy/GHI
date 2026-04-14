@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.06582,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:49",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Singapore",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SKYROCKET, AND CYBERSECURITY THREATS LOOM LARGE.",
-    "last_updated": "2026-04-14 01:09:23",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, EU IMPOSES NEW TRADE REGULATIONS, AND RENEWABLE ENERGY INVESTMENTS SURGE.",
+    "last_updated": "2026-04-14 04:18:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.23,
+        "C": 0.67
     }
 }
