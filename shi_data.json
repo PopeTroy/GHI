@@ -1,45 +1,45 @@
 {
-    "shi": 2.44317,
-    "health_percent": 74.25,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "shi": 1.20507,
+    "health_percent": 82.5,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tehran, Iran",
-            "deviation": "trade barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure constraints and bureaucratic hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "anti-corruption"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "policy reforms"
+            "protocol": "Anti-corruption and transparency measures"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | BREAKING: GLOBAL MARKETS EXPERIENCE TURBULENCE DUE TO RISING DEBT LEVELS AND ENERGY SHORTAGES. ECONOMISTS PREDICT POTENTIAL COLLAPSE IN 48 HOURS IF NO CORRECTIVE MEASURES ARE TAKEN.",
-    "last_updated": "2026-04-14 23:55:22",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. INNOVATION HUBS LIKE SINGAPORE AND STOCKHOLM DRIVING GROWTH. BOTTLENECKS IN BEIJING, NEW YORK, AND MUMBAI CAUSING CONCERNS.",
+    "last_updated": "2026-04-15 02:10:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.65
+        "T": 1.01,
+        "B": 1.21,
+        "C": 0.78
     }
 }
