@@ -1,45 +1,45 @@
 {
-    "shi": 1.67808,
-    "health_percent": 82.14,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs and Trade Tensions"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Embargoes and Sanctions"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and Currency Devaluation"
+            "loc": "Paris, France",
+            "deviation": "Inefficient bureaucracy and high regulatory costs"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Free Trade Agreements and Business Reforms"
+            "protocol": "Strong policy reforms and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability and Anti-Corruption Measures"
+            "protocol": "High innovation and technological advancements"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation and Green Technology Investments"
+            "protocol": "Sustainable energy solutions and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AMIDST RISING TRADE TENSIONS AND ENERGY CONCERNS, WHILE INNOVATORS AND REFORMERS PUSH FOR SUSTAINABLE GROWTH AND STABILITY.",
-    "last_updated": "2026-04-15 21:35:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS AWAIT KEY ECONOMIC REPORTS FROM MAJOR NATIONS. MEANWHILE, CITIES WITH HIGH SHI SCORES SEE SIGNIFICANT INVESTMENTS IN SUSTAINABLE INFRASTRUCTURE AND GREEN TECHNOLOGIES.",
+    "last_updated": "2026-04-15 22:24:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 1.08,
-        "C": 0.76
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
