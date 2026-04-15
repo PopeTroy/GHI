@@ -1,45 +1,45 @@
 {
-    "shi": 4.94113,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "shi": 1.16418,
+    "health_percent": 67.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
-            "deviation": "High Debt"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and political instability"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure deficits and corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and economic diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE: OIL PRICES SURGE, DOW JONES DROPS 300 POINTS",
-    "last_updated": "2026-04-15 18:44:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE. ECONOMIC STABILITY THREATENED BY HIGH DEBT AND ENERGY SHORTAGES.",
+    "last_updated": "2026-04-15 19:53:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.95,
-        "B": 0.41,
-        "C": 0.67
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.88,
+        "B": 1.12,
+        "C": 0.76
     }
 }
