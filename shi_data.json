@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "health_percent": 68.23,
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Paris, France",
-            "deviation": "Inefficient bureaucracy and high regulatory costs"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Strong policy reforms and anti-corruption measures"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "High innovation and technological advancements"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and green initiatives"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS AWAIT KEY ECONOMIC REPORTS FROM MAJOR NATIONS. MEANWHILE, CITIES WITH HIGH SHI SCORES SEE SIGNIFICANT INVESTMENTS IN SUSTAINABLE INFRASTRUCTURE AND GREEN TECHNOLOGIES.",
-    "last_updated": "2026-04-15 22:24:51",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES; KEY CITIES LIKE BEIJING AND VANCOUVER ARE FEELING THE STRAIN.",
+    "last_updated": "2026-04-15 23:08:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
