@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 4.94113,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "New York City, USA",
+            "deviation": "High Debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade tensions with neighboring countries"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High public debt and aging population"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Brexit uncertainty and financial instability"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and technology adoption"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and green policies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong social safety net"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE UNCERTAINTIES, WHILE SOME CITIES LEAD THE WAY IN SUSTAINABLE GROWTH AND INNOVATION.",
-    "last_updated": "2026-04-15 17:34:06",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE: OIL PRICES SURGE, DOW JONES DROPS 300 POINTS",
+    "last_updated": "2026-04-15 18:44:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 0.41,
+        "C": 0.67
     }
 }
