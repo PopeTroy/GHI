@@ -1,39 +1,39 @@
 {
     "shi": 2.70259,
-    "health_percent": 72.15,
-    "location": "NEW YORK, USA",
+    "health_percent": 82.15,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "60:00:00",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Tariffs on Electronics"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Congested Shipping Lanes"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inefficient Port Operations"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "protocol": "Streamlined Customs Procedures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Robust Financial Regulations"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative Green Energy Solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT TURBULENCE AS ECONOMIC GROWTH CONTINUES TO SLOW",
-    "last_updated": "2026-04-15 10:04:08",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS DUE TO TRADE TENSIONS, WHILE SINGAPORE AND DENMARK LEAD THE CHARGE IN SUSTAINABLE INNOVATION.",
+    "last_updated": "2026-04-15 11:13:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
