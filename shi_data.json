@@ -1,45 +1,45 @@
 {
-    "shi": 1.05612,
-    "health_percent": 73.21,
+    "shi": 0.84052,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:09",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reform"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Wellington, New Zealand",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE SLIGHT FLUCTUATIONS AS GOVERNMENTS IMPLEMENT POLICIES TO MITIGATE TRADE BARRIERS AND ENERGY CHOKEPOINTS.",
-    "last_updated": "2026-04-16 11:32:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO TRADE TENSIONS, WHILE INNOVATIVE CITIES DRIVE ECONOMIC GROWTH WITH SUSTAINABLE POLICIES.",
+    "last_updated": "2026-04-16 12:45:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.21,
-        "C": 0.89
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
