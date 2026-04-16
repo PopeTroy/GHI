@@ -1,45 +1,45 @@
 {
-    "shi": 0.83758,
-    "health_percent": 67.32,
+    "shi": 0.84052,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariff escalation"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "High energy import dependency"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Soaring national debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient tax reform"
+            "loc": "Singapore",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative fintech ecosystem"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption policies"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable urban planning"
+            "protocol": "Sustainable development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE, CENTRAL BANKS RESPOND WITH RATE CUTS, INNOVATION HUBS ATTRACT FOREIGN INVESTMENT",
-    "last_updated": "2026-04-16 19:52:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HEIGHTENED VOLATILITY, GOVERNMENTS SCRAMBLE TO RESPOND TO IMPENDING COLLAPSE",
+    "last_updated": "2026-04-16 20:37:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.72,
-        "F": 0.85,
-        "T": 0.92,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
         "B": 1.1,
-        "C": 0.88
+        "C": 0.95
     }
 }
