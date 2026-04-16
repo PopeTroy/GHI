@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption policies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable development"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HEIGHTENED VOLATILITY, GOVERNMENTS SCRAMBLE TO RESPOND TO IMPENDING COLLAPSE",
-    "last_updated": "2026-04-16 20:37:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY DUE TO SUPPLY CHAIN DISRUPTIONS AND RISING DEBT LEVELS.",
+    "last_updated": "2026-04-16 21:26:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
