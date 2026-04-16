@@ -1,45 +1,45 @@
 {
-    "shi": 0.53211,
-    "health_percent": 74.21,
+    "shi": 0.83758,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "42:11:52",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy consumption"
+            "deviation": "Trade tariff escalation"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers with neighboring countries"
+            "loc": "Istanbul, Turkey",
+            "deviation": "High energy import dependency"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt crisis in key industries"
+            "loc": "London, UK",
+            "deviation": "Soaring national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation in AI and Cybersecurity"
+            "protocol": "Efficient tax reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial sector reforms and stability"
+            "protocol": "Innovative fintech ecosystem"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and environmental policies"
+            "protocol": "Sustainable urban planning"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | BREAKING NEWS: ECONOMIC STABILITY INDEX RELEASED, HIGHLIGHTING KEY AREAS OF CONCERN AND GROWTH OPPORTUNITIES.",
-    "last_updated": "2026-04-16 18:47:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE, CENTRAL BANKS RESPOND WITH RATE CUTS, INNOVATION HUBS ATTRACT FOREIGN INVESTMENT",
+    "last_updated": "2026-04-16 19:52:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.62,
-        "T": 0.75,
-        "B": 1.19,
-        "C": 0.92
+        "P": 0.72,
+        "F": 0.85,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.88
     }
 }
