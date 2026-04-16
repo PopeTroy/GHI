@@ -1,45 +1,45 @@
 {
-    "shi": 37.87761,
-    "health_percent": 74.25,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "shi": 1.05612,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "New York, USA",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Policy Reform"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-16 10:15:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE SLIGHT FLUCTUATIONS AS GOVERNMENTS IMPLEMENT POLICIES TO MITIGATE TRADE BARRIERS AND ENERGY CHOKEPOINTS.",
+    "last_updated": "2026-04-16 11:32:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.11
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.21,
+        "C": 0.89
     }
 }
