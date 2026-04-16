@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "shi": 1.14693,
+    "health_percent": 72.15,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "Energy Import Dependency"
         },
         {
-            "loc": "New York, USA",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt-to-GDP Ratio"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High Debt Levels"
+            "loc": "London, UK",
+            "deviation": "Over-reliance on Financial Sector"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hubs"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Pro-Business Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovative Renewable Energy Solutions"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Effective Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR HIGH-IMPACT LOCATIONS CLOSELY.",
-    "last_updated": "2026-04-16 14:26:21",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, NYC FACES HIGH RISK OF HYPER-INFLATION, EXPERTS WARN OF IMPENDING COLLAPSE",
+    "last_updated": "2026-04-16 16:05:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.9
     }
 }
