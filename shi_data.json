@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 62.11,
+    "shi": 1.38108,
+    "health_percent": 67.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "35:47:12",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy inefficiency"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Trade barriers and financial instability"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and labor shortages"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-innovation policies and low corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable financial system and high-quality education"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and effective governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE. ECONOMIC INSTABILITY THREATENS TO DISRUPT SUPPLY CHAINS.",
-    "last_updated": "2026-04-16 23:00:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATION AND GOOD GOVERNANCE.",
+    "last_updated": "2026-04-16 23:52:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.08,
+        "C": 0.91
     }
 }
