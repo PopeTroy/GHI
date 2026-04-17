@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade War with Neighboring Countries"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "High Debt due to Over-Reliance on Imports"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and limited policy reforms"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and insufficient innovation"
+            "deviation": "Energy Export Embargo"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Pro-Business Policy Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and R&D investments"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative Green Energy Solutions"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Effective policy reforms and social stability"
+            "protocol": "Anti-Corruption Transparency Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, CITING RISING DEBT AND TRADE TENSIONS. STABILITY PROTOCOLS ENGAGED TO MITIGATE POTENTIAL COLLAPSE.",
-    "last_updated": "2026-04-17 17:08:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE. TRADE WARS AND ENERGY EMBARGOES EXACERBATE TENSIONS. PROACTIVE POLICY REFORMS AND INNOVATIVE SOLUTIONS ARE KEY TO MAINTAINING STABILITY.",
+    "last_updated": "2026-04-17 18:03:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
