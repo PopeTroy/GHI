@@ -1,45 +1,45 @@
 {
-    "shi": 1.38108,
-    "health_percent": 67.45,
+    "shi": 1.96936,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy inefficiency"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and financial instability"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and labor shortages"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient infrastructure and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-innovation policies and low corruption"
+            "loc": "Singapore",
+            "protocol": "Pro-business policy reforms and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial system and high-quality education"
+            "protocol": "Investment in renewable energy and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and effective governance"
+            "protocol": "Diversified economy and innovative technologies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATION AND GOOD GOVERNANCE.",
-    "last_updated": "2026-04-16 23:52:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING. ECONOMIC STABILITY AT RISK. #ECONOMY #STABILITY",
+    "last_updated": "2026-04-17 01:27:02",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
+        "P": 0.85,
         "F": 1.21,
-        "T": 0.95,
-        "B": 1.08,
-        "C": 0.91
+        "T": 0.98,
+        "B": 0.67,
+        "C": 1.1
     }
 }
