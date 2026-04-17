@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 1.1828,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade War with Neighboring Countries"
+            "loc": "Shanghai, China",
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "High Debt due to Over-Reliance on Imports"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Embargo"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Policy Reforms"
+            "protocol": "Anti-Corruption Reform"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Green Energy Solutions"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Transparency Initiative"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE. TRADE WARS AND ENERGY EMBARGOES EXACERBATE TENSIONS. PROACTIVE POLICY REFORMS AND INNOVATIVE SOLUTIONS ARE KEY TO MAINTAINING STABILITY.",
-    "last_updated": "2026-04-17 18:03:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WITH THE NEW YORK STOCK EXCHANGE SHOWING A SLIGHT DECLINE. EXPERTS ANTICIPATE POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE ASIA-PACIFIC REGION DUE TO RECENT TRADE AGREEMENTS.",
+    "last_updated": "2026-04-17 19:16:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "F": 1.22,
+        "T": 0.92,
+        "B": 1.15,
+        "C": 1.01
     }
 }
