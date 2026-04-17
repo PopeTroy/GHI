@@ -1,21 +1,21 @@
 {
-    "shi": 1.15548,
+    "shi": 1.06582,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, HIGH IMPACT LOCATIONS UNDER CLOSE WATCH.",
-    "last_updated": "2026-04-17 04:30:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-04-17 06:21:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.93,
-        "T": 1.02,
-        "B": 1.21,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.23,
+        "C": 0.67
     }
 }
