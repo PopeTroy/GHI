@@ -1,9 +1,9 @@
 {
-    "shi": 0.77048,
-    "health_percent": 67.23,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "shi": 1.08344,
+    "health_percent": 72.15,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,32 +14,32 @@
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Zurich, Switzerland",
             "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. CITIES WITH HIGH SHI METRICS SHOW RESILIENCE AND POTENTIAL FOR GROWTH.",
-    "last_updated": "2026-04-17 21:00:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING WILDLY, INVESTORS SEEK SAFE HAVENS.",
+    "last_updated": "2026-04-17 21:54:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
