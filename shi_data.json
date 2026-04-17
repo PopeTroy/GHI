@@ -1,39 +1,39 @@
 {
     "shi": 0.76411,
-    "health_percent": 73.21,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy export restrictions"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and currency fluctuations"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative financial regulations"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified economy and skilled workforce"
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND TORONTO DEMONSTRATE RESILIENCE THROUGH ADAPTABILITY AND INNOVATION.",
-    "last_updated": "2026-04-17 14:07:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, SINGAPORE IMPLEMENTS NEW POLICY REFORMS TO ATTRACT FOREIGN INVESTMENT, AND TEL AVIV EXPERIENCES A SURGE IN STARTUP FUNDING.",
+    "last_updated": "2026-04-17 15:13:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
