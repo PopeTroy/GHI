@@ -1,45 +1,45 @@
 {
-    "shi": 2.53169,
-    "health_percent": 74.2,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.99274,
+    "health_percent": 42.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:04:22",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption Reform"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Policy Framework"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR THE ASIA-PACIFIC REGION. TRADE NEGOTIATIONS STALL BETWEEN MAJOR WORLD POWERS. GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY.",
-    "last_updated": "2026-04-18 15:38:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-04-18 16:07:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
-        "T": 1.21,
-        "B": 0.78,
-        "C": 0.69
+        "T": 0.81,
+        "B": 1.21,
+        "C": 0.67
     }
 }
