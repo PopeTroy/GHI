@@ -1,45 +1,45 @@
 {
-    "shi": 1.07506,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:21:42",
+    "shi": 1.29355,
+    "health_percent": 62.15,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy consumption"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and aging population"
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Inefficient energy production and corruption"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable finances"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE; SINGAPORE AND SWITZERLAND MAINTAIN STABLE ECONOMIC GROWTH DUE TO INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-04-18 06:41:06",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY IS UNDER THREAT AS TRADE TENSIONS ESCALATE AND DEBT LEVELS SURGE IN KEY ECONOMIES.",
+    "last_updated": "2026-04-18 07:45:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.67,
+        "F": 1.12,
         "T": 0.92,
-        "B": 1.21,
-        "C": 0.58
+        "B": 1.25,
+        "C": 0.78
     }
 }
