@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 67.2,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.08344,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reform"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW A 3.4% INCREASE IN TRADE VOLUMES, WHILE ENERGY PRICES HAVE STABILIZED. HOWEVER, RISING DEBT LEVELS IN KEY ECONOMIES POSE A SIGNIFICANT THREAT TO STABILITY.",
-    "last_updated": "2026-04-18 03:19:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, ECONOMISTS WARN OF POTENTIAL COLLAPSE",
+    "last_updated": "2026-04-18 05:19:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
