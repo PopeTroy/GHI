@@ -1,45 +1,45 @@
 {
-    "shi": 1.25195,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "47:23:11",
+    "shi": 2.53169,
+    "health_percent": 74.2,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:04:22",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt and energy dependency"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Overregulation and trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Corruption and lack of transparency"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and technology adoption"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and low corruption"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green policies"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS RISE, WHILE INNOVATORS IN SINGAPORE AND ZURICH DRIVE GROWTH AND PROSPERITY",
-    "last_updated": "2026-04-18 14:57:04",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR THE ASIA-PACIFIC REGION. TRADE NEGOTIATIONS STALL BETWEEN MAJOR WORLD POWERS. GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY.",
+    "last_updated": "2026-04-18 15:38:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.28,
-        "C": 0.78
+        "T": 1.21,
+        "B": 0.78,
+        "C": 0.69
     }
 }
