@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 73.21,
+    "shi": 0.95122,
+    "health_percent": 72.58,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Energy Consumption"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-Inflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation and Trade Policy Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Financial Stability and Anti-Corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green Energy and Economic Diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING WILDLY, GOVERNMENTS SCRAMBLE TO RESPOND TO ECONOMIC INSTABILITY.",
-    "last_updated": "2026-04-18 12:03:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS EXPERIENCE SIGNIFICANT FLUCTUATIONS AS ENERGY PRICES SURGE. ANALYSTS PREDICT IMMINENT SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-18 13:23:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 1.02,
+        "B": 1.15,
+        "C": 1.05
     }
 }
