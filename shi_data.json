@@ -1,45 +1,45 @@
 {
-    "shi": 2.18909,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 62.13,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Dependence"
+            "deviation": "High debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers with Neighboring Countries"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Debt Levels Exceeding 90% of GDP"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative Tax Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective Anti-Corruption Measures"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Initiatives"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF RESILIENCE DESPITE RISING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS; SINGAPORE LAUNCHES NEW INITIATIVE TO BOOST FINTECH GROWTH",
-    "last_updated": "2026-04-18 22:04:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY RISING GLOBALLY, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-04-18 22:51:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 0.56,
-        "C": 1.15
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
