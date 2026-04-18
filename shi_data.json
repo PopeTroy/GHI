@@ -1,45 +1,45 @@
 {
-    "shi": 1.05547,
-    "health_percent": 74.2,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy shortages and trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inadequate infrastructure and high corruption levels"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong governance and anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and investment in renewable energy"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. CITIES WITH STRONG GOVERNANCE AND INNOVATION ARE LIKELY TO BE MORE RESILIENT.",
-    "last_updated": "2026-04-18 20:58:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC INSTABILITY RISING IN KEY REGIONS. TRADE AGREEMENTS UNDER NEGOTIATION, POTENTIAL FOR GROWTH IN EMERGING MARKETS.",
+    "last_updated": "2026-04-18 21:41:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.19,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
