@@ -1,45 +1,45 @@
 {
-    "shi": 1.07097,
-    "health_percent": 74.32,
+    "shi": 1.38617,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "Singapore, Singapore",
+            "deviation": "High trade tariffs"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Energy chokepoints"
+            "loc": "Dhaka, Bangladesh",
+            "deviation": "Lack of energy infrastructure"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Robust anti-corruption policies"
+        },
+        {
+            "loc": "Seoul, South Korea",
+            "protocol": "Pro-business reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY RISING GLOBALLY, WITH KEY BOTTLENECKS IN BEIJING, LOS ANGELES, AND TOKYO. HIGH SHI NODES IN SAN FRANCISCO, SINGAPORE, AND ZURICH SHOW PROMISE FOR GROWTH.",
-    "last_updated": "2026-04-18 10:09:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT 74.23%, SINGAPORE EXPERIENCES HIGH TRADE TARIFFS, AND THE US SEES INNOVATION IN SAN FRANCISCO.",
+    "last_updated": "2026-04-18 10:59:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.92,
-        "T": 1.11,
-        "B": 1.26,
-        "C": 0.85
+        "P": 0.83,
+        "F": 1.21,
+        "T": 0.97,
+        "B": 1.1,
+        "C": 0.92
     }
 }
