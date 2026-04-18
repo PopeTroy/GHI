@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.21,
+    "shi": 2.06448,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barrier imposition"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply disruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers with neighboring countries"
+            "loc": "Tokyo, Japan",
+            "deviation": "High public debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced robotics innovation"
-        },
-        {
-            "loc": "London, UK",
-            "protocol": "Financial sector policy reforms"
-        },
-        {
             "loc": "Singapore",
-            "protocol": "Anti-corruption and transparency initiatives"
+            "protocol": "Innovation hub development"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy initiatives"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS WARN OF POTENTIAL DOWNTURN. TRADE AGREEMENTS UNDER REVIEW, NATIONS RECONSIDERING PARTNERSHIPS.",
-    "last_updated": "2026-04-18 16:56:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2",
+    "last_updated": "2026-04-18 17:37:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.1,
+        "B": 0.75,
+        "C": 0.8
     }
 }
