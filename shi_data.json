@@ -1,45 +1,45 @@
 {
-    "shi": 1.53556,
-    "health_percent": 67.32,
+    "shi": 1.05547,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy shortages and trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit uncertainty and regulatory challenges"
+            "loc": "Mumbai, India",
+            "deviation": "Inadequate infrastructure and high corruption levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Strong tech industry and policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable economy and favorable business environment"
+            "protocol": "Strong governance and anti-corruption measures"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, TRADE TENSIONS ESCALATE, AND CENTRAL BANKS INTERVENE TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-04-18 20:20:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. CITIES WITH STRONG GOVERNANCE AND INNOVATION ARE LIKELY TO BE MORE RESILIENT.",
+    "last_updated": "2026-04-18 20:58:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.88
+        "T": 0.85,
+        "B": 1.19,
+        "C": 0.78
     }
 }
