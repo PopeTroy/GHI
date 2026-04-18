@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
+    "shi": 1.25195,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "47:23:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt and energy dependency"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Overregulation and trade barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "high debt"
+            "loc": "Beijing, China",
+            "deviation": "Corruption and lack of transparency"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "innovation"
+            "protocol": "Innovation and technology adoption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "protocol": "Financial stability and low corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "policy reforms"
+            "protocol": "Sustainable energy and green policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES AT A STANDSTILL. INNOVATIONS IN RENEWABLE ENERGY GAINING TRACTION.",
-    "last_updated": "2026-04-18 14:08:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS RISE, WHILE INNOVATORS IN SINGAPORE AND ZURICH DRIVE GROWTH AND PROSPERITY",
+    "last_updated": "2026-04-18 14:57:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "T": 1.11,
+        "B": 1.28,
+        "C": 0.78
     }
 }
