@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 62.13,
+    "shi": 2.57051,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint"
+            "loc": "Beijing, China",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore",
             "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY RISING GLOBALLY, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-04-18 22:51:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, SEEK DIVERSIFICATION AND PROTOCOL IMPLEMENTATION",
+    "last_updated": "2026-04-18 23:23:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.51
     }
 }
