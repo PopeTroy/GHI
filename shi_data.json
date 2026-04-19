@@ -1,45 +1,45 @@
 {
-    "shi": 0.97251,
-    "health_percent": 74.23,
+    "shi": 1.64792,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:15",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade tariffs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barrier"
+            "loc": "Athens, Greece",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reform"
+            "protocol": "Innovative trade agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Robust financial regulations"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Sustainable energy investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC GROWTH SLOWS DUE TO RISING TRADE TENSIONS AND ENERGY PRICE VOLATILITY.",
-    "last_updated": "2026-04-19 03:20:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC STABILITY AT RISK",
+    "last_updated": "2026-04-19 05:38:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 1.02,
-        "B": 1.15,
-        "C": 0.98
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
