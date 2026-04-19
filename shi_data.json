@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "shi": 0.69134,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt due to excessive infrastructure spending"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy supply disruptions due to inadequate power grid"
+            "loc": "New York City, USA",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade barriers affecting import and export of goods"
+            "deviation": "Trade Barrier"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech regulations"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy solutions and green infrastructure"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse and inclusive economy with anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ANALYSTS PREDICT ECONOMIC DOWNTURN IN THE NEXT QUARTER, GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS TO MITIGATE RISKS",
-    "last_updated": "2026-04-19 13:05:25",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-19 14:03:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 1.05
     }
 }
