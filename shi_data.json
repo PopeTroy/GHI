@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 2.57051,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies and anti-corruption measures"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy solutions"
+            "protocol": "Renewable energy integration and sustainable development"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial reforms"
+            "protocol": "Financial regulatory reforms and high-tech innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, ECONOMISTS PREDICT SLOWDOWN IN Q2, GOVERNMENTS URGED TO IMPLEMENT GROWTH PROTOCOLS",
-    "last_updated": "2026-04-19 07:01:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. CITIES LIKE NEW YORK, BEIJING, AND LONDON FACE HIGH RISK OF ECONOMIC COLLAPSE DUE TO VARIOUS BOTTLENECKS. HOWEVER, CITIES LIKE SINGAPORE, STOCKHOLM, AND ZURICH DEMONSTRATE HIGH RESILIENCE AND GROWTH POTENTIAL DUE TO EFFECTIVE PROTOCOLS AND SUSTAINABLE PRACTICES.",
+    "last_updated": "2026-04-19 08:11:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.51
     }
 }
