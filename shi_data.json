@@ -1,45 +1,45 @@
 {
-    "shi": 2.83336,
+    "shi": 0.76411,
     "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy shortages"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers and rising inflation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Brexit-induced economic instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation-based economic reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Renewable energy integration and carbon pricing"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social safety nets"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS SUPPLY CHAIN DISRUPTIONS WORSEN. ECONOMISTS WARN OF IMPENDING COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
-    "last_updated": "2026-04-19 14:54:20",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE TOKYO AND SINGAPORE LEAD IN INNOVATION AND ECONOMIC RESILIENCE.",
+    "last_updated": "2026-04-19 15:33:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.5,
-        "C": 0.62
+        "B": 1.21,
+        "C": 0.95
     }
 }
