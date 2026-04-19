@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.32,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs"
+            "deviation": "High debt"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy shortages"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High national debt"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative trade agreements"
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy solutions"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulations"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy investments"
+            "protocol": "Financial reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC STABILITY AT RISK",
-    "last_updated": "2026-04-19 05:38:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, ECONOMISTS PREDICT SLOWDOWN IN Q2, GOVERNMENTS URGED TO IMPLEMENT GROWTH PROTOCOLS",
+    "last_updated": "2026-04-19 07:01:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.82
+        "C": 0.42
     }
 }
