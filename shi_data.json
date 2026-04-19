@@ -1,45 +1,45 @@
 {
-    "shi": 1.54393,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:16:32",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt due to excessive infrastructure spending"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy supply disruptions due to inadequate power grid"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers affecting import and export of goods"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovative fintech regulations"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
+            "protocol": "Sustainable energy solutions and green infrastructure"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse and inclusive economy with anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOWING SIGNS OF INSTABILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-19 11:56:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ANALYSTS PREDICT ECONOMIC DOWNTURN IN THE NEXT QUARTER, GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS TO MITIGATE RISKS",
+    "last_updated": "2026-04-19 13:05:25",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.93,
-        "B": 1.19,
-        "C": 0.78
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
