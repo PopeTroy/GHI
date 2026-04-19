@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.32,
+    "shi": 1.30284,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, INFLATION ON THE RISE, TRADE TENSIONS ESCALATING.",
-    "last_updated": "2026-04-19 20:59:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. MARKETS EXPERIENCING HIGH VOLATILITY.",
+    "last_updated": "2026-04-19 21:46:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.11,
+        "B": 1.23,
+        "C": 0.78
     }
 }
