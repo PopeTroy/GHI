@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.28,
+    "shi": 0.97251,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and inflation"
+            "deviation": "High Debt"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barrier"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms and anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and financial stability"
+            "protocol": "Innovation"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE; OIL PRICES SURGE DUE TO SUPPLY CHAIN DISRUPTIONS; ECONOMIC FORECAST PREDICTS MODERATE GROWTH FOR THE NEXT QUARTER.",
-    "last_updated": "2026-04-18 23:57:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC GROWTH SLOWS DUE TO RISING TRADE TENSIONS AND ENERGY PRICE VOLATILITY.",
+    "last_updated": "2026-04-19 03:20:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.82,
+        "F": 0.91,
+        "T": 1.02,
+        "B": 1.15,
+        "C": 0.98
     }
 }
