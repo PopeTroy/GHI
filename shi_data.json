@@ -1,45 +1,45 @@
 {
-    "shi": 1.06534,
-    "health_percent": 67.32,
+    "shi": 1.08344,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:07:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade War Escalation"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Crisis"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Robust Financial Regulations"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable policy reforms"
+            "protocol": "Renewable Energy Innovations"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Pro-Business Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, TRADE NEGOTIATIONS STALLED, AND ENERGY PRICES SOARING.",
-    "last_updated": "2026-04-19 18:06:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC NEWS: OIL PRICES SPIKE AMIDST RISING TENSIONS IN THE MIDDLE EAST, ASIAN MARKETS EXPERIENCE VOLATILITY",
+    "last_updated": "2026-04-19 19:07:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.76
+        "C": 0.67
     }
 }
