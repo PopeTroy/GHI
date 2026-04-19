@@ -1,45 +1,45 @@
 {
-    "shi": 2.57051,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyper-Inflation"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and inefficiencies"
+            "loc": "Singapore",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade policies and anti-corruption measures"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Renewable energy integration and sustainable development"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory reforms and high-tech innovation"
+            "protocol": "Innovative Tax Reforms"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Investment in Renewable Energy"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. CITIES LIKE NEW YORK, BEIJING, AND LONDON FACE HIGH RISK OF ECONOMIC COLLAPSE DUE TO VARIOUS BOTTLENECKS. HOWEVER, CITIES LIKE SINGAPORE, STOCKHOLM, AND ZURICH DEMONSTRATE HIGH RESILIENCE AND GROWTH POTENTIAL DUE TO EFFECTIVE PROTOCOLS AND SUSTAINABLE PRACTICES.",
-    "last_updated": "2026-04-19 08:11:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES LIKE ZURICH AND TOKYO LEAD IN IMPLEMENTING GROWTH-IMPROVING PROTOCOLS.",
+    "last_updated": "2026-04-19 09:06:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.51
+        "B": 1.21,
+        "C": 0.67
     }
 }
