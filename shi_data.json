@@ -1,45 +1,45 @@
 {
-    "shi": 1.30284,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Singapore, Singapore",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. MARKETS EXPERIENCING HIGH VOLATILITY.",
-    "last_updated": "2026-04-19 21:46:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO DISRUPTIONS IN KEY SUPPLY CHAINS.",
+    "last_updated": "2026-04-19 22:18:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.23,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
