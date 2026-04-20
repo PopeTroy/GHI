@@ -1,45 +1,45 @@
 {
-    "shi": 6.43474,
-    "health_percent": 62.15,
+    "shi": 2.59865,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade Disruptions"
+        },
+        {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoints"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy Chokepoints and Inflation"
-        },
-        {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Trade Wars and Economic Restrictions"
+            "deviation": "Rising Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub and Anti-Corruption"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable Energy and Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Economic Diversification and Trade Agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE WARS AND DEBT THREATENING STABILITY. INNOVATION AND POLICY REFORMS KEY TO GROWTH.",
-    "last_updated": "2026-04-20 19:32:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZE AS ECONOMIC REFORMS TAKE HOLD; HOWEVER, SUPPLY CHAIN VULNERABILITIES PERSIST IN KEY REGIONS.",
+    "last_updated": "2026-04-20 20:23:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.65
+        "B": 0.65,
+        "C": 0.52
     }
 }
