@@ -1,45 +1,45 @@
 {
-    "shi": 2.95142,
-    "health_percent": 73.21,
+    "shi": 2.32075,
+    "health_percent": 75.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:07:32",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers, high debt"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Energy chokepoints, corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Sanctions"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "High debt, infrastructure issues"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation, policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Economic Diversification"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption, financial stability"
+            "protocol": "Fintech Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy, social cohesion"
+            "loc": "Toronto, Canada",
+            "protocol": "Green Energy Investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, OIL PRICES SURGE AMIDST ENERGY SHORTAGES, AND CITIES WORLDWIDE INVEST IN SUSTAINABLE INFRASTRUCTURE TO MITIGATE CLIMATE RISKS.",
-    "last_updated": "2026-04-20 22:55:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. GOVERNMENTS CONSIDER POLICY REFORMS TO MITIGATE RISKS.",
+    "last_updated": "2026-04-20 23:40:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.62,
-        "C": 0.48
+        "P": 0.82,
+        "F": 0.91,
+        "T": 1.23,
+        "B": 0.67,
+        "C": 0.85
     }
 }
