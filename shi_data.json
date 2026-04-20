@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 62.11,
+    "shi": 2.95142,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Chokepoints"
+            "deviation": "Trade barriers, high debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers and High Debt"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy chokepoints, corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Corruption and Lack of Innovation"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "High debt, infrastructure issues"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption and Policy Reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation and Entrepreneurship"
+            "loc": "Singapore",
+            "protocol": "Innovation, policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable Fiscal Policy and Low Debt"
+            "protocol": "Anti-corruption, financial stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy, social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION WITH 48 HOUR COLLAPSE TIMER. ECONOMISTS URGE GOVERNMENTS TO IMPLEMENT POLICY REFORMS AND ANTI-CORRUPTION MEASURES TO MITIGATE RISKS.",
-    "last_updated": "2026-04-20 21:59:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, OIL PRICES SURGE AMIDST ENERGY SHORTAGES, AND CITIES WORLDWIDE INVEST IN SUSTAINABLE INFRASTRUCTURE TO MITIGATE CLIMATE RISKS.",
+    "last_updated": "2026-04-20 22:55:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.62,
+        "C": 0.48
     }
 }
