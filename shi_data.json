@@ -1,45 +1,45 @@
 {
-    "shi": 0.72913,
+    "shi": 1.05076,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:43:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dammam, Saudi Arabia",
+            "deviation": "Energy chokepoint and high inflation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Trade barriers and high corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Geneva, Switzerland",
+            "protocol": "Innovation and fiscal responsibility"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Oslo, Norway",
+            "protocol": "Sustainable energy and stable governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY VOLATILITY.",
-    "last_updated": "2026-04-20 04:29:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STRESS LEVELS RISING; TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS; COMMODITY PRICES EXPERIENCING HIGH VOLATILITY.",
+    "last_updated": "2026-04-20 06:33:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.88
     }
 }
