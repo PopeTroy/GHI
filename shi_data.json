@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 73.45,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "60:02:15",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barriers, high debt"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt"
+            "deviation": "High regulatory barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption and transparency"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and environmental policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, ECONOMIC STABILITY AT RISK. REGIONAL TENSIONS RISING, TRADE AGREEMENTS UNDER NEGOTIATION.",
-    "last_updated": "2026-04-20 08:37:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, GEOPOLITICAL TENSIONS RISING, AND ENVIRONMENTAL CONCERNS GROWING. ECONOMIC STABILITY AND GROWTH THREATENED BY BOTTLENECKS, BUT PROTOCOLS AND INNOVATIONS OFFER HOPE FOR IMPROVEMENT.",
+    "last_updated": "2026-04-20 10:21:35",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.78
+        "C": 0.69
     }
 }
