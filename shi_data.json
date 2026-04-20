@@ -1,45 +1,45 @@
 {
-    "shi": 1.05076,
-    "health_percent": 73.21,
+    "shi": 1.03803,
+    "health_percent": 73.45,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "60:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dammam, Saudi Arabia",
-            "deviation": "Energy chokepoint and high inflation"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Trade barriers and high corruption"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Geneva, Switzerland",
-            "protocol": "Innovation and fiscal responsibility"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy and stable governance"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STRESS LEVELS RISING; TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS; COMMODITY PRICES EXPERIENCING HIGH VOLATILITY.",
-    "last_updated": "2026-04-20 06:33:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, ECONOMIC STABILITY AT RISK. REGIONAL TENSIONS RISING, TRADE AGREEMENTS UNDER NEGOTIATION.",
+    "last_updated": "2026-04-20 08:37:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.88
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.78
     }
 }
