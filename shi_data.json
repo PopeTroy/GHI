@@ -1,45 +1,45 @@
 {
-    "shi": 1.43133,
+    "shi": 1.05203,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "56:23:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barriers due to high tariffs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "High debt levels impacting stability"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints causing supply chain disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation in Fintech"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms promoting entrepreneurship"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS INCREASE BY 15%, SINGAPORE LAUNCHES NEW ECONOMIC STIMULUS PACKAGE, AND THE EU IMPOSES STRICTER REGULATIONS ON ENERGY TRADE",
-    "last_updated": "2026-04-21 16:35:16",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET TRENDS INDICATE A POTENTIAL SHIFT IN TRADE POLICIES, ECONOMIC GROWTH STEADY AT 2.5%, WHILE GEOPOLITICAL TENSIONS RISE IN EASTERN EUROPE.",
+    "last_updated": "2026-04-21 17:38:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
-        "T": 1.21,
-        "B": 1.09,
-        "C": 0.87
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
