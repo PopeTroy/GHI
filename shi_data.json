@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.25,
+    "shi": 1.18547,
+    "health_percent": 73.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade War"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "Trade Barriers"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TALKS BETWEEN NATIONS STALL, AND ENERGY DEMAND ON THE RISE.",
-    "last_updated": "2026-04-21 21:29:08",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN.",
+    "last_updated": "2026-04-21 22:10:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.78
     }
 }
