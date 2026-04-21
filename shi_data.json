@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 62.19,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:59",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High Debt"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Initiative"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS",
-    "last_updated": "2026-04-21 01:09:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE SHOWING SIGNS OF STABILITY, BUT EXPERTS WARN OF LOOMING TRADE WARS AND SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-21 04:20:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
