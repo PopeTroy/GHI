@@ -1,45 +1,45 @@
 {
-    "shi": 2.32075,
-    "health_percent": 75.21,
+    "shi": 3.21737,
+    "health_percent": 62.19,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:07:32",
+    "collapse_timer": "48:21:59",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade War"
-        },
-        {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Sanctions"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High Debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Economic Diversification"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Fintech Innovation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Green Energy Investments"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. GOVERNMENTS CONSIDER POLICY REFORMS TO MITIGATE RISKS.",
-    "last_updated": "2026-04-20 23:40:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS",
+    "last_updated": "2026-04-21 01:09:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 1.23,
-        "B": 0.67,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
