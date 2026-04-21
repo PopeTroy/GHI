@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "56:23:14",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers due to high tariffs"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High debt levels impacting stability"
+            "deviation": "High trade tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints causing supply chain disruptions"
+            "deviation": "Energy supply disruptions"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Rising debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation in Fintech"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative tax reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Sustainable energy solutions"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms promoting entrepreneurship"
+            "protocol": "Anti-corruption initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET TRENDS INDICATE A POTENTIAL SHIFT IN TRADE POLICIES, ECONOMIC GROWTH STEADY AT 2.5%, WHILE GEOPOLITICAL TENSIONS RISE IN EASTERN EUROPE.",
-    "last_updated": "2026-04-21 17:38:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS DUE TO ONGOING TRADE DISPUTES, AS CITIES LIKE BEIJING AND NEW YORK FEEL THE STRAIN OF SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-21 18:43:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
