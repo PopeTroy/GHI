@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy supply disruptions"
+            "loc": "Beijing, China",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers and sanctions"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub with strong policy reforms"
+            "protocol": "Financial Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Low corruption and high transparency"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Strong anti-corruption laws and sustainable energy practices"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK |  GLOBAL ECONOMIC STABILITY INDEX: 72.11, REGIONAL FLASHPOINTS: MIDDLE EAST, ASIA-PACIFIC, AND EASTERN EUROPE",
-    "last_updated": "2026-04-21 22:58:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING PROTECTIVE MEASURES TO STABILIZE ECONOMIES",
+    "last_updated": "2026-04-21 23:41:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
