@@ -1,5 +1,5 @@
 {
-    "shi": 1.06582,
+    "shi": 3.21737,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,39 +7,39 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tensions"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy price volatility"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-friendly regulations"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial oversight"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green innovation incentives"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE NEGOTIATIONS STALLED, OIL PRICES SURGE, AND A NEW FINTECH HUB EMERGES IN SOUTHEAST ASIA.",
-    "last_updated": "2026-04-21 14:03:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INSTABILITY DUE TO VARIOUS BOTTLENECKS. IMPLEMENTING PROTOCOLS SUCH AS POLICY REFORMS AND ANTI-CORRUPTION MEASURES CAN IMPROVE ECONOMIC STABILITY AND GROWTH.",
+    "last_updated": "2026-04-21 15:23:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
