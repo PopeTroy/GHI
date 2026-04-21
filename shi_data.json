@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.64792,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "96:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruptions"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Rising debt levels"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative tax reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Low debt and stable economy"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption initiatives"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified trade and low corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS DUE TO ONGOING TRADE DISPUTES, AS CITIES LIKE BEIJING AND NEW YORK FEEL THE STRAIN OF SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-21 18:43:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-04-21 19:51:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.82
     }
 }
