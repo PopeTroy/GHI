@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 2.32982,
+    "health_percent": 72.35,
+    "location": "LONDON, UNITED KINGDOM",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High energy dependence on imports"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and labor shortages"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and civil unrest"
+            "loc": "New York City, USA",
+            "deviation": "Excessive financial sector leverage"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Pro-business policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable economy"
+            "protocol": "Innovative financial and technological ecosystem"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and transparent governance"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse and inclusive economic environment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE NEGOTIATIONS STALL, WHILE CITIES WITH STRONG PROTOCOLS DEMONSTRATE RESILIENCE",
-    "last_updated": "2026-04-22 19:39:46",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, COMMODITY PRICES SURGE, AND GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY.",
+    "last_updated": "2026-04-22 20:34:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.42
+        "C": 0.58
     }
 }
