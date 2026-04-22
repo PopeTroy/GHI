@@ -1,45 +1,45 @@
 {
-    "shi": 3.82553,
-    "health_percent": 62.15,
+    "shi": 1.05203,
+    "health_percent": 73.52,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:05:22",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Energy Chokepoints and Hyper-Inflation"
-        },
-        {
-            "loc": "Kiev, Ukraine",
-            "deviation": "Trade Barriers and Civil Unrest"
+            "deviation": "Hyper-inflation and supply chain issues"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub with Strong Policy Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong Anti-Corruption Measures and Financial Stability"
+            "loc": "Singapore",
+            "protocol": "Innovative economic policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Solutions and Low Debt"
+            "protocol": "Sustainable energy and anti-corruption reforms"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable financial regulations and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE, ECONOMISTS WARN OF POTENTIAL ECONOMIC DOWNTURN WITHIN THE NEXT QUARTER.",
-    "last_updated": "2026-04-22 14:52:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING MODERATE FLUCTUATIONS, WITH THE US DOLLAR RISING AGAINST MAJOR CURRENCIES. OIL PRICES HAVE DECREASED DUE TO INCREASED PRODUCTION AND STABLE GLOBAL DEMAND.",
+    "last_updated": "2026-04-22 16:00:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.41
+        "B": 1.21,
+        "C": 0.69
     }
 }
