@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.25,
+    "shi": 1.5423,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "47:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High corruption and bureaucratic red tape"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inadequate infrastructure and policy uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with favorable business policies"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption and sustainable practices"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and stable financial system"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Financial stability and international cooperation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-04-22 17:11:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS KEY TO MITIGATING COLLAPSE RISK.",
+    "last_updated": "2026-04-22 18:12:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.85
     }
 }
