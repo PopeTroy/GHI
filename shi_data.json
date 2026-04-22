@@ -1,45 +1,45 @@
 {
-    "shi": 34.71709,
+    "shi": 2.57578,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Athens, Greece",
-            "deviation": "Energy shortage"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Severe trade barriers and high debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Debt crisis"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and market volatility"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt and aging population"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Effective policy reforms and innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption measures and stable economy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption policy"
+            "protocol": "Diversified economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS ECONOMIC STABILITY CONCERNS RISE. OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS.",
-    "last_updated": "2026-04-22 22:25:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER ENERGY SECURITY GROWING.",
+    "last_updated": "2026-04-22 23:12:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.23,
-        "C": 0.11
+        "B": 0.55,
+        "C": 0.62
     }
 }
