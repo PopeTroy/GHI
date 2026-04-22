@@ -1,45 +1,45 @@
 {
-    "shi": 2.32982,
-    "health_percent": 72.35,
-    "location": "LONDON, UNITED KINGDOM",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 34.71709,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
+            "loc": "Athens, Greece",
+            "deviation": "Energy shortage"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High energy dependence on imports"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and labor shortages"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "Excessive financial sector leverage"
+            "loc": "Moscow, Russia",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-business policies and low corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial and technological ecosystem"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diverse and inclusive economic environment"
+            "protocol": "Anti-corruption policy"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, COMMODITY PRICES SURGE, AND GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY.",
-    "last_updated": "2026-04-22 20:34:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS ECONOMIC STABILITY CONCERNS RISE. OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS.",
+    "last_updated": "2026-04-22 22:25:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.58
+        "B": 0.23,
+        "C": 0.11
     }
 }
