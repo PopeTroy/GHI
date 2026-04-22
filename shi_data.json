@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.52,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and aging population"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and supply chain issues"
+            "loc": "London, UK",
+            "deviation": "High corruption and bureaucratic red tape"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative economic policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and anti-corruption reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub with favorable business policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial regulations and low debt"
+            "protocol": "Strong anti-corruption and stable financial system"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING MODERATE FLUCTUATIONS, WITH THE US DOLLAR RISING AGAINST MAJOR CURRENCIES. OIL PRICES HAVE DECREASED DUE TO INCREASED PRODUCTION AND STABLE GLOBAL DEMAND.",
-    "last_updated": "2026-04-22 16:00:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-04-22 17:11:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
