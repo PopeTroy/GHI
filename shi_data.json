@@ -1,45 +1,45 @@
 {
-    "shi": 0.68009,
-    "health_percent": 67.23,
+    "shi": 3.82553,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:21",
+    "collapse_timer": "48:05:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Energy Chokepoints and Hyper-Inflation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Kiev, Ukraine",
+            "deviation": "Trade Barriers and Civil Unrest"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reform"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Initiative"
+            "protocol": "Innovation Hub with Strong Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Strong Anti-Corruption Measures and Financial Stability"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy Solutions and Low Debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | G20 MEETING: TRADE AGREEMENTS BEING RENEGOTIATED, POTENTIAL IMPACT ON GLOBAL SUPPLY CHAIN. EU LEADERS GATHERING TO DISCUSS ECONOMIC REFORMS.",
-    "last_updated": "2026-04-22 13:01:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY ON THE RISE, ECONOMISTS WARN OF POTENTIAL ECONOMIC DOWNTURN WITHIN THE NEXT QUARTER.",
+    "last_updated": "2026-04-22 14:52:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 1.05
+        "B": 0.56,
+        "C": 0.41
     }
 }
