@@ -1,9 +1,9 @@
 {
-    "shi": 1.5423,
+    "shi": 3.21737,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,32 +14,32 @@
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Inadequate infrastructure and policy uncertainty"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and civil unrest"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption and sustainable practices"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption and stable economy"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and international cooperation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and transparent governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS KEY TO MITIGATING COLLAPSE RISK.",
-    "last_updated": "2026-04-22 18:12:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE NEGOTIATIONS STALL, WHILE CITIES WITH STRONG PROTOCOLS DEMONSTRATE RESILIENCE",
+    "last_updated": "2026-04-22 19:39:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.85
+        "B": 0.65,
+        "C": 0.42
     }
 }
