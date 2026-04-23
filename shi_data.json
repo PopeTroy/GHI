@@ -1,45 +1,45 @@
 {
-    "shi": 0.9452,
-    "health_percent": 82.13,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.2903,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High Energy Consumption"
+            "loc": "Singapore, Singapore",
+            "deviation": "high trade tariffs"
         },
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade Tensions"
+            "loc": "Istanbul, Turkey",
+            "deviation": "energy shortages"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Debt Crisis"
+            "loc": "Athens, Greece",
+            "deviation": "sovereign debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Banking System"
+            "protocol": "strong anti-corruption laws"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Renewable Energy"
+            "protocol": "innovative green technologies"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy"
+            "protocol": "progressive policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE NEGOTIATIONS STALLED, AND ENERGY PRICES ON THE RISE.",
-    "last_updated": "2026-04-23 19:25:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A SIGNIFICANT DOWNTURN AS INVESTORS BECOME INCREASINGLY RISK-AVERSE DUE TO ESCALATING TRADE TENSIONS AND RISING DEBT LEVELS.",
+    "last_updated": "2026-04-23 20:30:43",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.91,
-        "T": 1.02,
-        "B": 1.21,
-        "C": 0.97
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.8
     }
 }
