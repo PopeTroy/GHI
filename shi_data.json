@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 0.9452,
+    "health_percent": 82.13,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:12",
+    "collapse_timer": "48:03:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "High Energy Consumption"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Shanghai, China",
+            "deviation": "Trade Tensions"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Robust Banking System"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative Renewable Energy"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT 74.23%, NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION, SUPPLY CHAIN BREAK PREDICTED IN 43 HOURS",
-    "last_updated": "2026-04-23 18:00:10",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE NEGOTIATIONS STALLED, AND ENERGY PRICES ON THE RISE.",
+    "last_updated": "2026-04-23 19:25:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "P": 0.83,
+        "F": 0.91,
+        "T": 1.02,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.97
     }
 }
