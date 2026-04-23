@@ -1,45 +1,45 @@
 {
-    "shi": 1.25195,
-    "health_percent": 74.21,
+    "shi": 2.69654,
+    "health_percent": 72.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Singapore",
+            "deviation": "Over-reliance on foreign trade"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "deviation": "Aging population and labor shortages"
         }
     ],
     "high_shi": [
-        {
-            "loc": "Singapore",
-            "protocol": "Effective policy reforms"
-        },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Strong anti-corruption measures"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Thriving innovation ecosystem"
+            "protocol": "High innovation and entrepreneurship rates"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Effective policy reforms and governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SLOWING GROWTH IN MAJOR ECONOMIES, WHILE SINGAPORE AND SWITZERLAND DEMONSTRATE RESILIENCE WITH STRONG POLICY FRAMEWORKS.",
-    "last_updated": "2026-04-23 21:25:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIES SHIFTING TOWARDS SUSTAINABLE GROWTH MODELS, AND INTERNATIONAL COOPERATION ON TRADE AND CLIMATE CHANGE",
+    "last_updated": "2026-04-23 22:06:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.11,
-        "B": 1.28,
-        "C": 0.78
+        "F": 1.22,
+        "T": 0.98,
+        "B": 0.67,
+        "C": 0.81
     }
 }
