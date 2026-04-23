@@ -1,45 +1,45 @@
 {
-    "shi": 2.29033,
-    "health_percent": 82.1,
+    "shi": 0.82551,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:22",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy consumption"
+            "deviation": "High Debt, Trade Barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints, Corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Debt crisis"
+            "deviation": "Aging Population, High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation, Policy Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption, Renewable Energy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy"
+            "protocol": "Diversified Economy, High-Tech Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT FLUCTUATIONS, WHILE REGIONAL INSTABILITY THREATENS ECONOMIC GROWTH",
-    "last_updated": "2026-04-23 23:03:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATING, OIL PRICES RISING, NEW ECONOMIC REFORMS ANNOUNCED IN THE EU",
+    "last_updated": "2026-04-23 23:58:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.59
+        "B": 1.12,
+        "C": 0.95
     }
 }
