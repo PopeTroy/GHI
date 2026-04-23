@@ -1,45 +1,45 @@
 {
-    "shi": 1.57568,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade War Tensions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints in Strait of Malacca"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "High Sovereign Debt Levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Pro-Business Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption Initiatives"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs and Startup Ecosystems"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC INSTABILITY ON THE RISE.",
-    "last_updated": "2026-04-23 09:10:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN 5% IN Q2, ECONOMIC UNCERTAINTY ON THE RISE. OIL PRICES SURGE AS STRAIT OF HORMUZ TENSIONS ESCALATE. UK SOVEREIGN DEBT EXCEEDS 90% OF GDP, SPARKING CONCERNS OF CREDIT RATING DOWNGRADE.",
+    "last_updated": "2026-04-23 10:47:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.91,
-        "T": 0.85,
-        "B": 0.75,
-        "C": 0.82
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
