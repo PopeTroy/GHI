@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 62.15,
+    "shi": 1.64792,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War Escalation"
+            "deviation": "High Debt to GDP Ratio"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "loc": "Mumbai, India",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation Crisis"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub Establishment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Sector Reform"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Adoption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, PROMPTING EMERGENCY MEETINGS AMONG WORLD LEADERS. OIL PRICES SURGE AS MIDDLE EAST CONFLICTS INTENSIFY.",
-    "last_updated": "2026-04-24 14:23:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, ECONOMIC INSTABILITY ON THE RISE, TRADE WARS ESCALATE",
+    "last_updated": "2026-04-24 15:44:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.82
     }
 }
