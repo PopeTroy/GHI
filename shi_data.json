@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.13498,
+    "health_percent": 71.2,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade War"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Debt Crisis"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Energy Shortage"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Reform"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS. ECONOMISTS PREDICT SIGNIFICANT GROWTH IN THE ASEAN REGION.",
-    "last_updated": "2026-04-24 22:49:41",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS ECONOMIES STRUGGLE TO RECOVER FROM RECENT SHOCKS. CITIES WITH HIGH SHI NODES SHOW PROMISING SIGNS OF GROWTH AND STABILITY.",
+    "last_updated": "2026-04-24 23:28:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "T": 1.02,
+        "B": 1.15,
+        "C": 0.88
     }
 }
