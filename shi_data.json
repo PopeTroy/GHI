@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 0.77048,
+    "health_percent": 72.1,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Tokyo, Japan",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
+            "loc": "London, UK",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
-    "last_updated": "2026-04-24 17:37:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES WITH STRONG POLICY REFORMS AND INNOVATION PROTOCOLS EXPERIENCE ECONOMIC GROWTH.",
+    "last_updated": "2026-04-24 18:27:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.2,
+        "C": 0.95
     }
 }
