@@ -1,45 +1,45 @@
 {
-    "shi": 0.90738,
-    "health_percent": 67.25,
+    "shi": 2.70259,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:22",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade Tariffs"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High Public Debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Free Trade Agreement"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Policy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, EU ANNOUNCES NEW TRADE AGREEMENTS TO BOOST ECONOMIC GROWTH.",
-    "last_updated": "2026-04-24 21:59:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS. ECONOMISTS PREDICT SIGNIFICANT GROWTH IN THE ASEAN REGION.",
+    "last_updated": "2026-04-24 22:49:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.88
+        "B": 0.65,
+        "C": 0.5
     }
 }
