@@ -1,45 +1,45 @@
 {
-    "shi": 2.74215,
-    "health_percent": 74.21,
+    "shi": 1.68684,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Suez, Egypt",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Inefficient policy reforms and innovation"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms and sustainable energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified economy and low debt"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMIC STABILITY IS UNDER THREAT, WITH POTENTIAL FOR COLLAPSE IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-04-24 09:21:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING AS TRADE TENSIONS RISE, US FEDERAL RESERVE ANNOUNCES INTEREST RATE HIKE, AND EU IMPLEMENTS NEW SUSTAINABLE ENERGY POLICIES",
+    "last_updated": "2026-04-24 10:48:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.98,
-        "B": 0.67,
-        "C": 0.79
+        "F": 0.92,
+        "T": 1.11,
+        "B": 0.78,
+        "C": 0.95
     }
 }
