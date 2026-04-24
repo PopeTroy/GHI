@@ -1,45 +1,45 @@
 {
-    "shi": 1.68684,
-    "health_percent": 82.15,
+    "shi": 1.00229,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Suez, Egypt",
-            "deviation": "Energy chokepoints"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Over-reliance on imports and lack of innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and stable financial sector"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING AS TRADE TENSIONS RISE, US FEDERAL RESERVE ANNOUNCES INTEREST RATE HIKE, AND EU IMPLEMENTS NEW SUSTAINABLE ENERGY POLICIES",
-    "last_updated": "2026-04-24 10:48:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE SHOWING SIGNS OF STRAIN, WITH KEY TRADE ROUTES AND ENERGY SUPPLIES UNDER THREAT. CITIES WITH HIGH SHI SCORES ARE IMPLEMENTING REFORMS TO MITIGATE RISKS, WHILE THOSE WITH BOTTLENECKS ARE STRUGGLING TO ADAPT.",
+    "last_updated": "2026-04-24 11:47:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.95
+        "T": 0.75,
+        "B": 1.21,
+        "C": 0.68
     }
 }
