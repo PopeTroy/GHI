@@ -1,20 +1,20 @@
 {
-    "shi": 0.77048,
-    "health_percent": 72.1,
+    "shi": 0.69967,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
@@ -24,22 +24,22 @@
             "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES WITH STRONG POLICY REFORMS AND INNOVATION PROTOCOLS EXPERIENCE ECONOMIC GROWTH.",
-    "last_updated": "2026-04-24 18:27:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY SUPPLY CHAIN DISRUPTIONS, EXPERTS WARN OF POTENTIAL COLLAPSE IN 48 HOURS.",
+    "last_updated": "2026-04-24 19:30:03",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.99
     }
 }
