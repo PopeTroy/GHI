@@ -1,45 +1,45 @@
 {
-    "shi": 0.69967,
-    "health_percent": 74.23,
+    "shi": 1.11344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption policy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY SUPPLY CHAIN DISRUPTIONS, EXPERTS WARN OF POTENTIAL COLLAPSE IN 48 HOURS.",
-    "last_updated": "2026-04-24 19:30:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLATILITY INCREASES BY 2%, MAJOR ECONOMIES REACT WITH MONETARY POLICY CHANGES.",
+    "last_updated": "2026-04-24 20:09:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.99
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
