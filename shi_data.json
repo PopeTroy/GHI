@@ -1,45 +1,45 @@
 {
-    "shi": 1.00229,
-    "health_percent": 67.32,
+    "shi": 1.26397,
+    "health_percent": 78.52,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barrier implementation"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy supply shortage"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Over-reliance on imports and lack of innovation"
+            "loc": "Moscow, Russia",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and anti-corruption measures"
+            "protocol": "Innovation hub establishment"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and stable financial sector"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption reform"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and strong governance"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reform for economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE SHOWING SIGNS OF STRAIN, WITH KEY TRADE ROUTES AND ENERGY SUPPLIES UNDER THREAT. CITIES WITH HIGH SHI SCORES ARE IMPLEMENTING REFORMS TO MITIGATE RISKS, WHILE THOSE WITH BOTTLENECKS ARE STRUGGLING TO ADAPT.",
-    "last_updated": "2026-04-24 11:47:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY TEETERS ON THE BRINK AS SUPPLY CHAIN DISRUPTIONS SPREAD, PROMPTING EMERGENCY MEETINGS AMONG WORLD LEADERS",
+    "last_updated": "2026-04-24 12:47:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.92,
-        "T": 0.75,
-        "B": 1.21,
-        "C": 0.68
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.98
     }
 }
