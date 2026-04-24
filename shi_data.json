@@ -1,45 +1,45 @@
 {
-    "shi": 2.12723,
-    "health_percent": 78.23,
+    "shi": 34.71709,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints and Corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade Barriers"
+            "loc": "Mumbai, India",
+            "deviation": "High Inflation and Infrastructure Bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and Anti-Corruption Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policies"
+            "protocol": "Policy Reforms and Fiscal Discipline"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Investment in Human Capital and Infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS URGED TO TAKE ACTION TO PREVENT COLLAPSE.",
-    "last_updated": "2026-04-24 03:26:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. SINGAPORE AND SWITZERLAND SHOW RESILIENCE. USA AND CHINA EXPERIENCE SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-24 05:54:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.72,
-        "T": 0.91,
-        "B": 0.65,
-        "C": 0.58
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.23,
+        "C": 0.11
     }
 }
