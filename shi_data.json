@@ -1,44 +1,44 @@
 {
-    "shi": 34.71709,
-    "health_percent": 67.23,
+    "shi": 29.82109,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints and Corruption"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High Inflation and Infrastructure Bottlenecks"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and Anti-Corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms and Fiscal Discipline"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Investment in Human Capital and Infrastructure"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. SINGAPORE AND SWITZERLAND SHOW RESILIENCE. USA AND CHINA EXPERIENCE SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-24 05:54:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC STABILITY AT RISK, MONITOR SITUATION CLOSELY",
+    "last_updated": "2026-04-24 07:52:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "F": 0.67,
+        "T": 0.92,
         "B": 0.23,
         "C": 0.11
     }
