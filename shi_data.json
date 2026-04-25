@@ -1,45 +1,45 @@
 {
-    "shi": 1.05589,
-    "health_percent": 74.23,
+    "shi": 1.05203,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers causing 15% increase in import costs"
+            "loc": "Beijing, China",
+            "deviation": "high debt"
         },
         {
-            "loc": "Shanghai, China",
-            "deviation": "Energy chokepoints leading to a 20% rise in fuel prices"
+            "loc": "Moscow, Russia",
+            "deviation": "energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt levels resulting in a 10% decline in consumer spending"
+            "loc": "Mumbai, India",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation in fintech, increasing transaction efficiency by 25%"
+            "protocol": "policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption reforms leading to a 15% reduction in bureaucratic costs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy reforms promoting investment in renewable energy, reducing carbon footprint by 12%"
+            "loc": "San Francisco, USA",
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SUGGEST A POTENTIAL DOWNTURN IN GLOBAL MARKETS, WITH KEY CITIES EXPERIENCING SUPPLY CHAIN DISRUPTIONS AND RISING DEBT LEVELS. MEANWHILE, INNOVATIVE HUBS ARE DRIVING GROWTH THROUGH FINTECH, ANTI-CORRUPTION REFORMS, AND RENEWABLE ENERGY INVESTMENTS.",
-    "last_updated": "2026-04-25 16:34:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT FLUCTUATIONS AMIDST CONCERNS OVER SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-04-25 17:21:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.02,
-        "B": 1.11,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
