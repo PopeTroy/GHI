@@ -1,45 +1,45 @@
 {
-    "shi": 2.8152,
+    "shi": 1.09301,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt-to-GDP Ratio"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint Vulnerability"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Paris, France",
-            "deviation": "Trade Barrier Implementation"
+            "loc": "New York City, USA",
+            "deviation": "High debt and trade tensions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub Establishment"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policy Reform"
+            "protocol": "Anti-corruption and transparency"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Policy Implementation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE INCREASED VOLATILITY, ECONOMIC INSTABILITY ON THE RISE, POLICYMAKERS SCRAMBLE TO IMPLEMENT CORRECTIVE MEASURES.",
-    "last_updated": "2026-04-25 09:59:40",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL COLLAPSE IN KEY TRADE HUBS.",
+    "last_updated": "2026-04-25 10:54:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.48
+        "T": 1.17,
+        "B": 1.23,
+        "C": 0.98
     }
 }
