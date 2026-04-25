@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
+    "shi": 0.74964,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "96:02:14",
     "bottlenecks": [
         {
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade Disruption"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Policy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Financial Stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS, AND REPORTS OF INCREASING ECONOMIC INSTABILITY IN KEY REGIONS.",
-    "last_updated": "2026-04-25 05:29:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, EXPERTS PREDICT ECONOMIC DOWNTURN IN 6 MONTHS",
+    "last_updated": "2026-04-25 06:52:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "T": 0.76,
+        "B": 1.23,
+        "C": 0.95
     }
 }
