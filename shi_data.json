@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 62.15,
+    "shi": 1.11344,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high debt"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "energy chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "trade barriers"
+            "deviation": "Energy chokepoints and corruption"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure limitations and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "protocol": "Anti-corruption and transparency"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable practices and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE 3% DROP IN TRADE VOLUMES, ECONOMISTS PREDICT FURTHER DECLINE",
-    "last_updated": "2026-04-25 14:26:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, INVESTORS DIVERSIFYING PORTFOLIOS, AND GOVERNMENTS SCRAMBLING TO IMPLEMENT CRISIS MANAGEMENT PROTOCOLS.",
+    "last_updated": "2026-04-25 15:07:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
