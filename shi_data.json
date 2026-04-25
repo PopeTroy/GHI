@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
+    "shi": 7.70476,
+    "health_percent": 62.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high debt"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade barriers affecting imports"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "trade barriers"
+            "loc": "London, UK",
+            "deviation": "Energy shortage due to reliance on non-renewable sources"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "policy reforms"
+            "protocol": "Innovative fintech policies"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Strong anti-corruption laws"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
+            "protocol": "Investment in renewable energy sources"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT FLUCTUATIONS AMIDST CONCERNS OVER SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-04-25 17:21:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY DETECTED IN APAC REGION, CURRENCY FLUCTUATIONS EXPECTED IN EU.",
+    "last_updated": "2026-04-25 17:59:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.12,
+        "C": 0.95
     }
 }
