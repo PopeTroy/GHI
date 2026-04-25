@@ -1,45 +1,45 @@
 {
-    "shi": 7.70476,
-    "health_percent": 62.11,
-    "location": "NEW YORK, USA",
+    "shi": 2.26027,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "56:32:19",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade barriers affecting imports"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy shortage due to reliance on non-renewable sources"
+            "deviation": "High debt and inefficient policies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech policies"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Strong anti-corruption laws"
+            "protocol": "Anti-corruption reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Investment in renewable energy sources"
+            "protocol": "Policy reforms and economic diversification"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and social security"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY DETECTED IN APAC REGION, CURRENCY FLUCTUATIONS EXPECTED IN EU.",
-    "last_updated": "2026-04-25 17:59:43",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISES, KEY CITIES FACE UNPRECEDENTED CHALLENGES. MARKETS FLUCTUATE WILDLY AS TRADE TENSIONS ESCALATE.",
+    "last_updated": "2026-04-25 19:06:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.12,
-        "C": 0.95
+        "B": 0.67,
+        "C": 0.58
     }
 }
