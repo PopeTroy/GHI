@@ -1,21 +1,21 @@
 {
     "shi": 2.22196,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -25,15 +25,15 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DECLINE DUE TO RISING TRADE TENSIONS, WHILE INNOVATION HUBS SEE SIGNIFICANT GROWTH IN STARTUPS AND INVESTMENTS.",
-    "last_updated": "2026-04-25 03:29:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS, AND REPORTS OF INCREASING ECONOMIC INSTABILITY IN KEY REGIONS.",
+    "last_updated": "2026-04-25 05:29:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
