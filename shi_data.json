@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.5,
+    "shi": 0.67825,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS ARE EXPERIENCING VOLATILITY, WITH TRADE TENSIONS ON THE RISE. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
-    "last_updated": "2026-04-25 20:25:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS IN TRADE AND ENERGY, WHILE INNOVATION AND POLICY REFORMS OFFER GLIMMERS OF HOPE IN SELECT REGIONS.",
+    "last_updated": "2026-04-25 21:03:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 0.76,
+        "B": 1.23,
+        "C": 1.05
     }
 }
