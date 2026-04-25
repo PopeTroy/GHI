@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 57.32,
+    "shi": 1.64792,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | CRITICAL INFRASTRUCTURE FAILURE IMMINENT IN MAJOR METROPOLITAN AREAS. GLOBAL ECONOMIC STABILITY HANGS IN THE BALANCE.",
-    "last_updated": "2026-04-25 22:20:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS, WHILE INNOVATIVE HUBS DRIVE GROWTH.",
+    "last_updated": "2026-04-25 23:00:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.69
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
