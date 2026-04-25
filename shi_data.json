@@ -1,45 +1,45 @@
 {
-    "shi": 1.03696,
-    "health_percent": 67.45,
+    "shi": 1.03803,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "45:21:12",
+    "collapse_timer": "45:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt to GDP Ratio"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade Barriers and Tariffs"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints and Dependence"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and R&D Investments"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption and Transparency Reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms and Diversification of Economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-04-25 07:58:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, WHILE INNOVATION HUBS SEE SIGNIFICANT GROWTH IN ENTREPRENEURSHIP AND INVESTMENT.",
+    "last_updated": "2026-04-25 09:02:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.92,
-        "F": 1.11,
+        "P": 0.87,
+        "F": 0.92,
         "T": 0.85,
-        "B": 1.23,
-        "C": 0.98
+        "B": 1.21,
+        "C": 0.78
     }
 }
