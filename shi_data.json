@@ -1,21 +1,21 @@
 {
-    "shi": 0.84052,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "ECONOMIC DOWNTURN",
-    "collapse_timer": "36:00:00",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:21:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "deviation": "High debt ratio"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "deviation": "Energy import dependencies"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade barriers with EU"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Policy reforms for entrepreneur growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC DOWNTURN | GLOBAL MARKET VOLATILITY INCREASES, SINGAPORE INTRODUCES NEW FINTECH REGULATIONS, AND TOKYO EXPERIENCES SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-25 12:05:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY RATINGS RELEASED, NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION.",
+    "last_updated": "2026-04-25 13:37:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
