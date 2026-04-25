@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
+    "shi": 1.59873,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:21:49",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt ratio"
+            "deviation": "high debt"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy import dependencies"
+            "deviation": "energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers with EU"
+            "loc": "Moscow, Russia",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Policy reforms for entrepreneur growth"
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY RATINGS RELEASED, NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION.",
-    "last_updated": "2026-04-25 13:37:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE 3% DROP IN TRADE VOLUMES, ECONOMISTS PREDICT FURTHER DECLINE",
+    "last_updated": "2026-04-25 14:26:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.82
     }
 }
