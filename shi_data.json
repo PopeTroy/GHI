@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "deviation": "High debt"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt to GDP ratio"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export restrictions"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Corruption impacting trade efficiency"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovative trade agreements"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Stringent anti-corruption laws"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Anti-corruption"
+            "loc": "Toronto, Canada",
+            "protocol": "Investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. CITIES WITH STRONG INNOVATION AND POLICY REFORMS ARE SHOWING RESILIENCE.",
-    "last_updated": "2026-04-26 21:33:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-04-26 22:06:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.67
     }
 }
