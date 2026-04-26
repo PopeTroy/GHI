@@ -1,45 +1,45 @@
 {
-    "shi": 1.03696,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 62.1,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tehran, Iran",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Innovation incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy reforms for growth"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-26 10:05:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES, GOVERNMENTS SCRAMBLE TO RESPOND.",
+    "last_updated": "2026-04-26 11:00:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.23,
-        "C": 0.98
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
