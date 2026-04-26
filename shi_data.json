@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 3.12133,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "59:23:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "New York, USA",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
+        {
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
+        },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS SINGAPORE'S PORT FACES DISRUPTIONS DUE TO SUPPLY CHAIN BREAKS, WHILE ZURICH, TOKYO, AND COPENHAGEN EXHIBIT STABLE GROWTH WITH EFFECTIVE PROTOCOLS IN PLACE.",
-    "last_updated": "2026-04-26 16:03:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, COMMODITY PRICES STABILIZE, AND INVESTOR CONFIDENCE GROWS.",
+    "last_updated": "2026-04-26 16:58:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.67,
+        "C": 0.42
     }
 }
