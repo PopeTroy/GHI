@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "59:23:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tariffs"
+            "deviation": "High debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Import Dependence"
+            "loc": "New York, USA",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High National Debt"
+            "loc": "Mumbai, India",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fintech Development"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Infrastructure"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MULTIPLE NATIONS EXPERIENCING TRADE DEFICITS AND INCREASING DEBT BURDENS.",
-    "last_updated": "2026-04-26 15:24:33",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS SINGAPORE'S PORT FACES DISRUPTIONS DUE TO SUPPLY CHAIN BREAKS, WHILE ZURICH, TOKYO, AND COPENHAGEN EXHIBIT STABLE GROWTH WITH EFFECTIVE PROTOCOLS IN PLACE.",
+    "last_updated": "2026-04-26 16:03:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
