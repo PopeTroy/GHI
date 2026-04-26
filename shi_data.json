@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
+    "shi": 1.03493,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:45",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Houston, USA",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Chicago, USA",
-            "deviation": "Rising debt and decreased economic activity"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and technological advancements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Pro-business environment and strategic investments"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS EMERGING MARKETS, WHILE TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS. REGIONAL INSTABILITY AND CONFLICT POSE SIGNIFICANT RISKS TO GLOBAL SUPPLY CHAINS.",
-    "last_updated": "2026-04-26 19:30:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS REPORTED, OIL PRICES SURGE, AND KEY ECONOMIC INDICATORS POINT TO INSTABILITY IN MAJOR MARKETS",
+    "last_updated": "2026-04-26 20:05:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.23,
+        "C": 0.69
     }
 }
