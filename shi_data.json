@@ -1,45 +1,45 @@
 {
-    "shi": 2.41303,
-    "health_percent": 74.23,
+    "shi": 1.38632,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:01:20",
+    "collapse_timer": "54:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt levels leading to reduced economic flexibility"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Paris, France",
+            "deviation": "Energy chokepoints due to over-reliance on imported fuels"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers hindering international trade and investment"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovative financial regulations and trade agreements"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption policies and stable governance"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Strong policy reforms supporting entrepreneurship and growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY UNSTABLE, MULTIPLE BOTTLENECK NODES DETECTED. HIGH SHI NODES SHOWING PROMISING GROWTH IMPROVEMENTS.",
-    "last_updated": "2026-04-26 01:15:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, EXPERTS WARNING OF POTENTIAL COLLAPSE IN SUPPLY CHAINS, CITIES AROUND THE WORLD TAKING MEASURES TO MITIGATE RISKS AND FOSTER GROWTH",
+    "last_updated": "2026-04-26 04:33:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.56
+        "P": 0.87,
+        "F": 1.23,
+        "T": 0.91,
+        "B": 1.19,
+        "C": 0.85
     }
 }
