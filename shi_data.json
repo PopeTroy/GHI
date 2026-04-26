@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.42,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Venezuela, Caracas",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Egypt, Suez",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Argentina, Buenos Aires",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Hong Kong, China",
-            "protocol": "Anti-corruption"
+            "loc": "Denmark, Copenhagen",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Canada, Toronto",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS ECONOMIC INDICATORS REVEAL MIXED SIGNALS, EXPERTS WARN OF POTENTIAL COLLAPSE IN THE FACE OF GROWING BOTTLENECKS.",
-    "last_updated": "2026-04-26 13:49:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISING, POTENTIAL COLLAPSE IN 48 HOURS. KEY CITIES AND COUNTRIES AT RISK.",
+    "last_updated": "2026-04-26 14:33:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
