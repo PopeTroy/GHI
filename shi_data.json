@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 72.35,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "shi": 1.08344,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:02:45",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High debt and energy shortages"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "China, Shanghai",
-            "deviation": "Trade barriers and supply chain disruptions"
+            "loc": "Houston, USA",
+            "deviation": "Energy chokepoints and infrastructure issues"
         },
         {
-            "loc": "Greece, Athens",
-            "deviation": "Fiscal austerity and high unemployment"
+            "loc": "Chicago, USA",
+            "deviation": "Rising debt and decreased economic activity"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative policies and corruption-free environment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Canada, Toronto",
-            "protocol": "Diversified economy and strong regulatory framework"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation and technological advancements"
         },
         {
-            "loc": "Sweden, Stockholm",
-            "protocol": "Investment in renewable energy and social cohesion"
+            "loc": "Dubai, UAE",
+            "protocol": "Pro-business environment and strategic investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS IMPLEMENTING FISCAL REFORMS TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-04-26 18:29:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS EMERGING MARKETS, WHILE TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS. REGIONAL INSTABILITY AND CONFLICT POSE SIGNIFICANT RISKS TO GLOBAL SUPPLY CHAINS.",
+    "last_updated": "2026-04-26 19:30:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "B": 1.21,
+        "C": 0.67
     }
 }
