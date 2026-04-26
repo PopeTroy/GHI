@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 62.1,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High trade barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply shortage"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "High debt ratio"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hubs"
+            "protocol": "Strong anti-corruption policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Sustainable energy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES, GOVERNMENTS SCRAMBLE TO RESPOND.",
-    "last_updated": "2026-04-26 11:00:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE DOWNTURN, GOVERNMENTS IMPLEMENT STIMULUS PACKAGES TO MITIGATE EFFECTS.",
+    "last_updated": "2026-04-26 11:47:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
