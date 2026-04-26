@@ -1,21 +1,21 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High Debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade Tariffs"
         },
         {
-            "loc": "Egypt, Suez",
-            "deviation": "Energy Chokepoint"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Import Dependence"
         },
         {
-            "loc": "Argentina, Buenos Aires",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
@@ -24,22 +24,22 @@
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Denmark, Copenhagen",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Fintech Development"
         },
         {
-            "loc": "Canada, Toronto",
-            "protocol": "Policy Reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISING, POTENTIAL COLLAPSE IN 48 HOURS. KEY CITIES AND COUNTRIES AT RISK.",
-    "last_updated": "2026-04-26 14:33:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MULTIPLE NATIONS EXPERIENCING TRADE DEFICITS AND INCREASING DEBT BURDENS.",
+    "last_updated": "2026-04-26 15:24:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
