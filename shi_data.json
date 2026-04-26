@@ -1,45 +1,45 @@
 {
-    "shi": 1.38632,
-    "health_percent": 72.15,
+    "shi": 1.08344,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "54:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels leading to reduced economic flexibility"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Paris, France",
-            "deviation": "Energy chokepoints due to over-reliance on imported fuels"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers hindering international trade and investment"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative financial regulations and trade agreements"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption policies and stable governance"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Strong policy reforms supporting entrepreneurship and growth"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, EXPERTS WARNING OF POTENTIAL COLLAPSE IN SUPPLY CHAINS, CITIES AROUND THE WORLD TAKING MEASURES TO MITIGATE RISKS AND FOSTER GROWTH",
-    "last_updated": "2026-04-26 04:33:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, POTENTIAL FOR ECONOMIC DOWNTURN IN EUROPE, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-04-26 06:26:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.91,
-        "B": 1.19,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
