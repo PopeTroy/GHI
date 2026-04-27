@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 67.25,
-    "location": "NEW YORK, USA",
+    "shi": 7.38394,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tariffs"
+            "deviation": "High energy consumption"
         },
         {
-            "loc": "Paris, France",
-            "deviation": "Energy Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers with EU"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High National Debt"
+            "loc": "Tehran, Iran",
+            "deviation": "Sanctions impacting economy"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation hub for fintech"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "protocol": "Strong institutional framework"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy with low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-04-27 04:41:47",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING DOWNTURN, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-04-27 07:22:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "P": 0.82,
+        "F": 0.67,
+        "T": 0.91,
+        "B": 0.25,
+        "C": 0.39
     }
 }
