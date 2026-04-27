@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
-    "health_percent": 72.35,
-    "location": "NEW YORK, USA",
+    "shi": 2.49721,
+    "health_percent": 74.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Riyadh, Saudi Arabia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt Levels"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Zurich, Switzerland",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS, TRADE TENSIONS, AND RISING DEBT LEVELS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
-    "last_updated": "2026-04-27 16:56:00",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN 3.2% AMID RISING TENSIONS | OIL PRICES HIT 6-MONTH HIGH | ASIAN MARKETS SLIDE ON ECONOMIC CONCERNS",
+    "last_updated": "2026-04-27 18:03:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "P": 0.82,
+        "F": 0.95,
+        "T": 0.88,
         "B": 0.67,
-        "C": 0.56
+        "C": 0.59
     }
 }
