@@ -1,45 +1,45 @@
 {
-    "shi": 1.40554,
-    "health_percent": 74.32,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive dependence on imports"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy sector inefficiencies"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt levels"
+            "loc": "London, UK",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Trade agreements and free market policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade Agreement"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Fiscal discipline and monetary stability"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovative tech industry and favorable business climate"
+            "loc": "Sydney, Australia",
+            "protocol": "Economic Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF CORRECTIVE MEASURES ARE NOT TAKEN.",
-    "last_updated": "2026-04-27 12:59:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY ON THE RISE, GLOBAL MARKETS FLUCTUATING WILDLY.",
+    "last_updated": "2026-04-27 15:11:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.95,
-        "B": 1.11,
-        "C": 0.87
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
