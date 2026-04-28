@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 1.18473,
     "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Over-reliance on exports"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy shortages and inadequate infrastructure"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Uncertain policy reforms and high debt"
+            "loc": "Mumbai, India",
+            "deviation": "High debt and inflation rates"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption"
+            "protocol": "Robust anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and financial stability"
+            "protocol": "Strong financial regulations and innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable growth and low debt"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy policies and green infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING, POTENTIAL SUPPLY CHAIN DISRUPTIONS IN ASIA AND EUROPE. CITIES WITH HIGH SHI PROTOCOLS SHOWING RESILIENCE.",
-    "last_updated": "2026-04-28 17:16:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SOAR, AND ECONOMIC UNCERTAINTY LOOMS LARGE.",
+    "last_updated": "2026-04-28 18:55:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "T": 1.01,
+        "B": 1.2,
+        "C": 0.8
     }
 }
