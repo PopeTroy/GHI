@@ -1,30 +1,30 @@
 {
-    "shi": 3.07008,
-    "health_percent": 67.23,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "shi": 1.59873,
+    "health_percent": 63.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Stockholm, Sweden",
             "protocol": "Policy reforms"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INTERNATIONAL TRADE AGREEMENTS UNDER NEGOTIATION",
-    "last_updated": "2026-04-28 07:18:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE, AND ENERGY PRICES SKYROCKET.",
+    "last_updated": "2026-04-28 09:36:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.82
     }
 }
