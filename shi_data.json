@@ -1,9 +1,9 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
+    "shi": 3.07008,
+    "health_percent": 67.23,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,32 +14,32 @@
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
+            "loc": "Lagos, Nigeria",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS, ECONOMIC INSTABILITY IN KEY REGIONS, AND RISING DEBT LEVELS.",
-    "last_updated": "2026-04-28 04:45:37",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, INTERNATIONAL TRADE AGREEMENTS UNDER NEGOTIATION",
+    "last_updated": "2026-04-28 07:18:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.82
+        "C": 0.42
     }
 }
