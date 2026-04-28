@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 6.85378,
+    "health_percent": 73.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High Energy Costs"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Tariffs"
+        },
+        {
+            "loc": "Los Angeles, USA",
+            "deviation": "Congested Ports"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Pro-Business Reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO RECENT TRADE AGREEMENTS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
-    "last_updated": "2026-04-28 20:12:19",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES WITH STRONG PROTOCOLS SHOW SIGNS OF RESILIENCE AND GROWTH.",
+    "last_updated": "2026-04-28 21:19:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.83,
+        "F": 0.69,
+        "T": 0.92,
+        "B": 0.41,
+        "C": 0.27
     }
 }
