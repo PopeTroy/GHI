@@ -1,45 +1,45 @@
 {
-    "shi": 38.02348,
-    "health_percent": 67.35,
-    "location": "NEW YORK, USA",
+    "shi": 2.24328,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "96:42:11",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High Debt Levels"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High Debt to GDP Ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade Barriers and Sanctions"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints and Dependence on Fossil Fuels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hubs"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub and Free Trade Agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Financial Stability and Anti-Corruption Measures"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy and Green Policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. KEY CITIES LIKE NEW YORK, LONDON, AND TOKYO ARE EXPERIENCING SIGNIFICANT DEVIATIONS FROM STABILITY.",
-    "last_updated": "2026-04-27 23:30:54",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ON THE RISE. ECONOMIC STABILITY IN JEOPARDY. HIGH DEBT TO GDP RATIOS POSE SIGNIFICANT RISK TO FINANCIAL MARKETS.",
+    "last_updated": "2026-04-28 01:16:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.11
+        "T": 1.01,
+        "B": 0.78,
+        "C": 0.65
     }
 }
