@@ -1,45 +1,45 @@
 {
-    "shi": 1.43604,
-    "health_percent": 78.23,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 68.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "High debt and political instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Anti-corruption and innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET WATCH: STOCKS PLUMMET AS SUPPLY CHAIN DISRUPTIONS WORSEN. ECONOMISTS PREDICT A 10% DECLINE IN GLOBAL TRADE.",
-    "last_updated": "2026-04-28 11:24:31",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF STABILIZATION IN KEY REGIONS, BUT WARNING SIGNS OF A POTENTIAL SUPPLY CHAIN BREAK ARE EMERGING.",
+    "last_updated": "2026-04-28 13:09:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 1.19,
-        "C": 0.91
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
