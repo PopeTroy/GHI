@@ -1,45 +1,45 @@
 {
-    "shi": 6.85378,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.56178,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Costs"
+            "deviation": "Excessive Trade Barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Tariffs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Embargoes"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Congested Ports"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging Population and Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Reforms"
+            "protocol": "Streamlined Tax Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation Hub Incentives"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Dubai, UAE",
+            "protocol": "Deregulation and Trade Agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES WITH STRONG PROTOCOLS SHOW SIGNS OF RESILIENCE AND GROWTH.",
-    "last_updated": "2026-04-28 21:19:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN, TRADE TALKS BETWEEN MAJOR ECONOMIES STALLED, INNOVATION HUBS SEE INCREASED INVESTMENT.",
+    "last_updated": "2026-04-28 22:15:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.69,
-        "T": 0.92,
-        "B": 0.41,
-        "C": 0.27
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.91,
+        "B": 1.11,
+        "C": 0.75
     }
 }
