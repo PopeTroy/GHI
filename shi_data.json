@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 68.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.44654,
+    "health_percent": 82.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "30:12:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt and political instability"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and financial stability"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Innovation and social cohesion"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF STABILIZATION IN KEY REGIONS, BUT WARNING SIGNS OF A POTENTIAL SUPPLY CHAIN BREAK ARE EMERGING.",
-    "last_updated": "2026-04-28 13:09:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS, SUPPLY CHAIN DISRUPTIONS LOOM",
+    "last_updated": "2026-04-28 15:37:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.87,
+        "F": 1.23,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.92
     }
 }
