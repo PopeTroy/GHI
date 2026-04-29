@@ -1,45 +1,45 @@
 {
-    "shi": 1.2903,
-    "health_percent": 72.5,
+    "shi": 2.23757,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt levels"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers and corruption"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and sustainable energy"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and strong institutions"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT: TRADE TENSIONS RISE BETWEEN MAJOR NATIONS, OIL PRICES SKYROCKET, AND SUPPLY CHAINS FACE DISRUPTIONS.",
-    "last_updated": "2026-04-29 08:40:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, COMMODITY PRICES RISING, AND TRADE TENSIONS ESCALATING.",
+    "last_updated": "2026-04-29 10:31:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.8
+        "F": 1.23,
+        "T": 0.67,
+        "B": 0.49,
+        "C": 0.92
     }
 }
