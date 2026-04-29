@@ -1,45 +1,45 @@
 {
-    "shi": 2.57051,
-    "health_percent": 74.25,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "shi": 3.16713,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "loc": "Shanghai, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "Vancouver, Canada",
+            "deviation": "Energy chokepoints and regulatory issues"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "London, UK",
+            "deviation": "Inflation and monetary policy risks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Hong Kong, China",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption and transparent governance"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | BREAKING: GLOBAL TRADE SLOWS DUE TO RISING TENSIONS, ECONOMISTS WARN OF IMPENDING RECESSION.",
-    "last_updated": "2026-04-29 19:04:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STABILITY, BUT REGIONAL HOTSPOTS POSE SIGNIFICANT RISKS TO SUPPLY CHAINS AND FINANCIAL MARKETS.",
+    "last_updated": "2026-04-29 20:18:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.51,
-        "C": 0.67
+        "F": 1.21,
+        "T": 0.97,
+        "B": 0.56,
+        "C": 0.81
     }
 }
