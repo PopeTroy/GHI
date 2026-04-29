@@ -1,45 +1,45 @@
 {
-    "shi": 3.16713,
-    "health_percent": 73.21,
+    "shi": 1.59873,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Energy chokepoints and regulatory issues"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Inflation and monetary policy risks"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparent governance"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green infrastructure"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STABILITY, BUT REGIONAL HOTSPOTS POSE SIGNIFICANT RISKS TO SUPPLY CHAINS AND FINANCIAL MARKETS.",
-    "last_updated": "2026-04-29 20:18:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURBULENCE DUE TO TRADE DISPUTES AND ENERGY SHORTAGES. SINGAPORE'S POLICY REFORMS HAVE IMPROVED ITS ECONOMIC STABILITY, WHILE ZURICH'S INNOVATIVE APPROACH TO FINANCE HAS BOOSTED ITS GROWTH. MEANWHILE, COPENHAGEN'S ANTI-CORRUPTION EFFORTS HAVE INCREASED INVESTOR CONFIDENCE.",
+    "last_updated": "2026-04-29 22:36:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.97,
-        "B": 0.56,
-        "C": 0.81
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.82
     }
 }
