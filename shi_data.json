@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 0.84052,
+    "health_percent": 81.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barrier"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR ASIA-PACIFIC REGION. TRADE NEGOTIATIONS STALLED BETWEEN MAJOR WORLD POWERS. GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS.",
-    "last_updated": "2026-04-29 12:06:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE SHARP DECLINE, COMMODITY PRICES SKYROCKET, AND GOVERNMENTS SCRAMBLE TO IMPLEMENT STIMULUS PACKAGES.",
+    "last_updated": "2026-04-29 14:28:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.1,
+        "C": 0.95
     }
 }
