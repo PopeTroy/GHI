@@ -1,9 +1,9 @@
 {
-    "shi": 1.59873,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,32 +14,32 @@
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
+            "loc": "New York City, USA",
             "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURBULENCE DUE TO TRADE DISPUTES AND ENERGY SHORTAGES. SINGAPORE'S POLICY REFORMS HAVE IMPROVED ITS ECONOMIC STABILITY, WHILE ZURICH'S INNOVATIVE APPROACH TO FINANCE HAS BOOSTED ITS GROWTH. MEANWHILE, COPENHAGEN'S ANTI-CORRUPTION EFFORTS HAVE INCREASED INVESTOR CONFIDENCE.",
-    "last_updated": "2026-04-29 22:36:34",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX DOWN BY 2.5% IN THE LAST QUARTER, AMID RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-04-29 23:33:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.67
     }
 }
