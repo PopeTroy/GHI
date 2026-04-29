@@ -1,45 +1,45 @@
 {
-    "shi": 0.72867,
-    "health_percent": 72.11,
-    "location": "NEW YORK, USA",
+    "shi": 1.68684,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and inadequate policy reforms"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply disruptions and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Inflationary pressures and corruption concerns"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Efficient policy reforms and high innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Economic policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong anti-corruption measures and stable economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hubs and technological advancements"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Effective governance and high-quality infrastructure"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, KEY CITIES UNDER STRAIN. NEW YORK IDENTIFIED AS HIGH-IMPACT LOCATION. SUPPLY CHAIN DISRUPTIONS IMMINENT.",
-    "last_updated": "2026-04-29 00:08:06",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS FLASH WARNING SIGNS AS TRADE TENSIONS ESCALATE AND DEBT LEVELS SOAR, WHILE INNOVATION HUBS AND SUSTAINABLE INITIATIVES OFFER GLIMMERS OF HOPE FOR A MORE STABLE FUTURE.",
+    "last_updated": "2026-04-29 04:00:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.98
+        "T": 1.11,
+        "B": 0.78,
+        "C": 0.95
     }
 }
