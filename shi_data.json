@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 0.72867,
+    "health_percent": 72.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and inadequate policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Inflationary pressures and corruption concerns"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Efficient policy reforms and high innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Strong anti-corruption measures and stable economy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Effective governance and high-quality infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERT: NEW YORK, USA IDENTIFIED AS HIGH IMPACT LOCATION. 3 BOTTLENECK NODES AND 3 STABLE NODES IDENTIFIED FOR FURTHER ANALYSIS.",
-    "last_updated": "2026-04-28 23:12:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, KEY CITIES UNDER STRAIN. NEW YORK IDENTIFIED AS HIGH-IMPACT LOCATION. SUPPLY CHAIN DISRUPTIONS IMMINENT.",
+    "last_updated": "2026-04-29 00:08:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.23,
+        "C": 0.98
     }
 }
