@@ -1,45 +1,45 @@
 {
-    "shi": 2.8152,
+    "shi": 2.22196,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "45:21:02",
+    "collapse_timer": "48:23:10",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and limited policy reforms"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Anti-corruption efforts hindered by bureaucratic red tape"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Stable monetary policy and low debt"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Diversified economy and high investment in education"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-04-30 15:11:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TENSIONS RISE AS TRADE WARS ESCALATE, WHILE INNOVATION HUBS EXPERIENCE GROWTH AND STABILITY.",
+    "last_updated": "2026-04-30 16:47:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.48
+        "B": 0.67,
+        "C": 0.59
     }
 }
