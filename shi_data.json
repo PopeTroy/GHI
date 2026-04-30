@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 73.42,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "loc": "Shanghai, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "New York City, USA",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fiscal discipline and diversified economy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable development and social cohesion"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURBULENCE, WITH TRADE TENSIONS AND ENERGY PRICES ON THE RISE. CENTRAL BANKS ARE INTERVENING TO STABILIZE THE ECONOMY.",
-    "last_updated": "2026-04-30 04:46:38",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GHI LOGIC ENGINE ALERT: ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE BARRIERS. PROTOCOLS FOR GROWTH AND STABILITY UNDER REVIEW.",
+    "last_updated": "2026-04-30 07:17:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
