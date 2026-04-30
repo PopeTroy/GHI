@@ -1,45 +1,45 @@
 {
-    "shi": 2.6496,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.11344,
+    "health_percent": 73.42,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:21:12",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "Debt Crisis"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong Governance"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Fiscal discipline and diversified economy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified Trade"
+            "protocol": "Sustainable development and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, WHILE INNOVATION HUBS ARE DRIVING GROWTH AND STABILITY.",
-    "last_updated": "2026-04-30 01:19:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURBULENCE, WITH TRADE TENSIONS AND ENERGY PRICES ON THE RISE. CENTRAL BANKS ARE INTERVENING TO STABILIZE THE ECONOMY.",
+    "last_updated": "2026-04-30 04:46:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.51
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
