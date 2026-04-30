@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint and logistical issues"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and supply chain disruptions"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Geopolitical instability and refugee crisis"
+            "loc": "London, UK",
+            "deviation": "Brexit-related trade uncertainty and regulatory challenges"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs and tech entrepreneurship"
         },
         {
-            "loc": "Hong Kong, China",
-            "protocol": "Innovation hub and financial stability"
+            "loc": "Singapore",
+            "protocol": "Business-friendly policies and corruption-free environment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable governance and low debt"
+            "protocol": "Stable financial systems and economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE 2% UPTICK AS TRADE TENSIONS EASE, WHILE ECONOMISTS WARN OF POTENTIAL COLLAPSE DUE TO SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-04-30 09:30:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS PREDICT A POTENTIAL COLLAPSE IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-04-30 11:16:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
