@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade restrictions"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply chain vulnerabilities"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Over-reliance on foreign investment"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovative green energy initiatives"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Effective policy reforms for economic stability"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE. ECONOMIC STABILITY THREATENED BY SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-04-30 17:59:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS UNSTABLE: TRADE TENSIONS RISE, ENERGY PRICES SPIKE, AND DEBT CONCERNS MOUNT",
+    "last_updated": "2026-04-30 19:43:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "B": 1.21,
+        "C": 0.67
     }
 }
