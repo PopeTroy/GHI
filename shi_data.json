@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 3.21737,
+    "health_percent": 62.14,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Energy Chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers and tariffs"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption and transparency measures"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS UNSTABLE: TRADE TENSIONS RISE, ENERGY PRICES SPIKE, AND DEBT CONCERNS MOUNT",
-    "last_updated": "2026-04-30 19:43:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE IN RESPONSE TO CHANGING TRADE POLICIES. OIL PRICES RISE AS TENSIONS ESCALATE IN THE MIDDLE EAST. ECONOMIC INDICATORS POINT TO A POTENTIAL DOWNTURN IN MAJOR ECONOMIES.",
+    "last_updated": "2026-04-30 20:44:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
