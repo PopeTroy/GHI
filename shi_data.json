@@ -1,21 +1,21 @@
 {
-    "shi": 2.32982,
-    "health_percent": 73.21,
+    "shi": 0.74072,
+    "health_percent": 67.42,
     "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "36:04:21",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "High Debt Ratio"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy Dependence on Imports"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Debt-to-GDP Ratio"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Energy"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE WITH STRONG ECONOMIC FUNDAMENTALS.",
-    "last_updated": "2026-05-01 01:23:29",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE CITIES WITH STRONG PROTOCOLS SHOW RESILIENCE",
+    "last_updated": "2026-05-01 05:01:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.58
+        "B": 1.21,
+        "C": 0.98
     }
 }
