@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.25,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Limited policy reforms and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial system and low corruption"
+            "protocol": "Stable monetary policies and low debt"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Diversified economy and favorable trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES",
-    "last_updated": "2026-05-01 21:28:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMISTS PREDICT A 25% CHANCE OF RECESSION IN THE NEXT 12 MONTHS.",
+    "last_updated": "2026-05-01 22:26:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
