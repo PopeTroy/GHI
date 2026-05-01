@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
+            "loc": "New York City, USA",
+            "deviation": "High Debt Levels"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY ON THE RISE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-05-01 14:07:21",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING RAPIDLY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS TO MITIGATE RISK.",
+    "last_updated": "2026-05-01 15:13:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
