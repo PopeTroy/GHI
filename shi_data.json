@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.2,
+    "shi": 1.24545,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Debt Ceiling"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Laws"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND ENERGY SHORTAGES. NEW POLICY REFORMS AND INNOVATIONS IN KEY CITIES OFFER HOPE FOR GROWTH AND STABILITY.",
-    "last_updated": "2026-05-01 17:13:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: POTENTIAL SUPPLY CHAIN DISRUPTION IN NEW YORK, USA. BOTTLENECKS DETECTED IN BEIJING, DUBAI, AND ATHENS. STABLE NODES IDENTIFIED IN SINGAPORE, COPENHAGEN, AND SAN FRANCISCO.",
+    "last_updated": "2026-05-01 18:11:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "T": 1.05,
+        "B": 1.23,
+        "C": 0.79
     }
 }
