@@ -1,45 +1,45 @@
 {
-    "shi": 0.85168,
-    "health_percent": 62.13,
+    "shi": 0.77048,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Over-reliance on exports"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Dependence on fossil fuels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "protocol": "Streamlined customs procedures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Robust financial regulations"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS.",
-    "last_updated": "2026-05-01 11:46:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS TRADE TALKS RESUME BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-05-01 12:43:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.76,
-        "B": 1.21,
-        "C": 0.85
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
