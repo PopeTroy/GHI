@@ -1,45 +1,45 @@
 {
-    "shi": 1.24545,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 24.55362,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "New York, USA",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Shanghai, China",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Regulatory inefficiencies and high taxes"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovative fintech and trade agreements"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong institutional framework and low corruption"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Seattle, USA",
+            "protocol": "Thriving tech industry and favorable business environment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: POTENTIAL SUPPLY CHAIN DISRUPTION IN NEW YORK, USA. BOTTLENECKS DETECTED IN BEIJING, DUBAI, AND ATHENS. STABLE NODES IDENTIFIED IN SINGAPORE, COPENHAGEN, AND SAN FRANCISCO.",
-    "last_updated": "2026-05-01 18:11:30",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE AGREEMENTS ARE BEING REWRITTEN, TECH INNOVATION IS BOOMING, AND INSTITUTIONAL FRAMEWORKS ARE BEING STRENGTHENED.",
+    "last_updated": "2026-05-01 19:38:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
         "F": 0.92,
-        "T": 1.05,
-        "B": 1.23,
-        "C": 0.79
+        "T": 0.85,
+        "B": 0.21,
+        "C": 0.19
     }
 }
