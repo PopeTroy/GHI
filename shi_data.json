@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.25,
+    "shi": 2.38356,
+    "health_percent": 72.19,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Import Dependence"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW A DECLINE IN STABILITY, WITH KEY REGIONS EXPERIENCING HIGH DEBT LEVELS AND TRADE BARRIERS. INNOVATIVE HUBS AND POLICY REFORMS ARE BEING IMPLEMENTED TO STIMULATE GROWTH.",
-    "last_updated": "2026-05-02 15:05:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES WITH STRONG POLICY REFORMS AND INNOVATION HUBS SHOW SIGNS OF STABILITY AND GROWTH.",
+    "last_updated": "2026-05-02 15:57:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.55
     }
 }
