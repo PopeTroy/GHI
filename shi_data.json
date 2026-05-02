@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 73.21,
+    "shi": 1.21511,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and energy shortages"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "loc": "New Delhi, India",
+            "deviation": "Infrastructure and energy inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption and sustainable practices"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A MINOR DOWNTURN. ECONOMIC STIMULUS PACKAGES ARE BEING DISCUSSED AMONG WORLD LEADERS.",
-    "last_updated": "2026-05-02 11:55:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING RAPIDLY, EXPERTS WARNING OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND INSTABILITY IN KEY REGIONS.",
+    "last_updated": "2026-05-02 13:03:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "T": 1.01,
+        "B": 0.78,
+        "C": 1.2
     }
 }
