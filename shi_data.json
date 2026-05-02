@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.21,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Overpopulation and inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Robust policy reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption measures and stable economy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high-quality infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS.",
-    "last_updated": "2026-05-02 22:38:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WHILE REGIONAL HOTSPOTS SEE INCREASED INSTABILITY",
+    "last_updated": "2026-05-02 23:25:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
