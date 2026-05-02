@@ -1,45 +1,45 @@
 {
-    "shi": 1.67164,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 74.53,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:00:00",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High Debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Policy"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR ECONOMIC INDICATORS CLOSELY.",
-    "last_updated": "2026-05-02 03:52:24",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 74.53, ECONOMIC STABILITY WARNING: HIGH DEBT IN SOUTHERN EUROPE, TRADE TALKS BETWEEN US AND CHINA TO RESUME NEXT QUARTER.",
+    "last_updated": "2026-05-02 05:59:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.95
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
