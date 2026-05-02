@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 62.5,
+    "shi": 3.40047,
+    "health_percent": 71.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Ratios"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Import Dependence"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Restrictions"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms for Sustainability"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY INDEX: 42.1, TOP GAINERS: NORWAY, SWITZERLAND, TOP LOSERS: ARGENTINA, VENEZUELA",
-    "last_updated": "2026-05-01 23:26:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ON THE RISE, AND ENERGY DEMAND EXPECTED TO INCREASE BY 10% IN THE NEXT QUARTER.",
+    "last_updated": "2026-05-02 00:12:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.63,
+        "C": 0.41
     }
 }
