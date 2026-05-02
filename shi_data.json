@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Import Dependence"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Infrastructure constraints and regulatory hurdles"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and economic stability"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable development and trade agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS EMERGING MARKETS, WITH THE US AND EU EXPERIENCING A SLOWDOWN. TRADE TENSIONS AND GEOPOLITICAL INSTABILITY REMAIN MAJOR CONCERNS.",
-    "last_updated": "2026-05-02 14:12:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW A DECLINE IN STABILITY, WITH KEY REGIONS EXPERIENCING HIGH DEBT LEVELS AND TRADE BARRIERS. INNOVATIVE HUBS AND POLICY REFORMS ARE BEING IMPLEMENTED TO STIMULATE GROWTH.",
+    "last_updated": "2026-05-02 15:05:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
