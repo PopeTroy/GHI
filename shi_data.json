@@ -1,45 +1,45 @@
 {
-    "shi": 1.1665,
-    "health_percent": 62.11,
+    "shi": 16.32067,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint and corruption"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy Shortages"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Overpopulation and infrastructure stress"
+            "loc": "Kolkata, India",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Business-Friendly Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-Corruption Campaigns"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE AGREEMENTS UNDER NEGOTIATION, AND INNOVATION HUBS DRIVING GROWTH",
-    "last_updated": "2026-05-02 07:55:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET WATCH: STOCKS PLUMMET IN RESPONSE TO POTENTIAL TRADE WAR, OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS, TECH COMPANIES RALLY BEHIND NEW SUSTAINABLE ENERGY INITIATIVES",
+    "last_updated": "2026-05-02 09:04:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 1.25,
-        "C": 0.78
+        "F": 1.21,
+        "T": 0.67,
+        "B": 0.32,
+        "C": 0.19
     }
 }
