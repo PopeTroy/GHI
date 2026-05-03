@@ -1,45 +1,45 @@
 {
-    "shi": 1.66061,
-    "health_percent": 74.21,
+    "shi": 3.12133,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Excessive Debt"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Oil Price Volatility"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging Population"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-Friendly Policies"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption Policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green Technology"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | US FEDERAL RESERVE LOWERS INTEREST RATES, GLOBAL MARKETS RESPOND POSITIVELY",
-    "last_updated": "2026-05-03 17:05:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT A 25% CHANCE OF ECONOMIC DOWNTURN WITHIN THE NEXT QUARTER.",
+    "last_updated": "2026-05-03 17:59:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.62,
-        "T": 0.93,
-        "B": 0.75,
-        "C": 0.58
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.42
     }
 }
