@@ -1,45 +1,45 @@
 {
-    "shi": 1.0473,
-    "health_percent": 74.21,
+    "shi": 1.81843,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy shortages and high unemployment"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and civil unrest"
+            "loc": "Tehran, Iran",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative technologies and business-friendly policies"
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong governance and anti-corruption measures"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social welfare programs"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, POTENTIAL FOR ECONOMIC DOWNTURN IN 6-12 MONTHS",
-    "last_updated": "2026-05-03 09:43:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2, TRADE TALKS BETWEEN NATIONS UNDERWAY.",
+    "last_updated": "2026-05-03 10:37:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.95,
-        "T": 0.92,
-        "B": 1.23,
-        "C": 0.85
+        "P": 0.82,
+        "F": 1.21,
+        "T": 1.05,
+        "B": 0.75,
+        "C": 1.1
     }
 }
