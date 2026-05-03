@@ -1,45 +1,45 @@
 {
-    "shi": 1.81843,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy chokepoints"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Tehran, Iran",
             "deviation": "High debt"
+        },
+        {
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs"
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2, TRADE TALKS BETWEEN NATIONS UNDERWAY.",
-    "last_updated": "2026-05-03 10:37:37",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL COLLAPSE",
+    "last_updated": "2026-05-03 11:24:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 0.75,
-        "C": 1.1
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
