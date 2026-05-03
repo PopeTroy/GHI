@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 1.64792,
+    "health_percent": 67.25,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and supply chain disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms and stable financial systems"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL COLLAPSE",
-    "last_updated": "2026-05-03 11:24:23",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT POTENTIAL RECESSION IN THE NEXT QUARTER.",
+    "last_updated": "2026-05-03 12:04:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.82
     }
 }
