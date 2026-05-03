@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 74.21,
+    "shi": 1.15685,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "42:11:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Debt to GDP Ratio"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Barriers and Tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Chokepoints and Sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative Economic Policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption and Transparency"
+            "protocol": "Anti-Corruption Reforms and Transparency"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable Energy and Infrastructure Development"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy and Green Technology"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATION DUE TO RISING ENERGY COSTS AND TRADE TENSIONS. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN DISRUPTION WITHIN THE NEXT 48 HOURS.",
-    "last_updated": "2026-05-03 19:58:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY AS INVESTORS WEIGH THE IMPACT OF RECENT TRADE AGREEMENTS AND GEOPOLITICAL TENSIONS.",
+    "last_updated": "2026-05-03 20:52:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.83,
         "F": 0.92,
         "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "B": 1.28,
+        "C": 0.75
     }
 }
