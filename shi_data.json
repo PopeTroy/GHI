@@ -1,45 +1,45 @@
 {
-    "shi": 1.44937,
-    "health_percent": 78.52,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 1.0473,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "deviation": "Energy shortages and high unemployment"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and civil unrest"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovative technologies and business-friendly policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Strong governance and anti-corruption measures"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and social welfare programs"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. ECONOMISTS WARN OF IMPENDING SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-05-03 08:22:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, POTENTIAL FOR ECONOMIC DOWNTURN IN 6-12 MONTHS",
+    "last_updated": "2026-05-03 09:43:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
-        "F": 1.21,
-        "T": 0.95,
-        "B": 1.08,
-        "C": 0.92
+        "F": 0.95,
+        "T": 0.92,
+        "B": 1.23,
+        "C": 0.85
     }
 }
