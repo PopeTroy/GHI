@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 1.06582,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Shanghai, China",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and regulatory challenges"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and strong governance"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green initiatives"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AMIDST RISING TRADE TENSIONS, ENERGY PRICES FLUCTUATE DUE TO GEOPOLITICAL INSTABILITY, AND INNOVATION HUBS DRIVE ECONOMIC GROWTH",
-    "last_updated": "2026-05-03 22:09:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS, TRADE TENSIONS ESCALATING, AND DEBT CRISIS LOOMING.",
+    "last_updated": "2026-05-03 23:02:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.23,
+        "C": 0.67
     }
 }
