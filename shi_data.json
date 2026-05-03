@@ -1,45 +1,45 @@
 {
-    "shi": 1.94304,
-    "health_percent": 72.15,
+    "shi": 1.66061,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "Trade War"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Oil Price Volatility"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Aging Population"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Business-Friendly Policies"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Initiatives"
+            "protocol": "Green Technology"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE DISPUTES, WHILE NATIONS WITH STRONG INNOVATION PROTOCOLS SHOW RESILIENCE AGAINST ECONOMIC DOWNTURN.",
-    "last_updated": "2026-05-03 16:08:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | US FEDERAL RESERVE LOWERS INTEREST RATES, GLOBAL MARKETS RESPOND POSITIVELY",
+    "last_updated": "2026-05-03 17:05:51",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.88,
+        "P": 0.87,
+        "F": 0.62,
+        "T": 0.93,
         "B": 0.75,
-        "C": 0.68
+        "C": 0.58
     }
 }
