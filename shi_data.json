@@ -1,20 +1,20 @@
 {
-    "shi": 1.67164,
-    "health_percent": 72.5,
+    "shi": 1.43811,
+    "health_percent": 82.13,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt"
         }
     ],
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC GROWTH SLOWS IN EU, TRADE TALKS STALL BETWEEN US AND CHINA, NEW INNOVATION HUB OPENS IN TOKYO",
-    "last_updated": "2026-05-03 23:58:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE WARS ESCALATING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES SURGING DUE TO SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-05-04 03:48:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
         "T": 1.1,
-        "B": 0.78,
+        "B": 0.8,
         "C": 0.95
     }
 }
