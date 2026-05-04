@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.45,
+    "shi": 0.76411,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and trade tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoints and sanctions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Financial stability and low corruption"
+        },
+        {
+            "loc": "Helsinki, Finland",
+            "protocol": "Education and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY, ECONOMISTS WARN OF IMPENDING SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-05-04 19:59:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND MOSCOW ARE AT HIGH RISK OF COLLAPSE. HOWEVER, CITIES LIKE SINGAPORE, ZURICH, AND HELSINKI ARE DEMONSTRATING RESILIENCE THROUGH INNOVATIVE POLICIES AND LOW CORRUPTION.",
+    "last_updated": "2026-05-04 21:15:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.95
     }
 }
