@@ -1,16 +1,16 @@
 {
-    "shi": 1.08344,
-    "health_percent": 63.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.06582,
+    "health_percent": 73.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:59",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt-to-GDP Ratio"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Istanbul, Turkey",
             "deviation": "Energy Chokepoint"
         },
         {
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Zurich, Switzerland",
             "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Policy"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy Reform"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY SPREADS ACROSS GLOBAL MARKETS, TRADE WARS ESCALATE, AND ENERGY SHORTAGES LOOM LARGE. MEANWHILE, INNOVATION HUBS AND POLICY REFORMS IN SELECT CITIES SHOW PROMISE FOR STABILITY AND GROWTH.",
-    "last_updated": "2026-05-04 15:10:04",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS PREDICT A POTENTIAL COLLAPSE IN KEY TRADE ROUTES.",
+    "last_updated": "2026-05-04 17:00:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
+        "B": 1.23,
         "C": 0.67
     }
 }
