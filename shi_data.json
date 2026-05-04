@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.79499,
+    "health_percent": 78.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade tariffs and restrictions"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Singapore, Singapore",
+            "deviation": "Rising energy costs and limited renewable sources"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High national debt and aging population"
         }
     ],
     "high_shi": [
         {
+            "loc": "San Francisco, USA",
+            "protocol": "Deregulation and entrepreneurship incentives"
+        },
+        {
+            "loc": "London, UK",
+            "protocol": "Investment in renewable energy and green infrastructure"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Stricter anti-corruption laws and transparent governance"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS PREDICT A POTENTIAL COLLAPSE IN KEY TRADE ROUTES.",
-    "last_updated": "2026-05-04 17:00:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS REPORTED, STOCK MARKETS FLUCTUATING, GOVERNMENTS SCRAMBLING TO ADDRESS ECONOMIC INSTABILITY",
+    "last_updated": "2026-05-04 18:23:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "T": 1.21,
+        "B": 0.75,
+        "C": 0.65
     }
 }
