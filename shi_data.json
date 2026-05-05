@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.23,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade War"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyper-Inflation"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inadequate infrastructure and high debt"
+            "loc": "Hong Kong, China",
+            "deviation": "Social Unrest"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable economy"
+            "protocol": "Financial Stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER DEBT SUSTAINABILITY IN SEVERAL COUNTRIES.",
-    "last_updated": "2026-05-05 08:25:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, OIL PRICES SURGE, AND TECH INNOVATION ON THE RISE.",
+    "last_updated": "2026-05-05 10:17:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
