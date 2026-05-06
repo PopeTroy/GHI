@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 74.21,
+    "shi": 1.30388,
+    "health_percent": 73.21,
     "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint due to geopolitical tensions"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt levels"
+            "deviation": "Trade barriers imposed due to economic sanctions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt levels causing economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Streamlined policy reforms for foreign investment"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "protocol": "Implementation of innovative technologies for sustainable growth"
         },
         {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Effective anti-corruption measures for transparent governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZE AFTER CENTRAL BANK INTERVENTION, BUT ANALYSTS WARN OF LOOMING SUPPLY CHAIN RISKS.",
-    "last_updated": "2026-05-06 18:58:49",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC SENTIMENT IS CAUTIOUSLY OPTIMISTIC WITH A FOCUS ON SUSTAINABLE GROWTH AND REDUCED TRADE BARRIERS.",
+    "last_updated": "2026-05-06 20:39:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.95
     }
 }
