@@ -1,45 +1,45 @@
 {
-    "shi": 1.0043,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 2.70259,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and regulatory hurdles"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and trade agreements"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and economic diversification"
+            "loc": "Wellington, New Zealand",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE INCREASED VOLATILITY, ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-05-06 17:11:02",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZE AFTER CENTRAL BANK INTERVENTION, BUT ANALYSTS WARN OF LOOMING SUPPLY CHAIN RISKS.",
+    "last_updated": "2026-05-06 18:58:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.27,
-        "C": 0.98
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.5
     }
 }
