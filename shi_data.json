@@ -1,45 +1,45 @@
 {
-    "shi": 1.30388,
+    "shi": 1.18657,
     "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint due to geopolitical tensions"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers imposed due to economic sanctions"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt levels causing economic instability"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Streamlined policy reforms for foreign investment"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Implementation of innovative technologies for sustainable growth"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective anti-corruption measures for transparent governance"
+            "protocol": "Anti-Corruption Reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC SENTIMENT IS CAUTIOUSLY OPTIMISTIC WITH A FOCUS ON SUSTAINABLE GROWTH AND REDUCED TRADE BARRIERS.",
-    "last_updated": "2026-05-06 20:39:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND GEOPOLITICAL INSTABILITY.",
+    "last_updated": "2026-05-06 21:44:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
+        "F": 0.92,
+        "T": 1.02,
         "B": 1.1,
-        "C": 0.95
+        "C": 0.88
     }
 }
