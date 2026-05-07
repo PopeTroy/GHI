@@ -1,45 +1,45 @@
 {
-    "shi": 3.87057,
+    "shi": 3.21737,
     "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Brexit trade uncertainty and financial instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption and sustainability initiatives"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and international cooperation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS ESCALATE, AND ENERGY DEMAND SURGES.",
-    "last_updated": "2026-05-07 10:02:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNINGS, TRADE TENSIONS RISING, AND SUPPLY CHAIN DISRUPTIONS EXPECTED",
+    "last_updated": "2026-05-07 11:59:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.06,
-        "B": 0.52,
-        "C": 0.78
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
