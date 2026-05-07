@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
-    "health_percent": 82.13,
+    "shi": 1.08344,
+    "health_percent": 74.32,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Dispute"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High National Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative Policies"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Regulations"
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Practices"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT 82%, HIGH IMPACT LOCATION IDENTIFIED IN NEW YORK, USA, WITH A HYPER-INFLATION COLLAPSE WARNING AT 48 HOURS, 21 MINUTES, AND 2 SECONDS.",
-    "last_updated": "2026-05-07 16:25:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC STABILITY AT RISK",
+    "last_updated": "2026-05-07 18:05:39",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.56
+        "B": 1.21,
+        "C": 0.67
     }
 }
