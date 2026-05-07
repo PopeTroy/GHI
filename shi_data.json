@@ -1,45 +1,45 @@
 {
-    "shi": 2.39729,
-    "health_percent": 73.21,
+    "shi": 2.341,
+    "health_percent": 82.13,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Trade Dispute"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and supply chain issues"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Shortage"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt and inefficient protocols"
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and sustainable practices"
+            "protocol": "Innovative Policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and efficient governance"
+            "protocol": "Anti-Corruption Regulations"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. KEY LOCATIONS EXPERIENCING BOTTLENECKS AND HIGH RISK OF COLLAPSE.",
-    "last_updated": "2026-05-07 14:34:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT 82%, HIGH IMPACT LOCATION IDENTIFIED IN NEW YORK, USA, WITH A HYPER-INFLATION COLLAPSE WARNING AT 48 HOURS, 21 MINUTES, AND 2 SECONDS.",
+    "last_updated": "2026-05-07 16:25:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.66,
-        "C": 0.79
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.56
     }
 }
