@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
+    "shi": 0.92446,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints and high regulation"
+            "deviation": "Trade war escalation"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "deviation": "Energy shortage"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "High debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable governance"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Strong education and high technology adoption"
+            "protocol": "Sustainable policy initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND LONDON FACE HIGH IMPACT DISRUPTIONS. SINGAPORE, ZURICH, AND VANCOUVER REMAIN STABLE WITH STRONG PROTOCOLS IN PLACE.",
-    "last_updated": "2026-05-08 14:17:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS EXPERIENCE STEADY GROWTH.",
+    "last_updated": "2026-05-08 15:54:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.67,
+        "B": 1.09,
+        "C": 0.95
     }
 }
