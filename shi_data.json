@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.2,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt levels and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure constraints and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption and economic stability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR EASTERN EUROPE, TRADE NEGOTIATIONS UNDERWAY BETWEEN THE US AND CHINA, AND A NEW STARTUP ACCELERATOR LAUNCHED IN SILICON VALLEY.",
-    "last_updated": "2026-05-08 22:09:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS ESCALATE, WHILE INNOVATIVE CITIES LIKE SINGAPORE AND ZURICH SHOWCASE RESILIENCE AND GROWTH",
+    "last_updated": "2026-05-08 23:09:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
