@@ -1,45 +1,45 @@
 {
-    "shi": 0.92446,
-    "health_percent": 73.21,
+    "shi": 11.02112,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade war escalation"
+            "loc": "Beirut, Lebanon",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy shortage"
+            "loc": "Kolkata, India",
+            "deviation": "Energy chokepoints and infrastructure issues"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt levels"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyper-inflation and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption initiatives"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Stable financial systems and policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable policy initiatives"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and effective governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS EXPERIENCE STEADY GROWTH.",
-    "last_updated": "2026-05-08 15:54:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. NEW POLICY REFORMS ANNOUNCED IN SINGAPORE TO BOOST INNOVATION AND GROWTH.",
+    "last_updated": "2026-05-08 17:10:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 1.09,
-        "C": 0.95
+        "P": 2.67,
+        "F": 0.85,
+        "T": 1.21,
+        "B": 0.39,
+        "C": 0.92
     }
 }
