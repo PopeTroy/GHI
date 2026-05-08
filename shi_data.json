@@ -1,9 +1,9 @@
 {
-    "shi": 2.38356,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "42:11:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -28,18 +28,18 @@
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Vancouver, Canada",
             "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE; OIL PRICES SURGE DUE TO GEOPOLITICAL INSTABILITY; TECHNOLOGICAL ADVANCEMENTS IN AI AND RENEWABLE ENERGY SHOW PROMISING GROWTH POTENTIAL.",
-    "last_updated": "2026-05-08 18:44:09",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, MAJOR TRADE AGREEMENTS UNDER NEGOTIATION, OIL PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-05-08 19:58:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.55
+        "B": 1.21,
+        "C": 0.67
     }
 }
