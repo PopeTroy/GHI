@@ -1,45 +1,45 @@
 {
-    "shi": 11.02112,
-    "health_percent": 74.23,
+    "shi": 2.38356,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beirut, Lebanon",
-            "deviation": "High debt and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyper-inflation and lack of policy reforms"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption initiatives"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial systems and policy reforms"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified economy and effective governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. NEW POLICY REFORMS ANNOUNCED IN SINGAPORE TO BOOST INNOVATION AND GROWTH.",
-    "last_updated": "2026-05-08 17:10:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE; OIL PRICES SURGE DUE TO GEOPOLITICAL INSTABILITY; TECHNOLOGICAL ADVANCEMENTS IN AI AND RENEWABLE ENERGY SHOW PROMISING GROWTH POTENTIAL.",
+    "last_updated": "2026-05-08 18:44:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.67,
-        "F": 0.85,
-        "T": 1.21,
-        "B": 0.39,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.55
     }
 }
