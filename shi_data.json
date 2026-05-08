@@ -1,45 +1,45 @@
 {
-    "shi": 1.50746,
-    "health_percent": 74.21,
+    "shi": 0.76411,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | WARNING: SUPPLY CHAIN DISRUPTIONS REPORTED IN EUROPE, STOCK MARKETS EXPERIENCING VOLATILITY",
-    "last_updated": "2026-05-08 21:08:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR EASTERN EUROPE, TRADE NEGOTIATIONS UNDERWAY BETWEEN THE US AND CHINA, AND A NEW STARTUP ACCELERATOR LAUNCHED IN SILICON VALLEY.",
+    "last_updated": "2026-05-08 22:09:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.95,
-        "B": 1.17,
-        "C": 0.83
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
