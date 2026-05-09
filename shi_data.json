@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.06582,
+    "health_percent": 72.11,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:10",
+    "collapse_timer": "54:23:16",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruption risks"
+            "loc": "New York, USA",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Debt servicing concerns"
+            "loc": "London, UK",
+            "deviation": "Corruption and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub for fintech"
+            "protocol": "Innovative policy reforms and anti-corruption measures"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial regulations and stable economy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption initiatives"
+            "protocol": "Diversified economy and high investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, ECONOMIES WORK TO MITIGATE RISK AND ENSURE STABILITY",
-    "last_updated": "2026-05-09 20:57:46",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE, WHILE CITIES LIKE TOKYO AND SINGAPORE DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND STABLE ECONOMIES.",
+    "last_updated": "2026-05-09 21:50:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.23,
+        "C": 0.67
     }
 }
