@@ -1,45 +1,45 @@
 {
-    "shi": 1.1665,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.84052,
+    "health_percent": 72.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoint and Brexit uncertainty"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and infrastructure limitations"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and financial stability"
+            "loc": "Singapore",
+            "protocol": "Pro-business policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative financial sector"
         },
         {
             "loc": "Vancouver, Canada",
             "protocol": "Diversified economy and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS INVESTORS MONITOR ECONOMIC STABILITY AND GROWTH PROSPECTS.",
-    "last_updated": "2026-05-09 14:01:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
+    "last_updated": "2026-05-09 15:03:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.25,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
