@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 72.11,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "54:23:16",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York, USA",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Corruption and bureaucratic inefficiencies"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative policy reforms and anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable economy"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high investment in renewable energy"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE, WHILE CITIES LIKE TOKYO AND SINGAPORE DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND STABLE ECONOMIES.",
-    "last_updated": "2026-05-09 21:50:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SURGE, AND CENTRAL BANKS INTERVENE TO STABILIZE MARKETS.",
+    "last_updated": "2026-05-09 22:28:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
+        "B": 1.21,
         "C": 0.67
     }
 }
