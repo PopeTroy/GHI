@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 72.15,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoint and Brexit uncertainty"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Corruption and sanctions"
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial sector"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and anti-corruption measures"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
-    "last_updated": "2026-05-09 15:03:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO RISING BOTTLENECKS, HIGH IMPACT LOCATIONS IDENTIFIED FOR STRATEGIC INTERVENTION.",
+    "last_updated": "2026-05-09 16:03:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
