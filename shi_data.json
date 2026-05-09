@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 73.21,
+    "shi": 0.5033,
+    "health_percent": 74.22,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:27:11",
     "bottlenecks": [
         {
+            "loc": "London, UK",
+            "deviation": "Trade Barrier"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs and quotas"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy shortages and price volatility"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt to GDP ratio and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Robust anti-corruption laws and policies"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hubs and R&D initiatives"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | BREAKING NEWS: GLOBAL MARKETS EXPERIENCE SHARP DECLINE AMIDST RISING TENSIONS AND TRADE DISPUTES",
-    "last_updated": "2026-05-09 17:06:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF SLOWING GROWTH, POLICY REFORMS UNDERWAY TO MITIGATE RISKS",
+    "last_updated": "2026-05-09 18:01:11",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "P": 2.51,
+        "F": 0.85,
+        "T": 1.21,
+        "B": 3.17,
+        "C": 2.33
     }
 }
