@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy chokepoints and hyper-inflation"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions and high debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation and anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms and stable economy"
         },
         {
-            "loc": "Reykjavik, Iceland",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE FLASHING WARNING SIGNS OF INSTABILITY, WITH KEY BOTTLENECKS EMERGING IN MAJOR TRADE HUBS. IDENTIFY AND PRIORITIZE NODES FOR IMMEDIATE INTERVENTION TO PREVENT COLLAPSE.",
-    "last_updated": "2026-05-09 00:08:35",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING DOWNTURN, TRADE TENSIONS ON THE RISE, AND CONCERNS OVER ENERGY SECURITY",
+    "last_updated": "2026-05-09 03:53:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
