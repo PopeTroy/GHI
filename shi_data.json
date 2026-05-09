@@ -1,45 +1,45 @@
 {
-    "shi": 2.98892,
-    "health_percent": 67.32,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.1665,
+    "health_percent": 73.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "High debt"
+            "deviation": "Energy chokepoints and high inflation"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and infrastructure limitations"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation and financial stability"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Diversified economy and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SIGNIFICANT VOLATILITY AMIDST RISING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS.",
-    "last_updated": "2026-05-09 12:35:16",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS INVESTORS MONITOR ECONOMIC STABILITY AND GROWTH PROSPECTS.",
+    "last_updated": "2026-05-09 14:01:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.91,
-        "B": 0.75,
-        "C": 0.58
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.25,
+        "C": 0.78
     }
 }
