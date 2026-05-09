@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 0.84052,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:23:10",
+    "collapse_timer": "35:07:41",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption measures"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Investment in renewable energy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TENSIONS RISE, ECONOMIC GROWTH SLOWS",
-    "last_updated": "2026-05-09 10:37:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ON THE RISE, INVESTORS TURN TO SAFE-HAVEN ASSETS. ECONOMIC STABILITY CONCERNS GROW AS SUPPLY CHAIN DISRUPTIONS SPREAD ACROSS THE GLOBE.",
+    "last_updated": "2026-05-09 11:30:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.1,
+        "C": 0.95
     }
 }
