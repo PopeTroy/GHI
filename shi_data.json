@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.45,
+    "shi": 0.84052,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "High debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and R&D"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS IN THE EU SHOW SIGNS OF IMPROVEMENT WITH A 2% INCREASE IN GDP. MEANWHILE, THE US FACES A POTENTIAL TRADE WAR WITH CHINA, SPARKING CONCERNS OF GLOBAL ECONOMIC INSTABILITY.",
-    "last_updated": "2026-05-10 14:40:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY SPREADS ACROSS EUROPE, ASIAN MARKETS EXPERIENCE DOWNTURN",
+    "last_updated": "2026-05-10 15:36:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.1,
+        "C": 0.95
     }
 }
