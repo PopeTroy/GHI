@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 73.45,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:43",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
-        },
-        {
-            "loc": "New York, USA",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "London, UK",
             "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption policies"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
+            "protocol": "Innovation and R&D"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS UNDER THREAT DUE TO RISING BOTTLENECK NODES. IMPLEMENTING EFFECTIVE PROTOCOLS CAN MITIGATE THE RISK OF COLLAPSE.",
-    "last_updated": "2026-05-10 13:44:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS IN THE EU SHOW SIGNS OF IMPROVEMENT WITH A 2% INCREASE IN GDP. MEANWHILE, THE US FACES A POTENTIAL TRADE WAR WITH CHINA, SPARKING CONCERNS OF GLOBAL ECONOMIC INSTABILITY.",
+    "last_updated": "2026-05-10 14:40:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "B": 1.21,
+        "C": 0.69
     }
 }
