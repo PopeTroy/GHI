@@ -1,17 +1,17 @@
 {
-    "shi": 1.29599,
-    "health_percent": 74.2,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.11677,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "43:21:49",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Dhaka, Bangladesh",
-            "deviation": "Energy shortages"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Athens, Greece",
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
-    "last_updated": "2026-05-11 11:24:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO VARIOUS BOTTLENECKS AND COLLAPSE THREATS. IMMEDIATE ATTENTION TO PROTOCOL IMPLEMENTATION IS NECESSARY TO MITIGATE RISKS.",
+    "last_updated": "2026-05-11 14:02:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 1.11,
-        "C": 0.98
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.65
     }
 }
