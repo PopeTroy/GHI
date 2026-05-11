@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 64.2,
-    "location": "NEW YORK, USA",
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Trade war tensions"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Energy supply chain disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Pro-business policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub for sustainable energy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy with low corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, GOVERNMENTS IMPLEMENT FISCAL POLICIES TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-05-11 21:41:16",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, ECONOMISTS PREDICT LOOMING RECESSION",
+    "last_updated": "2026-05-11 22:38:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
