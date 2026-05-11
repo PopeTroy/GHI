@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.29599,
+    "health_percent": 74.2,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Hong Kong, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dhaka, Bangladesh",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and regulatory bottlenecks"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust business environment and innovation hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong institutional framework and sustainable practices"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO MITIGATE ECONOMIC DOWNTURN.",
-    "last_updated": "2026-05-11 07:57:13",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-05-11 11:24:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.87,
+        "F": 1.21,
+        "T": 0.93,
+        "B": 1.11,
+        "C": 0.98
     }
 }
