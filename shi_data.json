@@ -1,45 +1,45 @@
 {
-    "shi": 1.70057,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "London, UK",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
-        },
-        {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY INCREASES, INVESTORS SEEK STABILITY IN EMERGING MARKETS.",
-    "last_updated": "2026-05-12 07:41:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. POLICY REFORMS AND INNOVATION ARE KEY TO GROWTH AND STABILITY.",
+    "last_updated": "2026-05-12 10:14:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.76,
-        "C": 0.88
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
