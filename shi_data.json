@@ -1,30 +1,30 @@
 {
-    "shi": 0.84052,
+    "shi": 1.70057,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
             "protocol": "Anti-corruption"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
-    "last_updated": "2026-05-12 04:55:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY INCREASES, INVESTORS SEEK STABILITY IN EMERGING MARKETS.",
+    "last_updated": "2026-05-12 07:41:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "T": 1.01,
+        "B": 0.76,
+        "C": 0.88
     }
 }
