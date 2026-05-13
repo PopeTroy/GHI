@@ -1,45 +1,45 @@
 {
-    "shi": 2.4569,
-    "health_percent": 62.15,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.59873,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High Debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "China, Shanghai",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Russia, Moscow",
-            "deviation": "Energy Chokepoints"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Sweden, Stockholm",
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
-        },
-        {
-            "loc": "Canada, Toronto",
-            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING RED, TRADE TALKS STALLED, AND GLOBAL DEBT ON THE RISE. EXPERTS WARN OF LOOMING SUPPLY CHAIN DISRUPTIONS AND POTENTIAL COLLAPSE.",
-    "last_updated": "2026-05-13 07:27:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING, SINGAPORE ANNOUNCES NEW ECONOMIC REFORMS, AND THE US SEES A SURGE IN TECH INNOVATION.",
+    "last_updated": "2026-05-13 10:04:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.55
+        "B": 0.67,
+        "C": 0.82
     }
 }
