@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 29.27808,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:10",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Paris, France",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Over-reliance on exports and lack of policy reforms"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and economic reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high transparency"
+            "loc": "Tel Aviv, Israel",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY WARNING ISSUED FOR THE EU, TRADE TALKS BETWEEN THE US AND CHINA STALL, AND A NEW SUSTAINABLE ENERGY PROJECT IS ANNOUNCED IN AUSTRALIA.",
-    "last_updated": "2026-05-14 08:03:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
+    "last_updated": "2026-05-14 10:29:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.12,
+        "C": 0.25
     }
 }
