@@ -1,45 +1,45 @@
 {
-    "shi": 2.75264,
-    "health_percent": 72.15,
+    "shi": 0.84052,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:59",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and aging population"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Energy shortages and inflation"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inefficient infrastructure and bureaucratic red tape"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Corruption and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust innovation ecosystem and favorable business climate"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and low corruption"
+            "protocol": "Innovation and policy reform"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Highly developed sustainable infrastructure and social services"
+            "protocol": "Sustainable energy and anti-corruption"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN.",
-    "last_updated": "2026-05-14 16:33:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK AND LONDON EXPERIENCE HIGH GROWTH, WHILE CITIES LIKE CARACAS AND ISTANBUL STRUGGLE WITH BOTTLENECKS.",
+    "last_updated": "2026-05-14 18:19:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.75,
-        "C": 0.6
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
