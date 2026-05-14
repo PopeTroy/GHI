@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 0.69134,
+    "health_percent": 62.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:22:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt-to-GDP ratio"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt Ratio"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy import dependence"
+            "loc": "Beijing, China",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade sanctions and restrictions"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs and start-up ecosystems"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption frameworks"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green policies"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED SIGNALS, WITH RISING TRADE TENSIONS AND GEOPOLITICAL INSTABILITY THREATENING STABILITY, WHILE INNOVATION AND POLICY REFORMS OFFER GROWTH OPPORTUNITIES.",
-    "last_updated": "2026-05-14 01:29:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS EMERGING IN ASIA AND EUROPE. PROTOCOLS FOR GROWTH AND STABILITY SHOW PROMISE IN SELECT REGIONS.",
+    "last_updated": "2026-05-14 05:11:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 1.05
     }
 }
