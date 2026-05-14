@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 2.77781,
     "health_percent": 74.21,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade Barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy Chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2",
-    "last_updated": "2026-05-14 12:12:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INSTABILITY DUE TO RECENT TRADE DISPUTES AND ENERGY SHORTAGES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-05-14 14:41:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.62,
+        "C": 0.51
     }
 }
