@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 72.5,
-    "location": "NEW YORK, USA",
+    "shi": 2.75264,
+    "health_percent": 78.5,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade Barrier"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Houston, USA",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Detroit, USA",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Policy reforms"
+            "loc": "Boston, USA",
+            "protocol": "Policy Reform"
         },
         {
-            "loc": "Paris, France",
-            "protocol": "Anti-corruption"
+            "loc": "Seattle, USA",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-05-14 21:22:03",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE AS ECONOMIC INDICATORS POINT TO POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-05-14 22:34:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.65
+        "T": 1.1,
+        "B": 0.75,
+        "C": 0.6
     }
 }
