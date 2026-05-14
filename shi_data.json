@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 62.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Energy shortages and inflation"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Corruption and infrastructure bottlenecks"
+            "loc": "London, UK",
+            "deviation": "Inefficient policy reforms and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reform"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong policy reforms and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social stability"
+            "protocol": "Diversified economy and efficient trade practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK AND LONDON EXPERIENCE HIGH GROWTH, WHILE CITIES LIKE CARACAS AND ISTANBUL STRUGGLE WITH BOTTLENECKS.",
-    "last_updated": "2026-05-14 18:19:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER DEBT SUSTAINABILITY IN SEVERAL COUNTRIES.",
+    "last_updated": "2026-05-14 20:09:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
