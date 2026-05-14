@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 62.45,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High Debt Ratio"
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Paris, France",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Over-reliance on exports and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and economic reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS EMERGING IN ASIA AND EUROPE. PROTOCOLS FOR GROWTH AND STABILITY SHOW PROMISE IN SELECT REGIONS.",
-    "last_updated": "2026-05-14 05:11:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY WARNING ISSUED FOR THE EU, TRADE TALKS BETWEEN THE US AND CHINA STALL, AND A NEW SUSTAINABLE ENERGY PROJECT IS ANNOUNCED IN AUSTRALIA.",
+    "last_updated": "2026-05-14 08:03:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "B": 0.65,
+        "C": 0.42
     }
 }
