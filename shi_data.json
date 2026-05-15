@@ -1,45 +1,45 @@
 {
-    "shi": 0.83295,
-    "health_percent": 72.12,
+    "shi": 2.48759,
+    "health_percent": 67.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:27:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption Legislation"
+        },
+        {
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK, EXPERTS WARN OF IMPENDING COLLAPSE",
-    "last_updated": "2026-05-15 21:43:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, KEY LOCATIONS EXPERIENCING HIGH LEVELS OF DEVIATION FROM STABILITY.",
+    "last_updated": "2026-05-15 22:39:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.11,
-        "C": 0.95
+        "T": 1.12,
+        "B": 0.78,
+        "C": 0.65
     }
 }
