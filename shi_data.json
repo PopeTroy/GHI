@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
+    "shi": 2.22196,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:27:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Brexit-related trade uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Policy reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and stable governance"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Diversity and economic resilience"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS URGED TO IMPLEMENT PROTOCOLS TO MITIGATE BOTTLENECKS AND PROMOTE STABILITY.",
-    "last_updated": "2026-05-15 10:39:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. CITIES WITH STRONG POLICY REFORMS AND INNOVATION ARE EXPECTED TO THRIVE, WHILE THOSE WITH HIGH DEBT AND CORRUPTION ARE AT RISK OF COLLAPSE.",
+    "last_updated": "2026-05-15 12:23:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.59
     }
 }
