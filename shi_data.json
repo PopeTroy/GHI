@@ -1,17 +1,17 @@
 {
-    "shi": 0.77048,
+    "shi": 3.21737,
     "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier imposition"
+            "deviation": "High trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy export restrictions"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and technology adoption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparency reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable economic policy implementation"
+            "protocol": "Financial stability policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH EFFECTIVE PROTOCOLS.",
-    "last_updated": "2026-05-15 05:12:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING: TRADE TENSIONS ESCALATE, ENERGY PRICES SURGE, AND NATIONAL DEBT INCREASES.",
+    "last_updated": "2026-05-15 08:17:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
