@@ -1,45 +1,45 @@
 {
-    "shi": 1.96781,
-    "health_percent": 74.23,
+    "shi": 1.05203,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "93:12:01",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE SHOWING SIGNS OF STRAIN, WITH A 0.5% DROP IN INTERNATIONAL TRADE. NEW YORK HAS BEEN IDENTIFIED AS A HIGH IMPACT LOCATION DUE TO ITS SIGNIFICANT ROLE IN THE GLOBAL ECONOMY.",
-    "last_updated": "2026-05-15 18:07:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: ECONOMIC STABILITY THREATENED BY SUPPLY CHAIN DISRUPTIONS IN ASIA. HIGH SHI NODES SHOWING POSITIVE GROWTH TRENDS. BOTTLENECKS IN SOUTH AMERICA CAUSING CONCERN.",
+    "last_updated": "2026-05-15 19:52:28",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 0.75,
-        "C": 0.82
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
