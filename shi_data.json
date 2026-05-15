@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 74.21,
+    "shi": 1.96781,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "93:12:01",
     "bottlenecks": [
         {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers causing 12% decrease in imports"
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints resulting in 8% increase in fuel prices"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt levels leading to 10% decrease in consumer spending"
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust policy reforms increasing foreign investment by 15%"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative renewable energy solutions reducing carbon emissions by 12%"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective anti-corruption measures improving business transparency by 18%"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS, ENERGY PRICE VOLATILITY, AND RISING DEBT LEVELS. CITIES WITH STRONG PROTOCOLS SUCH AS POLICY REFORMS, INNOVATION, AND ANTI-CORRUPTION MEASURES ARE SEEING INCREASED STABILITY AND GROWTH.",
-    "last_updated": "2026-05-15 16:29:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE SHOWING SIGNS OF STRAIN, WITH A 0.5% DROP IN INTERNATIONAL TRADE. NEW YORK HAS BEEN IDENTIFIED AS A HIGH IMPACT LOCATION DUE TO ITS SIGNIFICANT ROLE IN THE GLOBAL ECONOMY.",
+    "last_updated": "2026-05-15 18:07:41",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "T": 1.05,
+        "B": 0.75,
+        "C": 0.82
     }
 }
