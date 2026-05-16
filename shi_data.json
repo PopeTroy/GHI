@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.42,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.32877,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Dependency"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Trade Restrictions"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Over-Reliance on Fossil Fuels"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust Financial Regulations"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Initiatives"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AMIDST RISING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-05-16 04:43:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, EXPERTS WARN OF IMPENDING ECONOMIC DOWNTURN",
+    "last_updated": "2026-05-16 07:05:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "F": 1.23,
+        "T": 1.11,
+        "B": 0.78,
+        "C": 0.92
     }
 }
