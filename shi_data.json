@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.53,
-    "location": "BEIJING, CHINA",
+    "shi": 1.2619,
+    "health_percent": 83.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers due to new regulations"
+            "loc": "Beijing, China",
+            "deviation": "Trade War"
         },
         {
-            "loc": "Houston, USA",
-            "deviation": "Energy shortages from pipeline failures"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Embargo"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt levels from infrastructure projects"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovative free trade zone policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green technologies"
+            "loc": "Singapore",
+            "protocol": "Free Trade Agreement"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption and financial transparency measures"
+            "protocol": "Tax Reform"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS REACT TO TRADE TENSIONS, ENERGY PRICES SURGE AS SUPPLIES DWINDLE, AND CITY-WIDE PROTESTS ERUPT OVER FINANCIAL INEQUALITY.",
-    "last_updated": "2026-05-16 11:29:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS REACT TO SUPPLY CHAIN DISRUPTION, ECONOMIC STABILITY UNDER THREAT.",
+    "last_updated": "2026-05-16 12:40:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.75
     }
 }
