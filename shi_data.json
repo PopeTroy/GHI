@@ -1,45 +1,45 @@
 {
-    "shi": 1.82596,
-    "health_percent": 74.21,
+    "shi": 3.98758,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High inflation and economic instability"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparent governance"
+            "protocol": "Innovation and R&D Investments"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green initiatives"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS PREDICT A POTENTIAL COLLAPSE IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-05-16 22:56:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC FORECASTS INDICATE A RISE IN GLOBAL UNCERTAINTY, WITH TRADE TENSIONS ESCALATING BETWEEN MAJOR WORLD POWERS. ANALYSTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND INCREASED RISK OF ECONOMIC COLLAPSE.",
+    "last_updated": "2026-05-16 23:52:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.88,
+        "F": 1.21,
+        "T": 0.92,
         "B": 0.67,
-        "C": 0.81
+        "C": 0.51
     }
 }
