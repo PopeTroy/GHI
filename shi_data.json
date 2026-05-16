@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 64.21,
-    "location": "NEW YORK, USA",
+    "shi": 4.48134,
+    "health_percent": 62.1,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Trade Barrier"
+            "loc": "New York, USA",
+            "deviation": "High debt and inefficient policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reform"
+            "protocol": "Stable policy reforms and diversification"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Sydney, Australia",
+            "protocol": "Effective trade agreements and energy efficiency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS KEY TO GROWTH AND STABILITY.",
-    "last_updated": "2026-05-16 14:08:59",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS KEY TO PREVENTING COLLAPSE.",
+    "last_updated": "2026-05-16 15:14:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.56,
+        "C": 0.35
     }
 }
