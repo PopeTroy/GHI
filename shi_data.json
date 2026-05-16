@@ -1,45 +1,45 @@
 {
-    "shi": 1.07928,
-    "health_percent": 74.23,
+    "shi": 1.03696,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export restrictions"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and aging population"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio"
+            "loc": "London, UK",
+            "deviation": "Brexit-related economic uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative fintech regulations"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and innovation reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy policies"
+            "loc": "Seoul, South Korea",
+            "protocol": "Investment in renewable energy and R&D"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse and inclusive economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and stable monetary policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT DOWNTURN IN Q2",
-    "last_updated": "2026-05-16 18:08:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS POINT TO A POTENTIAL COLLAPSE IN THE NEXT 48 HOURS. GOVERNMENTS AND INSTITUTIONS ARE ADVISED TO TAKE IMMEDIATE ACTION TO MITIGATE THE EFFECTS OF HYPER-INFLATION.",
+    "last_updated": "2026-05-16 19:22:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.11,
+        "B": 1.23,
+        "C": 0.98
     }
 }
