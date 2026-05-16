@@ -1,45 +1,45 @@
 {
-    "shi": 2.32877,
-    "health_percent": 67.32,
+    "shi": 2.00962,
+    "health_percent": 72.18,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Policy"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, EXPERTS WARN OF IMPENDING ECONOMIC DOWNTURN",
-    "last_updated": "2026-05-16 07:05:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, OIL PRICES SURGE, AND TRADE TALKS STALL.",
+    "last_updated": "2026-05-16 08:58:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.23,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.92
+        "P": 0.87,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 0.65,
+        "C": 0.75
     }
 }
