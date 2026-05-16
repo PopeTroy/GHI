@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.45,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05871,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers with key partners"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Dependence on imported energy sources"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient policy reforms and infrastructure"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulatory framework"
+            "protocol": "Stable economic policies and low debt"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative sustainable energy solutions"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Strong anti-corruption measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and efficient trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS TRADE NEGOTIATIONS CONTINUE, WHILE ENERGY PRICES REMAIN STABLE DESPITE GEOPOLITICAL TENSIONS.",
-    "last_updated": "2026-05-15 23:36:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-05-16 01:21:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 0.88,
+        "B": 1.2,
+        "C": 0.78
     }
 }
