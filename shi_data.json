@@ -1,45 +1,45 @@
 {
-    "shi": 2.46538,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 67.53,
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "42:11:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers due to new regulations"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "loc": "Houston, USA",
+            "deviation": "Energy shortages from pipeline failures"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt levels from infrastructure projects"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "loc": "Dubai, UAE",
+            "protocol": "Innovative free trade zone policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Sustainable energy and green technologies"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption and financial transparency measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RISING TENSIONS AND SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-05-16 10:19:21",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS REACT TO TRADE TENSIONS, ENERGY PRICES SURGE AS SUPPLIES DWINDLE, AND CITY-WIDE PROTESTS ERUPT OVER FINANCIAL INEQUALITY.",
+    "last_updated": "2026-05-16 11:29:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
