@@ -1,45 +1,45 @@
 {
-    "shi": 4.48134,
-    "health_percent": 62.1,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 72.45,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt-to-GDP Ratio"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Major Energy Chokepoint"
         },
         {
-            "loc": "New York, USA",
-            "deviation": "High debt and inefficient policy reforms"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Strong Anti-Corruption Measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable policy reforms and diversification"
+            "protocol": "Innovative Financial Policies"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Effective trade agreements and energy efficiency"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Effective Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS KEY TO PREVENTING COLLAPSE.",
-    "last_updated": "2026-05-16 15:14:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL COLLAPSE. TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATE. NEW TECHNOLOGICAL ADVANCEMENTS IN RENEWABLE ENERGY ANNOUNCED.",
+    "last_updated": "2026-05-16 16:12:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.35
+        "B": 1.21,
+        "C": 0.69
     }
 }
