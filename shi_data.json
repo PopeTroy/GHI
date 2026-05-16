@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
+    "shi": 1.12257,
+    "health_percent": 72.19,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "42:11:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "56:21:43",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barrier"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy dependence and fragile supply chains"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High regulatory hurdles and declining investment"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-business policies and corruption-free environment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial services and stable economy"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse economy and strong education system"
+            "loc": "Tokyo, Japan",
+            "protocol": "Policy reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ON THE RISE, AND CONCERNS OVER ECONOMIC STABILITY GROWING.",
-    "last_updated": "2026-05-16 20:09:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SIGNAL MODERATE GROWTH IN THE ASIA-PACIFIC REGION. GLOBAL TRADE AGREEMENTS SHOW SIGNS OF IMPROVEMENT. SUPPLY CHAIN DISRUPTIONS PERSIST IN KEY SECTORS.",
+    "last_updated": "2026-05-16 21:03:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 0.78,
+        "T": 1.05,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.85
     }
 }
