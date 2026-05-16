@@ -1,9 +1,9 @@
 {
-    "shi": 1.03696,
-    "health_percent": 67.42,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "42:11:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,35 +11,35 @@
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "deviation": "Energy dependence and fragile supply chains"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit-related economic uncertainty"
+            "deviation": "High regulatory hurdles and declining investment"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation reforms"
-        },
-        {
-            "loc": "Seoul, South Korea",
-            "protocol": "Investment in renewable energy and R&D"
+            "loc": "Singapore",
+            "protocol": "Pro-business policies and corruption-free environment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable monetary policy"
+            "protocol": "Innovative financial services and stable economy"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse economy and strong education system"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS POINT TO A POTENTIAL COLLAPSE IN THE NEXT 48 HOURS. GOVERNMENTS AND INSTITUTIONS ARE ADVISED TO TAKE IMMEDIATE ACTION TO MITIGATE THE EFFECTS OF HYPER-INFLATION.",
-    "last_updated": "2026-05-16 19:22:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ON THE RISE, AND CONCERNS OVER ECONOMIC STABILITY GROWING.",
+    "last_updated": "2026-05-16 20:09:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.23,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
