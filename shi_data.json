@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 72.45,
-    "location": "NEW YORK, USA",
+    "shi": 1.50256,
+    "health_percent": 83.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt-to-GDP Ratio"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Major Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Strong Anti-Corruption Measures"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "New York City, USA",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative Financial Policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Effective Policy Reforms"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL COLLAPSE. TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATE. NEW TECHNOLOGICAL ADVANCEMENTS IN RENEWABLE ENERGY ANNOUNCED.",
-    "last_updated": "2026-05-16 16:12:22",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS AWAIT POLICY CHANGES FROM MAJOR ECONOMIES.",
+    "last_updated": "2026-05-16 17:15:54",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.23,
+        "B": 1.11,
+        "C": 0.85
     }
 }
