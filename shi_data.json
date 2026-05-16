@@ -1,45 +1,45 @@
 {
-    "shi": 1.05871,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.42,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Energy Dependency"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Trade Restrictions"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Inefficient policy reforms and infrastructure"
+            "deviation": "Over-Reliance on Fossil Fuels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable economic policies and low debt"
+            "protocol": "Robust Financial Regulations"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and efficient trade agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy Initiatives"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-05-16 01:21:48",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AMIDST RISING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-05-16 04:43:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
-        "B": 1.2,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
