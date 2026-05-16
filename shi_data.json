@@ -1,45 +1,45 @@
 {
-    "shi": 1.12257,
-    "health_percent": 72.19,
+    "shi": 1.32338,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "56:21:43",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier"
+            "deviation": "High energy prices due to trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "loc": "London, UK",
+            "deviation": "Inefficient transportation infrastructure"
         },
         {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore",
+            "protocol": "Innovation-friendly policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Effective anti-corruption measures"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy reform"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable urban planning"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SIGNAL MODERATE GROWTH IN THE ASIA-PACIFIC REGION. GLOBAL TRADE AGREEMENTS SHOW SIGNS OF IMPROVEMENT. SUPPLY CHAIN DISRUPTIONS PERSIST IN KEY SECTORS.",
-    "last_updated": "2026-05-16 21:03:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARNING OF POTENTIAL COLLAPSE IN MAJOR ECONOMIES.",
+    "last_updated": "2026-05-16 21:59:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 1.21,
-        "C": 0.85
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.78
     }
 }
