@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.2,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "shi": 2.58038,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:27:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": " Infrastructure and governance issues"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable governance"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Sustainable practices and social cohesion"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE SHOWING MIXED SIGNALS, WITH SOME REGIONS EXPERIENCING GROWTH WHILE OTHERS FACE CHALLENGES. TRADE TENSIONS AND ENERGY SECURITY REMAIN KEY CONCERNS.",
-    "last_updated": "2026-05-17 14:51:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AMID RISING INFLATION CONCERNS; OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS; TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES NEAR CRITICAL POINT.",
+    "last_updated": "2026-05-17 15:46:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "P": 0.82,
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.65,
+        "C": 0.92
     }
 }
