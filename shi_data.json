@@ -1,45 +1,45 @@
 {
-    "shi": 0.77111,
-    "health_percent": 73.4,
-    "location": "NEW YORK, USA",
+    "shi": 1.64792,
+    "health_percent": 67.5,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:22",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy shortages"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Debt crisis"
+            "loc": "London, UK",
+            "deviation": "Regulatory bottlenecks and inefficient governance"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Business-friendly policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption and transparency"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Corruption-free governance"
+            "protocol": "Stable monetary policy and financial regulation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TALKS STALLED, AND ENERGY DEMAND ON THE RISE. EXPERTS PREDICT A HIGH-RISK SCENARIO FOR GLOBAL ECONOMIC STABILITY.",
-    "last_updated": "2026-05-17 01:54:14",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL ECONOMIC UNCERTAINTY ON THE RISE, TRADE TENSIONS BETWEEN MAJOR NATIONS ESCALATING, AND CONCERNS ABOUT SUPPLY CHAIN DISRUPTIONS GROWING.",
+    "last_updated": "2026-05-17 05:43:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 1.05
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
