@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 74.23,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and high regulatory complexity"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-related trade uncertainty and skill shortages"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and political instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fintech and business-friendly regulatory environment"
+            "protocol": "Innovation and financial stability"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and green technology initiatives"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and social stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, COMMODITY PRICES FLUCTUATE WILDLY, AND CENTRAL BANKS INTERVENE TO STABILIZE MARKETS.",
-    "last_updated": "2026-05-17 16:40:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIC POWERS.",
+    "last_updated": "2026-05-17 17:41:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.65
+        "C": 0.67
     }
 }
