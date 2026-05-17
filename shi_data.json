@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 62.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "36:02:15",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:07:41",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "Trade War Tariffs"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy infrastructure vulnerabilities"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Energy Crisis"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Corruption and regulatory hurdles"
+            "loc": "Greece, Athens",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs and favorable business environment"
+            "protocol": "Advanced Trade Policy"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy Infrastructure"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong governance and low corruption"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Investment in renewable energy and sustainable infrastructure"
+            "protocol": "Financial Regulatory Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INSTABILITY THREATENS GLOBAL MARKETS, WITH KEY CITIES AT RISK OF COLLAPSE. EXPERTS CALL FOR URGENT POLICY REFORMS TO MITIGATE THE EFFECTS OF BOTTLENECKS AND PROMOTE SUSTAINABLE GROWTH.",
-    "last_updated": "2026-05-17 12:04:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING MODERATE VOLATILITY, INTERNATIONAL TRADE NEGOTIATIONS ONGOING, AND RENEWABLE ENERGY INVESTMENTS ON THE RISE",
+    "last_updated": "2026-05-17 13:54:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.82
+        "C": 0.42
     }
 }
