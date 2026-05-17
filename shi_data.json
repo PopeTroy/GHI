@@ -1,45 +1,45 @@
 {
-    "shi": 3.10239,
-    "health_percent": 74.25,
+    "shi": 1.05203,
+    "health_percent": 72.55,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War Tariffs"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High National Debt"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-Business Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy Innovations"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy and Low Corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, NEW ECONOMIC FORECASTS PREDICT 3.5% GROWTH IN EMERGING MARKETS",
-    "last_updated": "2026-05-17 20:38:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISING, MAJOR TRADE DISRUPTIONS REPORTED, GOVERNMENTS SCRAMBLE TO IMPLEMENT REFORMS",
+    "last_updated": "2026-05-17 21:37:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 1.21,
-        "T": 0.91,
-        "B": 0.42,
-        "C": 1.01
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
