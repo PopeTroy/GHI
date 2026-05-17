@@ -1,45 +1,45 @@
 {
-    "shi": 1.63647,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 3.21566,
+    "health_percent": 87.32,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoint"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barrier"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
             "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reform"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS ESCALATE; ENERGY PRICES SURGE DUE TO SHORTAGE; ECONOMISTS PREDICT SLOW GROWTH IN KEY REGIONS",
-    "last_updated": "2026-05-17 22:32:23",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: TRADE TALKS BETWEEN USA AND CHINA STALLED, OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS, IMF PREDICTS GLOBAL ECONOMIC SLOWDOWN",
+    "last_updated": "2026-05-17 23:34:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 1.21,
-        "T": 0.95,
-        "B": 1.1,
-        "C": 0.8
+        "T": 1.05,
+        "B": 0.62,
+        "C": 0.78
     }
 }
