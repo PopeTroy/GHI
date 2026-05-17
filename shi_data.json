@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 72.55,
+    "shi": 1.63647,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoint"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY RISING, MAJOR TRADE DISRUPTIONS REPORTED, GOVERNMENTS SCRAMBLE TO IMPLEMENT REFORMS",
-    "last_updated": "2026-05-17 21:37:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS ESCALATE; ENERGY PRICES SURGE DUE TO SHORTAGE; ECONOMISTS PREDICT SLOW GROWTH IN KEY REGIONS",
+    "last_updated": "2026-05-17 22:32:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.87,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.8
     }
 }
