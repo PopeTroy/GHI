@@ -1,45 +1,45 @@
 {
-    "shi": 1.72324,
-    "health_percent": 67.32,
-    "location": "TOKYO, JAPAN",
+    "shi": 3.10239,
+    "health_percent": 74.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade War Tariffs"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and high operating costs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Restrictions"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inefficient regulations and bureaucratic corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Pro-Business Policy Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and economic stability"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy Innovations"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable growth and trade agreements"
+            "protocol": "Diversified Economy and Low Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY. TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES STALLED. ENERGY PRICES SKYROCKETING DUE TO GEOPOLITICAL TENSIONS.",
-    "last_updated": "2026-05-17 19:52:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, NEW ECONOMIC FORECASTS PREDICT 3.5% GROWTH IN EMERGING MARKETS",
+    "last_updated": "2026-05-17 20:38:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.88
+        "P": 0.83,
+        "F": 1.21,
+        "T": 0.91,
+        "B": 0.42,
+        "C": 1.01
     }
 }
