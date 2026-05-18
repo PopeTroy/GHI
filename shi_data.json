@@ -1,45 +1,45 @@
 {
-    "shi": 1.07955,
-    "health_percent": 64.2,
-    "location": "NEW YORK, USA",
+    "shi": 1.61847,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:10",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
+            "loc": "New York City, USA",
+            "deviation": "high debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Energy shortages due to high demand"
+            "deviation": "trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt-to-GDP ratio affecting economic stability"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers limiting exporters' access to global markets"
+            "loc": "Dubai, UAE",
+            "deviation": "energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative fintech policies promoting economic growth"
+            "protocol": "policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions reducing carbon emissions"
+            "loc": "Stockholm, Sweden",
+            "protocol": "innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption measures ensuring transparent governance"
+            "loc": "Zurich, Switzerland",
+            "protocol": "anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS ECONOMIC INSTABILITY RISES. TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, THREATENING SUPPLY CHAINS. CITIES WITH STRONG PROTOCOLS AND LOW BOTTLENECKS REMAIN STABLE, WHILE THOSE WITH HIGH DEVIATIONS FROM STABILITY FACE COLLAPSE.",
-    "last_updated": "2026-05-18 21:21:32",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-05-18 22:29:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.75
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.81
     }
 }
