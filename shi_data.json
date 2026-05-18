@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
+        },
+        {
             "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption"
+            "loc": "Switzerland",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS PREDICT A DOWNTURN IN THE NEXT QUARTER",
-    "last_updated": "2026-05-18 09:31:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMIES STRUGGLING TO RECOVER FROM PANDEMIC",
+    "last_updated": "2026-05-18 12:51:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
