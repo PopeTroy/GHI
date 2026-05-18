@@ -1,45 +1,45 @@
 {
-    "shi": 3.21566,
-    "health_percent": 87.32,
-    "location": "NEW YORK CITY, USA",
+    "shi": 2.22196,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade Barrier"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barrier"
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reform"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable Policy Reform"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: TRADE TALKS BETWEEN USA AND CHINA STALLED, OIL PRICES SURGE DUE TO MIDDLE EAST TENSIONS, IMF PREDICTS GLOBAL ECONOMIC SLOWDOWN",
-    "last_updated": "2026-05-17 23:34:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATOR SHOWS A DECLINE IN STABILITY, WITH A POTENTIAL COLLAPSE IN 48 HOURS. NEW YORK IDENTIFIED AS A HIGH-IMPACT LOCATION. THREE BOTTLENECK NODES IDENTIFIED IN BEIJING, ISTANBUL, AND TOKYO. THREE HIGH SHI NODES IDENTIFIED IN SINGAPORE, COPENHAGEN, AND VANCOUVER.",
+    "last_updated": "2026-05-18 01:31:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 0.62,
-        "C": 0.78
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
