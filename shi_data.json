@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.21,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:27:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "London, UK",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-Corruption Reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS, WHILE INNOVATION HUBS EXPERIENCE GROWTH AND STABILITY.",
-    "last_updated": "2026-05-19 08:49:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW A 2.1% INCREASE IN TRADE VOLUMES, WHILE ENERGY PRICES HAVE DROPPED BY 1.5% IN THE PAST QUARTER.",
+    "last_updated": "2026-05-19 11:48:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
