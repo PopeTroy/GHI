@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.32,
+    "shi": 1.16538,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Beijing, China",
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy Shortages"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and regulatory barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Excessive Debt"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovative Tax Reforms"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stringent Anti-Corruption Laws"
+        },
+        {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation and anti-corruption policies"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Policy reforms and investment in renewable energy"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong institutional framework and social cohesion"
+            "protocol": "Cutting-Edge Technology Integration"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS DUE TO GEOPOLITICAL TENSIONS, WHILE CITIES LIKE TOKYO AND SAN FRANCISCO DEMONSTRATE RESILIENCE WITH INNOVATIVE GROWTH STRATEGIES.",
-    "last_updated": "2026-05-19 19:23:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, BUT HIGH SHI NODES SHOW PROMISE FOR GROWTH AND DEVELOPMENT.",
+    "last_updated": "2026-05-19 20:56:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.02,
+        "B": 1.12,
+        "C": 0.88
     }
 }
