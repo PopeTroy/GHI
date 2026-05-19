@@ -1,21 +1,21 @@
 {
-    "shi": 1.63647,
-    "health_percent": 74.21,
+    "shi": 0.84052,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:19",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Riyadh, Saudi Arabia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tehran, Iran",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS; ECONOMISTS PREDICT MODERATE GROWTH FOR Q2; NEW POLICY REFORMS ANNOUNCED IN SINGAPORE TO BOOST INNOVATION",
-    "last_updated": "2026-05-19 22:16:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN DEMONSTRATE RESILIENCE THROUGH EFFECTIVE PROTOCOLS.",
+    "last_updated": "2026-05-19 23:34:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.95,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
         "B": 1.1,
-        "C": 0.8
+        "C": 0.95
     }
 }
