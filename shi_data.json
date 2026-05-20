@@ -1,45 +1,45 @@
 {
-    "shi": 2.3032,
-    "health_percent": 72.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.05203,
+    "health_percent": 72.11,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:20:10",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High trade barriers and corruption"
         },
         {
-            "loc": "London, United Kingdom",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and high debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions and limited economic diversification"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and business-friendly policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption and stable governance"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and strong education system"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATION DUE TO TRADE TENSIONS, WITH KEY PLAYERS LIKE THE US AND CHINA ENGAGING IN TALKS TO EASE RESTRICTIONS. ENERGY PRICES RISE DUE TO GEOPOLITICAL UNREST, AFFECTING SUPPLY CHAINS WORLDWIDE.",
-    "last_updated": "2026-05-20 11:36:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, OIL PRICES FLUCTUATE WILDLY",
+    "last_updated": "2026-05-20 14:13:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.67,
-        "C": 0.81
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
