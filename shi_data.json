@@ -1,45 +1,45 @@
 {
-    "shi": 1.1665,
-    "health_percent": 72.5,
+    "shi": 6.24266,
+    "health_percent": 72.12,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply vulnerability"
         },
         {
             "loc": "London, UK",
-            "deviation": "High regulatory barriers"
+            "deviation": "Trade barrier uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative tax reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation and technological advancements"
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and low debt"
+            "protocol": "Investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING NATIONALISM AND TRADE TENSIONS. REGIONAL HOTSPOTS INCLUDE THE MIDDLE EAST AND SOUTHEAST ASIA.",
-    "last_updated": "2026-05-20 22:52:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY EXPERIENCING MODERATE INSTABILITY, WITH TRADE TENSIONS AND ENERGY SUPPLY DISRUPTIONS CONTRIBUTING TO DEVIATIONS FROM STABILITY.",
+    "last_updated": "2026-05-20 23:59:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.25,
-        "C": 0.78
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.67
     }
 }
