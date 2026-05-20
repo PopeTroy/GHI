@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.21,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers, high debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Energy chokepoints, corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Overpopulation, infrastructure strain"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub, anti-corruption reforms"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms, financial stability"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Technological advancements, entrepreneurial ecosystem"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL COLLAPSE IN 48 HOURS. MARKETS FLUCTUATING WILDLY AS INVESTORS SCRAMBLE TO RESPOND.",
-    "last_updated": "2026-05-20 19:50:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-05-20 21:26:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
