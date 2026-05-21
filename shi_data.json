@@ -1,45 +1,45 @@
 {
-    "shi": 1.79002,
-    "health_percent": 67.32,
+    "shi": 2.32982,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "energy chokepoint"
+            "deviation": "Trade barriers due to high tariffs"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "deviation": "Energy supply disruptions due to pipeline issues"
         },
         {
             "loc": "London, UK",
-            "deviation": "high debt"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "trade barriers"
+            "deviation": "High debt levels affecting economic stability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "policy reforms"
+            "protocol": "Innovative trade policies and agreements"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Effective anti-corruption measures and transparency"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
+            "loc": "Tokyo, Japan",
+            "protocol": "Investment in renewable energy and green technologies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS EXPERIENCING SIGNIFICANT FLUCTUATIONS, MULTIPLE TRADE AGREEMENTS UNDER REVIEW",
-    "last_updated": "2026-05-21 08:18:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES; INNOVATIVE SOLUTIONS AND POLICY REFORMS CRUCIAL FOR SUSTAINED GROWTH",
+    "last_updated": "2026-05-21 11:39:55",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 0.75,
-        "C": 0.86
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.58
     }
 }
