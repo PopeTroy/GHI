@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
+    "shi": 1.31025,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:21:05",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and inefficient infrastructure"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and over-reliance on imports"
         },
         {
             "loc": "London, UK",
-            "deviation": "Over-reliance on foreign investment and brain drain"
+            "deviation": "Over-regulation and lack of innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust anti-corruption measures and innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Pro-business policy reforms and low corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and favorable business environment"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Strong focus on innovation and R&D"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high-quality infrastructure"
+            "protocol": "Diversified economy and effective governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, LEADERS CONVENING FOR EMERGENCY ECONOMIC SUMMIT",
-    "last_updated": "2026-05-21 20:58:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND GEOPOLITICAL INSTABILITY INCREASING",
+    "last_updated": "2026-05-21 22:24:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
+        "T": 1.07,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.76
     }
 }
