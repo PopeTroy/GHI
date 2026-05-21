@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.23,
+    "shi": 1.79002,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "energy chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, KEY TRADE ROUTES AT RISK",
-    "last_updated": "2026-05-21 04:37:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS EXPERIENCING SIGNIFICANT FLUCTUATIONS, MULTIPLE TRADE AGREEMENTS UNDER REVIEW",
+    "last_updated": "2026-05-21 08:18:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "T": 1.05,
+        "B": 0.75,
+        "C": 0.86
     }
 }
