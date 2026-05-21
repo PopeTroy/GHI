@@ -1,45 +1,45 @@
 {
-    "shi": 1.31025,
-    "health_percent": 73.42,
+    "shi": 2.22196,
+    "health_percent": 72.1,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:05",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and over-reliance on imports"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Over-regulation and lack of innovation"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms and low corruption"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong focus on innovation and R&D"
+            "loc": "Dubai, UAE",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and effective governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND GEOPOLITICAL INSTABILITY INCREASING",
-    "last_updated": "2026-05-21 22:24:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY DEMAND SURGING IN ASIA",
+    "last_updated": "2026-05-21 23:33:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.07,
-        "B": 1.21,
-        "C": 0.76
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
