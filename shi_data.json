@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 73.21,
+    "shi": 2.952,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade tariffs"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy shortages"
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio"
+            "loc": "London, UK",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Advanced trade agreements"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative green technologies"
+            "loc": "Tokyo, Japan",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMISTS WARN OF POTENTIAL COLLAPSE",
-    "last_updated": "2026-05-22 05:45:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-05-22 08:40:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.75,
+        "B": 0.65,
+        "C": 0.42
     }
 }
