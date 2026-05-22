@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 72.5,
+    "shi": 1.05203,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "36:02:15",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers causing 15% import decline"
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints resulting in 20% price increase"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High debt to GDP ratio leading to 30% inflation rate"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative tax reforms for growth"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Strategic policy for technology advancements"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption laws for stability"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR CIVIL UNREST | GLOBAL ECONOMIC INSTABILITY WARNING, POTENTIAL COLLAPSE IN 36 HOURS. KEY CITIES EXPERIENCING HIGH DEVIATION FROM STABILITY. IMPLEMENTING GROWTH PROTOCOLS IN STABLE NODES FOR MITIGATION.",
-    "last_updated": "2026-05-22 20:13:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO ONGOING TRADE DISPUTES AND ENERGY SUPPLY DISRUPTIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
+    "last_updated": "2026-05-22 21:36:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.69
     }
 }
