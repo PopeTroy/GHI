@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.21,
+    "shi": 2.22196,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "High trade tariffs"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt-to-GDP ratio"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reform"
+            "loc": "Singapore",
+            "protocol": "Advanced trade agreements"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovative green technologies"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO RECENT TRADE AGREEMENTS. ENERGY PRICES RISING IN EUROPE. ASIAN ECONOMIES SEEING GROWTH IN TECH SECTOR.",
-    "last_updated": "2026-05-22 01:31:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMISTS WARN OF POTENTIAL COLLAPSE",
+    "last_updated": "2026-05-22 05:45:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.59
     }
 }
