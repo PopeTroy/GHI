@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.25,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barriers with the US and EU"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Venezuela, Caracas",
+            "deviation": "High debt and energy shortages"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "loc": "Gaza Strip, Palestine",
+            "deviation": "Lack of basic infrastructure and resources"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Streamlined tax reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "Iceland, Reykjavik",
+            "protocol": "Implementation of renewable energy sources"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Effective urban planning and green space initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO ONGOING TRADE DISPUTES AND ENERGY SUPPLY DISRUPTIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
-    "last_updated": "2026-05-22 21:36:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | US STOCK MARKET DROPS 3% OVERNIGHT DUE TO GLOBAL ECONOMIC UNCERTAINTY, OIL PRICES RISE TO $75 PER BARREL, AND THE EUROPEAN UNION ANNOUNCES NEW TRADE AGREEMENTS WITH ASIA",
+    "last_updated": "2026-05-22 22:38:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
