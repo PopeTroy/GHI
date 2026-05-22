@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 62.15,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 0.76411,
+    "health_percent": 72.5,
+    "location": "NEW YORK, USA",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "36:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "Trade barriers causing 15% import decline"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and aging infrastructure"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints resulting in 20% price increase"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "Caracas, Venezuela",
+            "deviation": "High debt to GDP ratio leading to 30% inflation rate"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative tax reforms for growth"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Strategic policy for technology advancements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable economy"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green initiatives and sustainable growth strategies"
+            "protocol": "Stringent anti-corruption laws for stability"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN AS TRADE TENSIONS RISE. ECONOMISTS PREDICT POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT QUARTER.",
-    "last_updated": "2026-05-22 18:15:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR CIVIL UNREST | GLOBAL ECONOMIC INSTABILITY WARNING, POTENTIAL COLLAPSE IN 36 HOURS. KEY CITIES EXPERIENCING HIGH DEVIATION FROM STABILITY. IMPLEMENTING GROWTH PROTOCOLS IN STABLE NODES FOR MITIGATION.",
+    "last_updated": "2026-05-22 20:13:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.95
     }
 }
