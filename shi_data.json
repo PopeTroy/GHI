@@ -1,45 +1,45 @@
 {
-    "shi": 3.73445,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.06534,
+    "health_percent": 78.52,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy import dependence"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure challenges and bureaucratic inefficiencies"
+            "deviation": "Corruption and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and research grants"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and financial stability"
+            "protocol": "Anti-corruption and transparency laws"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable development and environmental initiatives"
+            "protocol": "Sustainable energy and green infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT: 3 CRITICAL BOTTLENECKS IDENTIFIED, 72 HOURS TO POTENTIAL COLLAPSE",
-    "last_updated": "2026-05-23 12:50:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY WARNINGS ISSUED FOR JAPAN, INDIA, AND BRAZIL. GLOBAL MARKETS EXPERIENCING MODERATE FLUCTUATIONS. OIL PRICES RISING DUE TO SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-05-23 14:21:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.42
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.76
     }
 }
