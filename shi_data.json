@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 62.15,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.85227,
+    "health_percent": 73.42,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "deviation": "High inflation and infrastructure constraints"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub and business-friendly policies"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Robust infrastructure and anti-corruption measures"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Reforms"
+            "protocol": "Strong financial regulations and diversified economy"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-05-23 19:51:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO RISING TRADE TENSIONS, WHILE REGIONAL HUBS LIKE SINGAPORE AND TOKYO DEMONSTRATE RESILIENCE THROUGH INNOVATIVE POLICIES AND INFRASTRUCTURE INVESTMENTS.",
+    "last_updated": "2026-05-23 20:36:20",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.95
     }
 }
