@@ -1,45 +1,45 @@
 {
-    "shi": 1.06534,
-    "health_percent": 78.52,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy import dependence"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Corruption and regulatory hurdles"
+            "deviation": "Energy chokepoints and corruption"
+        },
+        {
+            "loc": "New York, USA",
+            "deviation": "High debt and economic inequality"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and research grants"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and anti-corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparency laws"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and green infrastructure"
+            "protocol": "Financial stability and strong institutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY WARNINGS ISSUED FOR JAPAN, INDIA, AND BRAZIL. GLOBAL MARKETS EXPERIENCING MODERATE FLUCTUATIONS. OIL PRICES RISING DUE TO SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-05-23 14:21:58",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY SPREADS ACROSS THE GLOBE, WITH TOKYO IDENTIFIED AS A HIGH-IMPACT LOCATION. BOTTLENECKS IN BEIJING, MOSCOW, AND NEW YORK THREATEN GLOBAL STABILITY, WHILE SINGAPORE, COPENHAGEN, AND ZURICH DEMONSTRATE STRONG PROTOCOLS FOR GROWTH AND STABILITY.",
+    "last_updated": "2026-05-23 16:38:03",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.76
+        "C": 0.69
     }
 }
