@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.25,
+    "shi": 1.64792,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers and energy shortages"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and inefficient protocols"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Over-reliance on imported goods and energy"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inefficient infrastructure and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative financial policies and trade agreements"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and robust infrastructure"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative policy reforms and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strategic investments in renewable energy and technology"
+            "protocol": "Strong anti-corruption measures and high transparency"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions and efficient infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS, AND ENERGY MARKETS EXPERIENCE SIGNIFICANT FLUCTUATIONS.",
-    "last_updated": "2026-05-23 07:39:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING BOTTLENECKS, SHI NODES SHOW PROMISE FOR GROWTH",
+    "last_updated": "2026-05-23 09:25:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.82
     }
 }
