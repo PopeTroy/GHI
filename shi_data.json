@@ -1,45 +1,45 @@
 {
-    "shi": 1.80184,
-    "health_percent": 62.15,
+    "shi": 2.38209,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints and infrastructure issues"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Inefficient logistics and high tariffs"
+            "loc": "Singapore, Singapore",
+            "deviation": "Over-reliance on international trade and vulnerable supply chains"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Business-friendly policy reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovative technology and policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation and technological advancements"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption measures and stable economy"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and transparency initiatives"
+            "loc": "Sydney, Australia",
+            "protocol": "Diversified economy and robust infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY RISES AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM DEMONSTRATE RESILIENCE THROUGH INNOVATIVE POLICIES AND CORRUPTION-FREE GOVERNANCE.",
-    "last_updated": "2026-05-23 21:33:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR THE EU, GLOBAL TRADE VOLUMES DECLINE BY 5%, US INFLATION RATE REACHES 6%.",
+    "last_updated": "2026-05-23 22:31:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.85
+        "T": 1.1,
+        "B": 0.65,
+        "C": 0.8
     }
 }
