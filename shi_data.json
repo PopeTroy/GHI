@@ -1,45 +1,45 @@
 {
-    "shi": 2.38209,
-    "health_percent": 72.5,
+    "shi": 0.76411,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:23:10",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Over-reliance on international trade and vulnerable supply chains"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovative technology and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and stable economy"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Diversified economy and robust infrastructure"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR THE EU, GLOBAL TRADE VOLUMES DECLINE BY 5%, US INFLATION RATE REACHES 6%.",
-    "last_updated": "2026-05-23 22:31:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS SCRAMBLING TO IMPLEMENT PROTOCOLS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES",
+    "last_updated": "2026-05-23 23:33:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.65,
-        "C": 0.8
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
