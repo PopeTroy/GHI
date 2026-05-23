@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:19",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints and Corruption"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "Trade Barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure and Regulatory Challenges"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Singapore",
+            "protocol": "Innovation and Anti-Corruption Reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms and Financial Stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Sustainable Energy and Trade Agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW MIXED SIGNALS, EXPERTS WARN OF POTENTIAL DOWNTURN IN GLOBAL TRADE",
-    "last_updated": "2026-05-22 23:44:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, MEANWHILE CITIES LIKE SINGAPORE AND COPENHAGEN LEAD IN ECONOMIC STABILITY AND GROWTH.",
+    "last_updated": "2026-05-23 01:28:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
