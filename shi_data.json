@@ -1,45 +1,45 @@
 {
-    "shi": 1.99211,
-    "health_percent": 62.1,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:15",
+    "shi": 0.41544,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and high debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure issues"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption protocols"
+            "loc": "Singapore",
+            "protocol": "Innovative economic policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "High investment in research and development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO GROWING TRADE TENSIONS AND HIGH DEBT LEVELS. CITIES LIKE NEW YORK, BEIJING, AND TOKYO ARE EXPERIENCING SIGNIFICANT DEVIATIONS FROM STABILITY.",
-    "last_updated": "2026-05-24 19:54:57",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES",
+    "last_updated": "2026-05-24 20:50:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
-        "F": 0.92,
-        "T": 1.05,
-        "B": 0.75,
-        "C": 0.81
+        "F": 1.23,
+        "T": 0.95,
+        "B": 2.11,
+        "C": 1.67
     }
 }
