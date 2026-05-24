@@ -1,45 +1,45 @@
 {
-    "shi": 0.80184,
-    "health_percent": 62.15,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.82554,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "high debt to GDP ratio"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "increased trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "energy shortages"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "anti-corruption reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "innovation hubs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "policy reforms for stability"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL COLLAPSE IN THE NEXT 48 HOURS. STAY TUNED FOR UPDATES.",
-    "last_updated": "2026-05-24 16:38:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-05-24 17:40:00",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.92,
-        "T": 0.75,
+        "P": 0.87,
+        "F": 0.65,
+        "T": 0.92,
         "B": 1.21,
-        "C": 0.85
+        "C": 0.75
     }
 }
