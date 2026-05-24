@@ -1,45 +1,45 @@
 {
-    "shi": 1.173,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:09",
+    "shi": 0.84052,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "36:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier imposition"
+            "deviation": "High energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply disruptions"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Escalating national debt"
+            "loc": "New Delhi, India",
+            "deviation": "Inefficient infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub development"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy integration"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial sector reform"
+            "protocol": "Anti-corruption and stable governance"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high-quality infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND ENERGY PRICES INCREASING.",
-    "last_updated": "2026-05-24 08:06:58",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. JAPAN'S ECONOMY AT RISK DUE TO SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-05-24 10:05:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.88
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
