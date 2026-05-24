@@ -1,45 +1,45 @@
 {
-    "shi": 0.41544,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure issues"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative economic policy reforms"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "High investment in research and development"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES",
-    "last_updated": "2026-05-24 20:50:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WHILE REGIONAL INSTABILITY RISES IN EASTERN EUROPE AND LATIN AMERICA.",
+    "last_updated": "2026-05-24 21:41:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.95,
-        "B": 2.11,
-        "C": 1.67
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
