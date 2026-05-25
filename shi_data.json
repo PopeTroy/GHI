@@ -1,45 +1,45 @@
 {
-    "shi": 1.95454,
-    "health_percent": 72.11,
+    "shi": 3.21737,
+    "health_percent": 72.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt Ratio"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit uncertainties and rising inflation"
+            "deviation": " Trade Barrier Imposed"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and innovation hubs"
+            "protocol": "Effective Policy Reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures and stable governance"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy solutions and social welfare programs"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. INNOVATION HUBS EMERGE IN SINGAPORE AND ZURICH, DRIVING GROWTH AND STABILITY.",
-    "last_updated": "2026-05-25 18:01:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWDOWN: 3.2% DECREASE IN EXPORTS REPORTED. MARKETS FLUCTUATE IN ANTICIPATION OF POLICY REFORMS.",
+    "last_updated": "2026-05-25 19:54:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
+        "T": 0.78,
         "B": 0.65,
-        "C": 0.78
+        "C": 0.42
     }
 }
