@@ -1,45 +1,45 @@
 {
-    "shi": 1.07351,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.95454,
+    "health_percent": 72.11,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and aging population"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy chokepoints and regulatory hurdles"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure constraints and corruption"
+            "deviation": "Brexit uncertainties and rising inflation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable governance"
+            "protocol": "Anti-corruption measures and stable governance"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong institutions"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy solutions and social welfare programs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, GEOPOLITICAL TENSIONS RISING, AND CLIMATE CHANGE IMPACTING TRADE ROUTES.",
-    "last_updated": "2026-05-25 16:18:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. INNOVATION HUBS EMERGE IN SINGAPORE AND ZURICH, DRIVING GROWTH AND STABILITY.",
+    "last_updated": "2026-05-25 18:01:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.17,
+        "T": 0.88,
+        "B": 0.65,
         "C": 0.78
     }
 }
