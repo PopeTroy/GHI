@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 74.21,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Anti-corruption and innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and low debt"
+            "protocol": "Innovation hubs"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO TRADE TENSIONS AND HIGH DEBT. SINGAPORE AND SAN FRANCISCO ARE TOP PERFORMERS IN INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-05-25 21:00:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY, GOVERNMENTS SCRAMBLING TO STABILIZE ECONOMIES",
+    "last_updated": "2026-05-25 22:14:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
