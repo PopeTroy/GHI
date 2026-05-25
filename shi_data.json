@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 72.15,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
+            "deviation": "Trade barriers and high debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": " Trade Barrier Imposed"
+            "deviation": "Aging population and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Financial stability and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWDOWN: 3.2% DECREASE IN EXPORTS REPORTED. MARKETS FLUCTUATE IN ANTICIPATION OF POLICY REFORMS.",
-    "last_updated": "2026-05-25 19:54:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO TRADE TENSIONS AND HIGH DEBT. SINGAPORE AND SAN FRANCISCO ARE TOP PERFORMERS IN INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-05-25 21:00:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
