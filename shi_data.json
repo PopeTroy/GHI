@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 1.33713,
     "health_percent": 74.21,
     "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive trade barriers and regulations"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "High energy costs and unreliable supply"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Rising national debt and economic sanctions"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Streamlined business regulations and low corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong innovation and high-tech industry"
+            "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse economy and high level of economic freedom"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A 2.5% INCREASE IN GLOBAL TRADE, BUT RISING DEBT AND ENERGY COSTS THREATEN STABILITY. THE SITUATION IS BEING CLOSELY MONITORED.",
-    "last_updated": "2026-05-25 01:53:32",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, BUT OVERALL STABILITY REMAINS INTACT.",
+    "last_updated": "2026-05-25 06:19:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.11,
+        "B": 1.23,
+        "C": 0.76
     }
 }
