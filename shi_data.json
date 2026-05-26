@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 2.77781,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-related trade uncertainty"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative fintech reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption policies"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy initiatives"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY. NEW YORK IDENTIFIED AS HIGH-IMPACT LOCATION. SUPPLY CHAIN DISRUPTIONS EXPECTED. BOTTLENECKS IN BEIJING, DUBAI, AND LONDON. HIGH SHI NODES IN SINGAPORE, ZURICH, AND VANCOUVER.",
-    "last_updated": "2026-05-25 23:33:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING DEBT AND TRADE TENSIONS. SINGAPORE AND COPENHAGEN SHOW PROMISE WITH INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-05-26 01:27:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.62,
+        "C": 0.51
     }
 }
