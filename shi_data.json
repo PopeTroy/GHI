@@ -1,45 +1,45 @@
 {
-    "shi": 2.13108,
-    "health_percent": 82.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZE AFTER ECONOMIC REFORMS, BUT SUPPLY CHAIN DISRUPTIONS PERSIST IN KEY REGIONS.",
-    "last_updated": "2026-05-26 08:54:45",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE SLIGHT UPTICK, BUT ECONOMISTS WARN OF IMPENDING SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-05-26 16:05:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
-        "B": 0.75,
-        "C": 0.62
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
