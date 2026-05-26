@@ -1,45 +1,45 @@
 {
-    "shi": 2.77781,
+    "shi": 3.21737,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt levels"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING DEBT AND TRADE TENSIONS. SINGAPORE AND COPENHAGEN SHOW PROMISE WITH INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-05-26 01:27:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, GOVERNMENTS IMPLEMENTING AUSTERITY MEASURES",
+    "last_updated": "2026-05-26 05:40:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.62,
-        "C": 0.51
+        "B": 0.65,
+        "C": 0.42
     }
 }
