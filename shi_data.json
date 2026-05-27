@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "56:32:14",
+    "shi": 1.59873,
+    "health_percent": 73.21,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Paris, France",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS SHOWING SIGNS OF INSTABILITY, EXPERTS WARN OF IMPENDING RECESSION",
-    "last_updated": "2026-05-27 22:25:41",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-05-27 23:43:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.82
     }
 }
