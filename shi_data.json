@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 62.15,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy chokepoints and low policy reforms"
+            "loc": "Singapore, Singapore",
+            "deviation": "High debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt and lack of innovation"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and policy reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and financial stability"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and stable governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC OUTLOOK: UNSTABLE, WITH HIGH RISK OF SUPPLY CHAIN DISRUPTIONS AND TRADE WARS. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR KEY NODES FOR POTENTIAL COLLAPSES.",
-    "last_updated": "2026-05-27 09:54:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICES SHOW SIGNIFICANT FLUCTUATIONS, PROMPTING CALLS FOR URGENT REFORMS AND INVESTMENTS IN KEY SECTORS.",
+    "last_updated": "2026-05-27 12:49:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 0.65,
+        "C": 0.42
     }
 }
