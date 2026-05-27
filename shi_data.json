@@ -1,45 +1,45 @@
 {
-    "shi": 2.71111,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.12,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
+            "loc": "New York, USA",
+            "deviation": "High Debt Levels"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Palo Alto, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING FISCAL POLICIES TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-05-26 23:21:26",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR TOKYO, JAPAN. TRADE TALKS BETWEEN USA AND CHINA HAVE STALLED, INCREASING TENSIONS. DUBAI EXPERIENCES FUEL SHORTAGES DUE TO ENERGY CHOKEPOINTS.",
+    "last_updated": "2026-05-27 01:30:39",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 1.11,
-        "B": 0.67,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
