@@ -1,45 +1,45 @@
 {
-    "shi": 1.93233,
-    "health_percent": 67.23,
+    "shi": 1.173,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:59",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "BEIJING, CHINA",
-            "deviation": "High debt and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "MOSCOW, RUSSIA",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and inflation"
         },
         {
-            "loc": "NEW DELHI, INDIA",
-            "deviation": "Infrastructure and policy inefficiencies"
+            "loc": "Moscow, Russia",
+            "deviation": "Geopolitical tensions and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "SINGAPORE, SINGAPORE",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative trade policies and low corruption"
         },
         {
-            "loc": "ZURICH, SWITZERLAND",
-            "protocol": "Anti-corruption and stable governance"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial regulations and high transparency"
         },
         {
-            "loc": "SEOUL, SOUTH KOREA",
-            "protocol": "Investment in human capital and technology"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and effective anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES",
-    "last_updated": "2026-05-27 18:39:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES BY 15% IN THE LAST 24 HOURS, WHILE THE US FEDERAL RESERVE ANNOUNCES A SURPRISE INTEREST RATE CUT.",
+    "last_updated": "2026-05-27 20:53:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 0.65,
-        "C": 0.78
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.88
     }
 }
