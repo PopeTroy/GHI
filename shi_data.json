@@ -1,45 +1,45 @@
 {
-    "shi": 1.173,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "56:32:14",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Paris, France",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and inflation"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Geopolitical tensions and corruption"
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative trade policies and low corruption"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and high transparency"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and effective anti-corruption measures"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES BY 15% IN THE LAST 24 HOURS, WHILE THE US FEDERAL RESERVE ANNOUNCES A SURPRISE INTEREST RATE CUT.",
-    "last_updated": "2026-05-27 20:53:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS SHOWING SIGNS OF INSTABILITY, EXPERTS WARN OF IMPENDING RECESSION",
+    "last_updated": "2026-05-27 22:25:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.88
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
