@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
-    "health_percent": 82.15,
-    "location": "NEW YORK CITY, USA",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Port Congestion"
+            "loc": "New York City, USA",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Energy"
+            "loc": "Mumbai, India",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE ACTIVITY SLOWED BY 2% DUE TO PANDEMIC, MARKETS VOLATILE, OIL PRICES SURGE TO $120 PER BARREL",
-    "last_updated": "2026-05-28 12:52:06",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-05-28 16:45:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
