@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.75615,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:02:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt Levels"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Lagos, Nigeria",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Reforms"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-05-28 16:45:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. CENTRAL BANKS ANNOUNCE STIMULUS PACKAGES TO MITIGATE POTENTIAL DOWNTURN.",
+    "last_updated": "2026-05-28 19:28:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.96
     }
 }
