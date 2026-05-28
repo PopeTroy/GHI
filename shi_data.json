@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 64.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "shi": 2.341,
+    "health_percent": 82.15,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Port Congestion"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt"
+            "deviation": "Brexit"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Stability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS",
-    "last_updated": "2026-05-28 09:35:18",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE ACTIVITY SLOWED BY 2% DUE TO PANDEMIC, MARKETS VOLATILE, OIL PRICES SURGE TO $120 PER BARREL",
+    "last_updated": "2026-05-28 12:52:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
+        "B": 0.56,
         "C": 0.67
     }
 }
