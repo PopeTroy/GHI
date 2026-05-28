@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.47475,
+    "health_percent": 87.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:15",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and economic stagnation"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High population growth and resource scarcity"
+            "loc": "London, UK",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative policy reforms"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and transparency measures"
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy development and investment"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF IMPENDING COLLAPSE IN KEY REGIONS. TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS, WHILE INNOVATION AND POLICY REFORMS OFFER GLIMMERS OF HOPE IN SELECT CITIES.",
-    "last_updated": "2026-05-28 21:31:44",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO SUPPLY CHAIN DISRUPTIONS, ECONOMISTS PREDICT POSSIBLE DOWNTURN IN Q2",
+    "last_updated": "2026-05-28 22:55:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.93,
+        "B": 1.06,
+        "C": 0.85
     }
 }
