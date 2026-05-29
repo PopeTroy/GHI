@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 67.23,
+    "shi": 0.84052,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:14",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "High Debt"
         },
         {
             "loc": "London, UK",
-            "deviation": "Debt Crisis"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative Tax Reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-Corruption Policies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Investment in Renewable Energy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC INSTABILITY ON THE RISE. MONITOR KEY CITIES FOR POTENTIAL COLLAPSE.",
-    "last_updated": "2026-05-29 22:00:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKETS PLUMMET AS TRADE TENSIONS ESCALATE. GLOBAL DEBT REACHES RECORD HIGH. ECONOMIC STABILITY AT RISK.",
+    "last_updated": "2026-05-29 23:22:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
+        "B": 1.1,
         "C": 0.95
     }
 }
