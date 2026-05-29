@@ -1,45 +1,45 @@
 {
-    "shi": 1.47475,
-    "health_percent": 87.32,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.77048,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Vancouver, Canada",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Tokyo, Japan",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hubs"
+            "loc": "Dubai, UAE",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO SUPPLY CHAIN DISRUPTIONS, ECONOMISTS PREDICT POSSIBLE DOWNTURN IN Q2",
-    "last_updated": "2026-05-28 22:55:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWED DOWN BY 2% DUE TO INCREASED TRADE TENSIONS, WHILE TECH INNOVATION BOOSTS GROWTH IN KEY CITIES.",
+    "last_updated": "2026-05-29 00:09:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 1.06,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
