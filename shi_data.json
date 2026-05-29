@@ -1,17 +1,17 @@
 {
-    "shi": 2.76307,
-    "health_percent": 74.23,
+    "shi": 0.77048,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "collapse_timer": "96:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "London, UK",
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Investment Incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative Tax Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Regulation"
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-Corruption Policies"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Sydney, Australia",
+            "protocol": "Investment in Renewable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY FACES CHALLENGES, BUT GROWTH PROSPECTS REMAIN POSITIVE IN KEY REGIONS.",
-    "last_updated": "2026-05-29 20:01:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, ECONOMIC INSTABILITY ON THE RISE. MONITOR KEY CITIES FOR POTENTIAL COLLAPSE.",
+    "last_updated": "2026-05-29 22:00:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 1.09,
-        "B": 0.65,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
