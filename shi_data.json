@@ -1,45 +1,45 @@
 {
-    "shi": 3.69157,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "high debt"
+            "deviation": "Energy chokepoints and sanctions"
         },
         {
-            "loc": "Tehran, Iran",
-            "deviation": "energy chokepoints"
+            "loc": "Delhi, India",
+            "deviation": "Rapid urbanization and infrastructure strain"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "protocol": "Anti-corruption and stable governance"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green technologies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMIC STABILITY HANGS IN THE BALANCE.",
-    "last_updated": "2026-05-29 04:40:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS SHOW SIGNS OF VOLATILITY, EU LEADERS MEET TO DISCUSS ECONOMIC RECOVERY",
+    "last_updated": "2026-05-29 08:28:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 0.92,
-        "B": 0.67,
-        "C": 0.56
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
