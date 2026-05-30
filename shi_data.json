@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Price Volatility"
         },
         {
-            "loc": "Bangkok, Thailand",
-            "deviation": "Rising debt"
+            "loc": "Mumbai, India",
+            "deviation": "Regulatory Uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Pro-Business Reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable policy"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERT: TRADE TENSIONS BETWEEN US AND CHINA ON THE RISE, OIL PRICES FLUCTUATING, AND DEBT CRISIS IN THAILAND LOOMING",
-    "last_updated": "2026-05-30 16:31:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS ESCALATE; ECONOMISTS PREDICT A MILD RECESSION IN THE NEXT QUARTER.",
+    "last_updated": "2026-05-30 17:39:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "B": 1.21,
+        "C": 0.67
     }
 }
