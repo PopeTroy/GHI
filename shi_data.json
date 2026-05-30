@@ -1,43 +1,43 @@
 {
-    "shi": 3.07008,
-    "health_percent": 67.25,
+    "shi": 3.21737,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:09",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and supply chain disruptions"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers and supply chain disruptions"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and infrastructure bottlenecks"
+            "deviation": "High debt and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-corruption and economic diversification"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation and technology advancements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and trade agreements"
+            "protocol": "Stable financial system and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, OIL PRICES RISING, AND GEOPOLITICAL TENSIONS ESCALATING",
-    "last_updated": "2026-05-30 18:45:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY COMPROMISED DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS. CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF SUPPLY CHAIN BREAKS.",
+    "last_updated": "2026-05-30 19:57:43",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
         "B": 0.65,
         "C": 0.42
