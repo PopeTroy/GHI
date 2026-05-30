@@ -1,45 +1,45 @@
 {
-    "shi": 2.5683,
-    "health_percent": 73.21,
+    "shi": 2.70259,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "High Debt Ratio (112%)"
+            "loc": "Beijing, China",
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint (Limited Pipeline Capacity)"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade Barriers (High Tariffs on Imported Goods)"
+            "loc": "Bangkok, Thailand",
+            "deviation": "Rising debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub (High Tech Industry)"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms (Low Corporate Tax Rate)"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption (Transparent Governance)"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AT RISK DUE TO RISING DEBT LEVELS AND GLOBAL SUPPLY CHAIN DISRUPTIONS. POLICY REFORMS AND INNOVATION HUBS MAY MITIGATE COLLAPSE RISK.",
-    "last_updated": "2026-05-30 15:21:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERT: TRADE TENSIONS BETWEEN US AND CHINA ON THE RISE, OIL PRICES FLUCTUATING, AND DEBT CRISIS IN THAILAND LOOMING",
+    "last_updated": "2026-05-30 16:31:55",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.23,
-        "T": 1.09,
-        "B": 0.67,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.5
     }
 }
