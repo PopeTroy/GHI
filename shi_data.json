@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.21,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "96:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt ratio"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruptions"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers with neighboring countries"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructural constraints and policy inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub for fintech"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption policies"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Effective policy reforms for sustainable growth"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS ECONOMIC INSTABILITY LOOMS, WHILE KEY CITIES IMPLEMENT PROTOCOLS FOR GROWTH AND STABILITY",
-    "last_updated": "2026-05-30 21:02:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO ONGOING TRADE TENSIONS, WHILE INNOVATION HUBS SHOW SIGNS OF RESILIENCE AND GROWTH.",
+    "last_updated": "2026-05-30 22:09:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
