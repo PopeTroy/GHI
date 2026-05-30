@@ -1,45 +1,45 @@
 {
-    "shi": 1.30388,
-    "health_percent": 78.23,
+    "shi": 1.05203,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt ratio"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "deviation": "Aging population and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption and high transparency"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Stable financial system and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERTS: GLOBAL DEBT LEVELS RISING, TRADE TENSIONS ESCALATE, INNOVATION HUBS DRIVING GROWTH",
-    "last_updated": "2026-05-30 11:07:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS RISE AND DEBT LEVELS SURGE, WHILE SINGAPORE AND SWITZERLAND REMAIN BEACONS OF STABILITY AND INNOVATION.",
+    "last_updated": "2026-05-30 12:13:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.95
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
