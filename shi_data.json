@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 67.42,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and trade disruptions"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "loc": "London, UK",
+            "deviation": "Policy uncertainty and regulatory challenges"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and high transparency"
+            "loc": "Singapore",
+            "protocol": "Pro-business policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial system and low debt"
+            "protocol": "Innovation and anti-corruption initiatives"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Investment in renewable energy and sustainable infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS RISE AND DEBT LEVELS SURGE, WHILE SINGAPORE AND SWITZERLAND REMAIN BEACONS OF STABILITY AND INNOVATION.",
-    "last_updated": "2026-05-30 12:13:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS URGED TO IMPLEMENT REFORMS AND INVEST IN SUSTAINABLE GROWTH",
+    "last_updated": "2026-05-30 14:06:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
