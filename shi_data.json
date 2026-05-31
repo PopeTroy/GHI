@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.25,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 0.84052,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Trade Embargo"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint and corruption"
+            "loc": "China, Shanghai",
+            "deviation": "High Debt Ratio"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and economic instability"
+            "loc": "Iran, Tehran",
+            "deviation": "Energy Export Restrictions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Business-friendly policy reforms and anti-corruption measures"
+            "protocol": "Anti-Corruption Law"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial sector and stable economy"
+            "loc": "Switzerland, Zurich",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and supportive business environment"
+            "loc": "Canada, Toronto",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY ALERT: POTENTIAL SUPPLY CHAIN DISRUPTIONS PREDICTED IN THE NEXT 48 HOURS",
-    "last_updated": "2026-05-30 23:13:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL INSTABILITY RISING, MULTIPLE NATIONS AT RISK OF ECONOMIC COLLAPSE. HIGH-IMPACT LOCATIONS IDENTIFIED, PROTOCOLS IN PLACE FOR GROWTH IMPROVEMENT.",
+    "last_updated": "2026-05-31 00:14:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.1,
+        "C": 0.95
     }
 }
