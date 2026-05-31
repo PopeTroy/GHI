@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 74.23,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.05203,
+    "health_percent": 73.42,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:10",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "Istanbul, Turkey",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barrier"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Zurich, Switzerland",
             "protocol": "Innovation"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL ECONOMIC INSTABILITY ON THE RISE. STAY TUNED FOR UPDATES.",
-    "last_updated": "2026-05-31 11:54:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MULTIPLE NATIONS EXPERIENCING SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS.",
+    "last_updated": "2026-05-31 13:26:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
