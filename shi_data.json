@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier imposition"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy supply disruption"
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt levels"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub establishment"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green policy reform"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption legislation"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATION AMIDST RISING TENSIONS; ECONOMISTS PREDICT INSTABILITY SURGE IN UPCOMING QUARTER.",
-    "last_updated": "2026-05-31 08:10:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISE, ECONOMIC STABILITY AT RISK. REGIONAL CONFLICTS ESCALATE, THREATENING SUPPLY CHAINS.",
+    "last_updated": "2026-05-31 10:24:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
