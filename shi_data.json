@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 3.37824,
+    "health_percent": 67.23,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "96:02:41",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Costs"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Debt Crisis"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barrier"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reform"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable Practices"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE WARS ESCALATE, AND ENERGY PRICES SOAR. ECONOMISTS PREDICT A GLOBAL RECESSION IF CURRENT TRENDS PERSIST.",
-    "last_updated": "2026-05-31 19:57:12",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN 3.2% DUE TO BREXIT UNCERTAINTY. OIL PRICES SURGE AS TENSIONS RISE IN MIDDLE EAST. US FEDERAL RESERVE CUTS INTEREST RATES TO STIMULATE ECONOMIC GROWTH.",
+    "last_updated": "2026-05-31 21:01:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 0.65,
+        "C": 0.4
     }
 }
