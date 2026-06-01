@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.32,
+    "shi": 1.00387,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "45:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers with neighboring countries"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Rising national debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative financial policies"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "protocol": "Sustainable energy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO ONGOING SUPPLY CHAIN DISRUPTIONS, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM DEMONSTRATE RESILIENCE THROUGH STRATEGIC PROTOCOLS.",
-    "last_updated": "2026-06-01 00:16:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INSTABILITY DUE TO RISING BOTTLENECKS, BUT HIGH SHI NODES ARE IMPLEMENTING PROTOCOLS TO STABILIZE AND DRIVE GROWTH.",
+    "last_updated": "2026-06-01 05:20:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.69
     }
 }
