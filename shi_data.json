@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.64792,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | TOKYO STOCKS PLUMMET, BEIJING STRUGGLES WITH DEBT CRISIS, AND SINGAPORE LAUNCHES NEW INNOVATION HUB",
-    "last_updated": "2026-05-31 23:16:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO ONGOING SUPPLY CHAIN DISRUPTIONS, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM DEMONSTRATE RESILIENCE THROUGH STRATEGIC PROTOCOLS.",
+    "last_updated": "2026-06-01 00:16:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.42
+        "C": 0.82
     }
 }
