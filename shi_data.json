@@ -1,45 +1,45 @@
 {
-    "shi": 1.00387,
+    "shi": 1.64792,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "High debt levels"
+        },
+        {
+            "loc": "Dubai, UAE",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Vladivostok, Russia",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, ECONOMISTS PREDICT A DOWNTURN IN THE NEXT QUARTER. TRADE NEGOTIATIONS BETWEEN MAJOR NATIONS AT A STANDSTILL.",
-    "last_updated": "2026-06-01 20:42:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS.",
+    "last_updated": "2026-06-01 22:51:45",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.82
     }
 }
