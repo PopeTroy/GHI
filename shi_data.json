@@ -1,45 +1,45 @@
 {
-    "shi": 1.00387,
-    "health_percent": 67.23,
+    "shi": 4.49199,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "45:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy chokepoints"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers with neighboring countries"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Rising national debt"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative financial policies"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption initiatives"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INSTABILITY DUE TO RISING BOTTLENECKS, BUT HIGH SHI NODES ARE IMPLEMENTING PROTOCOLS TO STABILIZE AND DRIVE GROWTH.",
-    "last_updated": "2026-06-01 05:20:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC CONDITIONS DETERIORATING. HIGH RISK OF INSTABILITY IN ENERGY MARKETS. INNOVATION HUBS DRIVING GROWTH IN KEY REGIONS.",
+    "last_updated": "2026-06-01 10:34:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.85,
+        "F": 1.23,
+        "T": 2.56,
+        "B": 1.1,
+        "C": 0.78
     }
 }
