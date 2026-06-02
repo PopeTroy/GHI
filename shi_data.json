@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.12349,
+    "health_percent": 67.32,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade barriers"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure inefficiencies and bureaucratic red tape"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Pro-business policy reforms and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Strong innovation and stable financial system"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "High investment in renewable energy and sustainable infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS.",
-    "last_updated": "2026-06-01 22:51:45",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, AND CLIMATE-RELATED DISASTERS DISRUPT SUPPLY CHAINS",
+    "last_updated": "2026-06-02 00:02:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "P": 0.87,
+        "F": 0.93,
+        "T": 0.81,
+        "B": 1.12,
+        "C": 0.75
     }
 }
