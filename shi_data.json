@@ -1,45 +1,45 @@
 {
-    "shi": 2.59865,
-    "health_percent": 67.23,
+    "shi": 0.76411,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Trade barriers and energy chokepoints"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Singapore",
-            "deviation": "High debt and lack of innovation"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy shortages and corruption"
+            "loc": "Brasilia, Brazil",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and anti-corruption measures"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "High innovation index and green initiatives"
-        },
-        {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Effective governance and social stability"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES, OIL PRICES SURGE DUE TO CONFLICT IN THE MIDDLE EAST, AND EXPERTS WARN OF IMPENDING ECONOMIC DOWNTURN",
-    "last_updated": "2026-06-02 12:50:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS: TRADE TENSIONS RISING BETWEEN US AND CHINA. OIL PRICES SURGE DUE TO MIDDLE EAST CONFLICT.",
+    "last_updated": "2026-06-02 17:11:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.52
+        "B": 1.21,
+        "C": 0.95
     }
 }
