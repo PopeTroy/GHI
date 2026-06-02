@@ -1,45 +1,45 @@
 {
-    "shi": 1.63557,
-    "health_percent": 74.21,
+    "shi": 2.59865,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Vancouver, Canada",
+            "deviation": "Trade barriers and energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Singapore",
+            "deviation": "High debt and lack of innovation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Energy shortages and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong policy reforms and anti-corruption measures"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "High innovation index and green initiatives"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Wellington, New Zealand",
+            "protocol": "Effective governance and social stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, TRADE TENSIONS ESCALATING, AND ENERGY PRICES SURGING.",
-    "last_updated": "2026-06-02 09:04:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES, OIL PRICES SURGE DUE TO CONFLICT IN THE MIDDLE EAST, AND EXPERTS WARN OF IMPENDING ECONOMIC DOWNTURN",
+    "last_updated": "2026-06-02 12:50:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.23,
-        "T": 0.95,
-        "B": 1.11,
-        "C": 0.76
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.52
     }
 }
