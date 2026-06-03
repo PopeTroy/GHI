@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 63.2,
+    "health_percent": 74.56,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs and high debt"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy shortages and Brexit uncertainty"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policies and corruption-free environment"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Investment in sustainable energy and innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption and sustainable practices"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial system and high-tech sector growth"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATING, AND GEOPOLITICAL INSTABILITY IN THE MIDDLE EAST",
-    "last_updated": "2026-06-03 15:04:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIC POWERS, WHILE CITIES WITH STRONG PROTOCOLS AND LOW BOTTLENECKS SHOW RESILIENCE AND GROWTH.",
+    "last_updated": "2026-06-03 18:55:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
