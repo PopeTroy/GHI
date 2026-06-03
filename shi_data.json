@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 67.32,
+    "health_percent": 63.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy shortages and aging infrastructure"
+            "deviation": "Trade tariffs and high debt"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit-related trade uncertainty"
+            "deviation": "Energy shortages and Brexit uncertainty"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and stagnant innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Pro-business policies and corruption-free environment"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy innovations"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Investment in sustainable energy and innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and low corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable financial system and high-tech sector growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS IN ASIA AND EUROPE; HIGH SHI NODES OFFER OPPORTUNITIES FOR GROWTH AND INVESTMENT.",
-    "last_updated": "2026-06-03 10:12:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS BETWEEN MAJOR ECONOMIES ESCALATING, AND GEOPOLITICAL INSTABILITY IN THE MIDDLE EAST",
+    "last_updated": "2026-06-03 15:04:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
