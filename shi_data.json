@@ -1,45 +1,45 @@
 {
-    "shi": 1.93233,
-    "health_percent": 82.15,
+    "shi": 3.45532,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier"
+            "deviation": "High trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reform"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS, WITH MAJOR PORTS FACING CONGESTION AND DELAYS.",
-    "last_updated": "2026-06-04 16:36:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STABILIZATION, BUT REGIONAL HOTSPOTS PERSIST.",
+    "last_updated": "2026-06-04 19:02:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.41
     }
 }
