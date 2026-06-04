@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "43:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and inefficiencies"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and transportation bottlenecks"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovation and technological advancements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "protocol": "Sustainable energy and environmental policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO SUPPLY CHAIN DISRUPTIONS, HIGH INFLATION, AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND ISTANBUL ARE AT HIGH RISK OF ECONOMIC COLLAPSE, WHILE SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH POTENTIAL.",
-    "last_updated": "2026-06-04 02:03:05",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-04 06:52:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
