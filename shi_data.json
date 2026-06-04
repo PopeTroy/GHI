@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.93233,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "New York City, USA",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability"
+            "protocol": "Anti-Corruption Measures"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, MARKETS REACTING NEGATIVELY",
-    "last_updated": "2026-06-04 10:32:13",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TOKYO STOCKS PLUMMETING, AND TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-06-04 13:43:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
+        "T": 0.85,
         "B": 0.65,
-        "C": 0.42
+        "C": 0.78
     }
 }
