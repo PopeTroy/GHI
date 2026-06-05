@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:23:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "46:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure and regulatory challenges"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies and corruption-free environment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Stable financial system and strong regulatory framework"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and effective anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TALKS BETWEEN MAJOR NATIONS UNDERWAY, AND ENERGY PRICES ON THE RISE",
-    "last_updated": "2026-06-05 21:46:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTIES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN DISRUPTION IN THE NEXT 48 HOURS, WITH NEW YORK BEING THE PRIMARY HIGH-IMPACT LOCATION.",
+    "last_updated": "2026-06-05 22:49:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
