@@ -1,45 +1,45 @@
 {
-    "shi": 6.69468,
+    "shi": 0.82551,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high government debt"
+            "loc": "London, UK",
+            "deviation": "Financial instability and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Strong anti-corruption policies and innovative economy"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Stable monetary policy and low debt"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Renewable energy and sustainable infrastructure"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "High-tech innovation and entrepreneurship"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY SHOWS SIGNS OF INSTABILITY, WITH TRADE TENSIONS AND ENERGY PRICES ON THE RISE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND INFLATIONARY PRESSURES.",
-    "last_updated": "2026-06-05 01:54:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. KEY CITIES LIKE NEW YORK, BEIJING, AND DUBAI FACE SIGNIFICANT CHALLENGES. IMPLEMENTING POLICY REFORMS AND INNOVATIVE PROTOCOLS CAN HELP MITIGATE THESE RISKS.",
+    "last_updated": "2026-06-05 06:18:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.32,
-        "C": 0.41
+        "B": 1.12,
+        "C": 0.95
     }
 }
