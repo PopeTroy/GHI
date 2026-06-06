@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.32,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "shi": 1.11344,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "96:42:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "loc": "Istanbul, Turkey",
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Beijing, China",
+            "deviation": "Energy Shortages"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation hubs"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS IN ASIA EXPERIENCE SIGNIFICANT GROWTH",
-    "last_updated": "2026-06-06 16:37:14",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | WARNING: POTENTIAL TRADE DISRUPTIONS IN THE STRAIT OF MALACCA. MONITOR GLOBAL MARKETS FOR VOLATILITY.",
+    "last_updated": "2026-06-06 18:56:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
