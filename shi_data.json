@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 74.2,
+    "shi": 0.84052,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoints and Corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inefficient Infrastructure and Bureaucracy"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation and Anti-Corruption Policy"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Sustainable Energy and Green Infrastructure"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified Economy and Social Stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE SINGAPORE AND DENMARK EXPERIENCE ECONOMIC GROWTH DUE TO INNOVATIVE POLICIES AND REFORMS.",
-    "last_updated": "2026-06-06 14:03:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS: NYSE AND LSE EXPERIENCE FLUCTUATIONS, OIL PRICES RISE DUE TO GEOPOLITICAL TENSIONS, TRADE AGREEMENTS BETWEEN EU AND ASIA-PACIFIC NATIONS NEARING RATIFICATION",
+    "last_updated": "2026-06-06 15:23:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
