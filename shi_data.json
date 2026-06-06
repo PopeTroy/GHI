@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
-    "health_percent": 74.21,
+    "shi": 2.22196,
+    "health_percent": 62.15,
     "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:42:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "High Trade Barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy Shortages"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and economic instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Innovative policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Policy Reforms"
+            "protocol": "Sustainable energy solutions"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption and transparency initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | WARNING: POTENTIAL TRADE DISRUPTIONS IN THE STRAIT OF MALACCA. MONITOR GLOBAL MARKETS FOR VOLATILITY.",
-    "last_updated": "2026-06-06 18:56:34",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-06-06 20:08:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
