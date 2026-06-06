@@ -1,45 +1,45 @@
 {
-    "shi": 1.29355,
-    "health_percent": 67.23,
+    "shi": 2.20211,
+    "health_percent": 68.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "42:01:22",
+    "collapse_timer": "96:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "High debt and geopolitical tensions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-Business Policy Reform"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Initiative"
+            "protocol": "Anti-corruption and financial stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ENERGY PRICES REMAIN VOLATILE DUE TO GEOPOLITICAL UNCERTAINTY. ECONOMISTS WARN OF POTENTIAL HYPER-INFLATION IN OVER-INDEBTED NATIONS.",
-    "last_updated": "2026-06-06 02:37:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND ENERGY PRICES FLUCTUATING DUE TO GEOPOLITICAL EVENTS.",
+    "last_updated": "2026-06-06 06:16:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.12,
-        "B": 1.25,
-        "C": 0.78
+        "T": 0.88,
+        "B": 0.75,
+        "C": 0.6
     }
 }
