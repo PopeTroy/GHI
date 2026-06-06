@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 73.21,
+    "shi": 3.21737,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy Chokepoints and Corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Inefficient Infrastructure and Bureaucracy"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and Anti-Corruption Policy"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy and Green Infrastructure"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy and Social Stability"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS: NYSE AND LSE EXPERIENCE FLUCTUATIONS, OIL PRICES RISE DUE TO GEOPOLITICAL TENSIONS, TRADE AGREEMENTS BETWEEN EU AND ASIA-PACIFIC NATIONS NEARING RATIFICATION",
-    "last_updated": "2026-06-06 15:23:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS IN ASIA EXPERIENCE SIGNIFICANT GROWTH",
+    "last_updated": "2026-06-06 16:37:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
