@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 1.61206,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy costs due to trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Debt crisis from excessive borrowing"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Inefficient logistics causing supply chain delays"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub with strong policy reforms"
-        },
-        {
             "loc": "Singapore",
-            "protocol": "Anti-corruption measures with high transparency"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and low debt"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, MULTIPLE NATIONS AT RISK OF SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-06-07 20:13:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, INVESTORS SEEK STABILITY IN TECH AND HEALTHCARE SECTORS.",
+    "last_updated": "2026-06-07 21:36:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.22,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.8
     }
 }
