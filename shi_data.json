@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 2.22196,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints and infrastructure issues"
+            "loc": "New York City, USA",
+            "deviation": "Energy Shortages"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "London, UK",
+            "deviation": "Excessive Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and stable economy"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Investment in technology and infrastructure growth"
+            "protocol": "Financial Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-06-07 06:15:28",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SIGNAL WARNING SIGNS OF INSTABILITY ACROSS GLOBAL MARKETS. KEY TRADE ROUTES AND FINANCIAL HUBS ARE EXPERIENCING DISRUPTIONS.",
+    "last_updated": "2026-06-07 09:41:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.59
     }
 }
