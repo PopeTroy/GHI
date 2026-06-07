@@ -1,5 +1,5 @@
 {
-    "shi": 0.83176,
+    "shi": 2.22196,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,39 +7,39 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
             "deviation": "High debt"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoint"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT INCREASED VOLATILITY IN THE COMING QUARTER.",
-    "last_updated": "2026-06-07 13:00:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE AND ENERGY PRICES SOAR. CITIES WITH STRONG PROTOCOLS ARE MORE RESILIENT TO COLLAPSE.",
+    "last_updated": "2026-06-07 14:56:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.88
+        "B": 0.67,
+        "C": 0.59
     }
 }
