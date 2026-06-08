@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 74.2,
+    "location": "BEIJING, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and infrastructure limitations"
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Corruption and regulatory hurdles"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Shanghai, China",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with favorable business policies"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures and stable governance"
+            "loc": "Seoul, South Korea",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Strong policy reforms and investment in renewable energy"
+            "loc": "Hong Kong, China",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT, TRADE TENSIONS, AND GEOPOLITICAL UNCERTAINTY. KEY CITIES LIKE NEW YORK, BEIJING, AND LONDON FACE SIGNIFICANT RISKS, WHILE CITIES LIKE SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE THROUGH EFFECTIVE PROTOCOLS AND GROWTH STRATEGIES.",
-    "last_updated": "2026-06-08 06:57:45",
+    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED AS KEY TRADE ROUTES FACE DISRUPTIONS DUE TO RISING TENSIONS AND INFRASTRUCTURE FAILURES.",
+    "last_updated": "2026-06-08 12:00:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
