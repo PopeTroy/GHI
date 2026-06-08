@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and geopolitical tensions"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints and infrastructure limitations"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High corruption and limited policy reforms"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation hub with favorable business policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable economic policies and low debt"
+            "protocol": "Robust anti-corruption measures and stable governance"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Effective policy reforms and high transparency"
+            "loc": "Vancouver, Canada",
+            "protocol": "Strong policy reforms and investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF ECONOMIC COLLAPSE. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR GEOPOLITICAL DEVELOPMENTS CLOSELY.",
-    "last_updated": "2026-06-08 02:03:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT, TRADE TENSIONS, AND GEOPOLITICAL UNCERTAINTY. KEY CITIES LIKE NEW YORK, BEIJING, AND LONDON FACE SIGNIFICANT RISKS, WHILE CITIES LIKE SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE THROUGH EFFECTIVE PROTOCOLS AND GROWTH STRATEGIES.",
+    "last_updated": "2026-06-08 06:57:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
