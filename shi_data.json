@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.2,
-    "location": "BEIJING, CHINA",
+    "shi": 2.6496,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Beijing, China",
+            "deviation": "Trade Barrier"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Shanghai, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Innovation"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Hong Kong, China",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: BEIJING, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED AS KEY TRADE ROUTES FACE DISRUPTIONS DUE TO RISING TENSIONS AND INFRASTRUCTURE FAILURES.",
-    "last_updated": "2026-06-08 12:00:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX DROPS BY 2.1% DUE TO ESCALATING TRADE TENSIONS BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-08 16:12:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.51
     }
 }
