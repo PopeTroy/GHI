@@ -1,45 +1,45 @@
 {
-    "shi": 2.6496,
-    "health_percent": 73.21,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoint"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Disruptions"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reform"
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX DROPS BY 2.1% DUE TO ESCALATING TRADE TENSIONS BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-06-08 16:12:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, EXPERTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-06-08 18:35:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.51
+        "C": 0.42
     }
 }
