@@ -1,45 +1,45 @@
 {
-    "shi": 3.12133,
-    "health_percent": 62.15,
+    "shi": 1.05203,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Price Volatility"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints and geopolitical tensions"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and Bureaucracy"
+            "loc": "Moscow, Russia",
+            "deviation": "High corruption and limited policy reforms"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Investment Incentives"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green Technology Adoption"
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Regulation Reforms"
+            "protocol": "Stable economic policies and low debt"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Effective policy reforms and high transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 3.2% AMIDST RISING TENSIONS; NEW ECONOMIC DEVELOPMENT ZONES ANNOUNCED IN EASTERN EUROPE; EXPERTS PREDICT A SURGE IN RENEWABLE ENERGY INVESTMENTS BY 2025",
-    "last_updated": "2026-06-07 23:45:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK AND BEIJING ARE AT HIGH RISK OF ECONOMIC COLLAPSE. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR GEOPOLITICAL DEVELOPMENTS CLOSELY.",
+    "last_updated": "2026-06-08 02:03:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
