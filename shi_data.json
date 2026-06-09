@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 0.85988,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "Hong Kong, China",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Tel Aviv, Israel",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS ECONOMIC INSTABILITY GROWS. TRADE TENSIONS RISE BETWEEN MAJOR NATIONS. INNOVATIONS IN RENEWABLE ENERGY OFFER HOPE FOR A SUSTAINABLE FUTURE.",
-    "last_updated": "2026-06-09 19:36:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-06-09 21:22:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.23,
+        "C": 0.85
     }
 }
