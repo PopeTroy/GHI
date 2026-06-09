@@ -1,45 +1,45 @@
 {
-    "shi": 0.85988,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "45:21:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-06-09 21:22:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RISING DEBT AND TRADE TENSIONS. ECONOMISTS PREDICT POTENTIAL FOR HYPER-INFLATION IN MAJOR CITIES IF CORRECTIVE MEASURES ARE NOT TAKEN SOON.",
+    "last_updated": "2026-06-09 22:55:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.85
+        "B": 0.65,
+        "C": 0.42
     }
 }
