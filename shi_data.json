@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.25,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:02:15",
+    "shi": 2.77781,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy consumption"
+            "deviation": "Trade barriers with neighboring countries"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and supply chain disruptions"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy shortages due to reliance on non-renewable sources"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure congestion and corruption"
+            "loc": "Athens, Greece",
+            "deviation": "High national debt leading to economic instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovative fintech policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Stringent anti-corruption laws"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and economic diversification"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS EXPERIENCING MODERATE FLUCTUATIONS, WITH THE NIKKEI AND DOW JONES INDICES DOWN 2% AND 1.5% RESPECTIVELY, WHILE THE EUROZONE REPORTS A 0.5% INCREASE IN GDP.",
-    "last_updated": "2026-06-10 20:47:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS CLOSELY WATCH GEOPOLITICAL TENSIONS AND ECONOMIC INDICATORS.",
+    "last_updated": "2026-06-10 22:32:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.62,
+        "C": 0.51
     }
 }
