@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "45:21:49",
+    "shi": 0.73324,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, UNITED STATES",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:27:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
+            "loc": "Hong Kong, China",
+            "deviation": "Trade Barrier"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Athens, Greece",
             "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Policy"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RISING DEBT AND TRADE TENSIONS. ECONOMISTS PREDICT POTENTIAL FOR HYPER-INFLATION IN MAJOR CITIES IF CORRECTIVE MEASURES ARE NOT TAKEN SOON.",
-    "last_updated": "2026-06-09 22:55:04",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, UNITED STATES TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, TRADE TALKS BETWEEN MAJOR NATIONS STALL, AND INNOVATIVE STARTUPS EMERGE IN KEY REGIONS.",
+    "last_updated": "2026-06-10 00:09:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.99
     }
 }
