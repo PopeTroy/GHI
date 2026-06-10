@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 1.06582,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers due to geopolitical tensions"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade tensions"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "High debt levels and potential real estate market bubble"
+            "loc": "London, UK",
+            "deviation": "Energy security concerns and Brexit uncertainty"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoints and logistics disruptions"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions and corruption impacting economic growth"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Implementation of policy reforms and anti-corruption measures"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Investments in innovation and renewable energy"
+            "loc": "Singapore",
+            "protocol": "Innovative fintech policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Effective urban planning and green infrastructure development"
+            "protocol": "Sustainable energy solutions and green policies"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse economy and strong anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH POTENTIAL FOR SUPPLY CHAIN DISRUPTIONS AND TRADE WARS. INVESTORS ARE ADVISED TO DIVERSIFY PORTFOLIOS AND CONSIDER HEDGING STRATEGIES.",
-    "last_updated": "2026-06-10 15:38:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNINGS ISSUED, TRADE NEGOTIATIONS UNDERWAY BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-10 18:17:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.23,
+        "C": 0.67
     }
 }
