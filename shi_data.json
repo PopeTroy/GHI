@@ -1,45 +1,45 @@
 {
-    "shi": 2.55701,
-    "health_percent": 72.15,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and labor shortages"
+            "deviation": "Energy Shortage"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt and economic uncertainty"
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative economic reforms and anti-corruption measures"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and stable financial system"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse economy and high-quality infrastructure"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WHILE REGIONAL INSTABILITY PERSISTS IN THE MIDDLE EAST AND EASTERN EUROPE.",
-    "last_updated": "2026-06-10 04:45:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET VOLATILITY ESCALATES AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ENERGY PRICES SKYROCKET DUE TO GEOPOLITICAL EVENTS. INVESTORS TURN TO SAFE-HAVEN ASSETS AS GLOBAL ECONOMIC UNCERTAINTY LOOMS.",
+    "last_updated": "2026-06-10 08:38:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.01,
-        "B": 0.65,
-        "C": 0.9
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
