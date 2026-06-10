@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers due to geopolitical tensions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Vancouver, Canada",
+            "deviation": "High debt levels and potential real estate market bubble"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints and logistics disruptions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Implementation of policy reforms and anti-corruption measures"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Investments in innovation and renewable energy"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Effective urban planning and green infrastructure development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS WARNING OF POTENTIAL DOWNTURN. ONGOING TRADE NEGOTIATIONS BETWEEN MAJOR NATIONS. INNOVATION IN RENEWABLE ENERGY ON THE RISE.",
-    "last_updated": "2026-06-10 11:57:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH POTENTIAL FOR SUPPLY CHAIN DISRUPTIONS AND TRADE WARS. INVESTORS ARE ADVISED TO DIVERSIFY PORTFOLIOS AND CONSIDER HEDGING STRATEGIES.",
+    "last_updated": "2026-06-10 15:38:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
