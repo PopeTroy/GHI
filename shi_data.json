@@ -1,45 +1,45 @@
 {
-    "shi": 3.07008,
+    "shi": 1.59873,
     "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade War"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy supply disruptions"
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and bureaucratic hurdles"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust anti-corruption measures"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative sustainable energy solutions"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Effective policy reforms for business growth"
+            "loc": "Bangalore, India",
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. CITIES LIKE NEW YORK AND BEIJING ARE CRITICAL TO PREVENTING A SUPPLY CHAIN COLLAPSE.",
-    "last_updated": "2026-06-11 19:26:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE NEGOTIATIONS STALLED, AND ENERGY CRISIS LOOMING",
+    "last_updated": "2026-06-11 21:34:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.82
     }
 }
