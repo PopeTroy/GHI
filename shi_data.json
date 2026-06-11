@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 74.21,
+    "shi": 1.45169,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High Debt"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Toronto, Canada",
+            "loc": "Vancouver, Canada",
             "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Bangalore, India",
-            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE NEGOTIATIONS STALLED, AND ENERGY CRISIS LOOMING",
-    "last_updated": "2026-06-11 21:34:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS; CITIES LIKE NEW YORK, LONDON, AND TOKYO FACE HIGH RISK OF SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-06-11 23:07:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.85
     }
 }
