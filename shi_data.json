@@ -1,45 +1,45 @@
 {
-    "shi": 0.75168,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 3.07008,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Tehran, Iran",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and shortages"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and bureaucratic hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
+            "loc": "Singapore",
+            "protocol": "Robust anti-corruption measures"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption and green energy"
+            "protocol": "Innovative sustainable energy solutions"
         },
         {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Diversified economy and strong governance"
+            "loc": "Vancouver, Canada",
+            "protocol": "Effective policy reforms for business growth"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, EXPERTS PREDICT POTENTIAL COLLAPSE OF KEY SUPPLY CHAINS WITHIN 48 HOURS.",
-    "last_updated": "2026-06-11 16:45:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. CITIES LIKE NEW YORK AND BEIJING ARE CRITICAL TO PREVENTING A SUPPLY CHAIN COLLAPSE.",
+    "last_updated": "2026-06-11 19:26:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
