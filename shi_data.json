@@ -1,45 +1,45 @@
 {
-    "shi": 2.44589,
-    "health_percent": 74.2,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade tariffs"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply disruptions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Severe debt crisis"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative fintech reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption policies"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Investment in renewable energy"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, INVESTORS EYE EMERGING MARKETS FOR GROWTH OPPORTUNITIES",
-    "last_updated": "2026-06-12 10:42:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DECLINE SPARKS ECONOMIC CONCERNS, EUROPEAN MARKETS SEE MINOR GAINS, ASIA-PACIFIC REGION EXPERIENCES INCREASED INSTABILITY",
+    "last_updated": "2026-06-12 13:50:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.62
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
