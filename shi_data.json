@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 1.36495,
+    "health_percent": 78.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "47:23:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt and Trade Barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints and Dependence on Oil Exports"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "Aging Population and High Public Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation and Technology Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy and Green Policies"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Stability and Low Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, ECONOMISTS PREDICT POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-06-12 18:27:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: ECONOMIC INSTABILITY RISING IN SOUTH AMERICA. MARKETS EXPERIENCING FLUCTUATIONS IN EUROPE. ONGOING NEGOTIATIONS FOR TRADE REFORMS IN ASIA.",
+    "last_updated": "2026-06-12 20:34:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.12,
+        "B": 1.05,
+        "C": 0.88
     }
 }
