@@ -1,45 +1,45 @@
 {
-    "shi": 1.36495,
-    "health_percent": 78.23,
+    "shi": 1.05203,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:23:11",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints and Dependence on Oil Exports"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging Population and High Public Debt"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and Technology Hub"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy and Green Policies"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability and Low Corruption"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: ECONOMIC INSTABILITY RISING IN SOUTH AMERICA. MARKETS EXPERIENCING FLUCTUATIONS IN EUROPE. ONGOING NEGOTIATIONS FOR TRADE REFORMS IN ASIA.",
-    "last_updated": "2026-06-12 20:34:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS SCRAMBLING TO IMPLEMENT PROTOCOL REFORMS TO MITIGATE BOTTLENECK EFFECTS.",
+    "last_updated": "2026-06-12 22:11:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.12,
-        "B": 1.05,
-        "C": 0.88
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
