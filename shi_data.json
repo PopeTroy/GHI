@@ -1,45 +1,45 @@
 {
-    "shi": 1.14935,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.84052,
+    "health_percent": 63.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:22",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Embargo"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "National Debt Crisis"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Fintech Innovation Hub"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy Integration"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Regulatory Reform"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, INVESTORS SEEK SAFE HAVENS, TRADE NEGOTIATIONS STALL.",
-    "last_updated": "2026-06-13 09:38:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES SKYROCKETING. ECONOMIC INSTABILITY LOOMING ON THE HORIZON.",
+    "last_updated": "2026-06-13 11:31:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.93,
-        "T": 0.81,
-        "B": 1.19,
-        "C": 0.69
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
