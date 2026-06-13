@@ -1,45 +1,45 @@
 {
-    "shi": 6.24266,
-    "health_percent": 73.21,
+    "shi": 2.952,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-related economic uncertainty"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policy reforms and low corruption"
+            "protocol": "Anti-corruption policies"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and strong financial sector"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse economy and high-quality infrastructure"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR MAJOR CITIES WORLDWIDE, MARKETS FLUCTUATING IN RESPONSE TO UNCERTAINTY",
-    "last_updated": "2026-06-13 01:55:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INSTABILITY WARNING ISSUED FOR NEW YORK; TRADE NEGOTIATIONS UNDERWAY BETWEEN EU AND CHINA; GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS",
+    "last_updated": "2026-06-13 06:15:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.21,
-        "C": 0.67
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.75,
+        "B": 0.65,
+        "C": 0.42
     }
 }
