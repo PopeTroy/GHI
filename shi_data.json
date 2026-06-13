@@ -1,45 +1,45 @@
 {
-    "shi": 2.26336,
-    "health_percent": 72.31,
+    "shi": 0.79197,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "42:21:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Energy chokepoints and aging population"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Brexit and economic uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Business-friendly policies and low corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation and strong financial sector"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and social welfare"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. POLICY REFORMS AND INNOVATION ARE CRUCIAL FOR GROWTH.",
-    "last_updated": "2026-06-13 21:56:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH ARE SHOWING RESILIENCE AND GROWTH.",
+    "last_updated": "2026-06-13 23:04:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.67
+        "P": 0.87,
+        "F": 0.62,
+        "T": 0.91,
+        "B": 1.19,
+        "C": 0.75
     }
 }
