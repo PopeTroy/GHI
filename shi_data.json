@@ -1,45 +1,45 @@
 {
-    "shi": 1.72324,
+    "shi": 2.62082,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:21:42",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reform"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLATILITY INCREASES BY 2.5%, US FEDERAL RESERVE ANNOUNCES INTEREST RATE HIKE, EU IMPOSES NEW SANCTIONS ON RUSSIA",
-    "last_updated": "2026-06-13 13:08:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE WARS ESCALATING, ENERGY PRICES SURGING",
+    "last_updated": "2026-06-13 15:07:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.88
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.93,
+        "B": 0.65,
+        "C": 0.78
     }
 }
