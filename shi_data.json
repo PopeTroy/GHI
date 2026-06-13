@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.32,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Strong innovation and R&D investments"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial system and high-quality infrastructure"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS EMERGING MARKETS, WITH SINGAPORE AND TORONTO LEADING IN INNOVATION AND STABILITY.",
-    "last_updated": "2026-06-13 19:41:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO RECENT TRADE TENSIONS AND ENERGY SHORTAGES.",
+    "last_updated": "2026-06-13 20:53:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
