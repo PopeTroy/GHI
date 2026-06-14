@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.2,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "Excessive debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy supply disruptions"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High National Debt"
+            "loc": "Tehran, Iran",
+            "deviation": "Trade sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative Financial Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong Anti-Corruption Laws"
+            "protocol": "Financial reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Policies"
+            "protocol": "Sustainable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WHILE TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMIC STABILITY REMAINS A CONCERN.",
-    "last_updated": "2026-06-14 18:04:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS.",
+    "last_updated": "2026-06-14 19:53:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
