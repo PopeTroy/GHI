@@ -1,45 +1,45 @@
 {
-    "shi": 0.82551,
-    "health_percent": 82.11,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Vancouver, Canada",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and civil unrest"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND DEBT LEVELS. INNOVATIVE CITIES LIKE SINGAPORE AND ZURICH CONTINUE TO THRIVE WITH STRONG PROTOCOLS IN PLACE.",
-    "last_updated": "2026-06-14 00:18:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING MINOR FLUCTUATIONS, TRADE VOLUMES STEADY, ENERGY DEMAND ON THE RISE.",
+    "last_updated": "2026-06-14 05:11:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.12,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
