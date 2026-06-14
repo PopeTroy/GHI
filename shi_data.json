@@ -1,45 +1,45 @@
 {
-    "shi": 0.79197,
-    "health_percent": 73.21,
+    "shi": 0.82551,
+    "health_percent": 82.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit and economic uncertainty"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and civil unrest"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-friendly policies and low corruption"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and strong financial sector"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social welfare"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH ARE SHOWING RESILIENCE AND GROWTH.",
-    "last_updated": "2026-06-13 23:04:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND DEBT LEVELS. INNOVATIVE CITIES LIKE SINGAPORE AND ZURICH CONTINUE TO THRIVE WITH STRONG PROTOCOLS IN PLACE.",
+    "last_updated": "2026-06-14 00:18:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.62,
-        "T": 0.91,
-        "B": 1.19,
-        "C": 0.75
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.12,
+        "C": 0.95
     }
 }
