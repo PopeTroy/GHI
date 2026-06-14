@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 63.21,
+    "shi": 1.06582,
+    "health_percent": 64.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "High Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "protocol": "Innovation and investments in renewable energy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Strong financial regulations and stable economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
-    "last_updated": "2026-06-14 22:18:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-14 23:39:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.23,
+        "C": 0.67
     }
 }
