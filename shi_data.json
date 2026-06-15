@@ -1,45 +1,45 @@
 {
-    "shi": 1.58806,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.08657,
+    "health_percent": 73.24,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and geopolitical tensions"
+            "loc": "New York, USA",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low labor force participation"
+            "loc": "London, UK",
+            "deviation": "High inflation and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative financial policies and low corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Highly developed infrastructure and stable governance"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Strong anti-corruption measures and highly skilled workforce"
+            "protocol": "Sustainable energy and economic diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE WARS ESCALATE BETWEEN MAJOR NATIONS, AND CONCERNS OVER CLIMATE CHANGE RISE.",
-    "last_updated": "2026-06-15 18:12:17",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HEIGHTENED VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN ASIA, WHILE EUROPEAN NATIONS IMPLEMENT NEW POLICIES TO BOOST ECONOMIC GROWTH AND STABILITY.",
+    "last_updated": "2026-06-15 21:21:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.78
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.95
     }
 }
