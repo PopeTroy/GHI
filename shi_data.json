@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 74.2,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariff Trade Barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Supply Disruptions"
+            "loc": "Mumbai, India",
+            "deviation": "Energy shortages and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Debt-to-GDP Ratio Imbalances"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure and transportation challenges"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Frameworks"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Technological Advancement Initiatives"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE. OIL PRICES SURGE. CYBERSECURITY THREATS ON THE RISE.",
-    "last_updated": "2026-06-16 12:21:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, GOVERNMENTS SCRAMBLE TO IMPLEMENT FISCAL POLICIES AND REFORMS TO MITIGATE COLLAPSE",
+    "last_updated": "2026-06-16 17:26:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
