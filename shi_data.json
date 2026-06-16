@@ -1,26 +1,26 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.79637,
+    "health_percent": 72.11,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy shortages and corruption"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and trade disputes"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure and transportation challenges"
+            "loc": "London, UK",
+            "deviation": "High debt and policy uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Innovation and policy reforms"
         },
         {
@@ -28,18 +28,18 @@
             "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green initiatives"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, GOVERNMENTS SCRAMBLE TO IMPLEMENT FISCAL POLICIES AND REFORMS TO MITIGATE COLLAPSE",
-    "last_updated": "2026-06-16 17:26:42",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-16 20:23:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.67,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 0.85,
+        "B": 0.56,
+        "C": 0.75
     }
 }
