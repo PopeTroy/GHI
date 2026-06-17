@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 73.21,
+    "shi": 0.69134,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "ECONOMIC DOWNTURN",
+    "collapse_timer": "43:21:11",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barrier"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
-        },
-        {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Shortage"
-        },
-        {
-            "loc": "Athens, Greece",
             "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable Energy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL SUPPLY CHAIN DISRUPTIONS RISE BY 15% DUE TO PANDEMIC-RELATED SHORTAGES",
-    "last_updated": "2026-06-16 23:55:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC DOWNTURN | GLOBAL MARKETS EXPERIENCE SIGNIFICANT FLUCTUATIONS, ECONOMISTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-06-17 03:56:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 1.05
     }
 }
