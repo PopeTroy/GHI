@@ -1,45 +1,45 @@
 {
-    "shi": 1.30388,
-    "health_percent": 78.2,
+    "shi": 2.8152,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure constraints and bureaucratic red tape"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative economic policies and low corruption"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and high transparency"
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy practices and green technology adoption"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE. ECONOMIC INSTABILITY SPREADING RAPIDLY ACROSS THE GLOBE.",
-    "last_updated": "2026-06-17 21:20:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, ECONOMIC STABILITY MAINTAINED AT 73.21%",
+    "last_updated": "2026-06-17 22:54:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.95
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.48
     }
 }
