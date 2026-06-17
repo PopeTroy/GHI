@@ -1,26 +1,26 @@
 {
-    "shi": 1.05203,
-    "health_percent": 72.5,
+    "shi": 2.46538,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Mexico City, Mexico",
             "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS, AND ENERGY DEMAND SURGES IN DEVELOPING ECONOMIES.",
-    "last_updated": "2026-06-17 12:55:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH MULTIPLE NATIONS EXPERIENCING TRADE DISRUPTIONS AND ENERGY SHORTAGES. CITIES WITH HIGH SHI NODES ARE IMPLEMENTING POLICY REFORMS TO MITIGATE THE EFFECTS.",
+    "last_updated": "2026-06-17 16:37:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.11,
+        "B": 0.78,
+        "C": 0.65
     }
 }
