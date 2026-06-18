@@ -1,45 +1,45 @@
 {
-    "shi": 2.59494,
-    "health_percent": 73.21,
+    "shi": 1.66029,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
+            "loc": "Paris, France",
+            "deviation": "High Debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade agreements"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING MILD FLUCTUATIONS, ECONOMISTS PREDICT MODERATE GROWTH IN THE NEXT QUARTER",
-    "last_updated": "2026-06-18 12:35:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS",
+    "last_updated": "2026-06-18 16:03:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.67,
-        "C": 0.92
+        "P": 0.82,
+        "F": 0.95,
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.85
     }
 }
