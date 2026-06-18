@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 72.15,
+    "shi": 0.82618,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barrier"
+            "loc": "BEIJING, CHINA",
+            "deviation": "High Debt and Trade Barriers"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt"
+            "loc": "MOSCOW, RUSSIA",
+            "deviation": "Energy Chokepoints and Sanctions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "loc": "CARACAS, VENEZUELA",
+            "deviation": "Hyper-Inflation and Economic Instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Geneva, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "SINGAPORE, SINGAPORE",
+            "protocol": "Innovation and Anti-Corruption Reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "STOCKHOLM, SWEDEN",
+            "protocol": "Sustainable Energy and Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy reform"
+            "loc": "ZURICH, SWITZERLAND",
+            "protocol": "Financial Stability and Trade Agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE. TRADE TENSIONS BETWEEN MAJOR ECONOMIES CONTINUE TO ESCALATE, THREATENING STABILITY. INNOVATIVE SOLUTIONS AND POLICY REFORMS ARE KEY TO MITIGATING COLLAPSE RISK.",
-    "last_updated": "2026-06-18 05:02:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-06-18 09:22:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
         "F": 0.92,
         "T": 0.85,
         "B": 1.21,
-        "C": 0.78
+        "C": 0.98
     }
 }
