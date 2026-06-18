@@ -1,45 +1,45 @@
 {
-    "shi": 0.82618,
-    "health_percent": 73.42,
+    "shi": 2.59494,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "BEIJING, CHINA",
-            "deviation": "High Debt and Trade Barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "MOSCOW, RUSSIA",
-            "deviation": "Energy Chokepoints and Sanctions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export disruptions"
         },
         {
-            "loc": "CARACAS, VENEZUELA",
-            "deviation": "Hyper-Inflation and Economic Instability"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "SINGAPORE, SINGAPORE",
-            "protocol": "Innovation and Anti-Corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative trade agreements"
         },
         {
-            "loc": "STOCKHOLM, SWEDEN",
-            "protocol": "Sustainable Energy and Policy Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions"
         },
         {
-            "loc": "ZURICH, SWITZERLAND",
-            "protocol": "Financial Stability and Trade Agreements"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-06-18 09:22:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING MILD FLUCTUATIONS, ECONOMISTS PREDICT MODERATE GROWTH IN THE NEXT QUARTER",
+    "last_updated": "2026-06-18 12:35:00",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.98
+        "P": 0.85,
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.67,
+        "C": 0.92
     }
 }
