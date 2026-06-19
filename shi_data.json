@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 0.72783,
     "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "47:21:01",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "loc": "ISTANBUL, TURKEY",
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "ATHENS, GREECE",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "KIEV, UKRAINE",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "SINGAPORE",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
+            "loc": "ZURICH, SWITZERLAND",
             "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "VANCOUVER, CANADA",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE A SURGE IN TRADE, WHILE ENERGY DEMANDS RISE IN THE EASTERN HEMISPHERE.",
-    "last_updated": "2026-06-19 20:12:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERT: SUPPLY CHAIN DISRUPTIONS REPORTED IN MULTIPLE REGIONS.",
+    "last_updated": "2026-06-19 21:34:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 0.81,
+        "B": 1.27,
+        "C": 1.01
     }
 }
