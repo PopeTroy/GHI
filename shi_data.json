@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 2.38356,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Energy Consumption"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints and infrastructure issues"
-        },
-        {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "Corruption and policy inefficiencies"
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Effective anti-corruption policies"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems"
+            "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy practices"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCES MINOR FLUCTUATIONS, TRADE NEGOTIATIONS UNDERWAY BETWEEN MAJOR ECONOMIES",
-    "last_updated": "2026-06-20 16:51:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, GOVERNMENTS ANNOUNCE STIMULUS PACKAGES TO MITIGATE ECONOMIC DOWNTURN.",
+    "last_updated": "2026-06-20 18:02:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.55
     }
 }
