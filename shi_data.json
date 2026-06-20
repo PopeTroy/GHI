@@ -1,16 +1,16 @@
 {
-    "shi": 1.20799,
-    "health_percent": 74.2,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Singapore",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation investments"
+        },
+        {
             "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Tel Aviv, Israel",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-06-20 06:11:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS EXPERIENCE GROWTH",
+    "last_updated": "2026-06-20 09:41:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 0.92,
-        "B": 1.17,
-        "C": 0.98
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
