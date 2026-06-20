@@ -1,43 +1,43 @@
 {
-    "shi": 3.20503,
-    "health_percent": 67.32,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Tariff disputes"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Energy shortages"
+            "deviation": "Energy chokepoints and infrastructure issues"
+        },
+        {
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Corruption and policy inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policies"
+            "protocol": "Effective anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Innovative financial systems"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy"
+            "protocol": "Sustainable energy practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS VOLATILE, TRADE TALKS STALLED, ENERGY PRICES RISING",
-    "last_updated": "2026-06-20 15:13:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCES MINOR FLUCTUATIONS, TRADE NEGOTIATIONS UNDERWAY BETWEEN MAJOR ECONOMIES",
+    "last_updated": "2026-06-20 16:51:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
         "B": 0.65,
         "C": 0.42
