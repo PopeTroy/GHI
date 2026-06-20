@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 72.15,
+    "shi": 1.64792,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:42:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war tariffs"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation"
+            "loc": "Moscow, Russia",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Gibraltar, UK",
-            "deviation": "Energy transportation disruptions"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Efficient corruption-free bureaucracy"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy innovations"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Business-friendly policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIC POWERS, WHILE SOME CITIES ARE IMPLEMENTING INNOVATIVE PROTOCOLS TO MITIGATE RISK AND ENSURE STABLE GROWTH.",
-    "last_updated": "2026-06-20 19:50:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS EXPERIENCE GROWTH",
+    "last_updated": "2026-06-20 20:58:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.82
     }
 }
