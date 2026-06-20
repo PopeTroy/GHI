@@ -1,45 +1,45 @@
 {
-    "shi": 0.82618,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:32",
+    "shi": 3.20503,
+    "health_percent": 67.32,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "LOS ANGELES, USA",
-            "deviation": "High Debt Levels"
+            "loc": "Beijing, China",
+            "deviation": "Tariff disputes"
         },
         {
-            "loc": "BEIJING, CHINA",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population"
         },
         {
-            "loc": "MOSCOW, RUSSIA",
-            "deviation": "Trade Barriers"
+            "loc": "Mumbai, India",
+            "deviation": "Energy shortages"
         }
     ],
     "high_shi": [
         {
-            "loc": "SINGAPORE, SINGAPORE",
-            "protocol": "Innovation Hubs"
+            "loc": "Singapore",
+            "protocol": "Pro-business policies"
         },
         {
-            "loc": "STOCKHOLM, SWEDEN",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "TORONTO, CANADA",
-            "protocol": "Policy Reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. CITIES WITH HIGH SHI RATINGS ARE EXPECTED TO MAINTAIN STABILITY.",
-    "last_updated": "2026-06-20 13:09:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS VOLATILE, TRADE TALKS STALLED, ENERGY PRICES RISING",
+    "last_updated": "2026-06-20 15:13:03",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.85,
-        "B": 1.21,
-        "C": 0.98
+        "P": 0.82,
+        "F": 0.95,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
