@@ -1,45 +1,45 @@
 {
-    "shi": 1.66368,
-    "health_percent": 73.2,
-    "location": "NEW YORK, USA",
+    "shi": 0.82618,
+    "health_percent": 74.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:07:32",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade restrictions"
+            "loc": "LOS ANGELES, USA",
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy shortages"
+            "loc": "BEIJING, CHINA",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High debt levels"
+            "loc": "MOSCOW, RUSSIA",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "SINGAPORE, SINGAPORE",
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms"
+            "loc": "STOCKHOLM, SWEDEN",
+            "protocol": "Anti-Corruption Measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "TORONTO, CANADA",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING AMID TRADE TENSIONS, INNOVATORS GATHER IN SINGAPORE TO DISCUSS ECONOMIC GROWTH STRATEGIES.",
-    "last_updated": "2026-06-20 11:34:18",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. CITIES WITH HIGH SHI RATINGS ARE EXPECTED TO MAINTAIN STABILITY.",
+    "last_updated": "2026-06-20 13:09:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 1.21,
-        "B": 1.05,
-        "C": 0.78
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.98
     }
 }
