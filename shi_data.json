@@ -1,45 +1,45 @@
 {
-    "shi": 2.39179,
-    "health_percent": 73.21,
+    "shi": 1.02466,
+    "health_percent": 72.35,
     "location": "NEW YORK, USA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and lack of innovation"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms and anti-corruption measures"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation and technological advancements"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable economy and strong financial system"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC INSTABILITY IN SEVERAL REGIONS, AND TRADE TENSIONS ON THE RISE.",
-    "last_updated": "2026-06-21 12:28:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-21 14:55:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.11,
-        "B": 0.78,
-        "C": 0.67
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.75,
+        "B": 1.21,
+        "C": 0.65
     }
 }
