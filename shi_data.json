@@ -1,9 +1,9 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 0.76411,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:23",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,17 +14,17 @@
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS SCRAMBLING TO IMPLEMENT PROTOCOLS AND AVOID COLLAPSE.",
-    "last_updated": "2026-06-21 22:40:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, CAUSING SUPPLY CHAIN DISRUPTIONS AND ECONOMIC INSTABILITY.",
+    "last_updated": "2026-06-21 23:57:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.95
     }
 }
