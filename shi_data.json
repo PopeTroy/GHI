@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.45,
-    "location": "NEW YORK, USA",
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt ratio"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy Chokepoint"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZING, TRADE AGREEMENTS SIGNED BETWEEN MAJOR ECONOMIES, AND INVESTMENTS IN RENEWABLE ENERGY ON THE RISE.",
-    "last_updated": "2026-06-21 02:02:40",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-06-21 07:00:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
