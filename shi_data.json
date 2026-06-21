@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.21,
+    "shi": 1.0787,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "96:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Chokepoints"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Excessive Trade Barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Debt Crisis"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced Policy Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Measures"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "High-Tech Innovation Hub"
+            "protocol": "Innovation hubs"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, GOVERNMENTS URGED TO IMPLEMENT STABILIZING POLICIES.",
-    "last_updated": "2026-06-21 18:09:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-21 20:00:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.02,
+        "B": 1.21,
+        "C": 0.88
     }
 }
