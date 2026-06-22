@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 0.75168,
     "health_percent": 73.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:43",
+    "collapse_timer": "48:23:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High Debt"
+            "loc": "Singapore",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reform"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hubs"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. REGIONAL INSTABILITY IN EASTERN EUROPE CAUSES CONCERN AMONG INVESTORS, WHILE A NEW TECHNOLOGY BREAKTHROUGH IN SILICON VALLEY BRINGS OPTIMISM TO THE BUSINESS COMMUNITY.",
-    "last_updated": "2026-06-22 10:20:16",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY DUE TO TRADE TENSIONS AND DEBT CRISIS",
+    "last_updated": "2026-06-22 15:33:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.23,
+        "C": 0.95
     }
 }
