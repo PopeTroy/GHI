@@ -1,45 +1,45 @@
 {
-    "shi": 1.03718,
+    "shi": 1.64792,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:43",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "Trade Barrier"
+        },
+        {
+            "loc": "New York City, USA",
             "deviation": "High Debt"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Policy Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-Corruption"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND INCREASED DEBT LEVELS.",
-    "last_updated": "2026-06-22 04:24:53",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. REGIONAL INSTABILITY IN EASTERN EUROPE CAUSES CONCERN AMONG INVESTORS, WHILE A NEW TECHNOLOGY BREAKTHROUGH IN SILICON VALLEY BRINGS OPTIMISM TO THE BUSINESS COMMUNITY.",
+    "last_updated": "2026-06-22 10:20:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 1.2,
-        "C": 0.95
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
