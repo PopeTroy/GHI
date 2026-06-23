@@ -1,45 +1,45 @@
 {
-    "shi": 1.30388,
-    "health_percent": 74.32,
+    "shi": 1.44606,
+    "health_percent": 78.52,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war tariffs"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Oil price volatility"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Regulatory hurdles"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Streamlined customs procedures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative fintech solutions"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified energy mix"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GHI LOGIC ENGINE IDENTIFIES NEW YORK AS HIGH IMPACT LOCATION, WARNS OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-06-23 11:27:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-23 13:59:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
+        "F": 1.22,
+        "T": 0.98,
         "B": 1.1,
-        "C": 0.95
+        "C": 0.92
     }
 }
