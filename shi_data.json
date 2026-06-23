@@ -1,45 +1,45 @@
 {
-    "shi": 6.81943,
-    "health_percent": 67.23,
+    "shi": 1.30388,
+    "health_percent": 74.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade war tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Oil price volatility"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Infrastructure bottlenecks and policy inefficiencies"
+            "deviation": "Regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Streamlined customs procedures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green technologies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative fintech solutions"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified energy mix"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. GOVERNMENTS MUST IMPLEMENT POLICY REFORMS AND INNOVATION TO MITIGATE RISKS.",
-    "last_updated": "2026-06-23 08:05:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GHI LOGIC ENGINE IDENTIFIES NEW YORK AS HIGH IMPACT LOCATION, WARNS OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-06-23 11:27:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.23
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.95
     }
 }
