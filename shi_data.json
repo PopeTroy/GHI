@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 0.57964,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure and governance issues"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure shortages and inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative economic policies and trade agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Stable and secure financial systems"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong institutions"
+            "protocol": "Diversified economy and strong anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TRENDS INDICATE RISING INSTABILITY, WITH TRADE TENSIONS AND DEBT LEVELS ON THE INCREASE. KEY LOCATIONS WITH HIGH STABILITY AND GROWTH POTENTIAL INCLUDE SINGAPORE, ZURICH, AND VANCOUVER. BOTTLENECKS IN BEIJING, DUBAI, AND LAGOS REQUIRE TARGETED INTERVENTIONS TO MITIGATE RISKS.",
-    "last_updated": "2026-06-24 13:27:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-06-24 15:51:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
+        "F": 0.62,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.11,
+        "C": 0.92
     }
 }
