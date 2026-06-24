@@ -1,45 +1,45 @@
 {
-    "shi": 1.82604,
-    "health_percent": 73.2,
+    "shi": 4.61314,
+    "health_percent": 67.89,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and Brexit uncertainty"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust policy reforms and innovation"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and stable economy"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diverse economy and high standard of living"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A HIGH RISK OF SUPPLY CHAIN DISRUPTION IN THE NEXT 48 HOURS, WITH POTENTIAL COLLAPSE OF GLOBAL TRADE NETWORKS.",
-    "last_updated": "2026-06-23 23:11:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS IMPLEMENTING AUSTERITY MEASURES TO MITIGATE RISKS.",
+    "last_updated": "2026-06-24 00:11:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.85
+        "T": 0.78,
+        "B": 0.56,
+        "C": 0.34
     }
 }
