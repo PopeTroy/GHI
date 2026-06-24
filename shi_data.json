@@ -1,45 +1,45 @@
 {
-    "shi": 2.75775,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.76411,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers with major trading partners"
+            "loc": "London, UK",
+            "deviation": "Trade barriers and policy inefficiencies"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints due to geopolitical tensions"
+            "loc": "Shanghai, China",
+            "deviation": "Over-reliance on exports and corruption"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovation and trade reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Tech advancements and entrepreneurship"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative policy reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Strong institutional framework"
+            "protocol": "Financial stability and policy transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, SINGAPORE REMAINS A STABLE HUB, WHILE TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-06-24 22:24:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND TRADE WARS.",
+    "last_updated": "2026-06-24 23:39:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.49
+        "B": 1.21,
+        "C": 0.95
     }
 }
