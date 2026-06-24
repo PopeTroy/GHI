@@ -1,21 +1,21 @@
 {
-    "shi": 1.59873,
+    "shi": 1.05203,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:32",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Dependence"
+            "deviation": "High Debt Ratio"
         },
         {
-            "loc": "Mumbai, India",
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Constraints"
+        },
+        {
+            "loc": "London, UK",
             "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reform"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Growth Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE. INDIA ANNOUNCES NEW POLICY REFORMS.",
-    "last_updated": "2026-06-24 04:35:39",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT STABILIZATION BY Q2 2024",
+    "last_updated": "2026-06-24 08:01:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.69
     }
 }
