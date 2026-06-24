@@ -1,21 +1,21 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.21,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and limited infrastructure"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "High population density and strained resources"
+            "deviation": "Infrastructure and governance issues"
         }
     ],
     "high_shi": [
@@ -29,17 +29,17 @@
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable growth and environmental initiatives"
+            "protocol": "Diversified economy and strong institutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL INSTABILITY IN KEY REGIONS.",
-    "last_updated": "2026-06-24 11:12:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TRENDS INDICATE RISING INSTABILITY, WITH TRADE TENSIONS AND DEBT LEVELS ON THE INCREASE. KEY LOCATIONS WITH HIGH STABILITY AND GROWTH POTENTIAL INCLUDE SINGAPORE, ZURICH, AND VANCOUVER. BOTTLENECKS IN BEIJING, DUBAI, AND LAGOS REQUIRE TARGETED INTERVENTIONS TO MITIGATE RISKS.",
+    "last_updated": "2026-06-24 13:27:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
