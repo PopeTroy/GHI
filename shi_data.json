@@ -1,45 +1,45 @@
 {
-    "shi": 1.27771,
-    "health_percent": 73.42,
-    "location": "NEW YORK, USA",
+    "shi": 2.75775,
+    "health_percent": 73.21,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:12:01",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "High debt"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers with major trading partners"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints due to geopolitical tensions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Robust anti-corruption measures"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative policy reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Strong institutional framework"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS ON THE RISE, ENERGY PRICES FLUCTUATING",
-    "last_updated": "2026-06-24 21:00:54",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, SINGAPORE REMAINS A STABLE HUB, WHILE TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-24 22:24:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 1.1,
-        "C": 0.98
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.49
     }
 }
