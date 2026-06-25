@@ -1,9 +1,9 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.32,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,35 +11,35 @@
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints and trade restrictions"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure deficits and policy inefficiencies"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Severe corruption and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies and corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "protocol": "Stable financial regulations and investment in renewable energy"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable urban planning and green technology adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW MIXED SIGNALS, GLOBAL TRADE TENSIONS ESCALATE, AND INNOVATION HUBS DRIVE GROWTH",
-    "last_updated": "2026-06-25 11:23:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, GEOPOLITICAL TENSIONS RISING, AND CLIMATE CHANGE MITIGATION EFFORTS UNDER SCRUTINY",
+    "last_updated": "2026-06-25 13:32:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.67
     }
 }
