@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.42,
+    "shi": 0.84052,
+    "health_percent": 62.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "96:02:13",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Moscow, Russia",
             "deviation": "High debt"
         },
         {
-            "loc": "Beijing, China",
+            "loc": "Riyadh, Saudi Arabia",
             "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, TRADE VOLUMES DECREASING, AND ENERGY PRICES SKYROCKETING.",
-    "last_updated": "2026-06-25 05:49:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, ECONOMISTS WARN OF IMPENDING COLLAPSE",
+    "last_updated": "2026-06-25 08:41:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.1,
+        "C": 0.95
     }
 }
