@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and trade disruptions"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "loc": "London, UK",
+            "deviation": "High regulatory uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy reforms and economic diversification"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Sydney, Australia",
+            "protocol": "Investment in renewable energy and sustainable infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH MULTIPLE COUNTRIES EXPERIENCING TRADE DISRUPTIONS AND ENERGY SHORTAGES.",
-    "last_updated": "2026-06-26 11:59:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES LIKE NEW YORK, BEIJING, AND LONDON ARE AT HIGH RISK OF COLLAPSE DUE TO BOTTLENECKS IN TRADE AND ENERGY. HOWEVER, CITIES LIKE SINGAPORE, ZURICH, AND SYDNEY ARE IMPLEMENTING PROTOCOLS TO DRIVE GROWTH AND STABILITY.",
+    "last_updated": "2026-06-26 14:40:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
