@@ -1,45 +1,45 @@
 {
-    "shi": 0.77997,
-    "health_percent": 73.42,
+    "shi": 2.70259,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Singapore, Singapore",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and lack of diversification"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Over-reliance on financial sector and Brexit uncertainty"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Effective anti-corruption measures and innovation hubs"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and stable financial sector"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy practices and high level of social cohesion"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, INTERNATIONAL TRADE AGREEMENTS UNDER NEGOTIATION, AND CONCERNS OVER ENERGY SECURITY RISE",
-    "last_updated": "2026-06-26 18:14:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING SLIGHT DOWNTURN, EXPERTS PREDICT 3% DECREASE IN TRADE OVER THE NEXT QUARTER",
+    "last_updated": "2026-06-26 20:11:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
-        "B": 1.21,
-        "C": 1.05
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.5
     }
 }
