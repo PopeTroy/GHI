@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Oil Embargo"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Restrictions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Corruption and Bureaucracy"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Free Trade Agreement"
+            "protocol": "Free Trade Agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Deregulation"
+            "protocol": "Low Corruption Index"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Technological Innovation Hub"
+            "protocol": "Innovation Hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND INNOVATION IN RENEWABLE ENERGY ON THE RISE.",
-    "last_updated": "2026-06-26 01:51:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY; KEY NATIONS EXPERIENCING TRADE DISRUPTIONS AND SOCIAL UNREST",
+    "last_updated": "2026-06-26 05:58:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
