@@ -1,45 +1,45 @@
 {
-    "shi": 2.32982,
-    "health_percent": 74.21,
+    "shi": 0.77997,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and lack of diversification"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "London, UK",
+            "deviation": "Over-reliance on financial sector and Brexit uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms and high level of innovation"
+            "loc": "Singapore",
+            "protocol": "Effective anti-corruption measures and innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy framework and stable financial sector"
+            "protocol": "Strong policy reforms and stable financial sector"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high level of trade agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy practices and high level of social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOWING SIGNS OF INSTABILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-06-26 16:34:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, INTERNATIONAL TRADE AGREEMENTS UNDER NEGOTIATION, AND CONCERNS OVER ENERGY SECURITY RISE",
+    "last_updated": "2026-06-26 18:14:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.58
+        "T": 0.88,
+        "B": 1.21,
+        "C": 1.05
     }
 }
