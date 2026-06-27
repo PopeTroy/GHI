@@ -1,45 +1,45 @@
 {
-    "shi": 38.02348,
-    "health_percent": 74.32,
+    "shi": 2.59865,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:19",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt to GDP Ratio"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "deviation": "Energy Import Reliance"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade Barrier Uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Energy Policy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, INVESTORS URGED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-06-27 22:11:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKETS DOWN 2% DUE TO SUPPLY CHAIN DISRUPTIONS, GHI LOGIC ENGINE ADVISES DIVERSIFICATION OF TRADE PARTNERS.",
+    "last_updated": "2026-06-27 23:16:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.11
+        "B": 0.65,
+        "C": 0.52
     }
 }
