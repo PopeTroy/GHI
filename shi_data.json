@@ -1,45 +1,45 @@
 {
-    "shi": 1.173,
-    "health_percent": 73.21,
+    "shi": 2.77781,
+    "health_percent": 74.23,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
-            "deviation": "High Debt Levels"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Energy Chokepoint Vulnerability"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and inflation risks"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers and Tariffs"
+            "deviation": "Over-reliance on foreign investment"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reforms"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable Energy Policy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS, WHILE INNOVATION HUBS AND SUSTAINABLE ENERGY POLICIES OFFER BEACONS OF HOPE FOR GROWTH AND DEVELOPMENT.",
-    "last_updated": "2026-06-27 01:47:41",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A SLIGHT DOWNTURN, BUT TOKYO'S HIGH-TECH INDUSTRY SHOWS RESILIENCE. BEIJING STRUGGLES WITH DEBT, WHILE NEW YORK CITY FACES ENERGY CONCERNS.",
+    "last_updated": "2026-06-27 05:40:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.88
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.51
     }
 }
