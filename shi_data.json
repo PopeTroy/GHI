@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "shi": 1.05203,
+    "health_percent": 73.42,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "Trade barriers and high debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and lack of innovation"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Investment in renewable energy and green technology"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Cutting-edge innovation and research and development"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR SOUTHEAST ASIA, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS",
-    "last_updated": "2026-06-27 13:19:41",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-06-27 14:57:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
