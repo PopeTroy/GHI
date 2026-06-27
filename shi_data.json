@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 2.70259,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "High debt levels"
+            "loc": "Beijing, China",
+            "deviation": "Trade Embargo"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade barriers and energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Kuala Lumpur, Malaysia",
-            "deviation": "Inefficient protocols and corruption"
+            "loc": "Mumbai, India",
+            "deviation": "High Public Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "protocol": "Digital Tax Reform"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation and green technology adoption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Renewable Energy Initiative"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulation and stability"
+            "protocol": "Anti-Money Laundering Law"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY INCREASING, TRADE TENSIONS RISING, AND ENERGY PRICES FLUCTUATING WILDLY.",
-    "last_updated": "2026-06-27 10:26:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS TO MITIGATE POTENTIAL COLLAPSE.",
+    "last_updated": "2026-06-27 11:54:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.42
+        "C": 0.5
     }
 }
