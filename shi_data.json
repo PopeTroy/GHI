@@ -1,45 +1,45 @@
 {
-    "shi": 2.77781,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 74.56,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and inflation risks"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy import reliance"
         },
         {
             "loc": "London, UK",
-            "deviation": "Over-reliance on foreign investment"
+            "deviation": "Trade policy uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and low debt"
+            "loc": "Sydney, Australia",
+            "protocol": "Fiscal discipline"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE A SLIGHT DOWNTURN, BUT TOKYO'S HIGH-TECH INDUSTRY SHOWS RESILIENCE. BEIJING STRUGGLES WITH DEBT, WHILE NEW YORK CITY FACES ENERGY CONCERNS.",
-    "last_updated": "2026-06-27 05:40:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO GEOPOLITICAL TENSIONS, COMMODITY PRICES RISING, AND INVESTOR SENTIMENT SHIFTING.",
+    "last_updated": "2026-06-27 08:16:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.62,
-        "C": 0.51
+        "B": 1.21,
+        "C": 0.69
     }
 }
