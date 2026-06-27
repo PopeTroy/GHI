@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 74.21,
+    "shi": 38.02348,
+    "health_percent": 74.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:10",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-06-27 21:01:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, INVESTORS URGED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-06-27 22:11:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.21,
+        "C": 0.11
     }
 }
