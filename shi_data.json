@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.56,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:12",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "loc": "Vancouver, Canada",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy import reliance"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers and energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade policy uncertainty"
+            "loc": "Kuala Lumpur, Malaysia",
+            "deviation": "Inefficient protocols and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation hub"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation and green technology adoption"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Fiscal discipline"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial regulation and stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO GEOPOLITICAL TENSIONS, COMMODITY PRICES RISING, AND INVESTOR SENTIMENT SHIFTING.",
-    "last_updated": "2026-06-27 08:16:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY INCREASING, TRADE TENSIONS RISING, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-06-27 10:26:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
