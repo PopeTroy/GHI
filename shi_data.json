@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 72.5,
+    "shi": 1.67164,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High tariffs on imported goods"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Limited access to rare earth minerals"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Over-reliance on imported energy"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovative robotics sector"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Advanced financial regulations"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Paris, France",
-            "protocol": "Strong anti-corruption measures"
+            "loc": "Dubai, UAE",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE. TRADE TENSIONS BETWEEN MAJOR NATIONS CONTINUE TO ESCALATE. KEY INDUSTRIES EXPERIENCING SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-06-27 16:06:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY ON THE RISE, POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT 48 HOURS",
+    "last_updated": "2026-06-27 17:20:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.1,
+        "T": 1.1,
+        "B": 0.78,
         "C": 0.95
     }
 }
