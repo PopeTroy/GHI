@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.11344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariff Barriers"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy Supply Disruptions"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Excessive National Debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Trade Agreement Reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Initiatives"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Legislation"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE DUE TO UNFORESEEN TRADE RESTRICTIONS. THE GHI LOGIC ENGINE INDICATES A 27.89% CHANCE OF SUPPLY CHAIN DISRUPTIONS WITHIN THE NEXT QUARTER.",
-    "last_updated": "2026-06-28 14:13:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO ONGOING TRADE DISPUTES AND RISING ENERGY COSTS.",
+    "last_updated": "2026-06-28 15:40:28",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
