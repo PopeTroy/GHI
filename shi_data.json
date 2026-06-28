@@ -1,45 +1,45 @@
 {
-    "shi": 3.73445,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:15",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Los Angeles, USA",
             "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Beijing, China",
             "deviation": "High debt"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore",
+            "protocol": "Anti-corruption measures"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation hubs"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE NEGOTIATIONS UNDERWAY IN SINGAPORE, AND ENERGY CRISIS LOOMING IN THE MIDDLE EAST.",
-    "last_updated": "2026-06-28 19:04:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC DOWNTURN LOOMS AS TRADE TENSIONS RISE. NEW YORK STOCK EXCHANGE EXPERIENCES HEAVY LOSSES. CHINA'S DEBT CRISIS DEEPENS.",
+    "last_updated": "2026-06-28 20:21:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
