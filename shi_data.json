@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 3.73445,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Overpopulation and infrastructure strain"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and trade facilitation"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and environmental reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, GOVERNMENTS SCRAMBLE TO RESPOND TO ECONOMIC INSTABILITY.",
-    "last_updated": "2026-06-28 17:53:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE NEGOTIATIONS UNDERWAY IN SINGAPORE, AND ENERGY CRISIS LOOMING IN THE MIDDLE EAST.",
+    "last_updated": "2026-06-28 19:04:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.56,
+        "C": 0.42
     }
 }
