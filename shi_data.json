@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.08344,
+    "health_percent": 42.11,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy import dependence and over-reliance on oil"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "High government spending and potential Brexit instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and business-friendly policies"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Innovation and tech sector growth"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Fiscal responsibility and stable governance"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-06-29 21:25:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, WHILE SINGAPORE AND VANCOUVER EXHIBIT STRONG ECONOMIC RESILIENCE",
+    "last_updated": "2026-06-29 22:35:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
