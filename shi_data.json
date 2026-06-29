@@ -1,45 +1,45 @@
 {
-    "shi": 1.173,
-    "health_percent": 74.21,
+    "shi": 21.74614,
+    "health_percent": 72.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy shortages"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and outdated infrastructure"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and infrastructure strain"
         },
         {
             "loc": "London, UK",
-            "deviation": "Inefficient policy frameworks and high labor costs"
+            "deviation": "Financial instability and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative tax reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strategic anti-corruption initiatives"
+            "protocol": "Anti-corruption and economic stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Effective policy reforms for sustainable growth"
+            "protocol": "Sustainable development and trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING AS TRADE TENSIONS RISE, SINGAPORE LAUNCHES NEW FINTECH INITIATIVE TO BOOST ECONOMIC GROWTH",
-    "last_updated": "2026-06-29 17:56:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, WHILE TRADE TENSIONS BETWEEN MAJOR ECONOMIES CONTINUE TO RISE",
+    "last_updated": "2026-06-29 19:55:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.88
+        "P": 2.67,
+        "F": 0.89,
+        "T": 1.21,
+        "B": 0.56,
+        "C": 0.34
     }
 }
