@@ -1,45 +1,45 @@
 {
-    "shi": 0.71727,
-    "health_percent": 72.5,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "shi": 0.58142,
+    "health_percent": 62.13,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "loc": "Los Angeles, USA",
+            "deviation": "High energy costs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Embargo"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "London, UK",
-            "deviation": "Debt Crisis"
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Tax Reform"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Law"
+            "protocol": "Financial stability"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green technology"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING RED, EXPERTS WARN OF IMPENDING GLOBAL DOWNTURN. TRADE TENSIONS ESCALATE BETWEEN MAJOR WORLD POWERS.",
-    "last_updated": "2026-06-29 01:57:12",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE, WITH THE US AND CHINA IMPOSING NEW TARIFFS ON EACH OTHER'S GOODS.",
+    "last_updated": "2026-06-29 06:50:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 0.95
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 2.15,
+        "C": 1.09
     }
 }
