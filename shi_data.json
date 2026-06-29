@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 72.53,
+    "shi": 1.173,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
+            "deviation": "High debt and energy shortages"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and outdated infrastructure"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Inefficient policy frameworks and high labor costs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative tax reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strategic anti-corruption initiatives"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Effective policy reforms for sustainable growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, HIGH IMPACT LOCATIONS IDENTIFIED FOR IMMEDIATE ATTENTION",
-    "last_updated": "2026-06-29 15:20:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING AS TRADE TENSIONS RISE, SINGAPORE LAUNCHES NEW FINTECH INITIATIVE TO BOOST ECONOMIC GROWTH",
+    "last_updated": "2026-06-29 17:56:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.88
     }
 }
