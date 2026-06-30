@@ -1,45 +1,45 @@
 {
-    "shi": 1.53556,
+    "shi": 0.99097,
     "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "New Delhi, India",
+            "deviation": "Infrastructure limitations and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies and anti-corruption measures"
         },
         {
-            "loc": "Tel Aviv, Israel",
-            "protocol": "Innovation hub"
+            "loc": "Dubai, UAE",
+            "protocol": "Investment in renewable energy and business-friendly reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Hong Kong, China",
+            "protocol": "Strong financial regulations and open trade policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2. TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES STALLED.",
-    "last_updated": "2026-06-30 01:35:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, SINGAPORE AND DUBAI EMERGE AS STABLE ECONOMIC HUBS, WHILE NEW DELHI AND MOSCOW FACE SIGNIFICANT CHALLENGES.",
+    "last_updated": "2026-06-30 05:51:55",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.88
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.67,
+        "B": 1.05,
+        "C": 0.92
     }
 }
