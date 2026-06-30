@@ -1,45 +1,45 @@
 {
-    "shi": 2.13766,
-    "health_percent": 73.21,
+    "shi": 1.13498,
+    "health_percent": 82.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and financial stability"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social stability"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-06-30 20:17:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-06-30 21:49:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.75,
-        "B": 0.65,
-        "C": 0.58
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.02,
+        "B": 1.15,
+        "C": 0.88
     }
 }
