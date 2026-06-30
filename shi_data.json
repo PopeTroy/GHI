@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
+    "shi": 1.05203,
     "health_percent": 67.32,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
+            "loc": "Tokyo, Japan",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Dubai, UAE",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Policies"
-        },
-        {
-            "loc": "Melbourne, Australia",
+            "loc": "London, UK",
             "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. INNOVATIONS IN RENEWABLE ENERGY AND FINANCIAL TECHNOLOGY OFFER POTENTIAL SOLUTIONS. CITIES WITH STRONG ANTI-CORRUPTION POLICIES AND POLICY REFORMS ARE LIKELY TO EXPERIENCE HIGHER STABILITY AND GROWTH.",
-    "last_updated": "2026-06-30 13:27:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, WHILE CITIES WITH STRONG PROTOCOLS SHOW SIGNS OF RESILIENCE AND GROWTH.",
+    "last_updated": "2026-06-30 16:06:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
