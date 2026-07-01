@@ -1,45 +1,45 @@
 {
-    "shi": 38.02348,
+    "shi": 0.84052,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High energy costs due to trade barriers"
+        },
+        {
+            "loc": "New York City, USA",
+            "deviation": "Congested ports causing supply delays"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Rising debt levels impacting economic stability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovative trade agreements"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial regulations"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF STABILITY, BUT EXPERTS WARN OF POTENTIAL DISRUPTIONS DUE TO ONGOING TRADE TENSIONS AND DEBT CRISES.",
-    "last_updated": "2026-07-01 04:55:59",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE NEGOTIATIONS ONGOING, ENERGY PRICES SURGE",
+    "last_updated": "2026-07-01 08:48:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.11
+        "B": 1.1,
+        "C": 0.95
     }
 }
