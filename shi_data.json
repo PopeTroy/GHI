@@ -1,45 +1,45 @@
 {
-    "shi": 4.44018,
-    "health_percent": 74.21,
+    "shi": 2.22196,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and economic instability"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Aging population and declining innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Robust policy reforms and anti-corruption measures"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Anti-corruption measures"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Strong investments in innovation and green technology"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation incentives"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse economy and effective governance structures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS, AND ENERGY PRICES SPIKING DUE TO GEOPOLITICAL UNREST.",
-    "last_updated": "2026-07-01 18:24:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY IN EUROPE, TRADE TENSIONS BETWEEN USA AND CHINA, AND RISING INFLATION IN EMERGING MARKETS",
+    "last_updated": "2026-07-01 20:21:21",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.62,
-        "T": 0.75,
-        "B": 0.32,
-        "C": 0.41
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
