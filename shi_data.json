@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
+    "shi": 0.76411,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints and economic instability"
+            "loc": "New York City, USA",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and declining innovation"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong investments in innovation and green technology"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diverse economy and effective governance structures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY IN EUROPE, TRADE TENSIONS BETWEEN USA AND CHINA, AND RISING INFLATION IN EMERGING MARKETS",
-    "last_updated": "2026-07-01 20:21:21",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZE AFTER RECENT FLUCTUATIONS, WITH TOKYO IDENTIFIED AS A HIGH-IMPACT LOCATION DUE TO ITS SIGNIFICANT ROLE IN INTERNATIONAL TRADE.",
+    "last_updated": "2026-07-01 21:54:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.95
     }
 }
