@@ -1,9 +1,9 @@
 {
-    "shi": 0.70703,
-    "health_percent": 67.23,
+    "shi": 4.44018,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "45:23:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "London, UK",
+            "protocol": "Anti-corruption measures"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Innovation incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING, MONITOR MARKETS CLOSELY",
-    "last_updated": "2026-07-01 16:26:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS, AND ENERGY PRICES SPIKING DUE TO GEOPOLITICAL UNREST.",
+    "last_updated": "2026-07-01 18:24:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.23,
-        "C": 1.01
+        "P": 0.87,
+        "F": 0.62,
+        "T": 0.75,
+        "B": 0.32,
+        "C": 0.41
     }
 }
