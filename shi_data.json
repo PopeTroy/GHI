@@ -1,45 +1,45 @@
 {
-    "shi": 1.04604,
-    "health_percent": 62.15,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 38.02348,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Mumbai, India",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Delhi, India",
+            "loc": "London, UK",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING INSTABILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN.",
-    "last_updated": "2026-07-01 00:16:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF STABILITY, BUT EXPERTS WARN OF POTENTIAL DISRUPTIONS DUE TO ONGOING TRADE TENSIONS AND DEBT CRISES.",
+    "last_updated": "2026-07-01 04:55:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.81,
-        "B": 1.19,
-        "C": 0.75
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.11
     }
 }
