@@ -1,45 +1,45 @@
 {
-    "shi": 1.70719,
+    "shi": 3.21737,
     "health_percent": 67.32,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "loc": "New York City, USA",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers impacting oil exports"
+            "loc": "Singapore",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Energy sector mismanagement"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative trade agreements"
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption policies"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Investment in AI-driven economic growth"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR MULTIPLE NATIONS, GLOBAL MARKETS REACT WITH CAUTIOUS OPTIMISM",
-    "last_updated": "2026-07-02 07:52:46",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX (GESI) UPDATE: 54.21",
+    "last_updated": "2026-07-02 10:27:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.81,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.05,
-        "B": 0.75,
-        "C": 0.88
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
