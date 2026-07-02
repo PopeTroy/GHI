@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 67.23,
+    "shi": 1.70719,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers due to ongoing tariffs"
+            "loc": "Beijing, China",
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint affecting regional supply"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers impacting oil exports"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High national debt impacting economic stability"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Energy sector mismanagement"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative fintech policies"
+            "protocol": "Innovative trade agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption laws"
+            "protocol": "Stringent anti-corruption policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Investment in AI-driven economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS, AND TECH STOCKS PLUMMET AMIDST REGULATORY SCRUTINY.",
-    "last_updated": "2026-07-02 04:34:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR MULTIPLE NATIONS, GLOBAL MARKETS REACT WITH CAUTIOUS OPTIMISM",
+    "last_updated": "2026-07-02 07:52:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.81,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "T": 1.05,
+        "B": 0.75,
+        "C": 0.88
     }
 }
