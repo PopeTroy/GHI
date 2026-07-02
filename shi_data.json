@@ -1,9 +1,9 @@
 {
-    "shi": 1.18547,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 73.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,11 +11,11 @@
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
@@ -24,22 +24,22 @@
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
             "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE. EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-07-02 19:53:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS; SINGAPORE AND STOCKHOLM SHOWING RESILIENCE WITH STRONG INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-07-02 20:55:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
