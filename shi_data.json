@@ -1,45 +1,45 @@
 {
-    "shi": 5.93914,
-    "health_percent": 74.21,
+    "shi": 0.77048,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Shanghai, China",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade barriers due to ongoing tariffs"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High Debt"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint affecting regional supply"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High national debt impacting economic stability"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative fintech policies"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Stringent anti-corruption laws"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Anti-Corruption"
+            "protocol": "Sustainable energy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING WARNING SIGNS, EXPERTS URGE CAUTION AND CALL FOR IMMEDIATE REFORMS TO MITIGATE POTENTIAL COLLAPSE.",
-    "last_updated": "2026-07-02 00:19:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS, AND TECH STOCKS PLUMMET AMIDST REGULATORY SCRUTINY.",
+    "last_updated": "2026-07-02 04:34:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.65,
-        "T": 0.91,
-        "B": 0.42,
-        "C": 0.28
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
