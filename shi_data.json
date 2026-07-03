@@ -1,45 +1,45 @@
 {
-    "shi": 2.24328,
-    "health_percent": 72.5,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 73.42,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "New York, USA",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure inefficiencies and high crime rates"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "London, UK",
+            "protocol": "Strong anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "High investment in research and development"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-03 19:00:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX FALLS 2.1% IN THE LAST QUARTER, EXPERTS WARN OF POTENTIAL RECESSION IN 2025",
+    "last_updated": "2026-07-03 20:19:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
