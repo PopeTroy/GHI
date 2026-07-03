@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.42,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure inefficiencies and high crime rates"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative policy reforms"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Strong anti-corruption measures"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "High investment in research and development"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX FALLS 2.1% IN THE LAST QUARTER, EXPERTS WARN OF POTENTIAL RECESSION IN 2025",
-    "last_updated": "2026-07-03 20:19:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, KEY LOCATIONS EXPERIENCING HIGH DEVIATION FROM STABILITY, URGENT ATTENTION REQUIRED TO PREVENT COLLAPSE.",
+    "last_updated": "2026-07-03 21:35:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
