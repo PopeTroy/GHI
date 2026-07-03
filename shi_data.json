@@ -1,45 +1,45 @@
 {
-    "shi": 1.476,
-    "health_percent": 82.14,
+    "shi": 1.89285,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "46:21:49",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hub"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS, GOVERNMENTS ENACT ECONOMIC STIMULUS PACKAGES, AND INTERNATIONAL TRADE AGREEMENTS ARE REEVALUATED.",
-    "last_updated": "2026-07-02 23:19:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC INSTABILITY RISES IN DEVELOPING NATIONS, AND TRADE AGREEMENTS ARE BEING RE-EVALUATED.",
+    "last_updated": "2026-07-03 01:06:39",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.23,
-        "T": 0.91,
-        "B": 1.19,
-        "C": 0.78
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 0.75,
+        "C": 0.82
     }
 }
