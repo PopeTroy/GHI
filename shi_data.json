@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
+    "shi": 1.15199,
     "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy dependence"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "High debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High regulatory hurdles and Brexit complexities"
+            "loc": "Tehran, Iran",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with favorable business policies"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Strong anti-corruption measures and open trade"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and high ease of doing business"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMISTS PREDICT A MINOR RECESSION IN THE NEXT QUARTER.",
-    "last_updated": "2026-07-03 14:53:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, OIL PRICES SURGE, AND GEOPOLITICAL TENSIONS ESCALATE.",
+    "last_updated": "2026-07-03 16:18:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
+        "F": 1.21,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.09,
+        "C": 0.92
     }
 }
