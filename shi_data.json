@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
+    "shi": 1.03803,
     "health_percent": 67.32,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:02:15",
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy supply disruptions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Rising debt levels"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative financial reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy initiatives"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WHILE REGIONAL STABILITY REMAINS A CONCERN.",
-    "last_updated": "2026-07-03 04:54:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC STABILITY AT RISK",
+    "last_updated": "2026-07-03 07:56:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
+        "T": 0.85,
         "B": 1.21,
-        "C": 0.65
+        "C": 0.78
     }
 }
