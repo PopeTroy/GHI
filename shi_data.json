@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 0.74758,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
+            "loc": "New York, USA",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Beijing, China",
             "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Infrastructure challenges and bureaucratic red tape"
+            "deviation": "Inefficient infrastructure and bureaucratic delays"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative economic policies and low corruption"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable governance"
+            "protocol": "Anti-corruption and stable financial system"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO ONGOING GEOPOLITICAL TENSIONS, WHILE REGIONAL HUBS LIKE SINGAPORE AND ZURICH SHOW RESILIENCE AND GROWTH POTENTIAL.",
-    "last_updated": "2026-07-04 12:36:12",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. GOVERNMENTS AND INSTITUTIONS URGED TO IMPLEMENT PROTOCOLS FOR GROWTH IMPROVEMENTS.",
+    "last_updated": "2026-07-04 14:11:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.75,
+        "B": 1.1,
+        "C": 0.98
     }
 }
