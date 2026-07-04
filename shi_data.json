@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.4076,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High Trade Barriers"
-        },
-        {
-            "loc": "Shanghai, China",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "London, UK",
+            "loc": "Beijing, China",
             "deviation": "High Debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption Initiatives"
         },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS, ECONOMIES SHOWING SIGNS OF RECOVERY.",
-    "last_updated": "2026-07-04 07:42:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-07-04 09:51:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.88
     }
 }
