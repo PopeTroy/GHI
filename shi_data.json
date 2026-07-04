@@ -1,45 +1,45 @@
 {
-    "shi": 1.508,
-    "health_percent": 67.42,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy shortages"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade barriers"
+            "deviation": "Infrastructure challenges and bureaucratic red tape"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Innovative economic policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
+            "protocol": "Strong financial regulations and stable governance"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy practices"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high standard of living"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN.",
-    "last_updated": "2026-07-04 11:14:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO ONGOING GEOPOLITICAL TENSIONS, WHILE REGIONAL HUBS LIKE SINGAPORE AND ZURICH SHOW RESILIENCE AND GROWTH POTENTIAL.",
+    "last_updated": "2026-07-04 12:36:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.92,
-        "B": 1.19,
-        "C": 0.79
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
