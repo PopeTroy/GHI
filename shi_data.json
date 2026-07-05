@@ -1,45 +1,45 @@
 {
-    "shi": 1.2849,
-    "health_percent": 67.23,
+    "shi": 1.08344,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Sydney, Australia",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC TURMOIL LOOMING, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN BREAK IN MAJOR CITIES WORLDWIDE.",
-    "last_updated": "2026-07-05 08:28:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN DUE TO SUPPLY CHAIN DISRUPTIONS, WITH THE PRIMARY HIGH IMPACT LOCATION BEING NEW YORK, USA.",
+    "last_updated": "2026-07-05 10:38:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.28,
-        "C": 0.76
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
