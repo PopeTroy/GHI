@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
-    "health_percent": 72.11,
+    "shi": 1.05203,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure deficits and corruption"
+            "loc": "Kabul, Afghanistan",
+            "deviation": "Political instability and lack of infrastructure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with favorable business policies"
+            "loc": "Singapore",
+            "protocol": "Efficient policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy and sustainable practices"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative technologies and stable economy"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high standard of living"
+            "protocol": "Strategic investments in renewable energy and social welfare"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENVIRONMENTAL CONCERNS MOUNTING.",
-    "last_updated": "2026-07-05 17:39:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL INSTABILITY. KEY CITIES LIKE NEW YORK, BEIJING, AND LONDON ARE AT HIGH RISK OF COLLAPSE.",
+    "last_updated": "2026-07-05 18:43:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.56
+        "B": 1.21,
+        "C": 0.69
     }
 }
