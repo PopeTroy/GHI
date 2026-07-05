@@ -1,45 +1,45 @@
 {
-    "shi": 0.78374,
-    "health_percent": 74.32,
+    "shi": 1.08344,
+    "health_percent": 62.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Paris, France",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure deficits and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption and economic stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS PREDICT ECONOMIC DOWNTURN IN 6 MONTHS",
-    "last_updated": "2026-07-05 19:59:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS IN ENERGY, TRADE, AND CORRUPTION. IDENTIFY AND ADDRESS THESE NODES TO MITIGATE COLLAPSE RISK.",
+    "last_updated": "2026-07-05 21:09:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.65,
-        "T": 0.92,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.79
+        "C": 0.67
     }
 }
