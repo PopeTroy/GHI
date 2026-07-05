@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "Energy Chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy chokepoints and high inflation"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Corruption and infrastructure bottlenecks"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and transparency"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial systems and low debt"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Anti-Corruption Measures"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. KEY CITIES EXPERIENCING HIGH LEVELS OF INSTABILITY.",
-    "last_updated": "2026-07-04 23:41:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, MULTIPLE NATIONS INTRODUCING STIMULUS PACKAGES TO MITIGATE EFFECTS.",
+    "last_updated": "2026-07-05 01:24:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
