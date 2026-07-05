@@ -1,45 +1,45 @@
 {
-    "shi": 3.10936,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "San Francisco, USA",
             "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY TRADE TENSIONS AND RISING DEBT LEVELS.",
-    "last_updated": "2026-07-05 14:01:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY DOWN 2.5%, NEW TRADE AGREEMENTS SIGNED BETWEEN EU AND JAPAN, OIL PRICES RISE 5% DUE TO MIDDLE EAST TENSIONS",
+    "last_updated": "2026-07-05 15:21:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 0.42,
+        "B": 1.21,
         "C": 0.67
     }
 }
