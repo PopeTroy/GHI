@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 0.78374,
+    "health_percent": 74.32,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Paris, France",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Kabul, Afghanistan",
-            "deviation": "Political instability and lack of infrastructure"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Efficient policy reforms and anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative technologies and stable economy"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Strategic investments in renewable energy and social welfare"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL INSTABILITY. KEY CITIES LIKE NEW YORK, BEIJING, AND LONDON ARE AT HIGH RISK OF COLLAPSE.",
-    "last_updated": "2026-07-05 18:43:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS PREDICT ECONOMIC DOWNTURN IN 6 MONTHS",
+    "last_updated": "2026-07-05 19:59:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "P": 0.87,
+        "F": 0.65,
+        "T": 0.92,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.79
     }
 }
