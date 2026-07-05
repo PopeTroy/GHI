@@ -1,44 +1,44 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.01725,
+    "health_percent": 62.1,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Energy Chokepoint"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Anti-Corruption Measures"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, MULTIPLE NATIONS INTRODUCING STIMULUS PACKAGES TO MITIGATE EFFECTS.",
-    "last_updated": "2026-07-05 01:24:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. KEY CITIES UNDER THREAT: NEW YORK, LOS ANGELES, BEIJING. STABILITY INDEX: 62.1%",
+    "last_updated": "2026-07-05 05:33:20",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 0.78,
+        "T": 0.75,
         "B": 1.21,
         "C": 0.67
     }
