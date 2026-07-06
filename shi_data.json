@@ -1,45 +1,45 @@
 {
-    "shi": 1.57494,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 0.77048,
+    "health_percent": 82.13,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "96:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Trade Tariffs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging Population"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "loc": "New York City, USA",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Trade Agreement"
-        },
-        {
-            "loc": "Stockholm, Sweden",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversity and Inclusion"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Stability"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND GEOPOLITICAL RISKS INCREASING. MONITOR CLOSELY FOR POTENTIAL COLLAPSE.",
-    "last_updated": "2026-07-06 21:55:59",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE SINGAPORE ANNOUNCES A NEW INNOVATION HUB TO BOOST ECONOMIC GROWTH.",
+    "last_updated": "2026-07-06 23:05:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.2,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.78
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
+        "C": 0.95
     }
 }
