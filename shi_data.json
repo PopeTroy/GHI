@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.21,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "ECONOMIC DOWNTURN",
-    "collapse_timer": "48:22:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Debt Crisis"
+            "deviation": "Trade tariffs and energy shortages"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "deviation": "High national debt and Brexit uncertainty"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and labor shortages"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation and trade agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "protocol": "Financial stability and low corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversity and sustainable growth policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC DOWNTURN | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE. ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
-    "last_updated": "2026-07-06 13:28:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND ZURICH SHOW RESILIENCE WITH STRONG ECONOMIC PROTOCOLS.",
+    "last_updated": "2026-07-06 16:38:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
