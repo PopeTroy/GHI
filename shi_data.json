@@ -1,21 +1,21 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "ECONOMIC DOWNTURN",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt Crisis"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "Brexit Uncertainty"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Financial Stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE WILDLY AS SUPPLY CHAIN DISRUPTIONS WORSEN. ECONOMISTS WARN OF IMPENDING CRISIS.",
-    "last_updated": "2026-07-06 09:39:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC DOWNTURN | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS RISE. ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-07-06 13:28:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
