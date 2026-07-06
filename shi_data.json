@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.84052,
+    "health_percent": 67.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "42:11:37",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy supply constraints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Pro-business policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Low corruption and high innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO ONGOING TRADE TENSIONS AND RISING DEBT LEVELS.",
-    "last_updated": "2026-07-06 01:11:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-07-06 05:36:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.1,
+        "C": 0.95
     }
 }
