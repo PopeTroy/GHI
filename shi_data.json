@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 0.81562,
     "health_percent": 67.32,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "New York City, USA",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Strong innovation and investment in renewable energy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial system and high standard of living"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE, TRADE TENSIONS ESCALATING BETWEEN MAJOR NATIONS, AND CONCERNS OVER ENERGY SECURITY MOUNTING.",
-    "last_updated": "2026-07-07 22:43:30",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY, REGIONAL INSTABILITY ON THE RISE.",
+    "last_updated": "2026-07-07 23:38:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.89
     }
 }
