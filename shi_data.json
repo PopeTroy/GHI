@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
+    "shi": 0.84052,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "Trade Tariffs"
+        },
+        {
+            "loc": "Moscow, Russia",
             "deviation": "High Debt"
         },
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Tehran, Iran",
+            "deviation": "Energy Sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Toronto, Canada",
+            "protocol": "Renewable Energy"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Digital Governance"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Sustainable Infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RISING DEBT AND TRADE TENSIONS. CITIES WITH HIGH INNOVATION AND POLICY REFORMS ARE SHOWING RESILIENCE.",
-    "last_updated": "2026-07-07 11:13:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-07-07 13:26:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.1,
+        "C": 0.95
     }
 }
