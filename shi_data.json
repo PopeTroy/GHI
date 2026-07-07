@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 82.13,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.80421,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:14",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tariffs"
+            "deviation": "High debt and energy inefficiency"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers and logistics congestion"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High National Debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Corruption and infrastructure deficits"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovative fintech regulations"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy solutions and green policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse and inclusive economic ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE SINGAPORE ANNOUNCES A NEW INNOVATION HUB TO BOOST ECONOMIC GROWTH.",
-    "last_updated": "2026-07-06 23:05:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISES BY 2%, SINGAPORE LAUNCHES NEW INNOVATION HUB, AND TRADE TALKS BETWEEN THE US AND CHINA STALL.",
+    "last_updated": "2026-07-07 00:17:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.62,
+        "C": 0.92
     }
 }
