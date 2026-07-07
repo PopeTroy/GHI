@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High inflation and infrastructure gaps"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative fintech regulations"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green policies"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and anti-corruption reforms"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS VOLATILE AMIDST RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. OIL PRICES SURGE DUE TO SUPPLY CHAIN DISRUPTIONS. CITIES WORLDWIDE TAKE MEASURES TO MITIGATE THE EFFECTS OF CLIMATE CHANGE.",
-    "last_updated": "2026-07-07 07:58:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RISING DEBT AND TRADE TENSIONS. CITIES WITH HIGH INNOVATION AND POLICY REFORMS ARE SHOWING RESILIENCE.",
+    "last_updated": "2026-07-07 11:13:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
