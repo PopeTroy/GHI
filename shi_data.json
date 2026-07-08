@@ -1,5 +1,5 @@
 {
-    "shi": 1.58806,
+    "shi": 1.5025,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,39 +7,39 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Oil Price Volatility"
+            "deviation": "Energy chokepoints and dependency on foreign investment"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "loc": "Athens, Greece",
+            "deviation": "High unemployment and austerity measures"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business Friendly Reforms"
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption and transparency"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green Innovation Hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability Framework"
+            "protocol": "Sustainable development and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-08 22:16:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY IN MAJOR CITIES WORLDWIDE. GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY SHORTAGES.",
+    "last_updated": "2026-07-08 23:33:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.78
+        "T": 0.98,
+        "B": 1.05,
+        "C": 0.92
     }
 }
