@@ -1,45 +1,45 @@
 {
-    "shi": 1.29626,
-    "health_percent": 67.32,
+    "shi": 0.77048,
+    "health_percent": 67.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers with neighboring countries"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy supply shortages"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Inefficient infrastructure and crime rates"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech regulations"
+            "protocol": "Policy reforms and technological innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy and social welfare programs"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Effective policy reforms for sustainable growth"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO TRADE TENSIONS, WHILE CITIES WITH STRONG PROTOCOLS SEE INCREASED INVESTMENT AND GROWTH",
-    "last_updated": "2026-07-08 11:25:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-07-08 12:59:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.56
+        "B": 1.2,
+        "C": 0.95
     }
 }
