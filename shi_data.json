@@ -1,45 +1,45 @@
 {
-    "shi": 1.5025,
-    "health_percent": 73.21,
+    "shi": 0.77599,
+    "health_percent": 67.45,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt, trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and dependency on foreign investment"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy import dependency"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High unemployment and austerity measures"
+            "loc": "London, UK",
+            "deviation": "High regulatory barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs, tax incentives"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and transparency"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable development and green initiatives"
+            "protocol": "Diversified economy, sustainable practices"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY IN MAJOR CITIES WORLDWIDE. GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY SHORTAGES.",
-    "last_updated": "2026-07-08 23:33:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC UNCERTAINTY ON THE RISE, WITH KEY NATIONS STRUGGLING TO ADDRESS BOTTLENECKS IN TRADE, ENERGY, AND DEBT MANAGEMENT. INNOVATION HUBS AND POLICY REFORMS IN SELECT REGIONS OFFER HOPEFUL SIGNS FOR STABILITY AND GROWTH.",
+    "last_updated": "2026-07-09 01:12:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 1.21,
         "T": 0.98,
-        "B": 1.05,
-        "C": 0.92
+        "B": 1.67,
+        "C": 1.12
     }
 }
