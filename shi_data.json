@@ -1,45 +1,45 @@
 {
-    "shi": 1.18547,
-    "health_percent": 74.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 3.21737,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade congestion due to high import tariffs"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy shortages affecting manufacturing output"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High Debt"
+            "loc": "London, UK",
+            "deviation": "Debt crisis impacting financial stability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative trade agreements and business-friendly policies"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Investment in renewable energy sources and green technologies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Stable banking system and high transparency in financial transactions"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 67.51, REGIONAL ECONOMIC INDICATORS: ASIA 70.23, EUROPE 65.19, AMERICAS 71.45",
-    "last_updated": "2026-07-09 11:33:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL TRADE NEGOTIATIONS STALL, TRIGGERING MARKET VOLATILITY. OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS IN THE MIDDLE EAST.",
+    "last_updated": "2026-07-09 14:09:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.78
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
