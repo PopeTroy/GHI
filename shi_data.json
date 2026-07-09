@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.67164,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade congestion due to high import tariffs"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy shortages affecting manufacturing output"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Debt crisis impacting financial stability"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative trade agreements and business-friendly policies"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Investment in renewable energy sources and green technologies"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable banking system and high transparency in financial transactions"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL TRADE NEGOTIATIONS STALL, TRIGGERING MARKET VOLATILITY. OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS IN THE MIDDLE EAST.",
-    "last_updated": "2026-07-09 14:09:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY LOOMS OVER MAJOR CITIES, EXPERTS PREDICT SEVERE SUPPLY CHAIN DISRUPTIONS WITHIN 48 HOURS.",
+    "last_updated": "2026-07-09 16:39:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.1,
+        "B": 0.78,
+        "C": 0.95
     }
 }
