@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
+    "shi": 34.72114,
     "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Policy Reforms"
+            "loc": "London, UK",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption Initiative"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-09 05:06:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, GOVERNMENTS ADDRESSING BOTTLENECKS, AND INNOVATORS DRIVING GROWTH",
+    "last_updated": "2026-07-09 08:38:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.95,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.21,
+        "C": 0.12
     }
 }
