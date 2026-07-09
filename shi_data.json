@@ -1,45 +1,45 @@
 {
-    "shi": 2.52286,
-    "health_percent": 74.23,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.22196,
+    "health_percent": 74.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "36:00:00",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "London, UK",
-            "deviation": "High Debt"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, ENERGY DISRUPTIONS, AND RISING DEBT LEVELS. POLICY REFORMS, ANTI-CORRUPTION INITIATIVES, AND INNOVATION ARE KEY DRIVERS OF STABILITY AND GROWTH.",
-    "last_updated": "2026-07-09 18:25:20",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIES ADAPTING TO CHANGING LANDSCAPE.",
+    "last_updated": "2026-07-09 20:16:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.05,
+        "F": 0.92,
+        "T": 0.78,
         "B": 0.67,
-        "C": 0.92
+        "C": 0.59
     }
 }
