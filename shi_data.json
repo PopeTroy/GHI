@@ -1,45 +1,45 @@
 {
-    "shi": 1.67164,
+    "shi": 2.52286,
     "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "36:00:00",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation Hubs"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY LOOMS OVER MAJOR CITIES, EXPERTS PREDICT SEVERE SUPPLY CHAIN DISRUPTIONS WITHIN 48 HOURS.",
-    "last_updated": "2026-07-09 16:39:17",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, ENERGY DISRUPTIONS, AND RISING DEBT LEVELS. POLICY REFORMS, ANTI-CORRUPTION INITIATIVES, AND INNOVATION ARE KEY DRIVERS OF STABILITY AND GROWTH.",
+    "last_updated": "2026-07-09 18:25:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.95
+        "F": 1.21,
+        "T": 1.05,
+        "B": 0.67,
+        "C": 0.92
     }
 }
