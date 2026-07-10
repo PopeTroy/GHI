@@ -2,38 +2,38 @@
     "shi": 3.21737,
     "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "72:14:05",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy shortages"
+            "deviation": "High Energy Costs"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade barriers and infrastructure limitations"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and limited access to finance"
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial systems and stable economy"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Strong institutional framework and diversified economy"
+            "protocol": "Sustainable Energy Policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. KEY LOCATIONS SUCH AS NEW YORK, BEIJING, AND MUMBAI FACE SIGNIFICANT CHALLENGES, WHILE CITIES LIKE SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH POTENTIAL.",
-    "last_updated": "2026-07-10 10:42:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES AT A 5-YEAR LOW, INVESTORS FLEE EMERGING MARKETS",
+    "last_updated": "2026-07-10 12:58:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
