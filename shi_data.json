@@ -1,5 +1,5 @@
 {
-    "shi": 0.82618,
+    "shi": 0.97703,
     "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,14 +7,14 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High Debt Ratio"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "London, UK",
+            "loc": "Istanbul, Turkey",
             "deviation": "Trade Barriers"
         }
     ],
@@ -24,22 +24,22 @@
             "protocol": "Policy Reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Anti-Corruption"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO RISING BOTTLENECKS AND DECREASING PROTOCOLS, MONITOR SITUATION CLOSELY",
-    "last_updated": "2026-07-10 00:10:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, MULTIPLE NATIONS EXPERIENCING TRADE DISRUPTIONS AND DEBT ISSUES.",
+    "last_updated": "2026-07-10 04:13:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.85,
+        "P": 0.83,
+        "F": 0.91,
+        "T": 0.75,
         "B": 1.21,
-        "C": 0.98
+        "C": 0.69
     }
 }
