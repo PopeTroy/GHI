@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 42.11,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade Barrier"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High Debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and civil unrest"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative trade policies and low debt"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption and stable economy"
         },
         {
-            "loc": "Paris, France",
-            "protocol": "Policy Reform"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and low trade barriers"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, INVESTORS SCRAMBLE FOR SAFE-HAVEN ASSETS",
-    "last_updated": "2026-07-10 15:33:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, SUPPLY CHAIN DISRUPTIONS REPORTED IN EUROPE AND ASIA, US ECONOMY SHOWING SIGNS OF RESILIENCE",
+    "last_updated": "2026-07-10 17:22:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
