@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "45:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt-to-GDP Ratio"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint Vulnerability"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt and inefficient protocols"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barrier Restrictions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative policy reforms and anti-corruption measures"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Strategic innovation and trade agreements"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective financial regulation and transparent governance"
+            "protocol": "Anti-Corruption Measures"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms for Economic Growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING, EU ECONOMY STABILIZING, ASIAN MARKETS EXPERIENCING GROWTH",
-    "last_updated": "2026-07-10 20:15:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY INDEX: 54.21, WARNING SIGNS OF ECONOMIC DOWNTURN IN KEY REGIONS, POLICY MAKERS URGED TO IMPLEMENT REFORMS",
+    "last_updated": "2026-07-10 21:29:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 0.65,
+        "C": 0.42
     }
 }
