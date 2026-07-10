@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.11344,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and civil unrest"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Inefficient policy reforms and high inflation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovative trade policies and low debt"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and stable economy"
+            "protocol": "Policy reforms and stable economy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and low trade barriers"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and efficient governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, SUPPLY CHAIN DISRUPTIONS REPORTED IN EUROPE AND ASIA, US ECONOMY SHOWING SIGNS OF RESILIENCE",
-    "last_updated": "2026-07-10 17:22:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL INSTABILITY. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS. INVESTORS ARE ADVISED TO DIVERSIFY THEIR PORTFOLIOS AND MONITOR THE SITUATION CLOSELY.",
+    "last_updated": "2026-07-10 18:53:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
