@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 73.21,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "High debt and energy shortages"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers and infrastructure limitations"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Corruption and limited access to finance"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Effective policy reforms and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Innovative financial systems and stable economy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Strong institutional framework and diversified economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-07-10 07:52:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. KEY LOCATIONS SUCH AS NEW YORK, BEIJING, AND MUMBAI FACE SIGNIFICANT CHALLENGES, WHILE CITIES LIKE SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH POTENTIAL.",
+    "last_updated": "2026-07-10 10:42:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
