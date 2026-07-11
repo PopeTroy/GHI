@@ -1,45 +1,45 @@
 {
-    "shi": 1.88961,
+    "shi": 0.94354,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy chokepoints and lack of policy reforms"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hubs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS; GEOPOLITICAL TENSIONS RISING; INNOVATION DRIVING GROWTH IN KEY CITIES.",
-    "last_updated": "2026-07-11 06:30:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS WARNING OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-07-11 08:22:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.22,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.92
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.98
     }
 }
