@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
-    "location": "NEW YORK, USA",
+    "shi": 0.64303,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and inflation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Regulatory hurdles and supply chain disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption and economic diversification"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and international cooperation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-07-11 15:33:36",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, COMMODITY PRICES ON THE RISE, AND GEOPOLITICAL TENSIONS ESCALATING.",
+    "last_updated": "2026-07-11 16:29:31",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 1.27,
+        "T": 0.95,
+        "B": 2.11,
+        "C": 1.05
     }
 }
