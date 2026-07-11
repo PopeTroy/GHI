@@ -1,45 +1,45 @@
 {
-    "shi": 0.94354,
+    "shi": 2.22196,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers and high debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and lack of policy reforms"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and corruption"
+            "loc": "London, UK",
+            "deviation": "High debt and financial instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and policy reforms"
+            "protocol": "Anti-corruption and economic stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and low debt"
+            "protocol": "Sustainable energy and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, EXPERTS WARNING OF POTENTIAL ECONOMIC DOWNTURN",
-    "last_updated": "2026-07-11 08:22:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS RISE; SINGAPORE ANNOUNCES NEW INNOVATION HUB; ECONOMIC STABILITY IN ZURICH REACHES NEW HIGHS.",
+    "last_updated": "2026-07-11 09:54:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.98
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
