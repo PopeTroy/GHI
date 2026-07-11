@@ -1,45 +1,45 @@
 {
-    "shi": 0.64303,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 1.05203,
+    "health_percent": 73.45,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and inflation"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Regulatory hurdles and supply chain disruptions"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and stagnant innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Pro-business policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and anti-corruption initiatives"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and economic diversification"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and international cooperation"
+            "protocol": "Innovation hubs and diversified economy"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY, COMMODITY PRICES ON THE RISE, AND GEOPOLITICAL TENSIONS ESCALATING.",
-    "last_updated": "2026-07-11 16:29:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS ARE EXPERIENCING INCREASED VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
+    "last_updated": "2026-07-11 17:32:03",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.27,
-        "T": 0.95,
-        "B": 2.11,
-        "C": 1.05
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
