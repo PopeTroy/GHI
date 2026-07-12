@@ -1,45 +1,45 @@
 {
-    "shi": 1.57294,
-    "health_percent": 75.21,
+    "shi": 3.02084,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:10",
+    "collapse_timer": "47:23:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Chokepoints"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Kiev, Ukraine",
-            "deviation": "High Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovation Hubs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWS DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMIC STABILITY THREATENED BY RISING DEBT IN EMERGING MARKETS.",
-    "last_updated": "2026-07-12 21:12:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL MARKETS EXPERIENCE TURBULENT SHIFT DUE TO INCREASED TRADE TENSIONS, ECONOMIC INSTABILITY ON THE RISE",
+    "last_updated": "2026-07-12 22:06:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.75,
-        "C": 1.05
+        "T": 0.75,
+        "B": 0.65,
+        "C": 0.42
     }
 }
