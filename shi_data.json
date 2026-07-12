@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.58806,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:05",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Excessive Trade Barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy shortages and aging population"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt Levels"
+            "loc": "London, UK",
+            "deviation": "Over-reliance on foreign investment"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation and entrepreneurship"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Stable banking and finance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SHARP DECLINE AS TRADE TENSIONS ESCALATE, WHILE SINGAPORE ANNOUNCES NEW INNOVATION REFORMS TO BOOST ECONOMIC GROWTH.",
-    "last_updated": "2026-07-12 11:32:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS URGED TO IMPLEMENT POLICIES FOR STABILITY AND GROWTH.",
+    "last_updated": "2026-07-12 12:30:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.78
     }
 }
