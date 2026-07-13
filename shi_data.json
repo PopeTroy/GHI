@@ -1,45 +1,45 @@
 {
-    "shi": 0.79481,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 2.95142,
+    "health_percent": 67.5,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barrier imposition"
+        },
+        {
+            "loc": "New York City, USA",
+            "deviation": "High debt ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Trade barriers"
+            "deviation": "Energy export restrictions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub establishment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy reform for green energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE NEGOTIATIONS STALL, AND CONCERNS OVER ENERGY SECURITY RISE.",
-    "last_updated": "2026-07-13 15:32:18",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-07-13 17:32:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 1.11,
-        "C": 0.95
+        "B": 0.62,
+        "C": 0.48
     }
 }
