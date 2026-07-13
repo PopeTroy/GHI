@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 57.32,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:27:11",
     "bottlenecks": [
         {
-            "loc": "Singapore",
-            "deviation": "Trade War with China"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Lack of Foreign Investment"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "OPEC Sanctions"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore",
+            "protocol": "Innovation"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Money Laundering Reform"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Carbon Trading Initiative"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "protocol": "Free Trade Zone Expansion"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC SENTIMENT PLUNGES IN KEY NATIONS, GLOBAL RECESSION CONCERNS GROW",
-    "last_updated": "2026-07-13 20:20:16",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF SLOWING GROWTH, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS, AND ENERGY PRICES REMAIN VOLATILE",
+    "last_updated": "2026-07-13 21:24:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
