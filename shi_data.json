@@ -1,45 +1,45 @@
 {
-    "shi": 1.32338,
-    "health_percent": 82.11,
+    "shi": 1.43421,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers, high debt"
+            "deviation": "High trade tariffs"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints, regulatory hurdles"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Energy production shortfall"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Geopolitical tensions, corruption"
+            "loc": "Greece, Athens",
+            "deviation": "Sovereign debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation, anti-corruption"
+            "protocol": "Streamlined customs procedures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms, sustainability"
+            "loc": "Finland, Helsinki",
+            "protocol": "Renewable energy integration"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy, strong governance"
+            "loc": "Canada, Toronto",
+            "protocol": "Digital tax reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE REGIONAL INNOVATION HUBS SHOW RESILIENCE AND GROWTH",
-    "last_updated": "2026-07-13 06:45:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE 2% DOWNTURN, EXPERTS CITE RISING UNCERTAINTY",
+    "last_updated": "2026-07-13 10:00:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.78
+        "F": 1.21,
+        "T": 0.98,
+        "B": 1.1,
+        "C": 0.92
     }
 }
