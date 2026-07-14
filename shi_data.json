@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 67.23,
+    "shi": 1.05203,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "49:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hubs"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Infrastructure"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY ALERT: POTENTIAL SUPPLY CHAIN DISRUPTIONS IN THE ASIA-PACIFIC REGION. MONETARY POLICY ADJUSTMENTS EXPECTED IN THE EU.",
-    "last_updated": "2026-07-14 21:42:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN ARE LEADING THE WAY IN POLICY REFORM AND ANTI-CORRUPTION EFFORTS.",
+    "last_updated": "2026-07-14 22:39:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.65
+        "C": 0.69
     }
 }
