@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 73.25,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints and high inflation"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Innovation and entrepreneurship"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Investment in education and R&D"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH RISING DEBT AND TRADE TENSIONS. KEY LOCATIONS SUCH AS NEW YORK, BEIJING, AND MUMBAI ARE AT HIGH RISK OF COLLAPSE DUE TO VARIOUS BOTTLENECKS.",
-    "last_updated": "2026-07-14 05:55:05",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, WITH TOKYO'S NIKKEI INDEX DOWN 2% AND NEW YORK'S DOW JONES UP 1.5%.",
+    "last_updated": "2026-07-14 07:55:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.69
     }
 }
