@@ -1,45 +1,45 @@
 {
-    "shi": 1.69955,
-    "health_percent": 62.15,
+    "shi": 1.06582,
+    "health_percent": 74.23,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
+            "deviation": "High debt levels"
+        },
+        {
+            "loc": "New York, USA",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "New York City, USA",
-            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption and trade agreements"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Sydney, Australia",
+            "protocol": "Sustainable energy and economic diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE NEGOTIATIONS STALLED, AND ENERGY DEMAND ON THE RISE.",
-    "last_updated": "2026-07-14 14:29:18",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES WITH STRONG INNOVATION AND POLICY REFORMS ARE SHOWING SIGNS OF ECONOMIC RESILIENCE.",
+    "last_updated": "2026-07-14 15:59:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 1.05,
-        "C": 0.79
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.23,
+        "C": 0.67
     }
 }
