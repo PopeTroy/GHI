@@ -1,45 +1,45 @@
 {
-    "shi": 1.82604,
-    "health_percent": 72.15,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:02:15",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "42:19:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade Disputes"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Shortages"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints"
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "London, UK",
+            "protocol": "Financial Reforms"
+        },
+        {
+            "loc": "Singapore",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL DEBT NEARING CRITICAL THRESHOLD, TRADE TENSIONS ON THE RISE",
-    "last_updated": "2026-07-14 18:34:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, KEY MARKETS UNDER PRESSURE.",
+    "last_updated": "2026-07-14 19:53:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.85
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
