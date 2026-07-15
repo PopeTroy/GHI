@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 62.14,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Excessive debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Over-reliance on imports and infrastructure bottlenecks"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative tech hub with favorable policy reforms"
-        },
-        {
-            "loc": "Singapore",
-            "protocol": "Business-friendly environment with low corruption and high transparency"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and strong social safety net"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, AND GOVERNMENTS IMPLEMENT STIMULUS PACKAGES TO BOOST ECONOMIC GROWTH.",
-    "last_updated": "2026-07-15 00:54:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE 2% DECLINE, OIL PRICES SURGE DUE TO SUPPLY DISRUPTIONS, AND GOVERNMENTS IMPLEMENT STIMULUS PACKAGES TO STABILIZE ECONOMIES",
+    "last_updated": "2026-07-15 03:54:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 0.65,
+        "C": 0.42
     }
 }
