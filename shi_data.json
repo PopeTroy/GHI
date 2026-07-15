@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 2.22196,
+    "health_percent": 62.14,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "49:21:42",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "New Delhi, India",
+            "deviation": "Over-reliance on imports and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative tech hub with favorable policy reforms"
+        },
+        {
+            "loc": "Singapore",
+            "protocol": "Business-friendly environment with low corruption and high transparency"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Sustainable energy and strong social safety net"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND COPENHAGEN ARE LEADING THE WAY IN POLICY REFORM AND ANTI-CORRUPTION EFFORTS.",
-    "last_updated": "2026-07-14 22:39:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, AND GOVERNMENTS IMPLEMENT STIMULUS PACKAGES TO BOOST ECONOMIC GROWTH.",
+    "last_updated": "2026-07-15 00:54:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.59
     }
 }
