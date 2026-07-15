@@ -1,45 +1,45 @@
 {
-    "shi": 1.54836,
-    "health_percent": 78.25,
+    "shi": 1.64792,
+    "health_percent": 67.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:16:22",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Chokepoint"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High Debt Levels"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND HIGH DEBT LEVELS. KEY LOCATIONS SUCH AS BEIJING AND MUMBAI EXPERIENCING BOTTLENECKS DUE TO ENERGY CHOKEPOINTS AND HIGH DEBT. HOWEVER, CITIES LIKE SINGAPORE AND SAN FRANCISCO CONTINUE TO DRIVE GROWTH THROUGH INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-07-15 17:56:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS, ENERGY PRICES RISING IN EUROPE, AND INNOVATIVE POLICIES BEING IMPLEMENTED IN NORDIC COUNTRIES",
+    "last_updated": "2026-07-15 19:12:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.8
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
