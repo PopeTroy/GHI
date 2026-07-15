@@ -1,39 +1,39 @@
 {
     "shi": 1.54836,
-    "health_percent": 74.23,
+    "health_percent": 78.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "42:16:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy chokepoints"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers and corruption"
+            "deviation": "High Energy Chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt and limited access to finance"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Robust anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption Reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and innovation"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high-quality infrastructure"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND SEEK SAFE-HAVEN ASSETS.",
-    "last_updated": "2026-07-15 16:44:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND HIGH DEBT LEVELS. KEY LOCATIONS SUCH AS BEIJING AND MUMBAI EXPERIENCING BOTTLENECKS DUE TO ENERGY CHOKEPOINTS AND HIGH DEBT. HOWEVER, CITIES LIKE SINGAPORE AND SAN FRANCISCO CONTINUE TO DRIVE GROWTH THROUGH INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-07-15 17:56:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
