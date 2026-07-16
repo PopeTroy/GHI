@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 72.13,
+    "shi": 0.87303,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and Brexit uncertainty"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "High population density and inadequate infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Business-friendly policies and corruption control"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hub with strong R&D investment"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Sydney, Australia",
+            "protocol": "High standard of living and stable governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS. SHANGHAI PORTS FACE CONGESTION DUE TO TRADE RESTRICTIONS. POLICY REFORMS IN SINGAPORE ATTRACT FOREIGN INVESTMENT.",
-    "last_updated": "2026-07-16 12:44:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-07-16 14:47:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.67,
+        "B": 2.15,
+        "C": 0.51
     }
 }
