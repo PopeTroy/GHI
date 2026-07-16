@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 73.21,
+    "shi": 0.77967,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:20:10",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers causing 15% decrease in imports"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers with the US"
         },
         {
-            "loc": "Houston, USA",
-            "deviation": "Energy chokepoint leading to 12% increase in fuel prices"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy prices fluctuations"
         },
         {
-            "loc": "Chicago, USA",
-            "deviation": "High debt levels causing 10% decrease in consumer spending"
+            "loc": "Athens, Greece",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Seattle, USA",
-            "protocol": "Innovation in tech industry leading to 8% increase in GDP"
+            "loc": "Singapore",
+            "protocol": "Innovative trade policies"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Anti-corruption policies resulting in 5% decrease in bureaucratic red tape"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions"
         },
         {
-            "loc": "Boston, USA",
-            "protocol": "Policy reforms leading to 12% increase in foreign investment"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption laws"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY IN MAJOR US CITIES. EXPERTS PREDICT POTENTIAL COLLAPSE IN SUPPLY CHAIN WITHIN 48 HOURS.",
-    "last_updated": "2026-07-16 20:36:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS WATCH THE SITUATION IN THE MIDDLE EAST. OIL PRICES RISE DUE TO SUPPLY CONCERNS.",
+    "last_updated": "2026-07-16 21:41:51",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.2,
+        "P": 0.75,
+        "F": 0.82,
+        "T": 0.92,
+        "B": 1.1,
         "C": 0.95
     }
 }
