@@ -1,45 +1,45 @@
 {
-    "shi": 1.57375,
-    "health_percent": 67.32,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "shi": 1.06582,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "High Trade Barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "High energy costs"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "London, UK",
+            "deviation": "Trade policy restrictions"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Beijing, China",
+            "deviation": "Debt-to-GDP ratio concerns"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Innovation hub and business-friendly policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Green technologies and sustainability initiatives"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Initiative"
+            "protocol": "Diversified economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE DUE TO INCREASING PROTECTIONISM, PROMPTING A RE-EVALUATION OF INTERNATIONAL PARTNERSHIPS AND TRADE AGREEMENTS.",
-    "last_updated": "2026-07-16 08:57:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE VOLATILITY, GOVERNMENTS SCRAMBLE TO ADDRESS ECONOMIC CONCERNS",
+    "last_updated": "2026-07-16 11:01:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 1.11,
-        "C": 0.78
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.23,
+        "C": 0.67
     }
 }
