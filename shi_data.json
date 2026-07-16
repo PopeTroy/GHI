@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 72.15,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:01",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high debt"
+            "deviation": "High Debt Levels"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "energy chokepoints"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "trade barriers"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "policy reforms"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS; KEY LOCATIONS IDENTIFIED FOR PROTOCOL IMPLEMENTATION.",
-    "last_updated": "2026-07-16 17:36:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS. REGIONAL HOTSPOTS INCLUDE THE MIDDLE EAST AND SOUTHEAST ASIA.",
+    "last_updated": "2026-07-16 18:44:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.67
     }
 }
