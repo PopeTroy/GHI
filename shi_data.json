@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.57375,
+    "health_percent": 67.32,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High tariffs on imported electronics"
+            "loc": "Hong Kong, China",
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Congested ports due to increased shipping volumes"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Dependence on fossil fuels amidst global energy shift"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Implementation of blockchain-based trade finance platform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Investment in renewable energy and green infrastructure"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Adoption of AI-powered supply chain management systems"
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES EXPECTED TO INCREASE BY 5% IN THE NEXT QUARTER, DRIVEN BY GROWTH IN EMERGING MARKETS.",
-    "last_updated": "2026-07-16 06:33:14",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE DUE TO INCREASING PROTECTIONISM, PROMPTING A RE-EVALUATION OF INTERNATIONAL PARTNERSHIPS AND TRADE AGREEMENTS.",
+    "last_updated": "2026-07-16 08:57:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.11,
+        "C": 0.78
     }
 }
