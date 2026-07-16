@@ -1,45 +1,45 @@
 {
-    "shi": 0.77967,
-    "health_percent": 78.5,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:20:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "56:23:41",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade barriers with the US"
+            "loc": "Beijing, China",
+            "deviation": "Trade war with neighbors"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy prices fluctuations"
+            "loc": "Moscow, Russia",
+            "deviation": "Over-reliance on oil exports"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High national debt"
+            "loc": "Mumbai, India",
+            "deviation": "High public debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption laws"
+            "protocol": "Strong anti-corruption laws"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Encouragement of innovation and entrepreneurship"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS WATCH THE SITUATION IN THE MIDDLE EAST. OIL PRICES RISE DUE TO SUPPLY CONCERNS.",
-    "last_updated": "2026-07-16 21:41:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS ON THE RISE, AND ECONOMIC INSTABILITY IN SEVERAL REGIONS.",
+    "last_updated": "2026-07-16 22:38:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
-        "F": 0.82,
-        "T": 0.92,
-        "B": 1.1,
-        "C": 0.95
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
