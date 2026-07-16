@@ -1,45 +1,45 @@
 {
-    "shi": 38.02348,
+    "shi": 0.77048,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "High trade barriers"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers causing 15% decrease in imports"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoint"
+            "loc": "Houston, USA",
+            "deviation": "Energy chokepoint leading to 12% increase in fuel prices"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "loc": "Chicago, USA",
+            "deviation": "High debt levels causing 10% decrease in consumer spending"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Seattle, USA",
+            "protocol": "Innovation in tech industry leading to 8% increase in GDP"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption policies"
+            "loc": "San Francisco, USA",
+            "protocol": "Anti-corruption policies resulting in 5% decrease in bureaucratic red tape"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Boston, USA",
+            "protocol": "Policy reforms leading to 12% increase in foreign investment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS SHOW PROMISE FOR ECONOMIC GROWTH.",
-    "last_updated": "2026-07-16 19:47:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY IN MAJOR US CITIES. EXPERTS PREDICT POTENTIAL COLLAPSE IN SUPPLY CHAIN WITHIN 48 HOURS.",
+    "last_updated": "2026-07-16 20:36:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.11
+        "B": 1.2,
+        "C": 0.95
     }
 }
