@@ -1,45 +1,45 @@
 {
-    "shi": 2.8152,
-    "health_percent": 67.23,
+    "shi": 1.4022,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:07:12",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High tariffs and trade restrictions"
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and high inflation"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy imports and dependency"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "High national debt and inflation"
+            "deviation": "Aging population and low birth rates"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial sector"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and transparency measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green technologies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERT: NEW YORK, USA. TRADE TENSIONS RISE. OIL PRICES SPIKE. SUPPLY CHAIN DISRUPTIONS EXPECTED.",
-    "last_updated": "2026-07-16 01:00:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH TRADE TENSIONS AND ENERGY PRICES ON THE RISE. INVESTORS ARE ADVISED TO DIVERSIFY THEIR PORTFOLIOS AND MONITOR MARKET DEVELOPMENTS CLOSELY.",
+    "last_updated": "2026-07-16 04:15:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.48
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.88
     }
 }
