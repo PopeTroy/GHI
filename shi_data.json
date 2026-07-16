@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 38.02348,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
+            "loc": "Vancouver, Canada",
+            "deviation": "High trade barriers"
+        },
+        {
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "High debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT LEVELS AND TRADE TENSIONS. REGIONAL HOTSPOTS INCLUDE THE MIDDLE EAST AND SOUTHEAST ASIA.",
-    "last_updated": "2026-07-16 18:44:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS SHOW PROMISE FOR ECONOMIC GROWTH.",
+    "last_updated": "2026-07-16 19:47:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.21,
+        "C": 0.11
     }
 }
