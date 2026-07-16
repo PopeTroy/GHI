@@ -1,45 +1,45 @@
 {
-    "shi": 0.87303,
-    "health_percent": 73.21,
+    "shi": 1.64792,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy chokepoints and Brexit uncertainty"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "High population density and inadequate infrastructure"
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-friendly policies and corruption control"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hub with strong R&D investment"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "High standard of living and stable governance"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-07-16 14:47:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ALERT: TRADE TENSIONS BETWEEN MAJOR ECONOMIES RISE, ENERGY IMPORTS DECLINE, AND NATIONAL DEBT SURGES. INVEST IN DIVERSE ASSETS AND MONITOR MARKET FLUCTUATIONS CLOSELY.",
+    "last_updated": "2026-07-16 16:04:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 2.15,
-        "C": 0.51
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
