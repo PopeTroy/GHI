@@ -1,45 +1,45 @@
 {
-    "shi": 1.00822,
+    "shi": 1.03803,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "47:32:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption Initiative"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS VOLATILE, TRADE TENSIONS ESCALATING. ENERGY DEMAND ON THE RISE, POTENTIAL FOR SHORTAGES. ECONOMIC STABILITY INDEX AT 64.12, 6.5% LOWER THAN LAST QUARTER.",
-    "last_updated": "2026-07-17 22:07:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC TENSIONS RISE AS TRADE WARS ESCALATE. NEW YORK STOCKS PLUMMET. OIL PRICES SURGE DUE TO MIDDLE EAST CONFLICT.",
+    "last_updated": "2026-07-17 23:04:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
         "F": 0.92,
         "T": 0.85,
-        "B": 1.23,
-        "C": 0.79
+        "B": 1.21,
+        "C": 0.78
     }
 }
