@@ -1,39 +1,39 @@
 {
     "shi": 1.64792,
-    "health_percent": 67.32,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Tel Aviv, Israel",
+            "loc": "Singapore, Singapore",
             "protocol": "Innovation"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATION, GOVERNMENTS IMPLEMENTING AUSTERITY MEASURES TO MITIGATE ECONOMIC INSTABILITY.",
-    "last_updated": "2026-07-17 20:25:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO ECONOMIC INSTABILITY, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS",
+    "last_updated": "2026-07-17 21:13:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
