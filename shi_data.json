@@ -1,45 +1,45 @@
 {
-    "shi": 1.67164,
-    "health_percent": 67.32,
+    "shi": 2.23383,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:42:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High debt levels and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade barriers"
+            "deviation": "Energy export chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "loc": "New Delhi, India",
+            "deviation": "Infrastructure inefficiencies and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Efficient policy reforms and business-friendly regulations"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation and clean energy initiatives"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption measures and stable financial systems"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-17 04:21:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH RATE SLOWS TO 2.5% AMIDST RISING TRADE TENSIONS AND DEBT CONCERNS. KEY CITIES LIKE NEW YORK, LONDON, AND TOKYO EXPERIENCE INCREASED ECONOMIC INSTABILITY.",
+    "last_updated": "2026-07-17 06:32:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.95
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.78,
+        "B": 0.56,
+        "C": 0.67
     }
 }
