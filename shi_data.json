@@ -1,45 +1,45 @@
 {
-    "shi": 2.23383,
-    "health_percent": 73.21,
+    "shi": 38.02348,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Infrastructure inefficiencies and regulatory hurdles"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Efficient policy reforms and business-friendly regulations"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation and clean energy initiatives"
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and stable financial systems"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH RATE SLOWS TO 2.5% AMIDST RISING TRADE TENSIONS AND DEBT CONCERNS. KEY CITIES LIKE NEW YORK, LONDON, AND TOKYO EXPERIENCE INCREASED ECONOMIC INSTABILITY.",
-    "last_updated": "2026-07-17 06:32:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO UNCERTAINTY IN TRADE POLICIES.",
+    "last_updated": "2026-07-17 08:38:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
-        "C": 0.67
+        "B": 0.21,
+        "C": 0.11
     }
 }
