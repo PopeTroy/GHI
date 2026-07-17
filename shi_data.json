@@ -1,45 +1,45 @@
 {
-    "shi": 2.75264,
-    "health_percent": 74.25,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.09301,
+    "health_percent": 78.52,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:15",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt levels"
+            "loc": "London, UK",
+            "deviation": "High debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy shortages"
-        },
-        {
-            "loc": "Mumbai, India",
+            "loc": "Tokyo, Japan",
             "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Beijing, China",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation and R&D"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption and transparency"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms and economic diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF STAGNATION, EXPERTS WARN OF IMPENDING SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-07-17 15:51:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWING DUE TO RISING PROTECTIONISM AND DEBT LEVELS. KEY NATIONS URGED TO IMPLEMENT POLICY REFORMS AND INVEST IN INNOVATION TO MITIGATE RISKS.",
+    "last_updated": "2026-07-17 16:54:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.75,
-        "C": 0.6
+        "T": 1.17,
+        "B": 1.23,
+        "C": 0.98
     }
 }
