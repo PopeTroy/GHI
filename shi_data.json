@@ -1,45 +1,45 @@
 {
-    "shi": 1.09301,
-    "health_percent": 78.52,
+    "shi": 0.9205,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:15",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "loc": "Beijing, China",
+            "deviation": "High Energy Dependency"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "deviation": "Aging Population"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure Inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and R&D"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and transparency"
+            "protocol": "Pro-Business Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and economic diversification"
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC GROWTH SLOWING DUE TO RISING PROTECTIONISM AND DEBT LEVELS. KEY NATIONS URGED TO IMPLEMENT POLICY REFORMS AND INVEST IN INNOVATION TO MITIGATE RISKS.",
-    "last_updated": "2026-07-17 16:54:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE 2% DECLINE. OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS.",
+    "last_updated": "2026-07-17 18:01:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.17,
-        "B": 1.23,
+        "F": 1.21,
+        "T": 0.67,
+        "B": 1.1,
         "C": 0.98
     }
 }
