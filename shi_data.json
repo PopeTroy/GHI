@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
+    "shi": 1.08344,
+    "health_percent": 73.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:20:01",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "High debt levels"
+            "loc": "Beijing, China",
+            "deviation": "High trade tariffs"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export disruptions"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers"
+            "deviation": "Aging population and debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation hubs and favorable business policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and stable governance"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption measures"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high-quality education system"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY STABILIZING: NEW POLICY REFORMS IN ZURICH SHOW PROMISE, WHILE ENERGY CHOKEPOINTS IN ROTTERDAM THREATEN GLOBAL SUPPLY CHAINS. MEANWHILE, INNOVATION HUBS IN SINGAPORE DRIVE GROWTH.",
-    "last_updated": "2026-07-18 05:40:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS ATTRACT FOREIGN INVESTMENT",
+    "last_updated": "2026-07-18 07:18:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
