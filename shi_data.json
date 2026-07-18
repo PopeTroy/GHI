@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 67.23,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "High Trade Barriers"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong Policy Reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, INVESTORS WARY OF SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-07-18 18:05:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC FORECASTS PREDICT A 2.5% DECREASE IN GLOBAL TRADE DUE TO SUPPLY CHAIN DISRUPTIONS, WITH THE NEW YORK STOCK EXCHANGE EXPERIENCING A 5% DIP IN THE PAST WEEK",
+    "last_updated": "2026-07-18 19:20:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 1.05
+        "C": 0.69
     }
 }
