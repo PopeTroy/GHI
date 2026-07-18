@@ -1,45 +1,45 @@
 {
-    "shi": 3.07008,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:59",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "Los Angeles, USA",
+            "deviation": "High debt levels"
+        },
+        {
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints"
+        },
+        {
             "loc": "Tokyo, Japan",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
-            "loc": "Beijing, China",
-            "deviation": "Trade barriers and infrastructure constraints"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Financial volatility and regulatory hurdles"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs and policy reforms"
-        },
-        {
             "loc": "Singapore",
-            "protocol": "Anti-corruption measures and free trade agreements"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fiscal discipline and institutional stability"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MAJOR CITIES AT RISK OF COLLAPSE DUE TO TRADE TENSIONS AND DEBT CRISES. STAY TUNED FOR UPDATES.",
-    "last_updated": "2026-07-18 03:23:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY STABILIZING: NEW POLICY REFORMS IN ZURICH SHOW PROMISE, WHILE ENERGY CHOKEPOINTS IN ROTTERDAM THREATEN GLOBAL SUPPLY CHAINS. MEANWHILE, INNOVATION HUBS IN SINGAPORE DRIVE GROWTH.",
+    "last_updated": "2026-07-18 05:40:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
