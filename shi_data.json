@@ -1,9 +1,9 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 1.30284,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,32 +14,32 @@
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure issues and policy instability"
+            "loc": "London, UK",
+            "deviation": "Brexit uncertainty and financial instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and financial stability"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and green initiatives"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | THE GLOBAL ECONOMY IS FACING SIGNIFICANT CHALLENGES. HIGH-IMPACT LOCATIONS LIKE NEW YORK ARE EXPERIENCING SUPPLY CHAIN DISRUPTIONS, WHILE BOTTLENECK NODES LIKE BEIJING AND MOSCOW STRUGGLE WITH DEBT AND ENERGY ISSUES. HOWEVER, CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING INNOVATIVE PROTOCOLS TO DRIVE GROWTH AND STABILITY.",
-    "last_updated": "2026-07-18 15:03:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, WHILE INNOVATION HUBS ARE EXPERIENCING RAPID GROWTH. MONITOR THE SITUATION CLOSELY FOR POTENTIAL SHIFTS IN THE GLOBAL ECONOMY.",
+    "last_updated": "2026-07-18 16:05:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.11,
+        "B": 1.23,
+        "C": 0.78
     }
 }
