@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.45,
-    "location": "NEW YORK, USA",
+    "health_percent": 74.23,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:20:01",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade tariffs"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export disruptions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Shortage"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and debt crisis"
+            "loc": "London, UK",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hubs and favorable business policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade Agreement"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable governance"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high-quality education system"
+            "loc": "Sydney, Australia",
+            "protocol": "Economic Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS ATTRACT FOREIGN INVESTMENT",
-    "last_updated": "2026-07-18 07:18:20",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS, ENERGY PRICES RISING, AND DEBT CONCERNS GROWING. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
+    "last_updated": "2026-07-18 09:02:10",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
