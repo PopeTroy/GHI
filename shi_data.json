@@ -1,5 +1,5 @@
 {
-    "shi": 1.50764,
+    "shi": 1.06534,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
@@ -7,39 +7,39 @@
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Trade War Escalation"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Embargo"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt Ceiling Breach"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
+            "protocol": "Financial Deregulation"
+        },
+        {
+            "loc": "London, UK",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Geneva, Switzerland",
-            "protocol": "Anti-Corruption Initiative"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-Corruption Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERT: GLOBAL TRADE SLOWS DOWN DUE TO RISING TRADE TENSIONS, WHILE INNOVATION HUBS SHOW PROMISING GROWTH",
-    "last_updated": "2026-07-18 22:01:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE DOWNTURN AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS THRIVE IN APAC REGION.",
+    "last_updated": "2026-07-18 23:00:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 1.15,
-        "C": 0.89
+        "P": 0.87,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 1.21,
+        "C": 0.76
     }
 }
