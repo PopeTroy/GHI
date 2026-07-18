@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Wars"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Housing Market Bubble"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-Related Uncertainty"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure issues and policy instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative Tax Reforms"
+            "protocol": "Innovation and anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Renewable Energy Integration"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Anti-Corruption Initiatives"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A MODERATE DECLINE IN GLOBAL STABILITY, WITH RISING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. KEY CITIES ARE TAKING PROACTIVE MEASURES TO MITIGATE RISKS AND PROMOTE GROWTH THROUGH INNOVATIVE POLICIES AND PROTOCOLS.",
-    "last_updated": "2026-07-18 14:00:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | THE GLOBAL ECONOMY IS FACING SIGNIFICANT CHALLENGES. HIGH-IMPACT LOCATIONS LIKE NEW YORK ARE EXPERIENCING SUPPLY CHAIN DISRUPTIONS, WHILE BOTTLENECK NODES LIKE BEIJING AND MOSCOW STRUGGLE WITH DEBT AND ENERGY ISSUES. HOWEVER, CITIES LIKE SINGAPORE AND ZURICH ARE IMPLEMENTING INNOVATIVE PROTOCOLS TO DRIVE GROWTH AND STABILITY.",
+    "last_updated": "2026-07-18 15:03:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
