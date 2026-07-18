@@ -1,45 +1,45 @@
 {
-    "shi": 1.30284,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 67.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit uncertainty and financial instability"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial stability"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW A DECLINE IN GLOBAL TRADE, WHILE INNOVATION HUBS ARE EXPERIENCING RAPID GROWTH. MONITOR THE SITUATION CLOSELY FOR POTENTIAL SHIFTS IN THE GLOBAL ECONOMY.",
-    "last_updated": "2026-07-18 16:05:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT AS KEY TRADE ROUTES FACE DISRUPTION. MARKET UNCERTAINTY ON THE RISE.",
+    "last_updated": "2026-07-18 17:08:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.23,
-        "C": 0.78
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
