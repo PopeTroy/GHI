@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.00387,
+    "health_percent": 74.53,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Shortage"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Debt Crisis"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Trade Agreement"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation Hub"
+            "loc": "London, UK",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Economic Reform"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING DUE TO TRADE TENSIONS, ENERGY PRICES RISING, AND DEBT CONCERNS GROWING. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
-    "last_updated": "2026-07-18 09:02:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY CONCERNS RISE AS GLOBAL TRADE DECLINES, WHILE CITIES LIKE SINGAPORE AND LONDON SHOW PROMISE IN GROWTH IMPROVEMENTS",
+    "last_updated": "2026-07-18 10:34:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
