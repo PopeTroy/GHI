@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 2.22196,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade War Escalation"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Embargo"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt Ceiling Breach"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Smart Nation Initiative"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation Hub Development"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable Energy Transition"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC FORECASTS PREDICT A 2.5% DECREASE IN GLOBAL TRADE DUE TO SUPPLY CHAIN DISRUPTIONS, WITH THE NEW YORK STOCK EXCHANGE EXPERIENCING A 5% DIP IN THE PAST WEEK",
-    "last_updated": "2026-07-18 19:20:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, GOVERNMENTS SCRAMBLING TO IMPLEMENT ECONOMIC STIMULUS PACKAGES.",
+    "last_updated": "2026-07-18 20:09:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.59
     }
 }
