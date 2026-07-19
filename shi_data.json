@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.13554,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Wars"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy Embargo"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Smart Nation Initiative"
+            "protocol": "Pro-Business Reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Cryptocurrency Adoption"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Green Innovation"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free Trade Zones"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified Economy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET ALERT: TRADE NEGOTIATIONS BETWEEN US AND CHINA HAVE STALLED, SPARKING CONCERNS OF A DEEPER TRADE WAR.",
-    "last_updated": "2026-07-19 21:08:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATIVE CITIES PUSH FOR SUSTAINABLE GROWTH AND STABILITY.",
+    "last_updated": "2026-07-19 22:07:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.19,
+        "C": 0.65
     }
 }
