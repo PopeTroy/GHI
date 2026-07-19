@@ -1,45 +1,45 @@
 {
-    "shi": 1.13554,
+    "shi": 2.39179,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High energy chokepoint risk"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Embargo"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Debt servicing concerns"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Trade Disruptions"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barrier impacts"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Reforms"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Green Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy policies"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATIVE CITIES PUSH FOR SUSTAINABLE GROWTH AND STABILITY.",
-    "last_updated": "2026-07-19 22:07:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT STABILIZATION EFFORTS WILL TAKE EFFECT WITHIN THE NEXT QUARTER.",
+    "last_updated": "2026-07-19 23:07:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.19,
-        "C": 0.65
+        "T": 1.11,
+        "B": 0.67,
+        "C": 0.78
     }
 }
