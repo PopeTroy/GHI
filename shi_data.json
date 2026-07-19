@@ -1,45 +1,45 @@
 {
-    "shi": 3.69758,
-    "health_percent": 73.25,
+    "shi": 0.76411,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Costs"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Regulatory Barriers"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging Workforce"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined Trade Policies"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative Financial Solutions"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified Energy Sources"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND DIVERSIFIED ENERGY SOURCES.",
-    "last_updated": "2026-07-19 16:06:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS ESCALATE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE POLICIES AND LOW CORRUPTION RATES.",
+    "last_updated": "2026-07-19 17:11:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.21,
-        "B": 0.67,
-        "C": 0.55
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
