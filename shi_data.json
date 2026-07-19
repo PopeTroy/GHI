@@ -1,45 +1,45 @@
 {
-    "shi": 0.68039,
-    "health_percent": 73.21,
+    "shi": 2.70259,
+    "health_percent": 82.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High debt and energy shortages"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers and supply chain disruptions"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and stagnant innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Pro-business policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Highly developed financial system and low corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Strong innovation and entrepreneurship ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-07-19 19:23:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC GROWTH STEADY IN THE AMERICAS, WHILE ASIA EXPERIENCES POCKETS OF INSTABILITY DUE TO BOTTLENECKS. EUROPE REMAINS STABLE WITH A STRONG FOCUS ON INNOVATION.",
+    "last_updated": "2026-07-19 20:13:45",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.75,
-        "B": 1.21,
-        "C": 1.05
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.5
     }
 }
