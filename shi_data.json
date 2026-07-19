@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
+            "loc": "London, UK",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
+            "loc": "Beijing, China",
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Geopolitical instability"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "High-tech innovation and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable governance"
+            "protocol": "Stable financial system and policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Singapore, Singapore",
+            "protocol": "Diversified economy and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | FINANCIAL MARKETS SHOW SIGNS OF STRESS, COMMODITY PRICES FLUCTUATING WILDLY. GLOBAL ECONOMIES TEETER ON THE BRINK OF INSTABILITY.",
-    "last_updated": "2026-07-19 10:10:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN COLLAPSE IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-07-19 11:27:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
