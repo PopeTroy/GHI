@@ -1,45 +1,45 @@
 {
-    "shi": 2.6496,
-    "health_percent": 67.32,
-    "location": "NEW YORK CITY, USA",
+    "shi": 2.24328,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and policy instability"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and high dependency ratio"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy solutions and corruption reduction"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING TURMOIL DUE TO SUPPLY CHAIN DISRUPTIONS, WHILE CITIES LIKE SINGAPORE AND SAN FRANCISCO ARE IMPLEMENTING PROTOCOLS TO BOOST ECONOMIC GROWTH.",
-    "last_updated": "2026-07-19 03:39:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING, AND CENTRAL BANKS INTERVENING TO MITIGATE ECONOMIC INSTABILITY.",
+    "last_updated": "2026-07-19 06:14:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.51,
+        "T": 1.01,
+        "B": 0.78,
         "C": 0.65
     }
 }
