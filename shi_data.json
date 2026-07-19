@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 3.69758,
+    "health_percent": 73.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Energy Costs"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and lack of policy reforms"
+            "loc": "Mumbai, India",
+            "deviation": "Regulatory Barriers"
         },
         {
-            "loc": "Delhi, India",
-            "deviation": "Corruption and inadequate infrastructure"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging Workforce"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative economic policies and low corruption"
+            "protocol": "Streamlined Trade Policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable financial system and high transparency"
+            "protocol": "Innovative Financial Solutions"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "protocol": "Diversified Energy Sources"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, CAUSING RIPPLES IN INTERNATIONAL MARKETS. ECONOMIC INSTABILITY SPREADS, IMPACTING REGIONAL GROWTH.",
-    "last_updated": "2026-07-19 15:06:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND DIVERSIFIED ENERGY SOURCES.",
+    "last_updated": "2026-07-19 16:06:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.21,
+        "B": 0.67,
+        "C": 0.55
     }
 }
