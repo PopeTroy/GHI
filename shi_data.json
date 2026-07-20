@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 73.21,
+    "shi": 1.11677,
+    "health_percent": 67.35,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and high debt"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and corruption"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Over-reliance on exports and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Diversified economy and stable monetary policy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Strong regulatory framework and high transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2",
-    "last_updated": "2026-07-20 04:00:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. ECONOMIES WITH STRONG FUNDAMENTALS AND ADAPTIVE POLICIES ARE BETTER EQUIPPED TO WITHSTAND EXTERNAL PRESSURES.",
+    "last_updated": "2026-07-20 06:55:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 0.65,
+        "C": 1.21
     }
 }
