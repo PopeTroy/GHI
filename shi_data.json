@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.70259,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:09",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Singapore",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS, WITH TOKYO IDENTIFIED AS A HIGH-IMPACT LOCATION. BOTTLENECKS IN NEW YORK CITY, SINGAPORE, AND LONDON REQUIRE IMMEDIATE ATTENTION. ZURICH, SEOUL, AND VANCOUVER DEMONSTRATE HIGH STABILITY AND GROWTH POTENTIAL.",
-    "last_updated": "2026-07-20 14:35:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY DUE TO TRADE TENSIONS, ENERGY SHORTAGES, AND RISING DEBT LEVELS. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-07-20 16:11:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.42
+        "C": 0.5
     }
 }
