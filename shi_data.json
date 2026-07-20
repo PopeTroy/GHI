@@ -1,45 +1,45 @@
 {
-    "shi": 2.39179,
+    "shi": 1.59873,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy chokepoint risk"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt servicing concerns"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade barrier impacts"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy policies"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability measures"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT STABILIZATION EFFORTS WILL TAKE EFFECT WITHIN THE NEXT QUARTER.",
-    "last_updated": "2026-07-19 23:07:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN Q2",
+    "last_updated": "2026-07-20 04:00:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
+        "T": 0.78,
         "B": 0.67,
-        "C": 0.78
+        "C": 0.82
     }
 }
