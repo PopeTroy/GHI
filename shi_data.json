@@ -1,9 +1,9 @@
 {
-    "shi": 0.69134,
-    "health_percent": 72.11,
-    "location": "NEW YORK, USA",
+    "shi": 1.08344,
+    "health_percent": 73.25,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reform"
-        },
-        {
-            "loc": "Stockholm, Sweden",
+            "loc": "Singapore",
             "protocol": "Innovation Hub"
         },
         {
-            "loc": "Vancouver, Canada",
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Policy"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SHARP DECLINE DUE TO TRADE TENSIONS, WHILE INNOVATION HUBS SHOW PROMISING SIGNS OF GROWTH.",
-    "last_updated": "2026-07-20 21:17:38",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, ECONOMISTS PREDICT POTENTIAL DOWNTURN WITHIN THE NEXT QUARTER",
+    "last_updated": "2026-07-20 22:15:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.92,
-        "F": 0.85,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 1.05
+        "C": 0.67
     }
 }
