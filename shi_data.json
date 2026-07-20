@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 67.35,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and high debt"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Over-reliance on exports and lack of policy reforms"
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Diversified economy and stable monetary policy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Strong regulatory framework and high transparency"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. ECONOMIES WITH STRONG FUNDAMENTALS AND ADAPTIVE POLICIES ARE BETTER EQUIPPED TO WITHSTAND EXTERNAL PRESSURES.",
-    "last_updated": "2026-07-20 06:55:57",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AMIDST RISING TRADE TENSIONS, WITH SINGAPORE AND STOCKHOLM SHOWING RESILIENCE THROUGH INNOVATION AND REFORMS.",
+    "last_updated": "2026-07-20 09:58:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 1.21
+        "B": 1.21,
+        "C": 0.67
     }
 }
