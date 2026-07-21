@@ -1,45 +1,45 @@
 {
-    "shi": 1.87354,
-    "health_percent": 73.21,
+    "shi": 1.93233,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "Trade disputes and port congestion"
+            "loc": "Beijing, China",
+            "deviation": "Trade Wars"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "High debt and energy import reliance"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-related economic uncertainty"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Advanced trade agreements and corruption reduction policies"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovative financial sector regulation and oversight"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy investments and green technology adoption"
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES, TRADE NEGOTIATIONS STALL, AND ENERGY PRICES SPIKE, THREATENING ECONOMIC STABILITY",
-    "last_updated": "2026-07-21 12:46:06",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR ASIA-PACIFIC REGION, GLOBAL MARKETS ON HIGH ALERT.",
+    "last_updated": "2026-07-21 14:49:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.87,
+        "F": 0.92,
         "T": 0.85,
         "B": 0.65,
-        "C": 0.75
+        "C": 0.78
     }
 }
