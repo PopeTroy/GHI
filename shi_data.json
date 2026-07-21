@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "New York, USA",
+            "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "High debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. POLICY REFORMS AND INNOVATION CAN MITIGATE THE THREAT.",
-    "last_updated": "2026-07-20 23:17:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. NEW YORK IDENTIFIED AS HIGH-IMPACT LOCATION.",
+    "last_updated": "2026-07-21 00:14:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
