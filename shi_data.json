@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
+    "shi": 1.05203,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Housing Market Bubble"
+            "loc": "London, UK",
+            "deviation": "Trade barriers with EU"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging Population"
+            "deviation": "Energy dependency on imports"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-Business Policy"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub for Technology"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Innovation Hub"
+            "protocol": "Anti-corruption policies and low regulatory barriers"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green Technology Initiative"
+            "protocol": "Sustainable Energy Solutions and Low Carbon Footprint"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, CRUDE OIL PRICES SURGE DUE TO GEOPOLITICAL TENSIONS.",
-    "last_updated": "2026-07-21 03:47:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT AND TRADE TENSIONS. INNOVATION AND POLICY REFORMS KEY TO PREVENTING COLLAPSE.",
+    "last_updated": "2026-07-21 06:18:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.69
     }
 }
