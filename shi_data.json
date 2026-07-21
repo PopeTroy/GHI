@@ -1,45 +1,45 @@
 {
-    "shi": 2.60727,
-    "health_percent": 74.21,
+    "shi": 1.87354,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "120:05:02",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Energy Import Dependence"
+            "loc": "Hong Kong, China",
+            "deviation": "Trade disputes and port congestion"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Over-reliance on Export Commodities"
+            "loc": "Istanbul, Turkey",
+            "deviation": "High debt and energy import reliance"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Lack of Infrastructure Investment"
+            "loc": "London, UK",
+            "deviation": "Brexit-related economic uncertainty"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Regulatory Environment"
+            "protocol": "Advanced trade agreements and corruption reduction policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "High Level of Financial Stability"
+            "protocol": "Innovative financial sector regulation and oversight"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Investment in Green Energy and Technology"
+            "protocol": "Sustainable energy investments and green technology adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. TRADE WARS AND ENERGY SHORTAGES ARE MAJOR CONCERNS. KEY CITIES ARE TAKING PROACTIVE MEASURES TO MITIGATE RISKS.",
-    "last_updated": "2026-07-21 11:16:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES, TRADE NEGOTIATIONS STALL, AND ENERGY PRICES SPIKE, THREATENING ECONOMIC STABILITY",
+    "last_updated": "2026-07-21 12:46:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 0.67,
-        "C": 0.78
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.85,
+        "B": 0.65,
+        "C": 0.75
     }
 }
