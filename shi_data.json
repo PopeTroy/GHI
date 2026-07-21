@@ -1,45 +1,45 @@
 {
-    "shi": 1.48599,
-    "health_percent": 74.21,
+    "shi": 1.32338,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High trade barriers"
+            "deviation": "Trade tariffs"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply disruptions"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy embargo"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Rising debt levels"
+            "loc": "Kabul, Afghanistan",
+            "deviation": "Infrastructure damage"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms for economic stability"
+            "protocol": "Financial stability"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS PREDICT A SLOW RECOVERY.",
-    "last_updated": "2026-07-21 22:31:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE, SINGAPORE'S ECONOMIC GROWTH ACCELERATES, AND NEW YORK FACES POTENTIAL SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-07-21 23:32:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.92,
-        "C": 1.17
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.78
     }
 }
