@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 73.42,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "shi": 2.38356,
+    "health_percent": 62.15,
+    "location": "LOS ANGELES, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Vancouver, Canada",
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Anti-Corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, EXPERTS WARN OF POTENTIAL COLLAPSE IN MAJOR CITIES.",
-    "last_updated": "2026-07-22 21:30:15",
+    "scroller_feed": "CRITICAL: LOS ANGELES, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY ON HIGH ALERT AS SUPPLY CHAINS EXPERIENCE UNPRECEDENTED DISRUPTIONS. MAJOR CITIES SUCH AS LOS ANGELES AND VANCOUVER ARE AT RISK OF COLLAPSE DUE TO BOTTLENECKS AND TRADE BARRIERS.",
+    "last_updated": "2026-07-22 22:36:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.67,
+        "C": 0.55
     }
 }
