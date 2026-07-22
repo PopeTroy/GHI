@@ -1,45 +1,45 @@
 {
-    "shi": 1.32338,
-    "health_percent": 73.21,
+    "shi": 0.84052,
+    "health_percent": 62.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy embargo"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Kabul, Afghanistan",
-            "deviation": "Infrastructure damage"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE, SINGAPORE'S ECONOMIC GROWTH ACCELERATES, AND NEW YORK FACES POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-07-21 23:32:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, GOVERNMENTS SCRAMBLE TO IMPLEMENT ECONOMIC REFORMS",
+    "last_updated": "2026-07-22 01:01:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
