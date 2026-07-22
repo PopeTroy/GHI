@@ -1,45 +1,45 @@
 {
-    "shi": 1.2903,
-    "health_percent": 73.21,
+    "shi": 0.69547,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "Athens, Greece",
+            "deviation": "high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "policy reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "anti-corruption"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, MULTIPLE NATIONS AT RISK OF ECONOMIC COLLAPSE.",
-    "last_updated": "2026-07-22 17:53:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. TRADE NEGOTIATIONS BETWEEN MAJOR ECONOMIES ARE UNDERWAY TO ADDRESS GROWING TRADE BARRIERS.",
+    "last_updated": "2026-07-22 18:57:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 1.1,
-        "B": 1.2,
-        "C": 0.8
+        "T": 0.75,
+        "B": 1.21,
+        "C": 0.98
     }
 }
