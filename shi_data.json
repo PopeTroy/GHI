@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.23,
+    "shi": 0.99407,
+    "health_percent": 62.1,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and low innovation"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and lack of policy reforms"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reform"
+            "loc": "Singapore",
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "High innovation and low debt"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reform"
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS. ENERGY PRICES RISING. INNOVATION HUBS DRIVING GROWTH IN EUROPE AND ASIA.",
-    "last_updated": "2026-07-22 07:07:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-07-22 09:36:21",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
+        "P": 0.82,
+        "F": 0.91,
+        "T": 0.75,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
