@@ -1,45 +1,45 @@
 {
-    "shi": 2.38356,
-    "health_percent": 62.15,
-    "location": "LOS ANGELES, USA",
+    "shi": 1.01611,
+    "health_percent": 72.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "High trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "Rotterdam, Netherlands",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: LOS ANGELES, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY ON HIGH ALERT AS SUPPLY CHAINS EXPERIENCE UNPRECEDENTED DISRUPTIONS. MAJOR CITIES SUCH AS LOS ANGELES AND VANCOUVER ARE AT RISK OF COLLAPSE DUE TO BOTTLENECKS AND TRADE BARRIERS.",
-    "last_updated": "2026-07-22 22:36:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE.",
+    "last_updated": "2026-07-22 23:35:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.83,
+        "F": 0.91,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.55
+        "B": 1.21,
+        "C": 0.69
     }
 }
