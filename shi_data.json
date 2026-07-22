@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "shi": 1.2903,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and stagnant innovation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Robust policy reforms and anti-corruption measures"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Strong innovation and financial stability"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Thriving startup ecosystem and technology advancements"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES. ENERGY PRICES SOAR DUE TO GEOPOLITICAL UNREST.",
-    "last_updated": "2026-07-22 16:41:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, MULTIPLE NATIONS AT RISK OF ECONOMIC COLLAPSE.",
+    "last_updated": "2026-07-22 17:53:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.8
     }
 }
