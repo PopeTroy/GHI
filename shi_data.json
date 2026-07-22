@@ -1,45 +1,45 @@
 {
-    "shi": 0.99407,
-    "health_percent": 62.1,
+    "shi": 1.05871,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "High Debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and low innovation"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "High innovation and low debt"
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-22 09:36:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY DISRUPTIONS",
+    "last_updated": "2026-07-22 11:27:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.75,
-        "B": 1.21,
-        "C": 0.67
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.88,
+        "B": 1.2,
+        "C": 0.78
     }
 }
