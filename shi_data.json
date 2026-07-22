@@ -1,9 +1,9 @@
 {
-    "shi": 0.84052,
-    "health_percent": 62.5,
+    "shi": 1.61847,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -14,7 +14,7 @@
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
+            "loc": "Tokyo, Japan",
             "deviation": "High debt"
         }
     ],
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, GOVERNMENTS SCRAMBLE TO IMPLEMENT ECONOMIC REFORMS",
-    "last_updated": "2026-07-22 01:01:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO TRADE TENSIONS AND ENERGY SHORTAGES. ECONOMIC INDICATORS POINT TO A POTENTIAL SUPPLY CHAIN DISRUPTION IN THE COMING WEEKS.",
+    "last_updated": "2026-07-22 04:25:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.67,
+        "C": 0.81
     }
 }
