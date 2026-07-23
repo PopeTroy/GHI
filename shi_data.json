@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 62.15,
+    "shi": 1.42734,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Bangalore, India",
-            "protocol": "Innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW INSTABILITY, WHILE SELECT REGIONS WITH STRONG PROTOCOLS EXHIBIT GROWTH",
-    "last_updated": "2026-07-23 04:29:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY PRICE VOLATILITY.",
+    "last_updated": "2026-07-23 07:07:54",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "P": 0.87,
+        "F": 1.23,
+        "T": 0.98,
+        "B": 1.15,
+        "C": 0.92
     }
 }
