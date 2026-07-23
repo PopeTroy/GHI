@@ -1,45 +1,45 @@
 {
-    "shi": 0.81691,
-    "health_percent": 67.45,
+    "shi": 2.80484,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "43:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Investments"
-        },
-        {
-            "loc": "Hong Kong, China",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE. MAJOR TRADE PARTNERS EXPERIENCING SIGNIFICANT DISRUPTIONS.",
-    "last_updated": "2026-07-23 22:38:25",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW MODERATE GROWTH, WITH POTENTIAL RISKS FROM SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS.",
+    "last_updated": "2026-07-23 23:36:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.12,
-        "C": 0.96
+        "P": 0.88,
+        "F": 1.21,
+        "T": 0.69,
+        "B": 0.41,
+        "C": 0.92
     }
 }
