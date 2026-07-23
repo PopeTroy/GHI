@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "shi": 0.81691,
+    "health_percent": 67.45,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Hong Kong, China",
-            "deviation": "High debt"
+            "loc": "Beijing, China",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-Corruption Measures"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Innovation Investments"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Hong Kong, China",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE WILDLY AS INVESTORS AWAIT NEWS ON TRADE AGREEMENTS AND ECONOMIC REFORMS.",
-    "last_updated": "2026-07-23 21:41:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE. MAJOR TRADE PARTNERS EXPERIENCING SIGNIFICANT DISRUPTIONS.",
+    "last_updated": "2026-07-23 22:38:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 1.12,
+        "C": 0.96
     }
 }
