@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.65158,
+    "health_percent": 67.32,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "47:21:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier implementation"
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "High Debt"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy supply constraints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High national debt"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub establishment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms for economic growth"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, WITH KEY BOTTLENECK NODES EXPERIENCING SIGNIFICANT DEVIATIONS FROM STABILITY. HIGH SHI NODES ARE IMPLEMENTING PROTOCOLS FOR GROWTH IMPROVEMENTS.",
-    "last_updated": "2026-07-23 15:18:47",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES ARE EXPERIENCING A DECLINE, SPARKING CONCERNS OF A SUPPLY CHAIN BREAK. MAJOR CITIES ARE IMPLEMENTING PROTOCOLS TO MITIGATE THE EFFECTS.",
+    "last_updated": "2026-07-23 16:50:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.75
     }
 }
