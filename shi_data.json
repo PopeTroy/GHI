@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt, trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints, corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Regulatory hurdles, high interest rates"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low birth rates"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation, policy reforms"
+            "protocol": "Anti-corruption and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption, stable governance"
+            "protocol": "Innovation and economic diversification"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable practices, high-tech infrastructure"
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS STABILIZING, TRADE AGREEMENTS IMMINENT, TECHNOLOGICAL ADVANCEMENTS IN RENEWABLE ENERGY",
-    "last_updated": "2026-07-23 19:39:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. ECONOMIC INDICATORS POINT TO A POTENTIAL DOWNTURN IN THE NEAR FUTURE.",
+    "last_updated": "2026-07-23 20:40:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.69
     }
 }
