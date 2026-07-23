@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
     "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Hong Kong, China",
+            "deviation": "High debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Singapore",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low birth rates"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and economic diversification"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. ECONOMIC INDICATORS POINT TO A POTENTIAL DOWNTURN IN THE NEAR FUTURE.",
-    "last_updated": "2026-07-23 20:40:41",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE WILDLY AS INVESTORS AWAIT NEWS ON TRADE AGREEMENTS AND ECONOMIC REFORMS.",
+    "last_updated": "2026-07-23 21:41:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
