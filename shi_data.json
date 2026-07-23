@@ -1,45 +1,45 @@
 {
-    "shi": 1.27554,
-    "health_percent": 62.15,
+    "shi": 0.77048,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "41:22:11",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy chokepoints and high production costs"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Over-reliance on foreign investment"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Strict anti-corruption policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovative green technologies"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable financial regulations and policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE, ECONOMIC STABILITY AT RISK. HIGH IMPACT LOCATIONS IDENTIFIED, BOTTLENECK NODES AND STABLE NODES MAPPED FOR STRATEGIC INTERVENTION.",
-    "last_updated": "2026-07-23 11:27:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN 5%, OIL PRICES SURGE TO $120 PER BARREL, UK GDP GROWTH FORECASTS REVISED DOWNWARD",
+    "last_updated": "2026-07-23 13:01:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.9,
-        "B": 1.1,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
         "C": 0.95
     }
 }
