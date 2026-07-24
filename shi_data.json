@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.05203,
+    "health_percent": 62.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply disruptions"
         },
         {
             "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy reforms"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-24 09:28:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING A DOWNTURN, WITH TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES. ENERGY PRICES ARE FLUCTUATING WILDLY, WHILE DEBT LEVELS IN SEVERAL COUNTRIES ARE REACHING CRITICAL POINTS. HOWEVER, CITIES LIKE SINGAPORE AND COPENHAGEN ARE BUCKING THE TREND, WITH INNOVATIVE POLICIES AND SUSTAINABLE PRACTICES DRIVING GROWTH AND STABILITY.",
+    "last_updated": "2026-07-24 11:18:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.69
     }
 }
