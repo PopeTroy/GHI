@@ -1,45 +1,45 @@
 {
-    "shi": 1.32803,
-    "health_percent": 73.21,
+    "shi": 1.05203,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High energy costs"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and supply chain disruptions"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade route disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit-related trade uncertainty and financial instability"
+            "loc": "Mumbai, India",
+            "deviation": "Debt servicing strain"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-friendly policy reforms and innovation hub"
+            "protocol": "Investment in AI and data analytics"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures and stable financial system"
+            "protocol": "Innovative fintech solutions"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong social safety net"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS ARE FLASHING WARNING SIGNS AS TRADE TENSIONS AND DEBT LEVELS CONTINUE TO RISE. ECONOMISTS WARN OF POTENTIAL COLLAPSE IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-07-24 12:49:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE UPTICK IN TRADE VOLUMES, WHILE GEOPOLITICAL TENSIONS SIMMER IN THE BACKGROUND, THREATENING TO UPSET THE BALANCE OF ECONOMIC STABILITY.",
+    "last_updated": "2026-07-24 14:28:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.21,
-        "B": 1.08,
-        "C": 0.95
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
