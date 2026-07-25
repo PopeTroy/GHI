@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "shi": 2.24328,
+    "health_percent": 74.23,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt Levels"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoints"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "New Delhi, India",
-            "deviation": "Trade barriers"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
+            "loc": "London, UK",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCED A 2% DOWNTURN OVERNIGHT, WHILE SINGAPORE'S EXPORTS INCREASED BY 5%.",
-    "last_updated": "2026-07-25 12:40:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, POTENTIAL COLLAPSE PREDICTED IN 72 HOURS.",
+    "last_updated": "2026-07-25 14:16:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "T": 1.01,
+        "B": 0.78,
+        "C": 0.65
     }
 }
