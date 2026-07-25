@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.21,
+    "shi": 2.53389,
+    "health_percent": 78.52,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "High debt"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Price Volatility"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Financial Reform"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SIGNAL WARNING, EXPERTS PREDICT POTENTIAL DOWNTURN IN THE NEXT QUARTER.",
-    "last_updated": "2026-07-25 10:13:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING AMID CONCERNS OF TRADE WARS AND ENERGY SHORTAGES. CITIES LIKE SINGAPORE AND ZURICH ARE PUSHING FOR INNOVATION AND REFORM TO MITIGATE RISKS.",
+    "last_updated": "2026-07-25 11:36:11",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.83,
+        "F": 1.21,
+        "T": 1.08,
+        "B": 0.67,
+        "C": 0.92
     }
 }
