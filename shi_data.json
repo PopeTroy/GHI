@@ -1,45 +1,45 @@
 {
-    "shi": 2.24328,
-    "health_percent": 74.23,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "72:14:05",
+    "shi": 3.21737,
+    "health_percent": 67.23,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt Levels"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade Tariffs"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Embargo"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hubs"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Free Trade Agreements"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Regulatory Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, POTENTIAL COLLAPSE PREDICTED IN 72 HOURS.",
-    "last_updated": "2026-07-25 14:16:59",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY DUE TO TRADE TENSIONS AND ENERGY PRICE FLUCTUATIONS.",
+    "last_updated": "2026-07-25 15:31:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.78,
-        "C": 0.65
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
