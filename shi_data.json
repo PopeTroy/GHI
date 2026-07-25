@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 62.15,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:32:11",
+    "shi": 1.08344,
+    "health_percent": 73.42,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Embargo"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High Debt Ratio"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Shortage"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY SPREADS ACROSS ASIA, EUROPE ON HIGH ALERT",
-    "last_updated": "2026-07-25 18:31:43",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE WARS ESCALATING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-07-25 19:46:39",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
