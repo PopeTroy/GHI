@@ -1,45 +1,45 @@
 {
-    "shi": 2.53389,
-    "health_percent": 78.52,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 3.21737,
+    "health_percent": 73.21,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Price Volatility"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Debt Crisis"
+            "loc": "New Delhi, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reform"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "protocol": "Anti-corruption measures"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING AMID CONCERNS OF TRADE WARS AND ENERGY SHORTAGES. CITIES LIKE SINGAPORE AND ZURICH ARE PUSHING FOR INNOVATION AND REFORM TO MITIGATE RISKS.",
-    "last_updated": "2026-07-25 11:36:11",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCED A 2% DOWNTURN OVERNIGHT, WHILE SINGAPORE'S EXPORTS INCREASED BY 5%.",
+    "last_updated": "2026-07-25 12:40:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.67,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
