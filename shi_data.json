@@ -1,45 +1,45 @@
 {
-    "shi": 1.67164,
-    "health_percent": 74.23,
+    "shi": 0.69134,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy import dependence and vulnerability to price shocks"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure and logistical constraints hindering trade"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Robust anti-corruption policies and innovation hubs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Strong policy reforms and green energy initiatives"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and high-tech industry growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS, WHILE INNOVATION HUBS SHOW PROMISE FOR GROWTH.",
-    "last_updated": "2026-07-25 01:08:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS; INVESTORS SEEK SAFE-HAVEN ASSETS.",
+    "last_updated": "2026-07-25 04:26:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.95
+        "T": 0.78,
+        "B": 1.21,
+        "C": 1.05
     }
 }
