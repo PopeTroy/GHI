@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
+    "shi": 1.64792,
     "health_percent": 62.15,
-    "location": "NEW YORK CITY, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:01",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
+            "loc": "New York City, USA",
+            "deviation": "High debt and trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure and regulatory bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation and technological advancements"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy and environmental initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC DOWNTURN EXPECTED WITHIN THE NEXT QUARTER, MULTIPLE TRADE AGREEMENTS ON THE BRINK OF COLLAPSE.",
-    "last_updated": "2026-07-26 04:39:58",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AT RISK DUE TO GROWING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. HIGH-IMPACT LOCATIONS LIKE TOKYO, JAPAN, ARE UNDER PRESSURE. BOTTLENECK NODES IN NEW YORK CITY, BEIJING, AND MUMBAI REQUIRE URGENT ATTENTION. MEANWHILE, HIGH SHI NODES IN SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH POTENTIAL.",
+    "last_updated": "2026-07-26 07:18:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.82
     }
 }
