@@ -1,45 +1,45 @@
 {
-    "shi": 0.94354,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 0.84052,
+    "health_percent": 62.15,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:02:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers and infrastructure issues"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and policy reforms"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and strong governance"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES WITH STRONG GOVERNANCE AND INNOVATIVE POLICIES ARE MORE RESILIENT TO ECONOMIC SHOCKS.",
-    "last_updated": "2026-07-26 01:10:08",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC DOWNTURN EXPECTED WITHIN THE NEXT QUARTER, MULTIPLE TRADE AGREEMENTS ON THE BRINK OF COLLAPSE.",
+    "last_updated": "2026-07-26 04:39:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.98
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
