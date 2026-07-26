@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 0.64333,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier restrictions"
+            "deviation": "High debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy supply disruptions"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High national debt"
+            "loc": "Kiev, Ukraine",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation hub development"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms for sustainable growth"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT CRISES. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR GEOPOLITICAL DEVELOPMENTS CLOSELY.",
-    "last_updated": "2026-07-26 20:32:50",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISES BY 2% IN THE LAST QUARTER, LED BY TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-07-26 21:30:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.23,
+        "C": 1.11
     }
 }
