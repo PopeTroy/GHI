@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 62.15,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
-            "deviation": "High debt and trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and regulatory bottlenecks"
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and anti-corruption measures"
+            "protocol": "Innovation and R&D"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and technological advancements"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and environmental initiatives"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms and Sustainability"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY AT RISK DUE TO GROWING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. HIGH-IMPACT LOCATIONS LIKE TOKYO, JAPAN, ARE UNDER PRESSURE. BOTTLENECK NODES IN NEW YORK CITY, BEIJING, AND MUMBAI REQUIRE URGENT ATTENTION. MEANWHILE, HIGH SHI NODES IN SINGAPORE, ZURICH, AND VANCOUVER DEMONSTRATE RESILIENCE AND GROWTH POTENTIAL.",
-    "last_updated": "2026-07-26 07:18:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, EXPERTS WARN OF POTENTIAL COLLAPSE IN GLOBAL SUPPLY CHAINS. TRADE TENSIONS BETWEEN MAJOR ECONOMIES ON THE RISE.",
+    "last_updated": "2026-07-26 09:27:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 0.69
     }
 }
