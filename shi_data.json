@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 67.25,
+    "shi": 0.65272,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:23:10",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and energy shortages"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Rising debt and corruption concerns"
+            "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High regulatory hurdles and lack of innovation"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Paris, France",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms and business-friendly policies"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs and technological advancements"
+            "loc": "London, UK",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong governance and financial stability"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICES ARE FLUCTUATING WILDLY DUE TO ONGOING TRADE TENSIONS, LEADING TO CONCERNS ABOUT A POTENTIAL SUPPLY CHAIN BREAK. MEANWHILE, CITIES WITH STRONG PROTOCOLS ARE EXPERIENCING HIGH GROWTH AND STABILITY, WITH SINGAPORE AND SAN FRANCISCO LEADING THE PACK IN INNOVATION AND BUSINESS-FRIENDLINESS.",
-    "last_updated": "2026-07-27 22:04:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOWING MIXED SIGNALS, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-07-27 23:16:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.65
+        "F": 1.23,
+        "T": 1.01,
+        "B": 2.56,
+        "C": 0.91
     }
 }
