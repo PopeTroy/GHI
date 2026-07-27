@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 62.15,
+    "shi": 1.01917,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:02:11",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs and export restrictions"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy production and supply chain disruptions"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High national debt and currency devaluation"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative technology and financial reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Renewable energy and sustainable practices"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong governance and low corruption policies"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY PRICE VOLATILITY, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE WITH INNOVATIVE GOVERNANCE AND ECONOMIC POLICIES.",
-    "last_updated": "2026-07-27 01:13:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 3.2% DUE TO RECENT GEOPOLITICAL TENSIONS, ECONOMISTS PREDICT A 10% INCREASE IN INFLATION RATES ACROSS MAJOR ECONOMIES",
+    "last_updated": "2026-07-27 04:53:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.02,
+        "B": 1.15,
+        "C": 0.98
     }
 }
