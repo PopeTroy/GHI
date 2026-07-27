@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:01",
+    "shi": 1.18547,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Trade barriers causing 15% decrease in imports"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy chokepoints causing 20% increase in fuel prices"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High Debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt causing 30% decrease in government spending"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Financial Reform"
+            "loc": "Singapore",
+            "protocol": "Innovation hubs driving 25% growth in tech sector"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-corruption measures increasing 15% in foreign investment"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policy"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms leading to 10% increase in trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS ARE FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS. THE ECONOMIC OUTLOOK IS UNCERTAIN, WITH POTENTIAL FOR WIDESPREAD INSTABILITY.",
-    "last_updated": "2026-07-27 19:49:21",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE 2% DECLINE AS TRADE TENSIONS RISE. EUROPEAN UNION ANNOUNCES NEW POLICY REFORMS TO STIMULATE ECONOMIC GROWTH.",
+    "last_updated": "2026-07-27 20:56:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.78
     }
 }
