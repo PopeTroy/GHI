@@ -1,45 +1,45 @@
 {
-    "shi": 1.01917,
-    "health_percent": 72.5,
+    "shi": 38.02348,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "46:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 3.2% DUE TO RECENT GEOPOLITICAL TENSIONS, ECONOMISTS PREDICT A 10% INCREASE IN INFLATION RATES ACROSS MAJOR ECONOMIES",
-    "last_updated": "2026-07-27 04:53:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS UNSTABLE, TRADE TENSIONS ESCALATING, AND DEBT LEVELS SOARING. ECONOMIC STABILITY THREATENED BY BOTTLENECKS IN KEY LOCATIONS.",
+    "last_updated": "2026-07-27 08:21:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.02,
-        "B": 1.15,
-        "C": 0.98
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.11
     }
 }
