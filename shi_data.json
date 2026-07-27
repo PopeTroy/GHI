@@ -1,45 +1,45 @@
 {
-    "shi": 1.89386,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 3.45532,
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
+            "loc": "Vladivostok, Russia",
+            "deviation": "Trade Barriers due to Sanctions"
+        },
+        {
+            "loc": "Detroit, USA",
+            "deviation": "High Debt and Industrial Decline"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Energy Chokepoints due to Dependence on Imports"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Free Trade Agreements and Low Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovative Financial Instruments and Regulatory Frameworks"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Austin, USA",
+            "protocol": "Technology and Innovation Hubs with Strong Workforce"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY TRADE TENSIONS AND RISING DEBT LEVELS. CITIES LIKE NEW YORK, BEIJING, AND TOKYO ARE AT HIGH RISK OF SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-07-27 14:00:29",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS; KEY CITIES TO WATCH FOR INVESTMENT AND DIVERSIFICATION",
+    "last_updated": "2026-07-27 16:27:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.75,
-        "C": 0.88
+        "T": 0.78,
+        "B": 0.62,
+        "C": 0.41
     }
 }
