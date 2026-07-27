@@ -1,45 +1,45 @@
 {
-    "shi": 1.18547,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.11677,
+    "health_percent": 67.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade barriers and energy shortages"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers causing 15% decrease in imports"
+            "deviation": "Rising debt and corruption concerns"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints causing 20% increase in fuel prices"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt causing 30% decrease in government spending"
+            "loc": "London, UK",
+            "deviation": "High regulatory hurdles and lack of innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hubs driving 25% growth in tech sector"
+            "protocol": "Anti-corruption reforms and business-friendly policies"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption measures increasing 15% in foreign investment"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs and technological advancements"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms leading to 10% increase in trade agreements"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong governance and financial stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE 2% DECLINE AS TRADE TENSIONS RISE. EUROPEAN UNION ANNOUNCES NEW POLICY REFORMS TO STIMULATE ECONOMIC GROWTH.",
-    "last_updated": "2026-07-27 20:56:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICES ARE FLUCTUATING WILDLY DUE TO ONGOING TRADE TENSIONS, LEADING TO CONCERNS ABOUT A POTENTIAL SUPPLY CHAIN BREAK. MEANWHILE, CITIES WITH STRONG PROTOCOLS ARE EXPERIENCING HIGH GROWTH AND STABILITY, WITH SINGAPORE AND SAN FRANCISCO LEADING THE PACK IN INNOVATION AND BUSINESS-FRIENDLINESS.",
+    "last_updated": "2026-07-27 22:04:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.78
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.65
     }
 }
