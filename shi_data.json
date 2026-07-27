@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 73.42,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade tariffs and export restrictions"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and limited policy reforms"
+            "deviation": "Energy production and supply chain disruptions"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inefficient innovation and high corruption levels"
+            "loc": "Caracas, Venezuela",
+            "deviation": "High national debt and currency devaluation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Robust anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative technology and financial reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Renewable energy and sustainable practices"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "High innovation and stable economic environment"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Strong trade agreements and transparent governance"
+            "protocol": "Strong governance and low corruption policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS ADVISING CAUTION AND DIVERSIFICATION.",
-    "last_updated": "2026-07-26 23:33:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND ENERGY PRICE VOLATILITY, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE WITH INNOVATIVE GOVERNANCE AND ECONOMIC POLICIES.",
+    "last_updated": "2026-07-27 01:13:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
