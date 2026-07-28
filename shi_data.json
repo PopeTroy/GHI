@@ -1,45 +1,45 @@
 {
-    "shi": 2.57578,
-    "health_percent": 74.25,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.64792,
+    "health_percent": 67.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and supply chain disruptions"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Inefficient protocols and bureaucratic corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative policy reforms and anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial stability and low debt levels"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and efficient infrastructure"
+            "loc": "Dubai, UAE",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. CITIES LIKE TOKYO AND BEIJING ARE AT HIGH RISK OF COLLAPSE. INNOVATIVE PROTOCOLS AND POLICY REFORMS ARE NEEDED TO MITIGATE THESE RISKS.",
-    "last_updated": "2026-07-28 06:12:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, ECONOMIC INSTABILITY SPREADING ACROSS EUROPE AND ASIA",
+    "last_updated": "2026-07-28 09:04:48",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.55,
-        "C": 0.62
+        "B": 0.65,
+        "C": 0.82
     }
 }
