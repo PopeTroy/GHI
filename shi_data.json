@@ -1,45 +1,45 @@
 {
-    "shi": 3.14167,
-    "health_percent": 74.21,
-    "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:01",
+    "shi": 2.57578,
+    "health_percent": 74.25,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt levels and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and supply chain disruptions"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient protocols and bureaucratic corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovative policy reforms and anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Strong financial stability and low debt levels"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy solutions and efficient infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN",
-    "last_updated": "2026-07-28 03:37:10",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. CITIES LIKE TOKYO AND BEIJING ARE AT HIGH RISK OF COLLAPSE. INNOVATIVE PROTOCOLS AND POLICY REFORMS ARE NEEDED TO MITIGATE THESE RISKS.",
+    "last_updated": "2026-07-28 06:12:44",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.55,
+        "C": 0.62
     }
 }
