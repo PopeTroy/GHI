@@ -1,45 +1,45 @@
 {
-    "shi": 0.65272,
-    "health_percent": 67.23,
+    "shi": 2.42023,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:10",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Paris, France",
+            "loc": "Caracas, Venezuela",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "London, UK",
+            "loc": "Stockholm, Sweden",
             "protocol": "Innovation"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOWING MIXED SIGNALS, TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-27 23:16:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AMIDST RISING TENSIONS IN EASTERN EUROPE, WITH THE PRICE OF OIL DROPPING BY $2.15 PER BARREL.",
+    "last_updated": "2026-07-28 00:13:01",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.23,
-        "T": 1.01,
-        "B": 2.56,
-        "C": 0.91
+        "F": 0.92,
+        "T": 1.08,
+        "B": 0.75,
+        "C": 0.67
     }
 }
