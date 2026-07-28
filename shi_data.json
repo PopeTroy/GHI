@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 67.21,
-    "location": "NEW YORK, USA",
+    "shi": 3.21737,
+    "health_percent": 73.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade Barriers"
+            "deviation": "High Debt Levels"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
+        },
+        {
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Policy Reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS ON THE RISE, ECONOMIC INSTABILITY SPREADING ACROSS EUROPE AND ASIA",
-    "last_updated": "2026-07-28 09:04:48",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MODERATE GROWTH, BUT REGIONAL DISPARITIES PERSIST. INVESTMENT IN PROTOCOLS AND ADDRESSING BOTTLENECKS IS CRUCIAL FOR STABILITY.",
+    "last_updated": "2026-07-28 11:25:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.82
+        "C": 0.42
     }
 }
