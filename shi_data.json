@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 27.88389,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Vancouver, Canada",
+            "deviation": "High debt ratio"
+        },
+        {
+            "loc": "Singapore",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "London, UK",
-            "deviation": "Energy chokepoints and high debt"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation and anti-corruption reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and high transparency"
+            "loc": "Sydney, Australia",
+            "protocol": "Policy reforms for economic growth"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high investment in education"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Infrastructure development for stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE WARS ESCALATING, AND ENERGY SHORTAGES REPORTED IN KEY REGIONS.",
-    "last_updated": "2026-07-28 13:07:37",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW A MIXED TREND, WITH SOME NATIONS EXPERIENCING GROWTH WHILE OTHERS FACE DOWNTURNS DUE TO VARIOUS BOTTLENECKS.",
+    "last_updated": "2026-07-28 15:30:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.21,
+        "C": 0.15
     }
 }
