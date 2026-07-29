@@ -1,45 +1,45 @@
 {
-    "shi": 1.02956,
-    "health_percent": 78.2,
+    "shi": 3.21737,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "56:22:41",
+    "collapse_type": "ECONOMIC GRID COLLAPSE",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade War Tensions"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions and Economic Isolation"
         },
         {
-            "loc": "Greece, Greece",
-            "deviation": "High debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging Workforce and Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub and Tax Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong Banking and Financial Regulations"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable Energy and Green Technology"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES.",
-    "last_updated": "2026-07-29 17:58:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC GRID COLLAPSE | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS RISE; SINGAPORE ANNOUNCES PLANS FOR A NEW INNOVATION DISTRICT; THE EU IMPLEMENTS STRICTER FINANCIAL REGULATIONS TO PREVENT ECONOMIC COLLAPSE.",
+    "last_updated": "2026-07-29 19:22:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.12,
-        "T": 0.92,
-        "B": 1.25,
-        "C": 0.98
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
