@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 72.5,
+    "shi": 4.61314,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "ECONOMIC GRID COLLAPSE",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade War Tensions"
+            "loc": "Los Angeles, USA",
+            "deviation": "High energy consumption"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Sanctions and Economic Isolation"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging Workforce and Debt Crisis"
+            "loc": "London, UK",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub and Tax Reforms"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong Banking and Financial Regulations"
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy and Green Technology"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR ECONOMIC GRID COLLAPSE | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS RISE; SINGAPORE ANNOUNCES PLANS FOR A NEW INNOVATION DISTRICT; THE EU IMPLEMENTS STRICTER FINANCIAL REGULATIONS TO PREVENT ECONOMIC COLLAPSE.",
-    "last_updated": "2026-07-29 19:22:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-07-29 20:27:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.56,
+        "C": 0.34
     }
 }
