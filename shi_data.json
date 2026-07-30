@@ -1,45 +1,45 @@
 {
-    "shi": 2.36151,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "shi": 22.01359,
+    "health_percent": 74.35,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "96:03:21",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt Ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms and anti-corruption"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and financial stability"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and social stability"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, WHILE SINGAPORE AND DENMARK SHOW RESILIENCE AND GROWTH",
-    "last_updated": "2026-07-30 04:08:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
+    "last_updated": "2026-07-30 06:38:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 0.67,
-        "C": 0.79
+        "T": 0.78,
+        "B": 0.21,
+        "C": 0.19
     }
 }
