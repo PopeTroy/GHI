@@ -1,45 +1,45 @@
 {
-    "shi": 22.01359,
-    "health_percent": 74.35,
+    "shi": 1.59873,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:03:21",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
+            "deviation": "High Debt and Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Chokepoints and Corruption"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Teheran, Iran",
+            "deviation": "Sanctions and Limited Trade"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation and Policy Reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Energy and Anti-corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Financial Stability and Open Trade"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL ECONOMIC DOWNTURN",
-    "last_updated": "2026-07-30 06:38:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOWING SIGNS OF INSTABILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR ECONOMIC INDICATORS CLOSELY.",
+    "last_updated": "2026-07-30 09:16:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
-        "C": 0.19
+        "B": 0.67,
+        "C": 0.82
     }
 }
