@@ -3,37 +3,37 @@
     "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:23:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt and policy inefficiencies"
+            "deviation": "Energy shortages and high tariffs"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Low innovation and outdated policies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade agreements"
+            "loc": "Singapore, Singapore",
+            "protocol": "Effective policy reforms and strong anti-corruption measures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and transparency reforms"
+            "protocol": "High innovation and strong financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Environmental sustainability initiatives"
+            "protocol": "Diversified economy and robust trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-31 20:08:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS SERVICE-ORIENTED ECONOMIES, WITH NATIONS INVESTING HEAVILY IN DIGITAL INFRASTRUCTURE AND HUMAN CAPITAL DEVELOPMENT.",
+    "last_updated": "2026-07-31 21:18:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
