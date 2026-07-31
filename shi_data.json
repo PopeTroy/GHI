@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.25,
-    "location": "NEW YORK, USA",
+    "shi": 1.61847,
+    "health_percent": 62.15,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:32:14",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Energy chokepoints and high regulatory barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "New York City, USA",
+            "deviation": "Corruption and lack of innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms and anti-corruption measures"
+        },
+        {
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation and investment in renewable energy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Strong financial regulations and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-07-31 22:26:43",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH TOKYO IDENTIFIED AS A HIGH-IMPACT LOCATION. TRADE TENSIONS AND ENERGY SHORTAGES MAY LEAD TO A SUPPLY CHAIN BREAK. ECONOMIC HEALTH AT 62.15%.",
+    "last_updated": "2026-07-31 23:29:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.67,
+        "C": 0.81
     }
 }
