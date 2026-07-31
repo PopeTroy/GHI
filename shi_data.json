@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 62.15,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War Tariffs"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Debt-to-GDP Ratio"
+            "loc": "London, UK",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-Business Policy Reforms"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Innovation and R&D Investments"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption and Transparency Measures"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE INCREASED VOLATILITY DUE TO TRADE TENSIONS AND RISING DEBT LEVELS. CITIES WITH STRONG POLICY REFORMS, INNOVATION, AND TRANSPARENCY ARE MORE RESILIENT TO ECONOMIC SHOCKS.",
-    "last_updated": "2026-07-31 13:17:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS, INVESTORS SEEK SAFE HAVENS",
+    "last_updated": "2026-07-31 15:31:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
