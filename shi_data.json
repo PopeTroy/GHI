@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.42,
-    "location": "NEW YORK, USA",
+    "shi": 0.76411,
+    "health_percent": 64.21,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:11",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
+            "loc": "Vladivostok, Russia",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoints and corruption"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Overpopulation and infrastructure strain"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub with favorable policy reforms"
+            "protocol": "Anti-corruption reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption measures and financial stability"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy practices and efficient governance"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE. REGIONAL INSTABILITY THREATENS SUPPLY CHAINS. INNOVATION HUBS ATTRACT INVESTMENT, DRIVING GROWTH IN KEY SECTORS.",
-    "last_updated": "2026-07-30 22:56:25",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN 5% DUE TO RISING TRADE TENSIONS, SINGAPORE UNVEILS NEW FINTECH REGULATIONS TO BOOST INNOVATION",
+    "last_updated": "2026-07-31 00:00:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.95
     }
 }
