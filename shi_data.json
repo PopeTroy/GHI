@@ -1,45 +1,45 @@
 {
-    "shi": 2.41521,
-    "health_percent": 73.21,
+    "shi": 0.84052,
+    "health_percent": 72.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and inflation"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Inadequate infrastructure and policy instability"
+            "loc": "Mumbai, India",
+            "deviation": "Infrastructure bottlenecks and corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative trade policies and corruption reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable economic environment"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and high-tech innovation hub"
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO ONGOING TRADE TENSIONS AND RISING DEBT LEVELS. ECONOMIST PREDICTS A 20% CHANCE OF GLOBAL RECESSION WITHIN THE NEXT 12 MONTHS.",
-    "last_updated": "2026-07-31 17:07:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IF BOTTLENECKS ARE NOT ADDRESSED.",
+    "last_updated": "2026-07-31 18:42:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.79,
-        "B": 0.65,
-        "C": 0.58
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
