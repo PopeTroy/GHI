@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 64.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "shi": 0.77048,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
-            "loc": "Vladivostok, Russia",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation hubs"
+            "loc": "Dubai, UAE",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DOWN 5% DUE TO RISING TRADE TENSIONS, SINGAPORE UNVEILS NEW FINTECH REGULATIONS TO BOOST INNOVATION",
-    "last_updated": "2026-07-31 00:00:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMY SHOWS SIGNS OF STRAIN AS TRADE TENSIONS RISE",
+    "last_updated": "2026-07-31 03:42:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
+        "B": 1.2,
         "C": 0.95
     }
 }
