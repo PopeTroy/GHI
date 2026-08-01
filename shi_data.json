@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.42,
+    "shi": 3.21737,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy Chokepoints"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Beijing, China",
+            "loc": "Mumbai, India",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-01 09:15:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY RISING, TRADE TENSIONS ESCALATING, AND ENERGY PRICES FLUCTUATING.",
+    "last_updated": "2026-08-01 10:50:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
