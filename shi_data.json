@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.2,
+    "shi": 2.93858,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy consumption"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers and tariffs"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Water scarcity and drought"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inefficient infrastructure and bureaucracy"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Streamlined customs procedures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Tax incentives for innovation"
+            "protocol": "Anti-corruption and economic stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Investments in renewable energy"
+            "protocol": "Sustainable growth and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE IS EXPECTED TO SLOW DUE TO RISING TENSIONS AND PROTECTIONISM, WITH POTENTIAL SHORTAGES IN CRITICAL INDUSTRIES. DIVERSIFICATION OF SUPPLY CHAINS AND INVESTMENTS IN SUSTAINABLE ENERGY COULD MITIGATE THESE RISKS.",
-    "last_updated": "2026-08-01 04:31:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS WARN OF POTENTIAL DOWNTURNS IN EMERGING MARKETS, GOVERNMENTS URGED TO IMPLEMENT STABILIZING POLICIES",
+    "last_updated": "2026-08-01 07:04:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.61,
+        "C": 0.49
     }
 }
