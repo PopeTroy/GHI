@@ -1,45 +1,45 @@
 {
-    "shi": 2.24824,
-    "health_percent": 73.2,
+    "shi": 0.98953,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints and high inflation"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and infrastructure issues"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and innovation"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and social cohesion"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Environmental sustainability and trade agreements"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS PREDICT A POTENTIAL DOWNTURN IN THE NEXT QUARTER. GOVERNMENTS URGED TO IMPLEMENT POLICY REFORMS TO MITIGATE RISKS.",
-    "last_updated": "2026-08-01 12:48:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, EXPERTS PREDICT 25% CHANCE OF GLOBAL ECONOMIC DOWNTURN WITHIN THE NEXT 12 MONTHS.",
+    "last_updated": "2026-08-01 14:16:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 1.02,
-        "B": 0.75,
-        "C": 0.65
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.67,
+        "B": 1.09,
+        "C": 0.92
     }
 }
