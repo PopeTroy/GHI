@@ -6,34 +6,34 @@
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "BEIJING, CHINA",
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "MOSCOW, RUSSIA",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Lack of infrastructure and policy instability"
+            "loc": "TEHRAN, IRAN",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption reforms"
+            "loc": "SINGAPORE, SINGAPORE",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy stability and financial reforms"
+            "loc": "STOCKHOLM, SWEDEN",
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "ZURICH, SWITZERLAND",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TENSIONS RISE IN THE MIDDLE EAST, WHILE ASIA-PACIFIC REGION SEES GROWTH IN GREEN ENERGY INVESTMENTS.",
-    "last_updated": "2026-08-01 17:34:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW INSTABILITY IN GLOBAL MARKETS, TRADE WARS ESCALATE, AND ENERGY PRICES SOAR.",
+    "last_updated": "2026-08-01 18:34:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
