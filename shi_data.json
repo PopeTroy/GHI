@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.32,
+    "shi": 3.21737,
+    "health_percent": 67.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "43:21:09",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoint"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High Debt Levels"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade Barriers"
+            "deviation": "High energy consumption"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Trade barriers and tariffs"
+        },
+        {
+            "loc": "Cairo, Egypt",
+            "deviation": "Water scarcity and drought"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hubs"
+            "protocol": "Streamlined customs procedures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policies"
+            "protocol": "Tax incentives for innovation"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Investments in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-08-01 01:06:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE IS EXPECTED TO SLOW DUE TO RISING TENSIONS AND PROTECTIONISM, WITH POTENTIAL SHORTAGES IN CRITICAL INDUSTRIES. DIVERSIFICATION OF SUPPLY CHAINS AND INVESTMENTS IN SUSTAINABLE ENERGY COULD MITIGATE THESE RISKS.",
+    "last_updated": "2026-08-01 04:31:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "B": 0.65,
+        "C": 0.42
     }
 }
