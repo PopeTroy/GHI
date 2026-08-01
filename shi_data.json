@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 62.5,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:41",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy chokepoints and corruption"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Lack of infrastructure and policy instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-Corruption Reform"
+            "protocol": "Innovation and anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Policy stability and financial reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. NEW YORK IDENTIFIED AS HIGH-IMPACT LOCATION, WITH POTENTIAL SUPPLY CHAIN DISRUPTIONS LOOMING.",
-    "last_updated": "2026-08-01 16:31:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TENSIONS RISE IN THE MIDDLE EAST, WHILE ASIA-PACIFIC REGION SEES GROWTH IN GREEN ENERGY INVESTMENTS.",
+    "last_updated": "2026-08-01 17:34:19",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
