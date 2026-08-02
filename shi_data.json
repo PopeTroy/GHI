@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.65158,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "deviation": "Trade war tensions"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging Population and High Debt"
+            "deviation": "Energy import reliance"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub with Strong Policy Reforms"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Low Corruption and High Transparency"
+            "protocol": "Financial stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy with Strong Anti-Corruption Laws"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT: TRADE TENSIONS ESCALATING BETWEEN MAJOR ECONOMIES, POTENTIAL SUPPLY CHAIN DISRUPTIONS AHEAD.",
-    "last_updated": "2026-08-02 16:39:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT TURMOIL AS TRADE NEGOTIATIONS STALL, WHILE SINGAPORE ANNOUNCES NEW GREEN TECH INITIATIVE.",
+    "last_updated": "2026-08-02 17:43:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.1,
+        "C": 0.75
     }
 }
