@@ -1,9 +1,9 @@
 {
-    "shi": 1.89285,
+    "shi": 1.11344,
     "health_percent": 73.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,35 +11,35 @@
         },
         {
             "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and high operational costs"
+            "deviation": "Energy chokepoints and supply chain congestion"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Over-reliance on international trade and limited resources"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative green technologies and sustainable practices"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and financial stability"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and robust policy reforms"
+            "protocol": "Sustainable energy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN ASIA",
-    "last_updated": "2026-08-03 22:28:53",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-03 23:38:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
         "F": 0.92,
         "T": 1.01,
-        "B": 0.75,
-        "C": 0.82
+        "B": 1.23,
+        "C": 0.85
     }
 }
