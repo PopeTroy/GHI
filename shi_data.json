@@ -1,45 +1,45 @@
 {
-    "shi": 2.70259,
-    "health_percent": 67.23,
+    "shi": 1.34044,
+    "health_percent": 78.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:47",
+    "collapse_timer": "62:45:12",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Vancouver, Canada",
+            "deviation": "trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Tokyo, Japan",
+            "deviation": "high debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Infrastructure deficits and high inflation"
+            "loc": "Singapore",
+            "deviation": "energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Pro-business policy reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovative fintech and stable governance"
+            "protocol": "policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and efficient logistics"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "innovation"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKETS FLUCTUATE AS GLOBAL ECONOMIC UNCERTAINTY GROWS. TRADE WARS ESCALATE. TECHNOLOGICAL INNOVATION BOOSTS PRODUCTIVITY IN KEY SECTORS.",
-    "last_updated": "2026-08-03 16:35:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE WARS ESCALATING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-03 18:22:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.5
+        "T": 1.21,
+        "B": 1.07,
+        "C": 0.95
     }
 }
