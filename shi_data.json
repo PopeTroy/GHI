@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.89285,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy chokepoints"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and high operational costs"
+        },
+        {
+            "loc": "Singapore",
+            "deviation": "Over-reliance on international trade and limited resources"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Stringent anti-corruption policies"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative green technologies and sustainable practices"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and robust policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS",
-    "last_updated": "2026-08-03 21:16:52",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS IN ASIA",
+    "last_updated": "2026-08-03 22:28:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.01,
+        "B": 0.75,
+        "C": 0.82
     }
 }
