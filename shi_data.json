@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
+    "shi": 2.70259,
     "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "42:11:47",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure bottlenecks and regulatory issues"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure deficits and high inflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Pro-business policy reforms"
         },
         {
-            "loc": "Geneva, Switzerland",
-            "protocol": "Anti-corruption and fiscal discipline"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative fintech and stable governance"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy and social stability"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and efficient logistics"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING AUSTERITY MEASURES, AND CIVIL UNREST ON THE RISE IN SEVERAL REGIONS.",
-    "last_updated": "2026-08-03 14:03:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKETS FLUCTUATE AS GLOBAL ECONOMIC UNCERTAINTY GROWS. TRADE WARS ESCALATE. TECHNOLOGICAL INNOVATION BOOSTS PRODUCTIVITY IN KEY SECTORS.",
+    "last_updated": "2026-08-03 16:35:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.5
     }
 }
