@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.12,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "49:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Costs"
-        },
-        {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade Barriers"
+            "deviation": "High tariffs on imported goods"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Debt Default Risk"
+            "deviation": "Limited energy supply lines"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Severe currency devaluation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Streamlined trade policies"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Financial Regulation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy integration"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative financial regulations"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS PLUMMET AS TRADE TENSIONS ESCALATE, PROMPTING EMERGENCY G20 MEETING",
-    "last_updated": "2026-08-02 23:38:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, INVESTORS URGE GOVERNMENTS TO IMPLEMENT PROTOCOL REFORMS TO MITIGATE BOTTLENECK EFFECTS.",
+    "last_updated": "2026-08-03 01:13:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
