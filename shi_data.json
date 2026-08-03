@@ -1,45 +1,45 @@
 {
-    "shi": 1.34044,
-    "health_percent": 78.23,
+    "shi": 1.55228,
+    "health_percent": 78.52,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "62:45:12",
+    "collapse_timer": "120:00:00",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "high debt"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Singapore",
-            "deviation": "energy chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "anti-corruption"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE WARS ESCALATING BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-03 18:22:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOWING SIGNS OF STRAIN, TRADE VOLUMES DOWN 2% IN THE PAST QUARTER.",
+    "last_updated": "2026-08-03 20:05:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 1.21,
-        "B": 1.07,
-        "C": 0.95
+        "P": 0.92,
+        "F": 1.17,
+        "T": 1.03,
+        "B": 0.85,
+        "C": 1.21
     }
 }
