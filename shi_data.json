@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 73.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 38.02348,
+    "health_percent": 74.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "43:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt to GDP ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
+            "deviation": "Energy export disruptions"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers impacting imports"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation in fintech"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation Hub"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms for economic growth"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT: HIGH DEBT IN BEIJING, SUPPLY CHAIN DISRUPTIONS IN NEW YORK CITY, AND TRADE BARRIERS IN LAGOS CONTRIBUTE TO 26.79% INSTABILITY RISK.",
-    "last_updated": "2026-08-03 08:14:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE FLASHING WARNING SIGNS, WITH THE PRIMARY HIGH IMPACT LOCATION BEING NEW YORK, USA. BOTTLENECK NODES IN BEIJING, MOSCOW, AND LAGOS ARE CAUSING DEVIATION FROM STABILITY, WHILE HIGH SHI NODES IN SINGAPORE, TOKYO, AND VANCOUVER ARE IMPLEMENTING PROTOCOLS FOR GROWTH IMPROVEMENTS.",
+    "last_updated": "2026-08-03 11:46:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "B": 0.21,
+        "C": 0.11
     }
 }
