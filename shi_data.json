@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:22",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
-            "loc": "London, UK",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Energy Consumption"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "loc": "Singapore",
+            "protocol": "Anti-Corruption Policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. EXPERTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-08-04 01:04:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING, AND ENERGY DEMAND INCREASING, WHILE INNOVATION AND POLICY REFORMS PROVIDE GLIMMERS OF HOPE.",
+    "last_updated": "2026-08-04 04:24:27",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.67
     }
 }
