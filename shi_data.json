@@ -1,45 +1,45 @@
 {
-    "shi": 2.62192,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
+    "shi": 1.37104,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:07:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints and infrastructure constraints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial instability and regulatory hurdles"
+            "loc": "New Delhi, India",
+            "deviation": "Infrastructure bottlenecks and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Anti-corruption and business-friendly environment"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms and stable governance"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Technological advancements and strategic investments"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable development and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS EMERGING MARKETS, WITH POTENTIAL HOTSPOTS IN SOUTHEAST ASIA AND LATIN AMERICA. KEY SECTORS TO WATCH INCLUDE RENEWABLE ENERGY, FINTECH, AND CYBERSECURITY.",
-    "last_updated": "2026-08-05 16:56:41",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 2.5% DUE TO ONGOING BOTTLENECKS, WHILE CITIES WITH HIGH SHI INDICES EXPERIENCE 3.2% GROWTH IN GDP",
+    "last_updated": "2026-08-05 18:21:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.5
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.95,
+        "B": 1.1,
+        "C": 0.9
     }
 }
