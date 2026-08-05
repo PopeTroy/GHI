@@ -1,45 +1,45 @@
 {
-    "shi": 0.87142,
-    "health_percent": 73.21,
+    "shi": 2.62192,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Energy chokepoints and infrastructure constraints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Financial instability and regulatory hurdles"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Dubai, UAE",
+            "protocol": "Anti-corruption and business-friendly environment"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Tokyo, Japan",
+            "protocol": "Technological advancements and strategic investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-08-05 15:22:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A SHIFT TOWARDS EMERGING MARKETS, WITH POTENTIAL HOTSPOTS IN SOUTHEAST ASIA AND LATIN AMERICA. KEY SECTORS TO WATCH INCLUDE RENEWABLE ENERGY, FINTECH, AND CYBERSECURITY.",
+    "last_updated": "2026-08-05 16:56:41",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.67,
-        "F": 0.85,
-        "T": 0.92,
-        "B": 1.11,
-        "C": 0.78
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.5
     }
 }
