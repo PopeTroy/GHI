@@ -1,45 +1,45 @@
 {
-    "shi": 1.37104,
-    "health_percent": 74.23,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:07:42",
+    "shi": 1.11344,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers and high debt"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "New Delhi, India",
-            "deviation": "Infrastructure bottlenecks and bureaucratic inefficiencies"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Inflation and economic instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable governance"
+            "protocol": "Anti-corruption and economic stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable development and social cohesion"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and investment in growth"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECLINE BY 2.5% DUE TO ONGOING BOTTLENECKS, WHILE CITIES WITH HIGH SHI INDICES EXPERIENCE 3.2% GROWTH IN GDP",
-    "last_updated": "2026-08-05 18:21:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-05 20:00:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 0.95,
-        "B": 1.1,
-        "C": 0.9
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
