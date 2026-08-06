@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 73.21,
+    "shi": 2.91324,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:59",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "High population density and inadequate infrastructure"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barrier"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and economic diversification"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS WARN OF POTENTIAL COLLAPSE IN THE NEXT 48 HOURS. ECONOMISTS RECOMMEND DIVERSIFYING INVESTMENTS AND PREPARING FOR A POTENTIAL SUPPLY CHAIN BREAK.",
-    "last_updated": "2026-08-06 06:43:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY RISING IN EASTERN EUROPE, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS.",
+    "last_updated": "2026-08-06 09:30:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.67,
+        "C": 0.45
     }
 }
