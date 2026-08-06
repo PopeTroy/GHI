@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 67.23,
+    "shi": 1.86785,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt ratio"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy import dependence"
+            "loc": "Mumbai, India",
+            "deviation": "Energy chokepoints and lack of infrastructure"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers and regulations"
+            "loc": "Moscow, Russia",
+            "deviation": "Corruption and economic sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub with favorable business policies"
+            "protocol": "Innovation and policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and anti-corruption practices"
+            "protocol": "Sustainable energy and economic stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy with strong policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and low corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS ESCALATE. ECONOMIC INDICATORS POINT TO POTENTIAL INSTABILITY IN KEY REGIONS.",
-    "last_updated": "2026-08-06 00:55:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNINGS ISSUED FOR MULTIPLE COUNTRIES, GLOBAL MARKETS EXPERIENCE FLUCTUATIONS.",
+    "last_updated": "2026-08-06 04:09:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.69,
+        "B": 0.58,
+        "C": 0.91
     }
 }
