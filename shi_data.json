@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.45,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barrier"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and geopolitical tensions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and labor shortages"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption and transparency"
+            "loc": "Singapore",
+            "protocol": "Policy reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and diversification"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Bangalore, India",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. KEY LOCATIONS SUCH AS NEW YORK, BEIJING, AND MOSCOW ARE EXPERIENCING HIGH LEVELS OF INSTABILITY, WHILE CITIES LIKE SINGAPORE, STOCKHOLM, AND ZURICH ARE DEMONSTRATING RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND POLICY REFORMS.",
-    "last_updated": "2026-08-07 13:47:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE AGREEMENTS BEING RENEGOTIATED, AND ENERGY PRICES FLUCTUATING WILDLY.",
+    "last_updated": "2026-08-07 14:41:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
