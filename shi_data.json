@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "TOKYO, JAPAN",
+    "shi": 0.77048,
+    "health_percent": 67.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy chokepoints and regulatory hurdles"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial volatility and Brexit uncertainties"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Cutting-edge fintech innovations"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Pro-business policy reforms and entrepreneurship growth"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures and stable governance"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL MARKETS EXPERIENCE SUDDEN DOWNTURN AS TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-07 03:32:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO GROWING DEBT AND TRADE TENSIONS. KEY CITIES EXPERIENCING HIGH LEVELS OF INSTABILITY.",
+    "last_updated": "2026-08-07 05:18:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.2,
+        "C": 0.95
     }
 }
