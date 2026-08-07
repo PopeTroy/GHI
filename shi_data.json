@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 1.83213,
     "health_percent": 74.23,
-    "location": "NEW YORK, USA",
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barrier implementation"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "New York City, USA",
+            "deviation": "Energy grid strain"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation hub establishment"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation Hubs"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Policy reform for economic stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, COMMODITY PRICES SKYROCKETING, AND GEOPOLITICAL TENSIONS RISING.",
-    "last_updated": "2026-08-07 23:20:52",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. TRADE NEGOTIATIONS UNDERWAY BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-07 23:52:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
+        "F": 1.21,
+        "T": 0.92,
+        "B": 1.11,
         "C": 0.67
     }
 }
