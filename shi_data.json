@@ -1,45 +1,45 @@
 {
-    "shi": 2.4569,
-    "health_percent": 67.23,
-    "location": "NEW YORK, USA",
+    "shi": 1.18547,
+    "health_percent": 72.5,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Lack of innovation and infrastructure"
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and policy reforms"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and financial stability"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and trade agreements"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS. CITIES WITH HIGH SHI PROTOCOL ADHERENCE SHOW STABILITY.",
-    "last_updated": "2026-08-07 16:29:09",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS ARE FLASHING RED AMIDST RISING TRADE TENSIONS AND GEOPOLITICAL UNREST. GOVERNMENTS AND INSTITUTIONS ARE RACING TO IMPLEMENT PROTOCOLS TO STABILIZE MARKETS.",
+    "last_updated": "2026-08-07 17:25:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.55
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.78
     }
 }
