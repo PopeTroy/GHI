@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "47:32:19",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade Restrictions"
+            "loc": "Los Angeles, USA",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "loc": "Houston, USA",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Debt-to-GDP Ratio"
+            "loc": "Chicago, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-Business Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative Technology Adoption"
+            "loc": "Boston, USA",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong Anti-Corruption Measures"
+            "loc": "Seattle, USA",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS ESCALATE. ECONOMISTS PREDICT POSSIBLE RECESSION IN KEY REGIONS.",
-    "last_updated": "2026-08-07 09:53:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR MAJOR US CITIES, TRADE NEGOTIATIONS STALL, AND ENERGY PRICES SOAR.",
+    "last_updated": "2026-08-07 11:32:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
