@@ -1,45 +1,45 @@
 {
-    "shi": 0.62449,
-    "health_percent": 78.52,
+    "shi": 1.08344,
+    "health_percent": 73.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and geopolitical tensions"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and labor shortages"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption and transparency"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Financial stability and diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATION, COMMODITY PRICES RISING, AND GEOPOLITICAL TENSIONS ESCALATING.",
-    "last_updated": "2026-08-07 12:24:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS AT RISK DUE TO RISING TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY. KEY LOCATIONS SUCH AS NEW YORK, BEIJING, AND MOSCOW ARE EXPERIENCING HIGH LEVELS OF INSTABILITY, WHILE CITIES LIKE SINGAPORE, STOCKHOLM, AND ZURICH ARE DEMONSTRATING RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND POLICY REFORMS.",
+    "last_updated": "2026-08-07 13:47:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.21,
-        "T": 0.93,
-        "B": 2.15,
-        "C": 1.05
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
