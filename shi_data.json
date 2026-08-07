@@ -1,45 +1,45 @@
 {
-    "shi": 1.01369,
-    "health_percent": 67.32,
+    "shi": 1.08344,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "42:07:22",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Severe currency devaluation and shortages"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced fintech and anti-corruption reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Investment in renewable energy and innovation"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Strong social safety net and policy stability"
+            "protocol": "Innovation Hubs"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING, ECONOMIC INSTABILITY ON THE RISE. KEY CITIES EXPERIENCING DEVIATIONS FROM STABILITY, WHILE OTHERS INVEST IN GROWTH IMPROVEMENTS.",
-    "last_updated": "2026-08-07 22:50:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, COMMODITY PRICES SKYROCKETING, AND GEOPOLITICAL TENSIONS RISING.",
+    "last_updated": "2026-08-07 23:20:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.28,
-        "C": 0.85
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
