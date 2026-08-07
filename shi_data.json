@@ -1,45 +1,45 @@
 {
-    "shi": 1.05076,
-    "health_percent": 74.25,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 74.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "collapse_timer": "48:12:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers due to high tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints causing supply disruptions"
+            "loc": "New York City, USA",
+            "deviation": "Energy chokepoints and inefficiencies"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High debt levels leading to economic instability"
+            "loc": "Mumbai, India",
+            "deviation": "Corruption and bureaucratic inefficiencies"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption reforms and innovation hubs"
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy policies and green technologies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption and transparency"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diverse economy with strong policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-07 21:24:00",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC INDICATORS POINT TO POTENTIAL DOWNTURN IN Q2",
+    "last_updated": "2026-08-07 22:03:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.88
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
