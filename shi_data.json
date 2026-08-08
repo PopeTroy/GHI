@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.32,
+    "shi": 0.76411,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barrier imposition"
+            "loc": "Singapore, Singapore",
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint exacerbation"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt"
+            "loc": "Hong Kong, China",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation policy reform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption initiative"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Green technology adoption"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, CAUSING SUPPLY CHAIN DISRUPTIONS; CITIES WITH HIGH SHI INDICES EXPERIENCE ACCELERATED GROWTH",
-    "last_updated": "2026-08-08 13:54:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS: MANUFACTURING GROWTH 2.1%, UNEMPLOYMENT RATE 4.5%, CONSUMER CONFIDENCE INDEX 120.2. GLOBAL EVENTS: TRADE TALKS BETWEEN EU AND US, OPEC MEETING THIS WEEK, NEW TECH INNOVATIONS ANNOUNCED.",
+    "last_updated": "2026-08-08 14:24:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.95
     }
 }
