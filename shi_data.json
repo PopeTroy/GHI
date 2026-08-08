@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "High debt levels"
+            "loc": "Beijing, China",
+            "deviation": "Trade restrictions"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export limitations"
         },
         {
-            "loc": "Hong Kong, China",
-            "deviation": "Trade barriers"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "High debt-to-GDP ratio"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Advanced maritime trade agreements"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Green energy innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Bangalore, India",
+            "protocol": "IT sector growth and investment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS: MANUFACTURING GROWTH 2.1%, UNEMPLOYMENT RATE 4.5%, CONSUMER CONFIDENCE INDEX 120.2. GLOBAL EVENTS: TRADE TALKS BETWEEN EU AND US, OPEC MEETING THIS WEEK, NEW TECH INNOVATIONS ANNOUNCED.",
-    "last_updated": "2026-08-08 14:24:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY DUE TO TRADE TENSIONS AND ENERGY PRICE FLUCTUATIONS. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-08-08 14:57:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.95
+        "C": 0.67
     }
 }
