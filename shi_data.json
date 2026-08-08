@@ -1,45 +1,45 @@
 {
-    "shi": 1.0787,
-    "health_percent": 74.23,
+    "shi": 1.02728,
+    "health_percent": 73.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:12",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoint"
-        },
-        {
             "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barrier implementation"
+        },
+        {
+            "loc": "Beijing, China",
+            "deviation": "Energy production shortage"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "High national debt levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovative financial reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "loc": "Sydney, Australia",
+            "protocol": "Investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY RISING, TRADE TENSIONS ESCALATE, AND DEBT LEVELS INCREASE.",
-    "last_updated": "2026-08-08 22:46:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 42.1, REGIONAL TENSIONS: HIGH, MARKET VOLATILITY: MODERATE",
+    "last_updated": "2026-08-08 23:11:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.83,
         "F": 0.92,
-        "T": 1.02,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.88
+        "C": 0.69
     }
 }
