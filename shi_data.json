@@ -1,45 +1,45 @@
 {
-    "shi": 2.26336,
-    "health_percent": 82.13,
+    "shi": 2.22196,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:01:23",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Zurich, Switzerland",
             "protocol": "Policy Reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Vancouver, Canada",
             "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS. ECONOMISTS PREDICT A SIGNIFICANT RISE IN TRADE TENSIONS BETWEEN MAJOR NATIONS.",
-    "last_updated": "2026-08-08 15:30:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO SUPPLY CHAIN DISRUPTIONS, GOVERNMENTS IMPLEMENTING POLICIES TO MITIGATE RISKS.",
+    "last_updated": "2026-08-08 15:57:39",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.67
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.59
     }
 }
