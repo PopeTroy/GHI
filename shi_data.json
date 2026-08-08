@@ -1,45 +1,45 @@
 {
-    "shi": 1.02728,
-    "health_percent": 73.45,
+    "shi": 1.08344,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "London, UK",
-            "deviation": "Trade barrier implementation"
+            "deviation": "High Debt"
         },
         {
             "loc": "Beijing, China",
-            "deviation": "Energy production shortage"
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "High national debt levels"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative financial reforms"
+            "protocol": "Innovation Hubs"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption policies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Sydney, Australia",
-            "protocol": "Investment in renewable energy"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 42.1, REGIONAL TENSIONS: HIGH, MARKET VOLATILITY: MODERATE",
-    "last_updated": "2026-08-08 23:11:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH KEY BOTTLENECKS EMERGING IN ASIA AND EUROPE. NEW YORK IDENTIFIED AS HIGH IMPACT LOCATION.",
+    "last_updated": "2026-08-08 23:44:35",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
