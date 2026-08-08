@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 2.341,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
+            "loc": "Tokyo, Japan",
+            "deviation": "High Debt"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Embargo"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reform"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT TURBULENCE AS TRADE TENSIONS RISE BETWEEN MAJOR NATIONS, WHILE INNOVATION HUBS CONTINUE TO DRIVE ECONOMIC GROWTH",
-    "last_updated": "2026-08-08 17:42:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, OIL PRICES SURGE, ECONOMIC SUMMIT TO BE HELD IN DAVOS",
+    "last_updated": "2026-08-08 18:04:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.67,
+        "C": 0.56
     }
 }
