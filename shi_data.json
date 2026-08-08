@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Embargo"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-Inflation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Trade Agreement"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reform"
+            "protocol": "Anti-corruption policies"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovation Hub"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOWING SIGNS OF INSTABILITY, TRADE TENSIONS ON THE RISE, SINGAPORE AND SWITZERLAND LEADING IN ECONOMIC REFORMS",
-    "last_updated": "2026-08-08 08:07:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY UNDER THREAT DUE TO RISING BOTTLENECKS, SHI NODES OFFER HOPE FOR IMPROVEMENT",
+    "last_updated": "2026-08-08 08:56:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
