@@ -1,45 +1,45 @@
 {
-    "shi": 1.06565,
-    "health_percent": 74.23,
+    "shi": 1.05203,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:07:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Energy Dependency"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt Accumulation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Tax Reform"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC TRENDS INDICATE A POTENTIAL DOWNTURN IN THE NEXT QUARTER, WITH TRADE TENSIONS AND ENERGY PRICES ON THE RISE.",
-    "last_updated": "2026-08-08 19:48:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATIONS AMIDST IMPENDING SUPPLY CHAIN DISRUPTIONS; ECONOMIES WITH STRONG PROTOCOLS AND LOW BOTTLENECKS ARE EXPECTED TO STABILIZE QUICKER.",
+    "last_updated": "2026-08-08 20:12:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.65
+        "C": 0.69
     }
 }
