@@ -1,45 +1,45 @@
 {
-    "shi": 1.44699,
-    "health_percent": 74.21,
+    "shi": 1.0787,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:23:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High Debt Ratio"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure and regulatory hurdles"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and fintech ecosystem"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Sustainable energy and social reforms"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING: CRUDE OIL PRICES RISING, CRYPTOCURRENCIES STABILIZING. TRADE TENSIONS BETWEEN MAJOR NATIONS ESCALATING.",
-    "last_updated": "2026-08-08 21:47:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC UNCERTAINTY RISING, TRADE TENSIONS ESCALATE, AND DEBT LEVELS INCREASE.",
+    "last_updated": "2026-08-08 22:46:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 1.21,
-        "T": 0.91,
-        "B": 1.07,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.02,
+        "B": 1.21,
+        "C": 0.88
     }
 }
