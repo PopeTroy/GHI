@@ -1,45 +1,45 @@
 {
-    "shi": 1.47299,
+    "shi": 1.44606,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "43:21:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint"
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption policies"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
             "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING VOLATILITY DUE TO TRADE TENSIONS, WHILE INNOVATIVE CITIES ARE DRIVING ECONOMIC GROWTH THROUGH POLICY REFORMS AND ANTI-CORRUPTION MEASURES.",
-    "last_updated": "2026-08-09 09:24:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | WARNING: GLOBAL ECONOMIC INSTABILITY RISING. TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-08-09 10:03:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.89
+        "F": 1.22,
+        "T": 0.98,
+        "B": 1.1,
+        "C": 0.92
     }
 }
