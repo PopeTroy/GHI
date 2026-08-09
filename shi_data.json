@@ -1,45 +1,45 @@
 {
-    "shi": 0.82551,
-    "health_percent": 72.35,
+    "shi": 2.14233,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "42:11:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers due to high tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoint at Strait of Hormuz"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High debt levels due to excessive government spending"
+            "loc": "Kolkata, India",
+            "deviation": "Over-reliance on imports and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Efficient policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative renewable energy solutions"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption measures"
+            "protocol": "Innovation and policy reforms"
+        },
+        {
+            "loc": "Singapore",
+            "protocol": "Anti-corruption and financial stability"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and social cohesion"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ALERT ISSUED, MULTIPLE REGIONS AT RISK OF COLLAPSE",
-    "last_updated": "2026-08-09 14:46:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY. NEW YORK, USA IDENTIFIED AS HIGH IMPACT LOCATION DUE TO ITS SIGNIFICANT ROLE IN GLOBAL TRADE AND FINANCE.",
+    "last_updated": "2026-08-09 15:14:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.86,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.12,
-        "C": 0.95
+        "T": 0.88,
+        "B": 0.65,
+        "C": 0.72
     }
 }
