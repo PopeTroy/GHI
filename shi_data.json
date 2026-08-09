@@ -1,45 +1,45 @@
 {
-    "shi": 3.3292,
-    "health_percent": 74.23,
+    "shi": 0.82551,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "47:32:11",
     "bottlenecks": [
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade war tariffs"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "High debt"
+            "loc": "Dubai, UAE",
+            "deviation": "Oil price volatility"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "deviation": "Energy chokepoints"
+            "loc": "London, UK",
+            "deviation": "Brexit uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative fintech policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified trade agreements"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reforms"
+            "protocol": "Sustainable energy solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE DISRUPTIONS EXPECTED DUE TO INCREASED TENSIONS, ECONOMISTS PREDICT 5% DECREASE IN GLOBAL GDP",
-    "last_updated": "2026-08-09 16:57:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE TENSIONS RISE. ECONOMISTS PREDICT A 25% CHANCE OF RECESSION WITHIN THE NEXT 12 MONTHS.",
+    "last_updated": "2026-08-09 17:32:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.23,
-        "T": 0.98,
-        "B": 0.56,
-        "C": 0.81
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.12,
+        "C": 0.95
     }
 }
