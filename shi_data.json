@@ -1,45 +1,45 @@
 {
-    "shi": 1.60869,
-    "health_percent": 67.32,
+    "shi": 1.43421,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt and trade barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "High Debt"
         },
         {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and over-reliance on exports"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and civil unrest"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable economic policies and low debt"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and strong social safety net"
+            "loc": "San Francisco, USA",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, OIL PRICES SKYROCKET, EUROPEAN UNION IMPOSES NEW TRADE REGULATIONS",
-    "last_updated": "2026-08-09 18:53:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRESS; TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-09 19:25:11",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.92,
-        "F": 1.17,
-        "T": 0.85,
-        "B": 1.05,
-        "C": 0.78
+        "P": 0.85,
+        "F": 1.21,
+        "T": 0.98,
+        "B": 1.1,
+        "C": 0.92
     }
 }
