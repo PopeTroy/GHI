@@ -1,45 +1,45 @@
 {
-    "shi": 1.21576,
-    "health_percent": 73.21,
+    "shi": 0.76411,
+    "health_percent": 74.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "36:42:19",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
+            "deviation": "High Debt"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-Inflationary Pressures"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient Trade Reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Sustainable Practices"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Measures"
+            "protocol": "Policy Reforms"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SUGGEST A POTENTIAL SUPPLY CHAIN DISRUPTION IN THE ASIA-PACIFIC REGION, WITH NEW YORK AS THE PRIMARY HIGH-IMPACT LOCATION. MONITOR FOR UPDATES.",
-    "last_updated": "2026-08-09 10:46:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-08-09 11:14:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.93,
-        "T": 1.02,
-        "B": 1.15,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
