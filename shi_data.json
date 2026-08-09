@@ -1,45 +1,45 @@
 {
-    "shi": 2.341,
-    "health_percent": 72.11,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade Barriers"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoints"
+            "loc": "Beijing, China",
+            "deviation": "Energy Chokepoint"
         },
         {
             "loc": "London, UK",
+            "deviation": "Trade Barrier"
+        },
+        {
+            "loc": "Tokyo, Japan",
             "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-09 13:23:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS FLUCTUATING AS TRADE TENSIONS RISE. ECONOMIC STABILITY THREATENED BY RECENT BOTTLENECKS.",
+    "last_updated": "2026-08-09 14:03:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.56
+        "B": 1.21,
+        "C": 0.69
     }
 }
