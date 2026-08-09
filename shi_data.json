@@ -1,45 +1,45 @@
 {
-    "shi": 2.14233,
-    "health_percent": 62.15,
+    "shi": 1.05203,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "42:11:22",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "Over-reliance on imports and infrastructure bottlenecks"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption and financial stability"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social cohesion"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY. NEW YORK, USA IDENTIFIED AS HIGH IMPACT LOCATION DUE TO ITS SIGNIFICANT ROLE IN GLOBAL TRADE AND FINANCE.",
-    "last_updated": "2026-08-09 15:14:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMY ON HIGH ALERT DUE TO RISING TRADE TENSIONS AND SUPPLY CHAIN DISRUPTIONS",
+    "last_updated": "2026-08-09 15:49:02",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.86,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.88,
-        "B": 0.65,
-        "C": 0.72
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
