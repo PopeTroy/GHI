@@ -1,45 +1,45 @@
 {
-    "shi": 1.22246,
-    "health_percent": 72.5,
+    "shi": 1.08344,
+    "health_percent": 73.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Trade War"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy Export Restrictions"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "High Debt Levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Policy Reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-Corruption Initiative"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, ECONOMISTS PREDICT POTENTIAL ECONOMIC DOWNTURN WITHIN THE NEXT 6 MONTHS",
-    "last_updated": "2026-08-10 00:37:48",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX FALLS TO 65.21, SPARKING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS AND TRADE WARS.",
+    "last_updated": "2026-08-10 02:56:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.91,
-        "T": 1.02,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.75
+        "C": 0.67
     }
 }
