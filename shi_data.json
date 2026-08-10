@@ -1,45 +1,45 @@
 {
-    "shi": 1.93233,
-    "health_percent": 63.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.12148,
+    "health_percent": 75.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war with neighboring countries"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "High national debt and financial instability"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Over-reliance on oil exports and sanctions"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Pro-business policies and low corruption"
+            "protocol": "Innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong institutional framework and high innovation"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Investment in human capital and technology"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-10 14:53:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO STABILIZE ECONOMIES.",
+    "last_updated": "2026-08-10 15:49:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.85,
-        "B": 0.65,
-        "C": 0.78
+        "P": 0.82,
+        "F": 1.21,
+        "T": 0.75,
+        "B": 0.91,
+        "C": 1.05
     }
 }
