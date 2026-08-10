@@ -1,21 +1,21 @@
 {
-    "shi": 3.98758,
-    "health_percent": 73.42,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.22246,
+    "health_percent": 72.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "43:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
@@ -25,21 +25,21 @@
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WITH TOKYO IDENTIFIED AS A HIGH-IMPACT LOCATION DUE TO SUPPLY CHAIN VULNERABILITIES. BOTTLENECK NODES IN BEIJING, MOSCOW, AND ATHENS POSE SIGNIFICANT RISKS, WHILE HIGH SHI NODES IN SINGAPORE, ZURICH, AND COPENHAGEN DEMONSTRATE RESILIENCE THROUGH EFFECTIVE PROTOCOLS.",
-    "last_updated": "2026-08-09 23:47:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INSTABILITY, ECONOMISTS PREDICT POTENTIAL ECONOMIC DOWNTURN WITHIN THE NEXT 6 MONTHS",
+    "last_updated": "2026-08-10 00:37:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.21,
-        "T": 0.92,
-        "B": 0.67,
-        "C": 0.51
+        "P": 0.83,
+        "F": 0.91,
+        "T": 1.02,
+        "B": 1.21,
+        "C": 0.75
     }
 }
