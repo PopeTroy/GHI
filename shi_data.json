@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 73.45,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:02:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Restrictions"
+            "deviation": "High Debt"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "High Debt Levels"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable Policy Reforms"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Initiative"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX FALLS TO 65.21, SPARKING CONCERNS OVER SUPPLY CHAIN DISRUPTIONS AND TRADE WARS.",
-    "last_updated": "2026-08-10 02:56:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED. SINGAPORE IMPLEMENTS NEW TRADE AGREEMENTS. UK TRADE BARRIERS UNDER REVIEW.",
+    "last_updated": "2026-08-10 04:38:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
