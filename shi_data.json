@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
-    "location": "NEW YORK CITY, USA",
+    "shi": 6.81943,
+    "health_percent": 73.21,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
+            "loc": "Beijing, China",
             "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and infrastructure limitations"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers and corrupt practices"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Corruption and regulatory inefficiencies"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and civil unrest"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "protocol": "Innovation and anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and stable governance"
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable development and economic diversification"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified economy and strong institutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY IN EASTERN EUROPE IS IMPROVING DUE TO POLICY REFORMS, WHILE TRADE TENSIONS RISE IN SOUTHEAST ASIA.",
-    "last_updated": "2026-08-10 21:01:40",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS WARNING OF POTENTIAL DOWNTURN.",
+    "last_updated": "2026-08-10 21:51:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 0.56,
+        "C": 0.23
     }
 }
