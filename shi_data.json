@@ -1,45 +1,45 @@
 {
-    "shi": 1.11677,
-    "health_percent": 73.21,
+    "shi": 1.93233,
+    "health_percent": 63.21,
     "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "43:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade war with neighboring countries"
         },
         {
             "loc": "New York City, USA",
-            "deviation": "High debt"
+            "deviation": "High national debt and financial instability"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Over-reliance on oil exports and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "protocol": "Pro-business policies and low corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Strong institutional framework and high innovation"
+        },
+        {
+            "loc": "Seoul, South Korea",
+            "protocol": "Investment in human capital and technology"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE INNOVATION HUBS SEE INCREASED INVESTMENT AND STABILITY.",
-    "last_updated": "2026-08-10 13:54:59",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-10 14:53:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.65
+        "T": 0.85,
+        "B": 0.65,
+        "C": 0.78
     }
 }
