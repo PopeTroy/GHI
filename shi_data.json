@@ -1,39 +1,39 @@
 {
     "shi": 1.08344,
-    "health_percent": 62.15,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barriers due to geopolitical tensions"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint due to pipeline disruptions"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt levels affecting national stability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "protocol": "Pro-business policy reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative renewable energy solutions"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption"
+            "protocol": "Stringent anti-corruption laws"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED. SINGAPORE IMPLEMENTS NEW TRADE AGREEMENTS. UK TRADE BARRIERS UNDER REVIEW.",
-    "last_updated": "2026-08-10 04:38:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRAIN AS TRADE TENSIONS ESCALATE AND DEBT LEVELS RISE, BUT INNOVATIVE HUBS AND PRO-BUSINESS REFORMS OFFER GLIMMERS OF HOPE FOR STABILITY AND GROWTH.",
+    "last_updated": "2026-08-10 06:00:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
