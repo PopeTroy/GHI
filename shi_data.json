@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 62.15,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:49",
+    "shi": 1.05203,
+    "health_percent": 67.23,
+    "location": "NEW YORK CITY, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barrier imposition"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy shortages and corruption"
+            "deviation": "Energy supply disruption"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and supply chain disruptions"
+            "loc": "Tokyo, Japan",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative economic policies and low corruption"
+            "protocol": "Innovation hub establishment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption laws and high transparency"
+            "protocol": "Anti-corruption policy implementation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green technology and sustainable energy practices"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES, AND CONCERNS OVER ENERGY SECURITY ESCALATE.",
-    "last_updated": "2026-08-10 16:38:20",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIST PREDICT INSTABILITY IN KEY REGIONS.",
+    "last_updated": "2026-08-10 17:33:35",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.78
+        "C": 0.69
     }
 }
