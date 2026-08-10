@@ -1,45 +1,45 @@
 {
-    "shi": 2.26091,
+    "shi": 1.08344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "96:32:14",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy dependency"
+            "deviation": "High energy tariffs"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and supply chain risks"
+            "loc": "Mumbai, India",
+            "deviation": "Inefficient port operations"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Regulatory complexity and financial instability"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "High transportation costs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative fintech regulations"
+            "loc": "Singapore, Singapore",
+            "protocol": "Streamlined customs procedures"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Business-friendly environment and strategic trade location"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovative financial reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy solutions and green infrastructure"
+            "loc": "Vancouver, Canada",
+            "protocol": "Sustainable energy initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. REGIONAL HUBS LIKE SINGAPORE AND DUBAI SHOW RESILIENCE WITH INNOVATIVE POLICIES.",
-    "last_updated": "2026-08-10 07:57:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE SLIGHT DOWNTURN DUE TO RISING TRADE TENSIONS, WHILE CITIES WITH INNOVATIVE PROTOCOLS SHOW SIGNS OF RESILIENCE AND GROWTH.",
+    "last_updated": "2026-08-10 09:23:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 0.91,
-        "C": 0.75
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
