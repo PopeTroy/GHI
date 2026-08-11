@@ -1,45 +1,45 @@
 {
-    "shi": 0.76411,
-    "health_percent": 72.5,
+    "shi": 1.64792,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:27:32",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barrier implementation"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy supply reduction"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High national debt"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms for foreign investment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation hub for tech startups"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE 2% DOWNTURN, GEOPOLITICAL TENSIONS RISE IN EASTERN EUROPE, AND CLIMATE CHANGE PROTESTS ERUPT IN MAJOR CITIES WORLDWIDE",
-    "last_updated": "2026-08-11 07:33:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, WITH KEY TRADE ROUTES AND ENERGY SUPPLIES UNDER THREAT. CITIES SUCH AS NEW YORK ARE AT HIGH RISK OF SUPPLY CHAIN DISRUPTION, WHILE LOCATIONS LIKE ISTANBUL AND DUBAI FACE SPECIFIC CHALLENGES RELATED TO TRADE AND ENERGY. CONVERSELY, CITIES LIKE SINGAPORE, ZURICH, AND SAN FRANCISCO ARE LEADING THE WAY IN PROTOCOLS FOR GROWTH, INCLUDING POLICY REFORMS, ANTI-CORRUPTION EFFORTS, AND INNOVATION.",
+    "last_updated": "2026-08-11 08:32:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.82
     }
 }
