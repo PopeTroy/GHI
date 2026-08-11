@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.89285,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:23:12",
+    "collapse_timer": "43:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Shortages"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and lack of innovation"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Corruption"
+            "loc": "London, UK",
+            "deviation": "High regulatory barriers and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Trade Agreement"
+            "loc": "Singapore",
+            "protocol": "Business-friendly policy reforms"
         },
         {
-            "loc": "London, UK",
-            "protocol": "Innovation Hub"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation and investment in renewable energy"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Fiscal Policy Reform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stringent anti-corruption laws and transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL TRADE VOLUMES DECLINE BY 5% IN Q2. EXPERTS PREDICT INCREASED TARIFFS AND SUPPLY CHAIN DISRUPTIONS.",
-    "last_updated": "2026-08-11 05:19:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WITH INVESTORS EYEING POTENTIAL SUPPLY CHAIN DISRUPTIONS IN ASIA AND EUROPE.",
+    "last_updated": "2026-08-11 06:08:56",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.01,
+        "B": 0.75,
+        "C": 0.82
     }
 }
