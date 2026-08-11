@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 62.11,
+    "shi": 1.03384,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Barrier"
+            "deviation": "high debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "energy chokepoints"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High Debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "policy reforms"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reform"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING INCREASED VOLATILITY DUE TO RISING TRADE TENSIONS AND ENERGY PRICE FLUCTUATIONS.",
-    "last_updated": "2026-08-11 18:28:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY RISING IN KEY REGIONS, TRADE NEGOTIATIONS UNDERWAY, AND INNOVATIVE SOLUTIONS BEING IMPLEMENTED TO MITIGATE RISK.",
+    "last_updated": "2026-08-11 19:35:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.91,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.69
+        "C": 0.67
     }
 }
