@@ -1,45 +1,45 @@
 {
-    "shi": 1.89285,
-    "health_percent": 67.23,
+    "shi": 0.76411,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:12",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barrier implementation"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply reduction"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and lack of innovation"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High regulatory barriers and corruption"
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Business-friendly policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation and investment in renewable energy"
+            "protocol": "Policy reforms for foreign investment"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stringent anti-corruption laws and transparency"
+            "protocol": "Anti-corruption measures"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hub for tech startups"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WITH INVESTORS EYEING POTENTIAL SUPPLY CHAIN DISRUPTIONS IN ASIA AND EUROPE.",
-    "last_updated": "2026-08-11 06:08:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE 2% DOWNTURN, GEOPOLITICAL TENSIONS RISE IN EASTERN EUROPE, AND CLIMATE CHANGE PROTESTS ERUPT IN MAJOR CITIES WORLDWIDE",
+    "last_updated": "2026-08-11 07:33:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 0.75,
-        "C": 0.82
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
