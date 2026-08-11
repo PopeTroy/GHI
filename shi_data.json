@@ -1,45 +1,45 @@
 {
-    "shi": 1.05076,
-    "health_percent": 78.5,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "93:41:12",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy Chokepoint"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "deviation": "Energy reliance on imports"
         },
         {
             "loc": "London, UK",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers with EU nations"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption policies"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption Measures"
+            "protocol": "Sustainable economic reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKET FLUCTUATIONS DETECTED IN EUROPE, INFLATION WARNING SIGNS IN SOUTH AMERICA",
-    "last_updated": "2026-08-10 23:46:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SEE 2% DIP AMIDST ECONOMIC INSTABILITY CONCERNS; EXPERTS PREDICT POLICY REFORMS TO BOOST GROWTH",
+    "last_updated": "2026-08-11 00:36:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.88
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
