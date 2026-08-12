@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "36:02:15",
+    "shi": 2.57051,
+    "health_percent": 82.15,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Dubai, UAE",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Athens, Greece",
             "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hubs"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMY SHOWING SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL COLLAPSE",
-    "last_updated": "2026-08-12 21:08:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC ALERTS: GLOBAL TRADE SLOWS, ENERGY DEMAND INCREASES, DEBT DEFAULTS RISE",
+    "last_updated": "2026-08-12 22:00:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.67,
-        "C": 0.59
+        "C": 0.51
     }
 }
