@@ -1,45 +1,45 @@
 {
-    "shi": 0.75032,
-    "health_percent": 82.11,
+    "shi": 1.14833,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:15",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High energy consumption rates leading to supply chain disruption"
+            "deviation": "High debt"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Financial sector instability due to high debt and trade barriers"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Infrastructure bottlenecks causing traffic congestion and delays"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Implementation of advanced logistics and transportation systems"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative renewable energy solutions reducing carbon footprint"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Efficient waste management systems and sustainable practices"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO GEOPOLITICAL TENSIONS AND TRADE DISPUTES. ECONOMISTS PREDICT A POTENTIAL DECLINE IN GDP GROWTH RATES FOR MAJOR COUNTRIES.",
-    "last_updated": "2026-08-12 11:59:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC INSTABILITY REPORTED IN SEVERAL REGIONS.",
+    "last_updated": "2026-08-12 13:24:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.82,
         "F": 0.91,
-        "T": 0.85,
-        "B": 1.23,
-        "C": 1.05
+        "T": 0.75,
+        "B": 1.21,
+        "C": 0.58
     }
 }
