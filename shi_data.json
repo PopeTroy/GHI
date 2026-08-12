@@ -1,45 +1,45 @@
 {
-    "shi": 1.14833,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 1.05203,
+    "health_percent": 73.42,
+    "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High energy consumption and trade barriers"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and high debt"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barriers"
+            "loc": "London, UK",
+            "deviation": "Brexit uncertainty and financial instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub and favorable business policies"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and green initiatives"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diverse economy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, ECONOMIC INSTABILITY REPORTED IN SEVERAL REGIONS.",
-    "last_updated": "2026-08-12 13:24:59",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE VOLATILITY, WHILE REGIONAL ECONOMIES SHOW SIGNS OF RESILIENCE. INVESTORS EYE EMERGING MARKETS FOR GROWTH OPPORTUNITIES.",
+    "last_updated": "2026-08-12 14:34:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 0.75,
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.58
+        "C": 0.69
     }
 }
