@@ -1,45 +1,45 @@
 {
-    "shi": 5.62929,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.53487,
+    "health_percent": 67.23,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "High Energy Imports"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Singapore",
-            "deviation": "Over-Reliance on Trade"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Severe Traffic Congestion"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Advanced Financial Reforms"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Renewable Energy"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Efficient Transportation Systems"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TOKYO STRUGGLES WITH SUPPLY CHAIN DISRUPTIONS, WHILE ZURICH AND COPENHAGEN THRIVE WITH INNOVATIVE PROTOCOLS.",
-    "last_updated": "2026-08-12 05:00:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY ALERTS ISSUED FOR MAJOR TRADE HUBS; GLOBAL MARKETS EXPERIENCING FLUCTUATIONS",
+    "last_updated": "2026-08-12 06:20:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 0.65,
-        "C": 0.41
+        "P": 0.85,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 0.78,
+        "C": 0.95
     }
 }
