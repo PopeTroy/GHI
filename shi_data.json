@@ -1,45 +1,45 @@
 {
-    "shi": 1.11344,
+    "shi": 1.59873,
     "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "96:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels and trade barriers"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy shortages and infrastructure constraints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Rio de Janeiro, Brazil",
-            "deviation": "Corruption and lack of policy reforms"
+            "loc": "Tokyo, Japan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation and technology adoption"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong governance and anti-corruption measures"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and environmental policies"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH MULTIPLE NATIONS EXPERIENCING SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS AND MONITOR ECONOMIC INDICATORS CLOSELY.",
-    "last_updated": "2026-08-11 23:35:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING HIGH VOLATILITY, WITH TRADE TENSIONS AND ENERGY SCARCITY DRIVING INSTABILITY. MEANWHILE, INNOVATION HUBS IN ASIA AND POLICY REFORMS IN NORTH AMERICA ARE PROMOTING ECONOMIC GROWTH AND STABILITY.",
+    "last_updated": "2026-08-12 00:39:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.23,
-        "C": 0.85
+        "T": 0.78,
+        "B": 0.67,
+        "C": 0.82
     }
 }
