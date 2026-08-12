@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 72.15,
+    "shi": 0.98437,
+    "health_percent": 74.25,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Debt Ratio"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDEX: -2.1%, ASIAN MARKETS: -1.5%, EUROPEAN MARKETS: -0.8%",
-    "last_updated": "2026-08-12 16:29:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET TRENDS SHIFTING, TRADE AGREEMENTS BEING RENEGOTIATED, AND GOVERNMENTS IMPLEMENTING MONETARY POLICIES TO STABILIZE ECONOMIES.",
+    "last_updated": "2026-08-12 17:31:00",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "P": 0.83,
+        "F": 0.91,
+        "T": 1.02,
+        "B": 1.15,
+        "C": 0.98
     }
 }
