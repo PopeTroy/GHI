@@ -1,45 +1,45 @@
 {
-    "shi": 3.12133,
-    "health_percent": 73.21,
+    "shi": 1.00943,
+    "health_percent": 42.11,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high debt"
+            "deviation": "High Tariffs"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "energy chokepoints"
+            "deviation": "Energy Shortage"
         },
         {
             "loc": "London, UK",
-            "deviation": "trade barriers"
+            "deviation": "Soaring Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "anti-corruption"
+            "loc": "Singapore",
+            "protocol": "Free Trade Agreement"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "innovation"
+            "protocol": "Cryptocurrency Adoption"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "policy reforms"
+            "protocol": "Renewable Energy Integration"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS, WITH MAJOR PORTS FACING SIGNIFICANT DELAYS AND INCREASED COSTS.",
-    "last_updated": "2026-08-13 07:45:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS PREDICT SIGNIFICANT ECONOMIC DOWNTURN",
+    "last_updated": "2026-08-13 08:55:54",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.42
+        "T": 0.81,
+        "B": 1.19,
+        "C": 0.67
     }
 }
