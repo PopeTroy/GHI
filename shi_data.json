@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
-    "health_percent": 74.23,
+    "shi": 1.64792,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy Chokepoint"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption"
-        },
-        {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | MARKET VOLATILITY INCREASES AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMIC STABILITY HANGS IN THE BALANCE.",
-    "last_updated": "2026-08-13 02:42:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY AT RISK DUE TO INCREASING TRADE TENSIONS AND ENERGY DISRUPTIONS.",
+    "last_updated": "2026-08-13 04:29:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "B": 0.65,
+        "C": 0.82
     }
 }
