@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 3.21737,
     "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:19",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tensions"
+            "deviation": "High Debt Ratio"
         },
         {
-            "loc": " Moscow, Russia",
-            "deviation": "Energy Price Volatility"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint Vulnerability"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High Debt Levels"
+            "loc": "London, UK",
+            "deviation": "Trade Barriers and Restrictions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and R&D"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
+            "protocol": "Anti-Corruption and Transparency"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Policy Reforms for Growth"
+            "protocol": "Policy Reforms and Deregulation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY PRICE VOLATILITY. CITIES LIKE NEW YORK, BEIJING, AND MOSCOW ARE UNDER THREAT. PROTOCOLS IN CITIES LIKE SINGAPORE, ZURICH, AND TORONTO ARE KEY TO STABILIZATION.",
-    "last_updated": "2026-08-13 21:00:13",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING NEWS: GLOBAL MARKETS REACT TO RISING TRADE TENSIONS BETWEEN MAJOR ECONOMIC POWERS. ECONOMISTS WARN OF POTENTIAL COLLAPSE IN SUPPLY CHAINS AND GLOBAL TRADE.",
+    "last_updated": "2026-08-13 21:55:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 0.65,
-        "C": 0.82
+        "C": 0.42
     }
 }
