@@ -1,45 +1,45 @@
 {
-    "shi": 0.67631,
-    "health_percent": 73.21,
+    "shi": 1.64792,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:01",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:09",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "High debt"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Rio de Janeiro, Brazil",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Zurich, Switzerland",
             "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS SHOW SIGNS OF STRAIN, GLOBAL MARKETS ARE ON HIGH ALERT",
-    "last_updated": "2026-08-13 22:36:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS SCRAMBLE TO IMPLEMENT REFORMS AND STABILIZE MARKETS.",
+    "last_updated": "2026-08-13 23:21:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.72,
-        "T": 0.91,
-        "B": 1.21,
-        "C": 0.98
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.82
     }
 }
