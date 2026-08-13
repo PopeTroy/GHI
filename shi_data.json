@@ -1,45 +1,45 @@
 {
-    "shi": 1.00943,
-    "health_percent": 42.11,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High debt"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy Shortage"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Soaring Debt"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Free Trade Agreement"
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Cryptocurrency Adoption"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Renewable Energy Integration"
+            "loc": "San Francisco, USA",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, EXPERTS PREDICT SIGNIFICANT ECONOMIC DOWNTURN",
-    "last_updated": "2026-08-13 08:55:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES",
+    "last_updated": "2026-08-13 10:02:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.81,
-        "B": 1.19,
+        "T": 0.78,
+        "B": 1.21,
         "C": 0.67
     }
 }
