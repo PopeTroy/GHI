@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
+    "shi": 3.12133,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Energy shortage"
+            "deviation": "high debt"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Dubai, UAE",
+            "deviation": "energy chokepoints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Trade barriers"
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "anti-corruption"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "innovation"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING TURBULENCE DUE TO SUPPLY CHAIN DISRUPTIONS, ECONOMIC INSTABILITY LOOMING",
-    "last_updated": "2026-08-13 06:00:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO SUPPLY CHAIN DISRUPTIONS, WITH MAJOR PORTS FACING SIGNIFICANT DELAYS AND INCREASED COSTS.",
+    "last_updated": "2026-08-13 07:45:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.67,
+        "C": 0.42
     }
 }
