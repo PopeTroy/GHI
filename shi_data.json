@@ -1,45 +1,45 @@
 {
-    "shi": 1.59873,
-    "health_percent": 74.21,
+    "shi": 1.08657,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy chokepoints and high debt"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Trade barriers and corruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy reforms and anti-corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "protocol": "Innovation and technological advancements"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable economy and strong institutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND ENERGY SHORTAGES. CITIES WITH HIGH SHI RATINGS ARE INVESTING IN POLICY REFORMS, ANTI-CORRUPTION MEASURES, AND INNOVATION TO DRIVE GROWTH.",
-    "last_updated": "2026-08-13 11:56:02",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND DEBT LEVELS. CITIES WITH HIGH SHI SCORES ARE DRIVING GROWTH THROUGH INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-08-13 13:05:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.82
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.95
     }
 }
