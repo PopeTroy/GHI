@@ -1,45 +1,45 @@
 {
-    "shi": 1.09301,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 1.05203,
+    "health_percent": 73.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade disruptions due to port congestion"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and high debt"
+            "deviation": "Energy shortages from coal supply-chain issues"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Trade barriers and corruption"
-        },
-        {
-            "loc": "Mumbai, India",
-            "deviation": "Infrastructure inefficiencies and bureaucratic delays"
+            "loc": "London, UK",
+            "deviation": "High debt-to-GDP ratio affecting financial stability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative trade policies"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs driving technological advancements"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy solutions"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Effective policy reforms and corruption reduction"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption reforms and digital governance"
+            "loc": "Tokyo, Japan",
+            "protocol": "Investment in renewable energy and sustainable infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND GOVERNMENTS IMPLEMENTING POLICIES TO STABILIZE GROWTH.",
-    "last_updated": "2026-08-14 10:39:55",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE, WHILE CITIES FOCUSING ON INNOVATION AND SUSTAINABILITY SEE ECONOMIC GROWTH AND STABILITY",
+    "last_updated": "2026-08-14 11:27:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.92,
-        "F": 1.17,
-        "T": 0.85,
-        "B": 1.23,
-        "C": 0.98
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.69
     }
 }
