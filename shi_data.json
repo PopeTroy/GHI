@@ -1,45 +1,45 @@
 {
-    "shi": 1.05203,
-    "health_percent": 73.25,
+    "shi": 1.84933,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade disruptions due to port congestion"
+            "loc": "Beijing, China",
+            "deviation": "High Energy Consumption"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy shortages from coal supply-chain issues"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "London, UK",
-            "deviation": "High debt-to-GDP ratio affecting financial stability"
+            "deviation": "Debt Overload"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs driving technological advancements"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable Energy"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective policy reforms and corruption reduction"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Investment in renewable energy and sustainable infrastructure"
+            "protocol": "Financial Stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE, WHILE CITIES FOCUSING ON INNOVATION AND SUSTAINABILITY SEE ECONOMIC GROWTH AND STABILITY",
-    "last_updated": "2026-08-14 11:27:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. CITIES WITH HIGH SHI METRICS SHOW RESILIENCE AND ADAPTABILITY.",
+    "last_updated": "2026-08-14 12:08:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.69
+        "T": 1.01,
+        "B": 0.75,
+        "C": 0.82
     }
 }
