@@ -1,45 +1,45 @@
 {
-    "shi": 1.29943,
-    "health_percent": 72.38,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.09301,
+    "health_percent": 73.21,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:10",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt due to infrastructure projects"
+            "deviation": "Energy chokepoints and high debt"
         },
         {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "Trade barriers affecting agricultural exports"
+            "loc": "New York City, USA",
+            "deviation": "Trade barriers and corruption"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Energy chokepoints impacting manufacturing"
+            "deviation": "Infrastructure inefficiencies and bureaucratic delays"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Strong anti-corruption policies"
+            "protocol": "Innovative trade policies"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy solutions"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Innovative tech industry investments"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Effective policy reforms for financial stability"
+            "protocol": "Anti-corruption reforms and digital governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | BREAKING: GLOBAL ECONOMIC STABILITY AT RISK DUE TO MOUNTING DEBT AND TRADE TENSIONS. #ECONOMIC GROWTH #STABILITY",
-    "last_updated": "2026-08-14 09:42:21",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, TRADE TENSIONS RISING BETWEEN MAJOR ECONOMIES, AND GOVERNMENTS IMPLEMENTING POLICIES TO STABILIZE GROWTH.",
+    "last_updated": "2026-08-14 10:39:55",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
-        "T": 1.08,
-        "B": 1.25,
-        "C": 0.95
+        "P": 0.92,
+        "F": 1.17,
+        "T": 0.85,
+        "B": 1.23,
+        "C": 0.98
     }
 }
