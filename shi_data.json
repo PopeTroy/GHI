@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
+    "shi": 1.32898,
     "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "42:21:17",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Energy Chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Energy import dependency"
         },
         {
             "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers and regulations"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Economic Diversification"
+            "loc": "Singapore",
+            "protocol": "Business-friendly policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Inclusion"
+            "protocol": "Innovative fintech ecosystem"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Innovation Hub"
+            "protocol": "Strong anti-corruption framework"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SURGE, AND TECH INNOVATION BOOSTS ECONOMIC GROWTH",
-    "last_updated": "2026-08-14 00:03:09",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE HIGH VOLATILITY, TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-14 02:37:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "P": 0.82,
+        "F": 0.91,
+        "T": 1.23,
+        "B": 1.17,
+        "C": 0.85
     }
 }
