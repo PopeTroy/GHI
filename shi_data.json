@@ -1,30 +1,30 @@
 {
-    "shi": 2.35975,
-    "health_percent": 73.21,
-    "location": "NEW YORK, USA",
+    "shi": 0.76411,
+    "health_percent": 74.23,
+    "location": "LONDON, UNITED KINGDOM",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:01",
+    "collapse_timer": "120:04:21",
     "bottlenecks": [
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt levels"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Beijing, China",
+            "loc": "Moscow, Russia",
             "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Paris, France",
-            "deviation": "Trade barriers"
+            "loc": "New York City, USA",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Stockholm, Sweden",
             "protocol": "Anti-corruption"
         },
         {
@@ -32,14 +32,14 @@
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING DEBT LEVELS AND TRADE TENSIONS. INVESTORS URGED TO DIVERSIFY PORTFOLIOS AND MONITOR MARKET TRENDS CLOSELY.",
-    "last_updated": "2026-08-14 22:08:59",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL COLLAPSE",
+    "last_updated": "2026-08-14 22:38:20",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 1.12,
-        "B": 0.75,
-        "C": 0.68
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.95
     }
 }
