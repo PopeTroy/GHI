@@ -1,45 +1,45 @@
 {
-    "shi": 1.53487,
-    "health_percent": 72.1,
+    "shi": 1.18547,
+    "health_percent": 73.45,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:21:12",
     "bottlenecks": [
         {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade Barriers"
+            "loc": "London, UK",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy Reforms"
+            "loc": "Singapore",
+            "protocol": "Innovative financial regulations"
+        },
+        {
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy policies"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Robust anti-corruption laws"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, WITH 3 MAJOR BOTTLENECKS IDENTIFIED IN CHINA, RUSSIA, AND VENEZUELA. CITIES LIKE SINGAPORE, ZURICH, AND TORONTO SHOW PROMISING GROWTH DUE TO EFFECTIVE PROTOCOLS.",
-    "last_updated": "2026-08-14 18:12:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY DUE TO RISING ENERGY COSTS AND TRADE TENSIONS.",
+    "last_updated": "2026-08-14 19:14:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 1.01,
-        "B": 0.78,
-        "C": 0.95
+        "B": 1.23,
+        "C": 0.78
     }
 }
