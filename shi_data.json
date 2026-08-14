@@ -1,13 +1,13 @@
 {
-    "shi": 6.24266,
-    "health_percent": 0.82,
+    "shi": 1.08344,
+    "health_percent": 74.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:22:01",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "Trade War"
+            "loc": "Beijing, China",
+            "deviation": "Trade War Escalation"
         },
         {
             "loc": "Dubai, UAE",
@@ -20,26 +20,26 @@
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Business-Friendly Regulations"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub Establishment"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovative Startups"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Reform Implementation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified Economy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable Energy Integration"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, AND OIL PRICES CONTINUE TO FLUCTUATE WILDLY.",
-    "last_updated": "2026-08-14 23:23:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE TENSIONS RISE. OIL PRICES SOAR DUE TO GEOPOLITICAL UNREST. CITIES WITH STRONG INNOVATION PROTOCOLS SHOW RESILIENCE.",
+    "last_updated": "2026-08-14 23:44:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.21,
+        "B": 1.21,
         "C": 0.67
     }
 }
