@@ -1,45 +1,45 @@
 {
-    "shi": 1.06582,
-    "health_percent": 73.15,
+    "shi": 3.60694,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "48:22:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade Tensions"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "loc": "Moscow, Russia",
+            "deviation": "High debt"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Oil Price Volatility"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Business-Friendly Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial Stability Measures"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub Development"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING WILDLY, ECONOMISTS WARN OF IMPENDING RECESSION. OIL PRICES SKYROCKET AS MIDDLE EAST TENSIONS RISE.",
-    "last_updated": "2026-08-15 21:58:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-15 22:28:43",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.83,
+        "F": 0.91,
         "T": 0.78,
-        "B": 1.23,
-        "C": 0.67
+        "B": 0.56,
+        "C": 0.42
     }
 }
