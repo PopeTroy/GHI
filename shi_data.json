@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
+    "shi": 1.55239,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High energy imports dependency"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy chokepoint and lack of policy reforms"
+            "loc": "Dubai, UAE",
+            "deviation": "Over-reliance on oil exports"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High energy consumption and corruption"
+            "loc": "London, UK",
+            "deviation": "Brexit-related trade uncertainty"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption policies"
+            "loc": "Singapore",
+            "protocol": "Pro-business policies and low corruption"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial regulation and stability"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and policy reforms"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and trade agreements"
+            "protocol": "Investment in renewable energy and green technology"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN THE NEXT QUARTER",
-    "last_updated": "2026-08-15 23:28:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HEIGHTENED VOLATILITY, OIL PRICES SURGE AMIDST MIDDLE EAST TENSIONS.",
+    "last_updated": "2026-08-15 23:47:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.69,
+        "C": 0.82
     }
 }
