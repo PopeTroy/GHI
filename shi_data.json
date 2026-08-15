@@ -1,45 +1,45 @@
 {
-    "shi": 0.82551,
-    "health_percent": 72.5,
+    "shi": 0.69134,
+    "health_percent": 67.42,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:01",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Ratio"
-        },
-        {
-            "loc": "Paris, France",
-            "deviation": "Trade Barriers"
+            "deviation": "Trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policy"
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy Reforms"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES BY 5% AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-15 16:34:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE VOLATILITY, GOVERNMENTS RESPOND WITH STIMULUS PACKAGES",
+    "last_updated": "2026-08-15 16:55:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.12,
-        "C": 0.95
+        "B": 1.21,
+        "C": 1.05
     }
 }
