@@ -1,9 +1,9 @@
 {
-    "shi": 2.46056,
-    "health_percent": 67.25,
+    "shi": 1.17667,
+    "health_percent": 73.29,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
@@ -11,35 +11,35 @@
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO TRADE TENSIONS AND ENERGY DISRUPTIONS.",
-    "last_updated": "2026-08-15 18:26:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS ON THE RISE, AND INNOVATION HUBS DRIVING GROWTH",
+    "last_updated": "2026-08-15 18:56:25",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.21,
+        "P": 0.87,
+        "F": 0.92,
         "T": 1.05,
-        "B": 0.67,
-        "C": 0.91
+        "B": 1.21,
+        "C": 0.85
     }
 }
