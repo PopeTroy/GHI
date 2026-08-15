@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 68.25,
+    "shi": 0.84052,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_timer": "48:07:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "Energy chokepoints and lack of policy reforms"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Corruption and inadequate innovation"
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Effective anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust policy reforms and innovation"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Strategic investment in sustainable energy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC STABILITY ALERT: GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY DUE TO TRADE TENSIONS AND GEOPOLITICAL UNCERTAINTY.",
-    "last_updated": "2026-08-15 13:57:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | SYSTEM ALERT: ECONOMIC INSTABILITY BREWING, GLOBAL MARKETS ON HIGH ALERT.",
+    "last_updated": "2026-08-15 14:22:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.1,
+        "C": 0.95
     }
 }
