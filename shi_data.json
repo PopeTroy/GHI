@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.21,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:01",
+    "collapse_timer": "48:07:32",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade War Escalation"
+            "deviation": "trade tensions"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Oil Price Volatility"
+            "loc": "Moscow, Russia",
+            "deviation": "energy shortages"
         },
         {
             "loc": "London, UK",
-            "deviation": "Brexit Uncertainty"
+            "deviation": "high debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation Hub Establishment"
+            "loc": "Singapore",
+            "protocol": "tax reform"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial Reform Implementation"
+            "loc": "Stockholm, Sweden",
+            "protocol": "innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Integration"
+            "loc": "Vancouver, Canada",
+            "protocol": "sustainable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE TENSIONS RISE. OIL PRICES SOAR DUE TO GEOPOLITICAL UNREST. CITIES WITH STRONG INNOVATION PROTOCOLS SHOW RESILIENCE.",
-    "last_updated": "2026-08-14 23:44:11",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATIONS AS INVESTORS AWAIT POLICY ANNOUNCEMENTS FROM MAJOR ECONOMIES.",
+    "last_updated": "2026-08-15 00:01:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 0.65,
+        "C": 0.42
     }
 }
