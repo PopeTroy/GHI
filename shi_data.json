@@ -1,45 +1,45 @@
 {
-    "shi": 1.16914,
-    "health_percent": 67.23,
+    "shi": 2.32982,
+    "health_percent": 72.35,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Lagos, Nigeria",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Teheran, Iran",
+            "loc": "Bangkok, Thailand",
             "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, EXPERTS PREDICT POTENTIAL ECONOMIC DOWNTURN IN THE NEXT QUARTER.",
-    "last_updated": "2026-08-15 07:58:12",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | MARKETS UNSTABLE, GLOBAL ECONOMIC DOWNTURN LOOMING. INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
+    "last_updated": "2026-08-15 08:33:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.01,
-        "B": 1.28,
-        "C": 0.76
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.58
     }
 }
