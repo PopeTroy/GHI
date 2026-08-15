@@ -1,45 +1,45 @@
 {
-    "shi": 0.90637,
-    "health_percent": 73.2,
-    "location": "NEW YORK, USA",
+    "shi": 0.84052,
+    "health_percent": 67.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade tariffs and regulatory hurdles"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Riyadh, Saudi Arabia",
-            "deviation": "Energy production and export limitations"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High inflation and currency fluctuations"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined business registration and tax compliance"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy sources and green infrastructure"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Innovation hubs and research institutions"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC STABILITY THREATENED BY TRADE TENSIONS AND PANDEMIC AFTERMATH.",
-    "last_updated": "2026-08-15 15:00:20",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE. TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES. OIL PRICES FLUCTUATE WILDLY DUE TO GEOPOLITICAL UNREST.",
+    "last_updated": "2026-08-15 15:28:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.21,
-        "T": 0.67,
-        "B": 1.19,
-        "C": 0.92
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.1,
+        "C": 0.95
     }
 }
