@@ -1,45 +1,45 @@
 {
-    "shi": 2.44748,
-    "health_percent": 62.3,
+    "shi": 0.82551,
+    "health_percent": 72.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:12",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Debt Ratio"
+        },
+        {
+            "loc": "Paris, France",
+            "deviation": "Trade Barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption Policy"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Tokyo, Japan",
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS VOLATILE, ECONOMIC INDICATORS WORSENING",
-    "last_updated": "2026-08-15 16:00:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKET VOLATILITY INCREASES BY 5% AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-15 16:34:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.95,
+        "P": 0.85,
+        "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.55
+        "B": 1.12,
+        "C": 0.95
     }
 }
