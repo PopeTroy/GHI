@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.21,
+    "shi": 0.81328,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "48:21:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt Levels"
+            "deviation": "High Energy Costs"
         },
         {
-            "loc": "Suez, Egypt",
-            "deviation": "Energy Chokepoints"
-        },
-        {
-            "loc": "Moscow, Russia",
+            "loc": "Tokyo, Japan",
             "deviation": "Trade Barriers"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Anti-Corruption Reforms"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hubs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Vancouver, Canada",
             "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY THREATENED BY RISING BOTTLENECKS, SHI NODES SHOWING PROMISE FOR GROWTH",
-    "last_updated": "2026-08-15 10:55:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, TRADE WARS ESCALATE, AND DEBT CRISIS LOOMS",
+    "last_updated": "2026-08-15 11:16:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.2,
+        "C": 0.9
     }
 }
