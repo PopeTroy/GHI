@@ -1,45 +1,45 @@
 {
-    "shi": 0.81328,
-    "health_percent": 67.32,
+    "shi": 0.83295,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Energy Costs"
+            "deviation": "High Debt"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Dubai, UAE",
             "deviation": "Trade Barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Debt Crisis"
+            "loc": "Cairo, Egypt",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "London, UK",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation Hub"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-Corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED, TRADE WARS ESCALATE, AND DEBT CRISIS LOOMS",
-    "last_updated": "2026-08-15 11:16:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INDICATORS FLASHING RED: GLOBAL TRADE DECLINES BY 2.1% IN Q2",
+    "last_updated": "2026-08-15 11:37:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.9
+        "B": 1.11,
+        "C": 0.95
     }
 }
