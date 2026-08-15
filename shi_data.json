@@ -1,8 +1,8 @@
 {
-    "shi": 1.08344,
-    "health_percent": 74.23,
+    "shi": 1.173,
+    "health_percent": 72.55,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
@@ -10,36 +10,36 @@
             "deviation": "High Debt"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
+            "loc": "Dubai, UAE",
+            "deviation": "Trade Barriers"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
+            "protocol": "Anti-Corruption"
+        },
+        {
+            "loc": "Stockholm, Sweden",
             "protocol": "Innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
-        },
-        {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-Corruption"
+            "protocol": "Policy Reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING VOLATILITY, GOVERNMENTS IMPLEMENTING STIMULUS PACKAGES TO STABILIZE ECONOMIES.",
-    "last_updated": "2026-08-15 04:59:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATING IN ASIA, AND ENERGY PRICES SURGING IN EUROPE.",
+    "last_updated": "2026-08-15 05:32:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "T": 1.1,
+        "B": 1.2,
+        "C": 0.88
     }
 }
