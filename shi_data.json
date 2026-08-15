@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 74.25,
+    "shi": 3.21737,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "36:04:21",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "High Debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Chokepoints"
-        },
-        {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade Barriers"
+            "deviation": "High debt and trade barriers"
+        },
+        {
+            "loc": "Los Angeles, USA",
+            "deviation": "Energy chokepoints and infrastructure constraints"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Regulatory hurdles and lack of innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Anti-Corruption Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Tax reforms and ease of doing business"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Innovation Hub"
+            "loc": "Dubai, UAE",
+            "protocol": "Investment in renewable energy and infrastructure development"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy Reforms"
+            "protocol": "Anti-corruption measures and business-friendly environment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS.",
-    "last_updated": "2026-08-15 03:21:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY THREATENS TRADE AND INVESTMENT. CITIES WITH STRONG PROTOCOLS LIKE SINGAPORE AND DUBAI SHOW RESILIENCE, WHILE BOTTLENECKS IN TOKYO, LOS ANGELES, AND LONDON POSE SIGNIFICANT RISKS.",
+    "last_updated": "2026-08-15 03:58:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.65,
+        "C": 0.42
     }
 }
