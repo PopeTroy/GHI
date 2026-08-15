@@ -1,45 +1,45 @@
 {
-    "shi": 3.60694,
+    "shi": 1.11344,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Energy Chokepoint Risks"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "loc": "Tokyo, Japan",
+            "deviation": "Debt Overload Concerns"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "loc": "Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "protocol": "Anti-Corruption Measures"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy Reforms and Diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MODERATE FLUCTUATIONS AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES.",
-    "last_updated": "2026-08-15 22:28:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, MULTIPLE HOTSPOTS IDENTIFIED, AND PROTOCOLS ACTIVATED TO MITIGATE RISKS.",
+    "last_updated": "2026-08-15 22:49:31",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 0.91,
-        "T": 0.78,
-        "B": 0.56,
-        "C": 0.42
+        "P": 0.87,
+        "F": 0.92,
+        "T": 1.01,
+        "B": 1.23,
+        "C": 0.85
     }
 }
