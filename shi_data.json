@@ -1,45 +1,45 @@
 {
-    "shi": 1.09914,
-    "health_percent": 73.21,
+    "shi": 0.90637,
+    "health_percent": 73.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:11",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade tariffs and regulatory hurdles"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "High debt"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy production and export limitations"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High inflation and currency fluctuations"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Streamlined business registration and tax compliance"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Sustainable energy sources and green infrastructure"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Innovation hubs and research institutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: ECONOMIC INSTABILITY PREDICTED IN THE NEXT 48 HOURS. REVIEW BOTTLENECK NODES AND HIGH SHI NODES FOR MITIGATION STRATEGIES.",
-    "last_updated": "2026-08-15 14:44:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMIC STABILITY THREATENED BY TRADE TENSIONS AND PANDEMIC AFTERMATH.",
+    "last_updated": "2026-08-15 15:00:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 1.02,
-        "B": 1.1,
-        "C": 0.95
+        "F": 1.21,
+        "T": 0.67,
+        "B": 1.19,
+        "C": 0.92
     }
 }
