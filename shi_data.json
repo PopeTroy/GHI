@@ -1,45 +1,45 @@
 {
-    "shi": 1.03803,
-    "health_percent": 67.35,
+    "shi": 1.08344,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "56:23:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
             "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Energy infrastructure vulnerabilities"
+            "loc": "Riyadh, Saudi Arabia",
+            "deviation": "Energy chokepoint and lack of policy reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and labor shortages"
+            "loc": "Mumbai, India",
+            "deviation": "High energy consumption and corruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative policies and corruption-free environment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green technology and sustainable practices"
+            "protocol": "Sustainable energy and policy reforms"
         },
         {
             "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and skilled workforce"
+            "protocol": "Diversified economy and trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC STABILITY THREATENED BY RISING DEBT AND TRADE TENSIONS. INNOVATIVE CITIES LIKE SINGAPORE AND COPENHAGEN LEAD IN SUSTAINABLE GROWTH AND DEVELOPMENT.",
-    "last_updated": "2026-08-15 23:02:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, ECONOMISTS PREDICT POTENTIAL DOWNTURN IN THE NEXT QUARTER",
+    "last_updated": "2026-08-15 23:28:43",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.85,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.78
+        "C": 0.67
     }
 }
