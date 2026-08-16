@@ -1,39 +1,39 @@
 {
     "shi": 1.05203,
-    "health_percent": 62.15,
-    "location": "NEW YORK CITY, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:11",
+    "health_percent": 73.25,
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:23:14",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Trade Barriers"
+            "deviation": "High Debt Levels"
         },
         {
-            "loc": "Dubai, UAE",
+            "loc": "Moscow, Russia",
             "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High National Debt"
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovative Policy Reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Measures"
+            "protocol": "Policy Reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Solutions"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATION AMIDST RISING TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND STRATEGIC PLANNING.",
-    "last_updated": "2026-08-16 22:47:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INSTABILITY ON THE RISE, GOVERNMENTS SCRAMBLING TO IMPLEMENT POLICY REFORMS AND MITIGATE BOTTLENECKS.",
+    "last_updated": "2026-08-16 23:00:26",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
