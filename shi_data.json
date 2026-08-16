@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 74.21,
-    "location": "NEW YORK CITY, USA",
+    "shi": 1.08344,
+    "health_percent": 73.2,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "43:21:09",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
+            "loc": "London, UK",
+            "deviation": "High debt and trade barriers"
+        },
+        {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Energy chokepoints and corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and aging population"
-        },
-        {
-            "loc": "London, UK",
-            "deviation": "High inflation and Brexit-related uncertainty"
+            "deviation": "Aging population and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Singapore",
             "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and stable financial system"
+            "loc": "Vancouver, Canada",
+            "protocol": "Anti-corruption and trade agreements"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and social stability"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable energy and economic stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, TRADE TENSIONS ON THE RISE, AND CONCERNS OVER ENERGY SECURITY GROWING",
-    "last_updated": "2026-08-16 11:59:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-08-16 12:53:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 1.21,
+        "C": 0.67
     }
 }
