@@ -1,45 +1,45 @@
 {
-    "shi": 0.69134,
+    "shi": 0.87091,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:07:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt to GDP ratio"
+            "deviation": "High Energy Chokepoints"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "Over-reliance on oil exports"
+            "loc": "Tokyo, Japan",
+            "deviation": "Trade Barriers with Neighboring Countries"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Inefficient port operations"
+            "loc": "London, UK",
+            "deviation": "Rising National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined customs procedures"
+            "protocol": "Innovative Financial Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Effective anti-corruption measures"
+            "protocol": "Robust Anti-Corruption Laws"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Investment in renewable energy"
+            "protocol": "Sustainable Energy Policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECREASE BY 2.1% IN Q2, CITING SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS.",
-    "last_updated": "2026-08-16 15:18:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY WARNING ISSUED. MARKETS FLUCTUATING WILDLY. GOVERNMENTS SCRAMBLE TO IMPLEMENT STABILIZING POLICIES.",
+    "last_updated": "2026-08-16 15:40:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 1.05
+        "T": 0.79,
+        "B": 1.23,
+        "C": 0.85
     }
 }
