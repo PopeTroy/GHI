@@ -1,45 +1,45 @@
 {
-    "shi": 1.25195,
+    "shi": 1.07703,
     "health_percent": 74.2,
-    "location": "TOKYO, JAPAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "location": "NEW YORK, USA",
+    "collapse_type": "HYPER-INFLATION",
     "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt"
+            "deviation": "Trade War"
         },
         {
-            "loc": "New York City, USA",
+            "loc": "Dubai, UAE",
             "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade Barriers"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Policy Reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation Hubs"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-Corruption"
+            "protocol": "Renewable Energy"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Stability"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATING, INVESTORS ADVISED TO DIVERSIFY PORTFOLIOS. NEW TRADE AGREEMENTS BEING DISCUSSED AMONG MAJOR ECONOMIES. TECHNOLOGY ADVANCEMENTS IMPROVING EFFICIENCY IN KEY INDUSTRIES.",
-    "last_updated": "2026-08-16 19:45:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCE VOLATILITY DUE TO TRADE TENSIONS, WHILE INNOVATION HUBS IN SINGAPORE AND COPENHAGEN DRIVE GROWTH",
+    "last_updated": "2026-08-16 19:57:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
-        "T": 1.11,
-        "B": 1.28,
-        "C": 0.78
+        "T": 1.01,
+        "B": 1.2,
+        "C": 0.88
     }
 }
