@@ -1,45 +1,45 @@
 {
-    "shi": 4.82838,
-    "health_percent": 73.21,
-    "location": "TOKYO, JAPAN",
+    "shi": 3.21737,
+    "health_percent": 67.25,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:06:22",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
-            "loc": "New York City, USA",
-            "deviation": "High Debt"
+            "loc": "Beijing, China",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Energy Chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints and corruption"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Trade Barriers"
+            "loc": "Tokyo, Japan",
+            "deviation": "Aging population and low innovation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Effective policy reforms and anti-corruption"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "Policy Reforms"
+            "protocol": "High level of innovation and entrepreneurship"
         },
         {
-            "loc": "Wellington, New Zealand",
-            "protocol": "Anti-Corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong financial system and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | TOKYO STOCKS DOWN 5%, SINGAPORE STRUGGLES WITH ENERGY SHORTAGES, LONDON SEES RISE IN PROTESTS AGAINST TRADE POLICIES.",
-    "last_updated": "2026-08-16 04:18:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS UNDER THREAT DUE TO RISING DEBT LEVELS AND TRADE TENSIONS. KEY CITIES LIKE NEW YORK, BEIJING, AND MOSCOW ARE FACING SIGNIFICANT CHALLENGES. HOWEVER, CITIES LIKE SINGAPORE, STOCKHOLM, AND ZURICH ARE SHOWING RESILIENCE AND STABILITY.",
+    "last_updated": "2026-08-16 04:53:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.75,
-        "B": 0.61,
-        "C": 0.28
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.42
     }
 }
