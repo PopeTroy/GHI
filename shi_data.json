@@ -1,45 +1,45 @@
 {
-    "shi": 3.73445,
-    "health_percent": 73.21,
+    "shi": 3.12133,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "96:02:14",
+    "collapse_timer": "42:11:22",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt"
+            "deviation": "High Trade Barriers"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy Chokepoints"
         },
         {
-            "loc": "Kiev, Ukraine",
-            "deviation": "Trade barriers"
+            "loc": "Athens, Greece",
+            "deviation": "Debt Crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-Corruption"
         },
         {
             "loc": "San Francisco, USA",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING BOTTLENECKS, SHI NODES SHOW PROMISE FOR GROWTH",
-    "last_updated": "2026-08-16 17:49:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS RISING. EU IMPLEMENTS NEW POLICIES TO COMBAT CORRUPTION. US SEES A SURGE IN INNOVATION, PARTICULARLY IN RENEWABLE ENERGY.",
+    "last_updated": "2026-08-16 18:00:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.56,
+        "B": 0.67,
         "C": 0.42
     }
 }
