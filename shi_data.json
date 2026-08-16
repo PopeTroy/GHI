@@ -1,45 +1,45 @@
 {
-    "shi": 2.4635,
-    "health_percent": 73.21,
+    "shi": 1.08344,
+    "health_percent": 62.5,
     "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade restrictions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Mumbai, India",
+            "deviation": "Energy shortages"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High debt"
+            "loc": "London, UK",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore",
+            "protocol": "Tax reform"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | SYSTEM ALERT: ECONOMIC STRESS RISING IN KEY TRADE HUBS. MONITOR SITUATION CLOSELY FOR POTENTIAL COLLAPSE.",
-    "last_updated": "2026-08-16 09:54:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL COLLAPSE.",
+    "last_updated": "2026-08-16 10:16:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.83,
-        "F": 1.21,
-        "T": 1.05,
-        "B": 0.67,
-        "C": 0.92
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.21,
+        "C": 0.67
     }
 }
