@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.23,
+    "shi": 1.08344,
+    "health_percent": 74.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:02",
+    "collapse_timer": "56:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier implementation"
+            "deviation": "High debt levels"
         },
         {
             "loc": "Dubai, UAE",
-            "deviation": "Energy supply constraints"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "London, UK",
-            "deviation": "High national debt"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovative fintech reforms"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable energy policies"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified trade agreements"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM CONTINUE TO THRIVE WITH INNOVATIVE POLICIES AND SUSTAINABLE PRACTICES.",
-    "last_updated": "2026-08-16 05:19:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE MINOR FLUCTUATION, EXPERTS PREDICT MILD GROWTH IN Q2, TRADE WARS ESCALATE BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-16 05:48:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "B": 1.21,
+        "C": 0.67
     }
 }
