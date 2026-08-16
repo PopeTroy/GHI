@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.5,
+    "shi": 1.05203,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "48:21:42",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade restrictions"
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Energy shortages"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy chokepoints and supply chain constraints"
         },
         {
             "loc": "London, UK",
-            "deviation": "Debt crisis"
+            "deviation": "High regulatory barriers and economic instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Tax reform"
+            "loc": "Singapore, Singapore",
+            "protocol": "Streamlined policy reforms and innovation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Strong anti-corruption and economic stability measures"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy"
+            "protocol": "Sustainable energy solutions and low debt levels"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW SIGNS OF INSTABILITY, EXPERTS WARN OF POTENTIAL COLLAPSE.",
-    "last_updated": "2026-08-16 10:16:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING HIGH VOLATILITY, TRADE NEGOTIATIONS UNDERWAY BETWEEN MAJOR ECONOMIES.",
+    "last_updated": "2026-08-16 10:43:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
