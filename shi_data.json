@@ -1,45 +1,45 @@
 {
-    "shi": 3.21737,
-    "health_percent": 67.32,
+    "shi": 3.17715,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:14",
+    "collapse_timer": "43:21:49",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barriers"
+            "deviation": "Trade War"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Energy Price Volatility"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "London, UK",
-            "protocol": "Policy reforms"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Tax Reform"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable Energy"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial Deregulation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS",
-    "last_updated": "2026-08-16 15:56:54",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, PROMPTING CALLS FOR ECONOMIC REFORM",
+    "last_updated": "2026-08-16 16:25:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.42
+        "F": 1.21,
+        "T": 0.91,
+        "B": 0.42,
+        "C": 1.01
     }
 }
