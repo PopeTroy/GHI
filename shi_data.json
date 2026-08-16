@@ -1,45 +1,45 @@
 {
-    "shi": 5.65002,
-    "health_percent": 68.21,
+    "shi": 1.44478,
+    "health_percent": 67.32,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt levels"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "deviation": "Energy chokepoints"
+            "deviation": "High Debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers"
+            "deviation": "Energy Chokepoint"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "Trade Barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Anti-corruption policies"
+            "protocol": "Innovation Hub"
         },
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY UNDER THREAT AS TRADE TENSIONS RISE AND DEBT LEVELS INCREASE.",
-    "last_updated": "2026-08-15 23:59:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INSTABILITY ON THE RISE, TRADE WARS ESCALATE, AND ENERGY DEMAND SURGES.",
+    "last_updated": "2026-08-16 01:50:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.72,
-        "F": 0.85,
-        "T": 0.92,
-        "B": 0.35,
-        "C": 0.41
+        "P": 0.85,
+        "F": 1.23,
+        "T": 0.98,
+        "B": 1.11,
+        "C": 0.92
     }
 }
