@@ -1,45 +1,45 @@
 {
-    "shi": 1.08344,
-    "health_percent": 62.13,
+    "shi": 1.05203,
+    "health_percent": 62.15,
     "location": "NEW YORK CITY, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "High Trade Barriers"
         },
         {
-            "loc": "Moscow, Russia",
+            "loc": "Dubai, UAE",
             "deviation": "Energy Chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Debt Crisis"
+            "deviation": "High National Debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Innovation Hub"
+            "protocol": "Innovative Policy Reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-Corruption Policy"
+            "protocol": "Robust Anti-Corruption Measures"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Reform"
+            "protocol": "Sustainable Energy Solutions"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE TURBULENCE AS TRADE TENSIONS ESCALATE. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS. CITIES WITH HIGH SHI SCORES ARE PRIORITIZING POLICY REFORMS AND INNOVATION TO MITIGATE RISKS.",
-    "last_updated": "2026-08-16 22:27:31",
+    "scroller_feed": "CRITICAL: NEW YORK CITY, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE FLUCTUATION AMIDST RISING TRADE TENSIONS, WHILE CITIES LIKE SINGAPORE AND ZURICH DEMONSTRATE RESILIENCE THROUGH INNOVATIVE PROTOCOLS AND STRATEGIC PLANNING.",
+    "last_updated": "2026-08-16 22:47:35",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
         "B": 1.21,
-        "C": 0.67
+        "C": 0.69
     }
 }
