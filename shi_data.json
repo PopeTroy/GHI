@@ -1,45 +1,45 @@
 {
-    "shi": 0.85168,
+    "shi": 0.71872,
     "health_percent": 67.32,
     "location": "NEW YORK, USA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "43:21:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:21:10",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "trade barriers"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "high debt"
+            "deviation": "high trade barriers"
         },
         {
             "loc": "Dubai, UAE",
             "deviation": "energy chokepoints"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "deviation": "high debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "innovation"
+            "loc": "Singapore",
+            "protocol": "anti-corruption policies"
+        },
+        {
+            "loc": "San Francisco, USA",
+            "protocol": "innovation hubs"
         },
         {
             "loc": "Zurich, Switzerland",
             "protocol": "policy reforms"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS, GEOPOLITICAL TENSIONS ON THE RISE",
-    "last_updated": "2026-08-16 21:28:18",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWDOWN PREDICTED, POTENTIAL IMPACT ON SUPPLY CHAINS. ECONOMIC STABILITY THREATENED BY RISING DEBT AND ENERGY SHORTAGES.",
+    "last_updated": "2026-08-16 21:46:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.85,
         "F": 0.92,
-        "T": 0.76,
+        "T": 0.78,
         "B": 1.21,
-        "C": 0.85
+        "C": 1.01
     }
 }
