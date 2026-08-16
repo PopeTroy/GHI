@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
+    "shi": 0.69134,
     "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "47:26:14",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "High debt to GDP ratio"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Energy chokepoints and aging population"
+            "loc": "Dubai, UAE",
+            "deviation": "Over-reliance on oil exports"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Brexit uncertainties and trade disruptions"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Inefficient port operations"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined policy reforms and innovation hubs"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and anti-corruption measures"
+            "protocol": "Streamlined customs procedures"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulations and stable governance"
+            "protocol": "Effective anti-corruption measures"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Investment in renewable energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING VOLATILITY, ECONOMISTS WARN OF POTENTIAL ECONOMIC DOWNTURN, TRADE TENSIONS ESCALATE BETWEEN MAJOR NATIONS",
-    "last_updated": "2026-08-16 14:55:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE VOLUMES DECREASE BY 2.1% IN Q2, CITING SUPPLY CHAIN DISRUPTIONS AND TRADE TENSIONS.",
+    "last_updated": "2026-08-16 15:18:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 1.21,
+        "C": 1.05
     }
 }
