@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 62.13,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.36241,
+    "health_percent": 62.15,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:27:12",
+    "collapse_timer": "47:21:12",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Debt and Trade Barriers"
+            "deviation": "Trade Barrier"
         },
         {
-            "loc": "New York City, USA",
-            "deviation": "Energy Chokepoints and Inefficient Infrastructure"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Chokepoint"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Overregulation and Inefficient Policy Frameworks"
+            "loc": "Athens, Greece",
+            "deviation": "High Debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation Hubs and Efficient Regulations"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy Reform"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Financial Systems and Low Corruption"
+            "protocol": "Anti-Corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable Energy Solutions and Strong Governance"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY AT RISK DUE TO RISING TRADE TENSIONS AND INCREASING DEBT. INNOVATIVE SOLUTIONS AND POLICY REFORMS NEEDED TO MITIGATE COLLAPSE.",
-    "last_updated": "2026-08-16 23:28:10",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY INDEX: 67.43, MARKET VOLATILITY: HIGH, TRADE VOLUMES: 12.5% BELOW AVERAGE",
+    "last_updated": "2026-08-16 23:46:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.75,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "T": 0.85,
+        "B": 0.65,
+        "C": 0.55
     }
 }
