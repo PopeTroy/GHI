@@ -1,45 +1,45 @@
 {
-    "shi": 0.71872,
-    "health_percent": 67.32,
+    "shi": 1.2041,
+    "health_percent": 78.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "high trade barriers"
+            "deviation": "High debt levels"
         },
         {
-            "loc": "Dubai, UAE",
-            "deviation": "energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "high debt levels"
+            "loc": "Kolkata, India",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "anti-corruption policies"
-        },
-        {
-            "loc": "San Francisco, USA",
-            "protocol": "innovation hubs"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "policy reforms"
+            "protocol": "Anti-corruption measures"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE SLOWDOWN PREDICTED, POTENTIAL IMPACT ON SUPPLY CHAINS. ECONOMIC STABILITY THREATENED BY RISING DEBT AND ENERGY SHORTAGES.",
-    "last_updated": "2026-08-16 21:46:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC GROWTH SLOWS IN Q2, TRADE TENSIONS RISE BETWEEN MAJOR NATIONS, AND ENERGY DEMAND INCREASES IN EMERGING MARKETS.",
+    "last_updated": "2026-08-16 21:58:54",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.21,
-        "C": 1.01
+        "T": 1.11,
+        "B": 1.25,
+        "C": 0.85
     }
 }
