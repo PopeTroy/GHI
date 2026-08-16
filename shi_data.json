@@ -1,39 +1,39 @@
 {
     "shi": 3.21737,
-    "health_percent": 67.25,
+    "health_percent": 67.23,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:21:02",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Trade barrier implementation"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoints and corruption"
+            "loc": "Dubai, UAE",
+            "deviation": "Energy supply constraints"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Aging population and low innovation"
+            "loc": "London, UK",
+            "deviation": "High national debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Effective policy reforms and anti-corruption"
+            "loc": "Singapore",
+            "protocol": "Innovative fintech reforms"
         },
         {
             "loc": "Stockholm, Sweden",
-            "protocol": "High level of innovation and entrepreneurship"
+            "protocol": "Sustainable energy policies"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial system and low debt"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified trade agreements"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY IS UNDER THREAT DUE TO RISING DEBT LEVELS AND TRADE TENSIONS. KEY CITIES LIKE NEW YORK, BEIJING, AND MOSCOW ARE FACING SIGNIFICANT CHALLENGES. HOWEVER, CITIES LIKE SINGAPORE, STOCKHOLM, AND ZURICH ARE SHOWING RESILIENCE AND STABILITY.",
-    "last_updated": "2026-08-16 04:53:34",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS FLUCTUATE AS TRADE TENSIONS RISE, WHILE CITIES LIKE SINGAPORE AND STOCKHOLM CONTINUE TO THRIVE WITH INNOVATIVE POLICIES AND SUSTAINABLE PRACTICES.",
+    "last_updated": "2026-08-16 05:19:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
