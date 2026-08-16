@@ -1,45 +1,45 @@
 {
-    "shi": 0.77048,
-    "health_percent": 73.42,
-    "location": "NEW YORK, USA",
+    "shi": 1.07928,
+    "health_percent": 74.23,
+    "location": "TOKYO, JAPAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:15",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High energy consumption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "deviation": "Trade barriers and aging population"
+            "loc": "New York City, USA",
+            "deviation": "Trade barrier implications"
         },
         {
-            "loc": "London, UK",
-            "deviation": "Post-Brexit economic uncertainty"
+            "loc": "Mumbai, India",
+            "deviation": "Debt to GDP ratio concerns"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Innovation and policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative trade agreements"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strict anti-corruption laws"
         },
         {
             "loc": "Stockholm, Sweden",
             "protocol": "Sustainable energy solutions"
-        },
-        {
-            "loc": "Vancouver, Canada",
-            "protocol": "Diversified economy and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND GEOPOLITICAL INSTABILITY. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS, WITH NEW YORK BEING THE PRIMARY HIGH-IMPACT LOCATION.",
-    "last_updated": "2026-08-16 13:24:13",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCING FLUCTUATIONS DUE TO RECENT TRADE POLICY CHANGES. ENERGY DEMAND ON THE RISE IN EMERGING ECONOMIES.",
+    "last_updated": "2026-08-16 13:50:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
+        "P": 0.82,
+        "F": 0.95,
         "T": 0.78,
-        "B": 1.2,
-        "C": 0.95
+        "B": 1.21,
+        "C": 0.67
     }
 }
