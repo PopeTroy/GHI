@@ -1,21 +1,21 @@
 {
-    "shi": 1.08344,
-    "health_percent": 73.2,
+    "shi": 0.77048,
+    "health_percent": 73.42,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:10",
+    "collapse_timer": "48:02:15",
     "bottlenecks": [
         {
-            "loc": "London, UK",
-            "deviation": "High debt and trade barriers"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Energy chokepoints and corruption"
+            "deviation": "High debt and energy chokepoints"
         },
         {
             "loc": "Tokyo, Japan",
-            "deviation": "Aging population and high debt"
+            "deviation": "Trade barriers and aging population"
+        },
+        {
+            "loc": "London, UK",
+            "deviation": "Post-Brexit economic uncertainty"
         }
     ],
     "high_shi": [
@@ -24,22 +24,22 @@
             "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Anti-corruption and trade agreements"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable energy solutions"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy and economic stability"
+            "loc": "Vancouver, Canada",
+            "protocol": "Diversified economy and anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS EXPERIENCE VOLATILITY AS TRADE TENSIONS ESCALATE. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-08-16 12:53:35",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS ARE EXPERIENCING FLUCTUATIONS DUE TO TRADE TENSIONS AND GEOPOLITICAL INSTABILITY. ECONOMISTS PREDICT A POTENTIAL SUPPLY CHAIN BREAK IN THE NEXT 48 HOURS, WITH NEW YORK BEING THE PRIMARY HIGH-IMPACT LOCATION.",
+    "last_updated": "2026-08-16 13:24:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.21,
-        "C": 0.67
+        "B": 1.2,
+        "C": 0.95
     }
 }
