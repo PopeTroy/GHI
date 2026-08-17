@@ -31,18 +31,19 @@ def compute_divine_tactics(health_val):
 
 def fetch_model_completion(prompt):
     """
-    Executes inference using Groq active production models first.
+    Executes inference using current active Groq production models.
     Fails over seamlessly across NVIDIA API models if Groq fails or is unavailable.
     """
     groq_key = os.getenv('GROQ_API_KEY')
     nvidia_key = os.getenv('NVIDIA_API_KEY')
 
-    # Primary Route: Groq Active Models
+    # Primary Route: Active Groq Production Models
     if groq_key:
         groq_models = [
-            "llama-3.3-70b-versatile",
-            "llama-3.1-8b-instant",
-            "mixtral-8x7b-32768"
+            "openai/gpt-oss-120b",
+            "llama-3.3-70b-specdec",
+            "llama-3.1-70b-versatile",
+            "qwen-2.5-coder-32b"
         ]
         client = Groq(api_key=groq_key)
         for g_model in groq_models:
