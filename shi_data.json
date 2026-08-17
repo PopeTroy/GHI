@@ -1,52 +1,52 @@
 {
-    "shi": 1.50745,
-    "health_percent": 150.66,
-    "location": "LAGOS, NIGERIA",
+    "shi": 0.78459,
+    "health_percent": 78.46,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe trade barriers and customs delays"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe energy chokepoint causing rolling blackouts"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Unsustainable sovereign debt levels"
+            "loc": "Santiago, Chile",
+            "deviation": "Trade barriers due to recent export tariffs on copper"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Critical energy supply chokepoints"
+            "loc": "Athens, Greece",
+            "deviation": "High sovereign debt raising fiscal instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Rapid innovation incentives"
+            "protocol": "Advanced digital trade platform and anti-corruption AI"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Comprehensive policy reform package"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust fiscal buffers and green energy investment"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation hub with aggressive R&D tax incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1 GLOBAL MARKETS JITTER AS GRID STABILITY RISKS RISE; LAGOS EMERGES AS PIVOTAL GROWTH HUB AMID TIGHTENING TRADE BOTTLENECKS.",
-    "last_updated": "2026-08-17 20:19:19",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION, ENERGY STRAIN, AND DEBT PRESSURES PUSH KARACHI TOWARD A GRID COLLAPSE WITHIN 48 HOURS; TARGETED REFORMS IN SINGAPORE, ZURICH, AND TOKYO OFFER BLUE\u2011PRINTS FOR STABILITY.",
+    "last_updated": "2026-08-17 20:48:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.9,
-        "T": 0.78,
-        "B": 0.6,
-        "C": 0.95
+        "P": 0.9,
+        "F": 0.6,
+        "T": 0.505,
+        "B": 0.55,
+        "C": 0.91
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -0.5066,
+        "kama_compression_ratio": 0.2154,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
