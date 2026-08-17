@@ -1,45 +1,45 @@
 {
-    "shi": 2.22196,
-    "health_percent": 73.21,
+    "shi": 1.64792,
+    "health_percent": 74.2,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:02:17",
+    "collapse_timer": "48:21:42",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "High Tariffs"
+            "deviation": "Trade war with the US"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy Export Disruptions"
+            "loc": "Vancouver, Canada",
+            "deviation": "Port congestion"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "loc": "Mumbai, India",
+            "deviation": "Debt crisis"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore",
-            "protocol": "Streamlined Trade Policies"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovative Renewable Energy Solutions"
+            "protocol": "Free trade agreements"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust Anti-Corruption Measures"
+            "protocol": "Fintech innovation"
+        },
+        {
+            "loc": "Sydney, Australia",
+            "protocol": "Renewable energy investments"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND INCREASED RISK OF HYPERINFLATION IN VULNERABLE NATIONS.",
-    "last_updated": "2026-08-17 02:45:46",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SKYROCKET",
+    "last_updated": "2026-08-17 03:34:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.67,
-        "C": 0.59
+        "B": 0.65,
+        "C": 0.82
     }
 }
