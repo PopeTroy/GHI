@@ -31,32 +31,38 @@ def compute_divine_tactics(health_val):
 
 def fetch_model_completion(prompt):
     """
-    Executes inference using Groq specdec first.
+    Executes inference using Groq active production models first.
     Fails over seamlessly across NVIDIA API models if Groq fails or is unavailable.
     """
     groq_key = os.getenv('GROQ_API_KEY')
     nvidia_key = os.getenv('NVIDIA_API_KEY')
 
-    # Primary Route: Groq SpecDec
+    # Primary Route: Groq Active Models
     if groq_key:
-        try:
-            print("[INFO] Initiating primary audit scan via Groq (llama-3.3-70b-specdec)...")
-            client = Groq(api_key=groq_key)
-            completion = client.chat.completions.create(
-                model="llama-3.3-70b-specdec",
-                messages=[{"role": "user", "content": prompt}],
-                response_format={"type": "json_object"}
-            )
-            return completion.choices[0].message.content, "GROQ_SPECDEC"
-        except Exception as e:
-            print(f"[WARNING] Primary Groq engine failed: {e}. Executing failover sequence...")
+        groq_models = [
+            "llama-3.3-70b-versatile",
+            "llama-3.1-8b-instant",
+            "mixtral-8x7b-32768"
+        ]
+        client = Groq(api_key=groq_key)
+        for g_model in groq_models:
+            try:
+                print(f"[INFO] Initiating audit scan via Groq ({g_model})...")
+                completion = client.chat.completions.create(
+                    model=g_model,
+                    messages=[{"role": "user", "content": prompt}],
+                    response_format={"type": "json_object"}
+                )
+                return completion.choices[0].message.content, f"GROQ_{g_model.upper()}"
+            except Exception as e:
+                print(f"[WARNING] Groq model {g_model} failed: {e}. Trying next available model...")
 
     # Secondary Route: NVIDIA API Multi-Model Cascade
     if nvidia_key:
         nvidia_models = [
             "meta/llama-3.3-70b-instruct",
-            "deepseek-ai/deepseek-r1",
-            "nvidia/llama-3.1-nemotron-70b-instruct"
+            "nvidia/llama-3.1-nemotron-70b-instruct",
+            "deepseek-ai/deepseek-r1"
         ]
         nv_client = openai.OpenAI(
             base_url="https://integrate.api.nvidia.com/v1",
@@ -67,11 +73,9 @@ def fetch_model_completion(prompt):
                 print(f"[INFO] Invoking Failover: Engaging NVIDIA API ({model_name})...")
                 completion = nv_client.chat.completions.create(
                     model=model_name,
-                    messages=[{"role": "user", "content": prompt + "\nRespond strictly in raw JSON."}],
-                    response_format={"type": "json_object"} if "deepseek" not in model_name else None
+                    messages=[{"role": "user", "content": prompt + "\nRespond strictly in raw JSON."}]
                 )
                 raw_text = completion.choices[0].message.content
-                # Strip markdown code blocks if present
                 if "```json" in raw_text:
                     raw_text = raw_text.split("```json")[1].split("```")[0].strip()
                 elif "```" in raw_text:
@@ -80,7 +84,7 @@ def fetch_model_completion(prompt):
             except Exception as e:
                 print(f"[WARNING] NVIDIA model {model_name} failed: {e}. Trying next failover model...")
 
-    raise RuntimeError("CRITICAL FAILURE: All Groq and NVIDIA API inference engines failed.")
+    raise RuntimeError("CRITICAL FAILURE: All Groq and NVIDIA API inference engines failed. Check API keys and secrets.")
 
 def run_ghi_metric_engine():
     prompt = """
