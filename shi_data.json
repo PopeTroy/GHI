@@ -1,45 +1,45 @@
 {
-    "shi": 0.84052,
-    "health_percent": 72.15,
+    "shi": 2.22196,
+    "health_percent": 73.21,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:17",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "High Tariffs"
         },
         {
-            "loc": "Houston, USA",
-            "deviation": "Energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy Export Disruptions"
         },
         {
-            "loc": "Chicago, USA",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation"
+            "loc": "Singapore",
+            "protocol": "Streamlined Trade Policies"
         },
         {
-            "loc": "Boston, USA",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovative Renewable Energy Solutions"
         },
         {
-            "loc": "Seattle, USA",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust Anti-Corruption Measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC INSTABILITY WARNING ISSUED FOR MAJOR US CITIES, SUPPLY CHAIN DISRUPTIONS EXPECTED IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-08-17 01:40:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW SIGNS OF INSTABILITY AS TRADE TENSIONS RISE BETWEEN MAJOR ECONOMIES. ECONOMISTS WARN OF POTENTIAL SUPPLY CHAIN DISRUPTIONS AND INCREASED RISK OF HYPERINFLATION IN VULNERABLE NATIONS.",
+    "last_updated": "2026-08-17 02:45:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 1.1,
-        "C": 0.95
+        "B": 0.67,
+        "C": 0.59
     }
 }
