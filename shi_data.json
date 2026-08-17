@@ -1,52 +1,52 @@
 {
-    "shi": 1.03946,
-    "health_percent": 103.95,
-    "location": "LAGOS, NIGERIA",
+    "shi": 2.38356,
+    "health_percent": 73.4,
+    "location": "MUMBAI, INDIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "High energy import dependency"
+            "loc": "Lagos, Nigeria",
+            "deviation": "energy chokepoint"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "Trade barriers on agricultural exports"
+            "deviation": "trade barriers"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Elevated sovereign debt"
+            "deviation": "high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Advanced fintech regulation"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub policies"
+            "protocol": "innovation hub"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "anti-corruption reforms"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION AND STRAINED POWER GRIDS IN LAGOS THREATEN STABILITY; NEIGHBORING HUBS SHOW RESILIENT PROTOCOLS BOOSTING REGIONAL GROWTH.",
-    "last_updated": "2026-08-17 22:57:16",
+    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WOBBLE AS ENERGY SHORTAGES SPARK PRICE SPIKES, WHILE TECH HUBS SURGE.",
+    "last_updated": "2026-08-17 23:27:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.78,
         "F": 0.92,
-        "T": 0.78,
-        "B": 1.3,
-        "C": 0.65
+        "T": 0.85,
+        "B": 0.55,
+        "C": 0.67
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -0.0395,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
