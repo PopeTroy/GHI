@@ -1,45 +1,45 @@
 {
-    "shi": 1.64792,
-    "health_percent": 74.2,
+    "shi": 6.43474,
+    "health_percent": 62.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:21:42",
+    "collapse_timer": "48:02:11",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade war with the US"
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Vancouver, Canada",
-            "deviation": "Port congestion"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "Debt crisis"
+            "loc": "Athens, Greece",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore",
-            "protocol": "Free trade agreements"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fintech innovation"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Renewable energy investments"
+            "loc": "San Francisco, USA",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL TRADE TENSIONS ESCALATE, OIL PRICES SKYROCKET",
-    "last_updated": "2026-08-17 03:34:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC ALERT: TRADE TENSIONS ESCALATE BETWEEN MAJOR ECONOMIES, WHILE ENERGY PRICES FLUCTUATE DUE TO GEOPOLITICAL UNCERTAINTY.",
+    "last_updated": "2026-08-17 04:22:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.92,
         "T": 0.78,
-        "B": 0.65,
-        "C": 0.82
+        "B": 0.21,
+        "C": 0.65
     }
 }
