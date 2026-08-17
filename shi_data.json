@@ -1,52 +1,52 @@
 {
-    "shi": 0.78459,
-    "health_percent": 78.46,
-    "location": "KARACHI, PAKISTAN",
+    "shi": 0.79282,
+    "health_percent": 79.28,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy chokepoint causing rolling blackouts"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy supply chokepoint"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barriers due to recent export tariffs on copper"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt raising fiscal instability"
+            "loc": "Moscow, Russia",
+            "deviation": "International trade sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital trade platform and anti-corruption AI"
+            "loc": "San Francisco, USA",
+            "protocol": "Tech innovation incentives"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust fiscal buffers and green energy investment"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable energy policies"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation hub with aggressive R&D tax incentives"
+            "loc": "Seoul, South Korea",
+            "protocol": "AI research funding"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION, ENERGY STRAIN, AND DEBT PRESSURES PUSH KARACHI TOWARD A GRID COLLAPSE WITHIN 48 HOURS; TARGETED REFORMS IN SINGAPORE, ZURICH, AND TOKYO OFFER BLUE\u2011PRINTS FOR STABILITY.",
-    "last_updated": "2026-08-17 20:48:47",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WOBBLE AS ENERGY CONSTRAINTS TIGHTEN, DEBT CRISES LOOM, AND TECH HUBS DRIVE GROWTH.",
+    "last_updated": "2026-08-17 21:12:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.9,
-        "F": 0.6,
-        "T": 0.505,
-        "B": 0.55,
-        "C": 0.91
+        "F": 0.85,
+        "T": 0.95,
+        "B": 1.2,
+        "C": 1.1
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2154,
+        "kama_compression_ratio": 0.2072,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
