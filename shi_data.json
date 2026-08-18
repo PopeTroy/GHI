@@ -1,52 +1,52 @@
 {
-    "shi": 3.25312,
-    "health_percent": 325.23,
+    "shi": 2.68529,
+    "health_percent": 268.4,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
-        {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers"
-        },
         {
             "loc": "Moscow, Russia",
             "deviation": "Energy chokepoint"
         },
         {
             "loc": "Sao Paulo, Brazil",
-            "deviation": "High debt"
+            "deviation": "High debt load"
+        },
+        {
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Financial transparency"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Innovation hubs"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Munich, Germany",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | RAPID URBAN GROWTH IN LAGOS OUTPACES INFRASTRUCTURE, WHILE BOTTLENECKS IN KARACHI, MOSCOW, AND SAO PAULO THREATEN REGIONAL STABILITY. EMERGING PROTOCOLS IN SINGAPORE, ZURICH, AND AUSTIN SHOWCASE RESILIENT PATHWAYS.",
-    "last_updated": "2026-08-18 13:51:06",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SWAY AS ENERGY CONSTRAINTS TIGHTEN, PROMPTING SWIFT REFORMS IN EUROPE.",
+    "last_updated": "2026-08-18 14:21:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.45,
-        "C": 0.6
+        "P": 0.87,
+        "F": 1.12,
+        "T": 0.95,
+        "B": 0.68,
+        "C": 0.73
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -2.2523,
+        "kama_compression_ratio": -1.684,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
