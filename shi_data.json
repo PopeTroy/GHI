@@ -1,52 +1,52 @@
 {
-    "shi": 1.0692,
-    "health_percent": 106.92,
-    "location": "CARACAS, VENEZUELA",
-    "collapse_type": "HYPER-INFLATION",
+    "shi": 1.93042,
+    "health_percent": 84.3,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Runaway inflation eroding purchasing power"
+            "loc": "Moscow, Russia",
+            "deviation": "energy chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid constraints limiting industrial output"
+            "loc": "Beijing, China",
+            "deviation": "trade barriers"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt burden restricting fiscal flexibility"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Dubai, United Arab Emirates",
-            "protocol": "Economic diversification & free\u2011zone incentives"
+            "loc": "Munich, Germany",
+            "protocol": "innovation incentives"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation\u2011centric policy & tech hub development"
+            "loc": "Toronto, Canada",
+            "protocol": "anti-corruption reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti\u2011corruption framework & stable banking sector"
+            "loc": "Sydney, Australia",
+            "protocol": "policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: CARACAS, VENEZUELA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS JITTER AS VENEZUELA\u2019S HYPER\u2011INFLATION SPIKES 150% YOY; UAE\u2019S DIVERSIFICATION DRIVES 3% GDP RISE; SINGAPORE\u2019S AI HUB ATTRACTS $5B INVESTMENT.",
-    "last_updated": "2026-08-18 18:14:17",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL MARKETS WOBBLE AS ENERGY BOTTLENECKS INTENSIFY; POLICY REFORMS IN EUROPE BOOST STABILITY; WATCH FOR UNREST IN WEST AFRICA.",
+    "last_updated": "2026-08-18 19:00:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 2.0,
-        "C": 0.8
+        "P": 0.78,
+        "F": 0.85,
+        "T": 0.92,
+        "B": 0.65,
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -0.0692,
+        "kama_compression_ratio": 0.157,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
