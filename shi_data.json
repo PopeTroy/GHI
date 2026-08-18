@@ -1,52 +1,52 @@
 {
-    "shi": 2.94171,
-    "health_percent": 68.3,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 2.58336,
+    "health_percent": 258.14,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "energy chokepoint"
-        },
-        {
-            "loc": "Beijing, China",
-            "deviation": "trade barrier"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint due to aging power grid"
         },
         {
             "loc": "Buenos Aires, Argentina",
-            "deviation": "high debt"
+            "deviation": "High sovereign debt limiting fiscal flexibility"
+        },
+        {
+            "loc": "Istanbul, Turkey",
+            "deviation": "Trade barriers from regional sanctions"
         }
     ],
     "high_shi": [
         {
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration and anti-corruption reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Robust policy reforms supporting tech innovation"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "innovation hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption"
-        },
-        {
-            "loc": "Seattle, USA",
-            "protocol": "policy reforms"
+            "protocol": "Comprehensive trade facilitation and financial stability measures"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | \u26a0\ufe0f GLOBAL RISK DASHBOARD: SUPPLY CHAIN DISRUPTIONS RISE 12% YOY; DEBT SPIKES IN LATAM; ENERGY CHOKEPOINTS TIGHTEN IN EASTERN EUROPE.",
-    "last_updated": "2026-08-18 15:39:16",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS STABILIZE AS EU GREEN POLICIES BOOST INVESTMENTS; ASIAN MANUFACTURING REBOUNDS AMID NEW TRADE ACCORDS.",
+    "last_updated": "2026-08-18 16:02:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 0.62,
-        "T": 0.55,
-        "B": 0.31,
-        "C": 0.42
+        "F": 0.92,
+        "T": 1.1,
+        "B": 0.55,
+        "C": 0.8
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.317,
+        "kama_compression_ratio": -1.5814,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
