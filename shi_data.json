@@ -1,52 +1,52 @@
 {
-    "shi": 1.85109,
-    "health_percent": 68.4,
+    "shi": 1.93042,
+    "health_percent": 93.1,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy supply chokepoint due to aging grid."
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from export tariffs on copper."
-        },
-        {
             "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt pressure limiting fiscal flexibility."
+            "deviation": "Energy chokepoint"
+        },
+        {
+            "loc": "Johannesburg, South Africa",
+            "deviation": "Trade barriers"
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration policy."
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption digital governance platform."
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation incentives for clean tech startups."
+            "loc": "Munich, Germany",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | ENERGY PRICES SURGE 12% | NEW TRADE PACT REDUCES TARIFFS IN EU | ANTI-CORRUPTION REFORMS BOOST INVESTOR CONFIDENCE",
-    "last_updated": "2026-08-18 10:04:29",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION STRAINS LAGOS GRID; NEARBY MOSCOW FACES ENERGY CHOKEPOINT; ZURICH LEADS WITH REFORMS.",
+    "last_updated": "2026-08-18 10:42:21",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.85,
+        "P": 0.85,
+        "F": 0.78,
         "T": 0.92,
         "B": 0.65,
-        "C": 0.73
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "kama_compression_ratio": 0.069,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
