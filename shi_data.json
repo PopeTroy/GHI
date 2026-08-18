@@ -1,52 +1,52 @@
 {
-    "shi": 2.0064,
-    "health_percent": 200.64,
-    "location": "MUMBAI, INDIA",
+    "shi": 3.25312,
+    "health_percent": 78.3,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy chokepoint due to aging grid"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy shortages due to aging grid"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from recent export tariffs"
+            "deviation": "Trade barriers from recent import tariffs"
         },
         {
-            "loc": "Bucharest, Romania",
-            "deviation": "High sovereign debt affecting fiscal stability"
+            "loc": "Johannesburg, South Africa",
+            "deviation": "High sovereign debt limiting fiscal stimulus"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital trade platform"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Zero\u2011tolerance anti\u2011corruption framework"
+            "loc": "Amsterdam, Netherlands",
+            "protocol": "Advanced digital tax reforms"
         },
         {
             "loc": "Seoul, South Korea",
-            "protocol": "AI\u2011driven innovation incentives"
+            "protocol": "Aggressive R&D incentives for AI"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Robust anti\u2011corruption oversight body"
         }
     ],
-    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR GRID COLLAPSE | \u26a1\ufe0f MUMBAI SEES 12% SURGE IN RENEWABLE INVESTMENT; GRID STRAIN IN LAGOS PROMPTS EMERGENCY IMPORTS; CHILE LIFTS TARIFFS, BOOSTING PORT ACTIVITY; ZURICH'S CLEAN\u2011ENERGY BONDS HIT RECORD DEMAND.",
-    "last_updated": "2026-08-18 20:44:52",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID GRID STRAIN IN LAGOS TRIGGERS A 48\u2011HOUR WARNING; BOTTLENECKS IN KARACHI, SANTIAGO, JOHANNESBURG UNDERMINE REGIONAL STABILITY WHILE AMSTERDAM, SEOUL, TORONTO SHOWCASE RESILIENT GROWTH PROTOCOLS.",
+    "last_updated": "2026-08-18 21:03:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.1,
-        "F": 0.95,
-        "T": 1.02,
-        "B": 0.85,
-        "C": 0.9
+        "P": 0.78,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 0.45,
+        "C": 0.6
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -1.0064,
+        "kama_compression_ratio": 0.217,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
