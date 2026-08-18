@@ -1,52 +1,52 @@
 {
-    "shi": 6.38743,
-    "health_percent": 78.5,
+    "shi": 0.57024,
+    "health_percent": 57.0,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "energy chokepoint"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "trade barrier"
+            "deviation": "Energy chokepoint due to coal supply constraints"
         },
         {
             "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "high debt"
+            "deviation": "Trade barriers from tariff hikes"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "High sovereign debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Toronto, Canada",
-            "protocol": "innovation incentives"
+            "loc": "Austin, USA",
+            "protocol": "Innovation hub policy reforms"
         },
         {
             "loc": "Berlin, Germany",
-            "protocol": "anti-corruption reforms"
+            "protocol": "Anti-corruption digital governance"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Strategic trade liberalization"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX RISES 3% AMID NEW TRADE ACCORDS; ENERGY FLOW RESTORED IN EUROPE; DEBT RESTRUCTURING UNDERWAY IN SOUTH AMERICA.",
-    "last_updated": "2026-08-18 07:47:57",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS GRID INSTABILITY LOOMS; POLICY REFORMS SPARK HOPE IN TECH CORRIDORS.",
+    "last_updated": "2026-08-18 08:18:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.3,
-        "F": 1.8,
-        "T": 0.9,
-        "B": 1.2,
-        "C": 0.7
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.43,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
