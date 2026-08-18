@@ -1,52 +1,52 @@
 {
-    "shi": 3.25312,
-    "health_percent": 92.3,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 1.53556,
+    "health_percent": 78.4,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "energy chokepoint - frequent blackouts"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "high debt burden - fiscal deficits"
+            "deviation": "energy chokepoint due to aging grid"
         },
         {
             "loc": "Buenos Aires, Argentina",
-            "deviation": "trade barriers - import tariffs"
+            "deviation": "high sovereign debt pressure"
+        },
+        {
+            "loc": "Johannesburg, South Africa",
+            "deviation": "trade barriers from regional tariffs"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "advanced fintech innovation"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "innovation hub - fintech incentives"
+            "protocol": "robust anti-corruption framework"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "policy reforms - regulatory sandboxes"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "anti-corruption - transparency act"
+            "loc": "Toronto, Canada",
+            "protocol": "policy reforms boosting green energy"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS RENEWABLE INVESTMENTS SURGE; IMF WARNS OF RISING DEBT IN EMERGING ECONOMIES; TECH BREAKTHROUGHS PROMISE NEW GROWTH.",
-    "last_updated": "2026-08-18 21:54:57",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS EMERGING ECONOMIES ADOPT NEW GROWTH PROTOCOLS.",
+    "last_updated": "2026-08-18 22:21:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.45,
-        "C": 0.6
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.65,
+        "C": 0.88
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.077,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
