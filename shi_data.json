@@ -1,52 +1,52 @@
 {
-    "shi": 2.13424,
-    "health_percent": 71.2,
-    "location": "LAGOS, NIGERIA",
+    "shi": 1.5356,
+    "health_percent": 68.3,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:23:10",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Cape Town, South Africa",
-            "deviation": "energy transmission bottleneck due to aging grid"
+            "loc": "Lagos, Nigeria",
+            "deviation": "energy chokepoint"
         },
         {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "high sovereign debt limiting fiscal stimulus"
+            "loc": "Santiago, Chile",
+            "deviation": "trade barrier"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "trade sanctions restricting import of critical components"
+            "deviation": "high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Berlin, Germany",
-            "protocol": "aggressive renewable energy investment"
+            "loc": "Zurich, Switzerland",
+            "protocol": "anti-corruption reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "digital trade facilitation platform"
+            "loc": "Shenzhen, China",
+            "protocol": "innovation incentives"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "comprehensive anti-corruption reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION IN LAGOS STRAINS POWER GRID; BERLIN'S GREEN BOND ISSUANCE HITS RECORD; SINGAPORE'S AI CUSTOMS SYSTEM CUTS CLEARANCE TIME BY 30%.",
-    "last_updated": "2026-08-18 03:01:31",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS TREMBLE AS ENERGY SHORTAGES SURGE, PROMPTING URGENT POLICY ACTION.",
+    "last_updated": "2026-08-18 03:52:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 0.92,
-        "T": 1.15,
-        "B": 0.64,
-        "C": 0.87
+        "F": 0.65,
+        "T": 0.92,
+        "B": 0.54,
+        "C": 0.81
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.288,
+        "kama_compression_ratio": 0.317,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
