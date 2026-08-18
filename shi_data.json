@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 76.5,
+    "shi": 1.93042,
+    "health_percent": 93.1,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint causing frequent blackouts"
+            "deviation": "Severe energy supply chokepoint"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "Trade barriers limiting export capacity"
+            "deviation": "High external debt servicing"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt pressure"
+            "loc": "Warsaw, Poland",
+            "deviation": "Trade barriers on key tech imports"
         }
     ],
     "high_shi": [
         {
-            "loc": "Austin, USA",
-            "protocol": "Tech innovation incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced fintech regulatory sandbox"
         },
         {
             "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration"
+            "protocol": "Industrial decarbonisation incentives"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption digital governance"
+            "loc": "Toronto, Canada",
+            "protocol": "Comprehensive anti\u2011corruption framework"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID POLICY REFORMS IN LAGOS TRIGGER A 12% GDP BOOST, WHILE ENERGY BOTTLENECKS IN KARACHI AND DEBT STRAINS IN ATHENS SIGNAL LOOMING INSTABILITY.",
-    "last_updated": "2026-08-18 11:04:13",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | LAGOS FACES IMMINENT GRID COLLAPSE WITHIN 48H; FOCUS ON ENERGY DIVERSIFICATION, DEBT RELIEF IN KARACHI, AND TRADE LIBERALISATION IN SANTIAGO WHILE LEVERAGING SINGAPORE, MUNICH AND TORONTO AS STABILITY ANCHORS.",
+    "last_updated": "2026-08-18 11:36:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.65,
         "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.235,
+        "kama_compression_ratio": 0.069,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
