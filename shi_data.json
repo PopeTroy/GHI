@@ -1,52 +1,52 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.0,
-    "location": "LAGOS, NIGERIA",
+    "shi": 3.25312,
+    "health_percent": 76.5,
+    "location": "MUMBAI, INDIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoint due to coal supply constraints"
-        },
-        {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "Trade barriers from tariff hikes"
+            "loc": "Port of Shanghai, China",
+            "deviation": "Trade barrier due to new tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt levels"
+            "deviation": "Energy chokepoint from sanctions"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "High sovereign debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Austin, USA",
-            "protocol": "Innovation hub policy reforms"
-        },
-        {
-            "loc": "Berlin, Germany",
-            "protocol": "Anti-corruption digital governance"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Strategic trade liberalization"
+            "protocol": "Innovation incentives"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Anti-corruption framework"
+        },
+        {
+            "loc": "Austin, USA",
+            "protocol": "Renewable energy policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS GRID INSTABILITY LOOMS; POLICY REFORMS SPARK HOPE IN TECH CORRIDORS.",
-    "last_updated": "2026-08-18 08:18:12",
+    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WOBBLE AS ENERGY CONSTRAINTS TIGHTEN; TECH HUBS SURGE WITH GREEN INVESTMENT.",
+    "last_updated": "2026-08-18 08:58:39",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.45,
+        "C": 0.6
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.43,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.235,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
