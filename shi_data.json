@@ -1,52 +1,52 @@
 {
-    "shi": 3.25312,
-    "health_percent": 78.9,
+    "shi": 2.4569,
+    "health_percent": 84.2,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:21",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoint due to coal supply constraints"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy supply chokepoint due to aging grid"
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt limiting fiscal flexibility"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt impacting fiscal stability"
-        },
-        {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "Trade barriers from tariff escalations"
+            "deviation": "Trade sanctions creating export barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Advanced fintech regulation fostering growth"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Comprehensive renewable energy integration"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovative tax incentives for tech startups"
+            "protocol": "Advanced anti-corruption digital governance"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Robust anti-corruption framework and green tech subsidies"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub with strong IP protection"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN RISKS RISE; LAGOS EMERGES AS CRITICAL HUB; POLICYMAKERS URGED TO ACT.",
-    "last_updated": "2026-08-18 19:54:21",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1 GRID STRAIN IN KARACHI SPIKES; \ud83d\udcc9 DEBT WOES IN BUENOS AIRES; \ud83d\udd27 POLICY REFORMS IN COPENHAGEN BOOST SHI.",
+    "last_updated": "2026-08-18 20:20:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 0.78,
         "T": 0.92,
-        "B": 0.45,
-        "C": 0.6
+        "B": 0.65,
+        "C": 0.55
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.211,
+        "kama_compression_ratio": 0.158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
