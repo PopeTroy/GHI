@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 84.3,
+    "shi": 2.29824,
+    "health_percent": 43.5,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
+            "loc": "Karachi, Pakistan",
             "deviation": "energy chokepoint"
-        },
-        {
-            "loc": "Beijing, China",
-            "deviation": "trade barriers"
         },
         {
             "loc": "Sao Paulo, Brazil",
             "deviation": "high debt"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "innovation incentives"
-        },
-        {
-            "loc": "Toronto, Canada",
+            "loc": "Zurich, Switzerland",
             "protocol": "anti-corruption reforms"
         },
         {
-            "loc": "Sydney, Australia",
+            "loc": "Singapore, Singapore",
+            "protocol": "innovation incentives"
+        },
+        {
+            "loc": "Munich, Germany",
             "protocol": "policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL MARKETS WOBBLE AS ENERGY BOTTLENECKS INTENSIFY; POLICY REFORMS IN EUROPE BOOST STABILITY; WATCH FOR UNREST IN WEST AFRICA.",
-    "last_updated": "2026-08-18 19:00:12",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID INFRASTRUCTURE STRAIN IN LAGOS TRIGGERS GRID COLLAPSE; NEIGHBORING REGIONS BRACE FOR SUPPLY CHAIN DISRUPTIONS.",
+    "last_updated": "2026-08-18 19:34:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 0.85,
-        "T": 0.92,
+        "F": 1.12,
+        "T": 0.95,
         "B": 0.65,
-        "C": 0.7
+        "C": 0.8
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.157,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.565,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
