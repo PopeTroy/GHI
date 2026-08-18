@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 48.2,
-    "location": "KARACHI, PAKISTAN",
+    "shi": 3.58167,
+    "health_percent": 72.3,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy supply chokepoint due to aging grid"
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from high export tariffs on copper"
+            "loc": "Beijing, China",
+            "deviation": "Energy supply chokepoint"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Elevated sovereign debt creating fiscal strain"
+            "deviation": "High sovereign debt"
+        },
+        {
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Trade tariff barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and innovation incentives"
+            "protocol": "Fiscal transparency reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Comprehensive anti\u2011corruption reforms and tech\u2011hub policies"
+            "protocol": "Anti-corruption digital platform"
         },
         {
             "loc": "Munich, Germany",
-            "protocol": "Advanced manufacturing coupled with renewable energy integration"
+            "protocol": "Renewable energy incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS GRID INSTABILITY LOOMS OVER KARACHI, WHILE ZURICH, SINGAPORE AND MUNICH SHOWCASE RESILIENT GROWTH MODELS.",
-    "last_updated": "2026-08-18 16:44:40",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL INDICES SHOW RISING GRID STRESS IN WEST AFRICA, WHILE SOUTHEAST ASIA STABILIZES VIA SOLAR EXPANSION.",
+    "last_updated": "2026-08-18 17:12:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
+        "P": 0.78,
+        "F": 1.2,
+        "T": 0.95,
         "B": 0.65,
-        "C": 0.7
+        "C": 0.55
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.518,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.277,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
