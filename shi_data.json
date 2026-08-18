@@ -1,52 +1,52 @@
 {
-    "shi": 2.4265,
-    "health_percent": 81.3,
+    "shi": 0.73195,
+    "health_percent": 73.2,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint due to regional grid strain"
+            "loc": "Cairo, Egypt",
+            "deviation": "Severe energy supply constraints due to regional conflicts"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barriers from export restrictions"
+            "loc": "Mumbai, India",
+            "deviation": "High debt servicing and trade tariff pressures"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt burden"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "Logistics bottlenecks from port congestion"
         }
     ],
     "high_shi": [
         {
+            "loc": "Amsterdam, Netherlands",
+            "protocol": "Advanced renewable integration and anti-corruption reforms"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced fintech regulation fostering growth"
+            "protocol": "Digital trade facilitation and fiscal prudence"
         },
         {
             "loc": "Munich, Germany",
-            "protocol": "Industrial innovation and green tech subsidies"
-        },
-        {
-            "loc": "Melbourne, Australia",
-            "protocol": "Anti-corruption reforms boosting investor confidence"
+            "protocol": "Industry 4.0 innovation incentives and stable fiscal policy"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAINS STRAIN; AFRICA'S LAGOS EMERGES AS HIGH-IMPACT HUB; EUROPE STABILIZES WITH GREEN TECH DRIVES.",
-    "last_updated": "2026-08-18 05:40:39",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX TICKS UPWARD AS RENEWABLE POLICIES SURGE, BUT GRID STRESS IN WEST AFRICA WARNS OF IMMINENT COLLAPSE.",
+    "last_updated": "2026-08-18 06:02:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.78,
-        "C": 0.85
+        "P": 0.85,
+        "F": 0.92,
+        "T": 0.78,
+        "B": 1.2,
+        "C": 1.0
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.187,
+        "kama_compression_ratio": 0.268,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
