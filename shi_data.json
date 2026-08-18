@@ -1,52 +1,52 @@
 {
-    "shi": 2.58336,
-    "health_percent": 258.14,
-    "location": "SHANGHAI, CHINA",
+    "shi": 1.93042,
+    "health_percent": 48.2,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint due to aging power grid"
+            "deviation": "Energy supply chokepoint due to aging grid"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt limiting fiscal flexibility"
+            "loc": "Santiago, Chile",
+            "deviation": "Trade barrier from high export tariffs on copper"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Trade barriers from regional sanctions"
+            "loc": "Moscow, Russia",
+            "deviation": "Elevated sovereign debt creating fiscal strain"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration and anti-corruption reforms"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust policy reforms supporting tech innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial regulation and innovation incentives"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Comprehensive trade facilitation and financial stability measures"
+            "protocol": "Comprehensive anti\u2011corruption reforms and tech\u2011hub policies"
+        },
+        {
+            "loc": "Munich, Germany",
+            "protocol": "Advanced manufacturing coupled with renewable energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS STABILIZE AS EU GREEN POLICIES BOOST INVESTMENTS; ASIAN MANUFACTURING REBOUNDS AMID NEW TRADE ACCORDS.",
-    "last_updated": "2026-08-18 16:02:50",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS GRID INSTABILITY LOOMS OVER KARACHI, WHILE ZURICH, SINGAPORE AND MUNICH SHOWCASE RESILIENT GROWTH MODELS.",
+    "last_updated": "2026-08-18 16:44:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 0.55,
-        "C": 0.8
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.65,
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -1.5814,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.518,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
