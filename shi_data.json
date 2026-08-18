@@ -1,52 +1,52 @@
 {
-    "shi": 1.85109,
-    "health_percent": 84.7,
+    "shi": 5.80834,
+    "health_percent": 68.5,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoint due to coal dependency"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy supply chokepoint due to aging grid"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt"
+            "loc": "Milan, Italy",
+            "deviation": "Trade barriers from protectionist policies affecting EU supply"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade sanctions"
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt limiting fiscal stimulus"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Comprehensive fintech regulatory sandbox"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption and transparent fiscal policy"
+        },
+        {
             "loc": "Austin, USA",
-            "protocol": "Innovation incentives"
-        },
-        {
-            "loc": "Munich, Germany",
-            "protocol": "Policy reforms for green energy"
-        },
-        {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Aggressive innovation incentives for tech startups"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION IN LAGOS DRIVES DEMAND FOR GRID UPGRADES; BEIJING FACES ENERGY BOTTLENECKS; ANTI-CORRUPTION REFORMS IN SEOUL BOOST INVESTOR CONFIDENCE.",
-    "last_updated": "2026-08-18 23:35:34",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1\ufe0f LAGOS FACES IMMINENT GRID COLLAPSE IN 48H. ENERGY BOTTLENECKS IN KARACHI, MILAN, SANTIAGO. GROWTH PROTOCOLS THRIVING IN SINGAPORE, ZURICH, AUSTIN.",
+    "last_updated": "2026-08-18 23:54:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.65,
-        "C": 0.73
+        "P": 0.78,
+        "F": 0.92,
+        "T": 0.86,
+        "B": 0.34,
+        "C": 0.45
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.153,
+        "kama_compression_ratio": 0.315,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
