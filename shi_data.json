@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 192.85,
+    "shi": 1.85109,
+    "health_percent": 68.4,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Johannesburg, South Africa",
+            "loc": "Karachi, Pakistan",
             "deviation": "Energy supply chokepoint due to aging grid."
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt causing fiscal strain."
+            "loc": "Santiago, Chile",
+            "deviation": "Trade barrier from export tariffs on copper."
         },
         {
-            "loc": "Manila, Philippines",
-            "deviation": "Trade barriers from import tariffs on electronics."
+            "loc": "Moscow, Russia",
+            "deviation": "High sovereign debt pressure limiting fiscal flexibility."
         }
     ],
     "high_shi": [
         {
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration policy."
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced fintech regulation fostering investment."
+            "protocol": "Anti-corruption digital governance platform."
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and stable banking."
-        },
-        {
-            "loc": "Seattle, United States",
-            "protocol": "Innovation hubs and green energy incentives."
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation incentives for clean tech startups."
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1 LAGOS FACES IMMINENT GRID COLLAPSE IN 48H. BOTTLENECKS: JOHANNESBURG ENERGY, BUENOS AIRES DEBT, MANILA TARIFFS. PROTOCOLS UPLIFT: SINGAPORE FINTECH, ZURICH ANTI-CORRUPTION, SEATTLE GREEN TECH.",
-    "last_updated": "2026-08-18 09:41:15",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | ENERGY PRICES SURGE 12% | NEW TRADE PACT REDUCES TARIFFS IN EU | ANTI-CORRUPTION REFORMS BOOST INVESTOR CONFIDENCE",
+    "last_updated": "2026-08-18 10:04:29",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 0.92,
-        "T": 0.85,
+        "F": 0.85,
+        "T": 0.92,
         "B": 0.65,
-        "C": 0.7
+        "C": 0.73
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -0.9285,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
