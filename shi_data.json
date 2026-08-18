@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 193.1,
+    "shi": 2.4265,
+    "health_percent": 81.3,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to aging grid"
+            "deviation": "Energy chokepoint due to regional grid strain"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "High external debt pressures fiscal stability"
+            "deviation": "Trade barriers from export restrictions"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers from sanctions affecting imports"
+            "loc": "Athens, Greece",
+            "deviation": "High sovereign debt burden"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced fintech regulation and anti-corruption"
+            "protocol": "Advanced fintech regulation fostering growth"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust fiscal policy and diversified export portfolio"
+            "loc": "Munich, Germany",
+            "protocol": "Industrial innovation and green tech subsidies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy innovation and transparent governance"
+            "loc": "Melbourne, Australia",
+            "protocol": "Anti-corruption reforms boosting investor confidence"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | LAGOS FACES IMMINENT GRID COLLAPSE WITHIN 48 HRS; KARACHIS ENERGY STRAIN DEEPENS, WHILE SINGAPORE'S FINTECH REFORMS BOOST REGIONAL STABILITY.",
-    "last_updated": "2026-08-18 05:04:06",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAINS STRAIN; AFRICA'S LAGOS EMERGES AS HIGH-IMPACT HUB; EUROPE STABILIZES WITH GREEN TECH DRIVES.",
+    "last_updated": "2026-08-18 05:40:39",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.65,
-        "C": 0.7
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.85
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -0.931,
+        "kama_compression_ratio": 0.187,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
