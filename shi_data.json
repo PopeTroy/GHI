@@ -1,52 +1,52 @@
 {
-    "shi": 1.53556,
-    "health_percent": 78.4,
+    "shi": 1.99856,
+    "health_percent": 87.6,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "energy chokepoint due to aging grid"
+            "deviation": "energy chokepoint"
         },
         {
             "loc": "Buenos Aires, Argentina",
-            "deviation": "high sovereign debt pressure"
+            "deviation": "high debt"
         },
         {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "trade barriers from regional tariffs"
+            "loc": "Moscow, Russia",
+            "deviation": "trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "advanced fintech innovation"
+            "protocol": "innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "robust anti-corruption framework"
+            "protocol": "policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "policy reforms boosting green energy"
+            "loc": "Melbourne, Australia",
+            "protocol": "anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS EMERGING ECONOMIES ADOPT NEW GROWTH PROTOCOLS.",
-    "last_updated": "2026-08-18 22:21:50",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WOBBLE AS ENERGY SHORTAGES HIT ASIA, DEBT CRISES LOOM IN SOUTH AMERICA, AND EUROPEAN POLICY REFORMS SPARK CAUTIOUS OPTIMISM.",
+    "last_updated": "2026-08-18 22:47:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.78,
         "F": 0.92,
-        "T": 0.78,
+        "T": 0.88,
         "B": 0.65,
-        "C": 0.88
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.216,
+        "kama_compression_ratio": 0.124,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
