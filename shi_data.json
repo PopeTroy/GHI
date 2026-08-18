@@ -1,52 +1,52 @@
 {
-    "shi": 3.25312,
-    "health_percent": 76.5,
-    "location": "MUMBAI, INDIA",
+    "shi": 1.93042,
+    "health_percent": 192.85,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Port of Shanghai, China",
-            "deviation": "Trade barrier due to new tariffs"
+            "loc": "Johannesburg, South Africa",
+            "deviation": "Energy supply chokepoint due to aging grid."
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint from sanctions"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt causing fiscal strain."
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High sovereign debt"
+            "loc": "Manila, Philippines",
+            "deviation": "Trade barriers from import tariffs on electronics."
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation incentives"
+            "protocol": "Advanced fintech regulation fostering investment."
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption framework"
+            "protocol": "Robust anti-corruption framework and stable banking."
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Renewable energy policy reforms"
+            "loc": "Seattle, United States",
+            "protocol": "Innovation hubs and green energy incentives."
         }
     ],
-    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WOBBLE AS ENERGY CONSTRAINTS TIGHTEN; TECH HUBS SURGE WITH GREEN INVESTMENT.",
-    "last_updated": "2026-08-18 08:58:39",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1 LAGOS FACES IMMINENT GRID COLLAPSE IN 48H. BOTTLENECKS: JOHANNESBURG ENERGY, BUENOS AIRES DEBT, MANILA TARIFFS. PROTOCOLS UPLIFT: SINGAPORE FINTECH, ZURICH ANTI-CORRUPTION, SEATTLE GREEN TECH.",
+    "last_updated": "2026-08-18 09:41:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.45,
-        "C": 0.6
+        "P": 0.78,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 0.65,
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.235,
+        "kama_compression_ratio": -0.9285,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
