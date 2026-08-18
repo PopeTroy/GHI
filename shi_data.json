@@ -1,21 +1,21 @@
 {
-    "shi": 1.93042,
-    "health_percent": 93.1,
+    "shi": 3.05486,
+    "health_percent": 85.4,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy supply chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy supply chokepoint due to sanctions"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "High external debt servicing"
+            "loc": "Beijing, China",
+            "deviation": "Trade barriers from export controls"
         },
         {
-            "loc": "Warsaw, Poland",
-            "deviation": "Trade barriers on key tech imports"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "High sovereign debt limiting fiscal flexibility"
         }
     ],
     "high_shi": [
@@ -24,29 +24,29 @@
             "protocol": "Advanced fintech regulatory sandbox"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Industrial decarbonisation incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Zero corruption governance framework"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Comprehensive anti\u2011corruption framework"
+            "loc": "Boulder, United States",
+            "protocol": "Renewable energy microgrid innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | LAGOS FACES IMMINENT GRID COLLAPSE WITHIN 48H; FOCUS ON ENERGY DIVERSIFICATION, DEBT RELIEF IN KARACHI, AND TRADE LIBERALISATION IN SANTIAGO WHILE LEVERAGING SINGAPORE, MUNICH AND TORONTO AS STABILITY ANCHORS.",
-    "last_updated": "2026-08-18 11:36:12",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION FUELS DEMAND; POLICY REFORMS IN SINGAPORE AND ZURICH BOOST STABILITY, WHILE ENERGY AND DEBT BOTTLENECKS IN MOSCOW, BEIJING, S\u00c3O PAULO THREATEN GRID INTEGRITY.",
+    "last_updated": "2026-08-18 11:59:00",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.65,
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
         "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.069,
+        "kama_compression_ratio": 0.146,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
