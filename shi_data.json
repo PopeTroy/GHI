@@ -1,52 +1,52 @@
 {
-    "shi": 3.14818,
-    "health_percent": 68.4,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:32:10",
+    "shi": 1.0692,
+    "health_percent": 106.92,
+    "location": "CARACAS, VENEZUELA",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint due to sanctions"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Runaway inflation eroding purchasing power"
         },
         {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "Trade barriers from export tariffs"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy grid constraints limiting industrial output"
         },
         {
-            "loc": "Mumbai, India",
-            "deviation": "High public debt affecting fiscal space"
+            "loc": "Athens, Greece",
+            "deviation": "High sovereign debt burden restricting fiscal flexibility"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial transparency reforms"
+            "loc": "Dubai, United Arab Emirates",
+            "protocol": "Economic diversification & free\u2011zone incentives"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation incentives and tech hub development"
+            "protocol": "Innovation\u2011centric policy & tech hub development"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Green energy policy integration"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti\u2011corruption framework & stable banking sector"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | RAPID URBANIZATION, RISING DEBT, AND ENERGY CONSTRAINTS PUSH SEVERAL MEGACITIES TOWARD INSTABILITY WHILE FINANCE HUBS IMPLEMENT REFORMS.",
-    "last_updated": "2026-08-18 17:45:27",
+    "scroller_feed": "CRITICAL: CARACAS, VENEZUELA TARGETED FOR HYPER-INFLATION | GLOBAL MARKETS JITTER AS VENEZUELA\u2019S HYPER\u2011INFLATION SPIKES 150% YOY; UAE\u2019S DIVERSIFICATION DRIVES 3% GDP RISE; SINGAPORE\u2019S AI HUB ATTRACTS $5B INVESTMENT.",
+    "last_updated": "2026-08-18 18:14:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.92,
-        "F": 0.78,
-        "T": 0.85,
-        "B": 0.45,
-        "C": 0.62
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 2.0,
+        "C": 0.8
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "kama_compression_ratio": -0.0692,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
