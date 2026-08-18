@@ -1,52 +1,52 @@
 {
-    "shi": 1.99856,
-    "health_percent": 87.6,
+    "shi": 3.00288,
+    "health_percent": 300.12,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "energy supply chokepoint due to sanctions"
+        },
+        {
+            "loc": "Johannesburg, South Africa",
+            "deviation": "high sovereign debt limiting fiscal response"
         },
         {
             "loc": "Buenos Aires, Argentina",
-            "deviation": "high debt"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "trade barriers"
+            "deviation": "trade barriers and currency controls"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "innovation hub"
+            "protocol": "advanced digital trade facilitation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "policy reforms"
+            "loc": "Munich, Germany",
+            "protocol": "green energy innovation incentives"
         },
         {
-            "loc": "Melbourne, Australia",
-            "protocol": "anti-corruption measures"
+            "loc": "Austin, USA",
+            "protocol": "tech-sector regulatory reform"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WOBBLE AS ENERGY SHORTAGES HIT ASIA, DEBT CRISES LOOM IN SOUTH AMERICA, AND EUROPEAN POLICY REFORMS SPARK CAUTIOUS OPTIMISM.",
-    "last_updated": "2026-08-18 22:47:32",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1\ufe0f LAGOS HITS 85% RENEWABLE MIX; \ud83d\udcc9 MOSCOW ENERGY GRID STRAIN RISES; \ud83d\ude80 SINGAPORE'S DIGITAL TRADE PLATFORM CUTS CLEARANCE TIME BY 40%; \ud83c\udf0d GLOBAL RISK INDEX DOWN 2.3% AS REFORMS TAKE HOLD.",
+    "last_updated": "2026-08-18 23:08:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 0.92,
-        "T": 0.88,
-        "B": 0.65,
-        "C": 0.7
+        "F": 0.85,
+        "T": 0.92,
+        "B": 0.45,
+        "C": 0.65
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.124,
+        "kama_compression_ratio": -2.0012,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
