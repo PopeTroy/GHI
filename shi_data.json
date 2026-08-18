@@ -1,52 +1,52 @@
 {
-    "shi": 2.4569,
-    "health_percent": 78.4,
+    "shi": 2.13424,
+    "health_percent": 71.2,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:23:10",
     "bottlenecks": [
         {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "Energy chokepoint due to aging power grid"
+            "loc": "Cape Town, South Africa",
+            "deviation": "energy transmission bottleneck due to aging grid"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt causing fiscal instability"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "high sovereign debt limiting fiscal stimulus"
         },
         {
-            "loc": "Manila, Philippines",
-            "deviation": "Trade barriers from maritime congestion"
+            "loc": "Moscow, Russia",
+            "deviation": "trade sanctions restricting import of critical components"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulations and anti-corruption"
+            "loc": "Berlin, Germany",
+            "protocol": "aggressive renewable energy investment"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation incentives and digital infrastructure"
+            "protocol": "digital trade facilitation platform"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy integration and policy reforms"
+            "loc": "Toronto, Canada",
+            "protocol": "comprehensive anti-corruption reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY HINGES ON ADDRESSING ENERGY BOTTLENECKS AND FOSTERING INNOVATION ACROSS EMERGING MARKETS.",
-    "last_updated": "2026-08-18 01:57:36",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION IN LAGOS STRAINS POWER GRID; BERLIN'S GREEN BOND ISSUANCE HITS RECORD; SINGAPORE'S AI CUSTOMS SYSTEM CUTS CLEARANCE TIME BY 30%.",
+    "last_updated": "2026-08-18 03:01:31",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.78,
         "F": 0.92,
-        "T": 0.78,
-        "B": 0.65,
-        "C": 0.55
+        "T": 1.15,
+        "B": 0.64,
+        "C": 0.87
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.216,
+        "kama_compression_ratio": 0.288,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
