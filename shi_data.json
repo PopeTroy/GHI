@@ -1,44 +1,44 @@
 {
     "shi": 3.25312,
-    "health_percent": 68.3,
-    "location": "LAGOS,NIGERIA",
+    "health_percent": 92.3,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi,Pakistan",
-            "deviation": "energy chokepoint"
+            "loc": "Lagos, Nigeria",
+            "deviation": "energy chokepoint - frequent blackouts"
         },
         {
-            "loc": "Sao Paulo,Brazil",
-            "deviation": "trade barrier"
+            "loc": "Karachi, Pakistan",
+            "deviation": "high debt burden - fiscal deficits"
         },
         {
-            "loc": "Moscow,Russia",
-            "deviation": "high debt"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "trade barriers - import tariffs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Austin,USA",
-            "protocol": "policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "innovation hub - fintech incentives"
         },
         {
-            "loc": "Bangalore,India",
-            "protocol": "innovation hubs"
+            "loc": "Tokyo, Japan",
+            "protocol": "policy reforms - regulatory sandboxes"
         },
         {
-            "loc": "Munich,Germany",
-            "protocol": "anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "anti-corruption - transparency act"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS,NIGERIA TARGETED FOR GRID COLLAPSE | RAPID GRID STRAIN IN LAGOS THREATENS REGIONAL POWER, WHILE REFORMS IN AUSTIN, BANGALORE, AND MUNICH BOOST STABILITY.",
-    "last_updated": "2026-08-18 21:35:04",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS RENEWABLE INVESTMENTS SURGE; IMF WARNS OF RISING DEBT IN EMERGING ECONOMIES; TECH BREAKTHROUGHS PROMISE NEW GROWTH.",
+    "last_updated": "2026-08-18 21:54:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.92,
-        "T": 0.85,
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
         "B": 0.45,
         "C": 0.6
     },
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.317,
+        "kama_compression_ratio": 0.077,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
