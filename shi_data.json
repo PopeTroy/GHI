@@ -1,52 +1,52 @@
 {
-    "shi": 3.58167,
-    "health_percent": 72.3,
+    "shi": 3.14818,
+    "health_percent": 68.4,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy supply chokepoint"
-        },
-        {
             "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt"
+            "deviation": "Energy chokepoint due to sanctions"
         },
         {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "Trade tariff barriers"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "Trade barriers from export tariffs"
+        },
+        {
+            "loc": "Mumbai, India",
+            "deviation": "High public debt affecting fiscal space"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fiscal transparency reforms"
+            "protocol": "Financial transparency reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption digital platform"
+            "protocol": "Innovation incentives and tech hub development"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Renewable energy incentives"
+            "loc": "Toronto, Canada",
+            "protocol": "Green energy policy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL INDICES SHOW RISING GRID STRESS IN WEST AFRICA, WHILE SOUTHEAST ASIA STABILIZES VIA SOLAR EXPANSION.",
-    "last_updated": "2026-08-18 17:12:14",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | RAPID URBANIZATION, RISING DEBT, AND ENERGY CONSTRAINTS PUSH SEVERAL MEGACITIES TOWARD INSTABILITY WHILE FINANCE HUBS IMPLEMENT REFORMS.",
+    "last_updated": "2026-08-18 17:45:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.2,
-        "T": 0.95,
-        "B": 0.65,
-        "C": 0.55
+        "P": 0.92,
+        "F": 0.78,
+        "T": 0.85,
+        "B": 0.45,
+        "C": 0.62
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.277,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
