@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 61.1,
-    "location": "SHANGHAI, CHINA",
+    "shi": 4.2768,
+    "health_percent": 78.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:30:12",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy chokepoint due to aging grid"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers from port congestion"
+            "deviation": "High debt"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt pressure"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced innovation ecosystem"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Progressive climate policy"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS CHINA CUTS TARIFFS; EU UNVEILS GREEN BOND INITIATIVE; US INFRASTRUCTURE BILL PASSES.",
-    "last_updated": "2026-08-19 14:01:38",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE IMPROVEMENT; WATCH FOR ENERGY CHOKEPOINTS IN SOUTH ASIA.",
+    "last_updated": "2026-08-19 14:47:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 0.7
+        "B": 0.5,
+        "C": 0.8
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.389,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
