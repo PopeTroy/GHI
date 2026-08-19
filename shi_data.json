@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 85.3,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 3.05486,
+    "health_percent": 61.1,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "Severe energy chokepoint due to aging grid"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers from port congestion"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Robust anti-corruption framework"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal reforms and green energy transition"
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced innovation ecosystem"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Comprehensive trade facilitation and tech hub development"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Progressive climate policy"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES GRAPPLE WITH DEBT PRESSURES WHILE ADVANCED ECONOMIES PUSH INNOVATION-LED GROWTH.",
-    "last_updated": "2026-08-19 13:58:09",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS CHINA CUTS TARIFFS; EU UNVEILS GREEN BOND INITIATIVE; US INFRASTRUCTURE BILL PASSES.",
+    "last_updated": "2026-08-19 14:01:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.389,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
