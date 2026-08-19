@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 68.5,
+    "shi": 2.61801,
+    "health_percent": 68.3,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
+            "loc": "Moscow, Russia",
+            "deviation": "energy chokepoint due to sanctions"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "energy chokepoint due to aging grid"
+            "deviation": "high external debt burden"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "high external debt impacting fiscal stability"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "trade barriers from sanctions"
+            "deviation": "trade barriers on key exports"
         }
     ],
     "high_shi": [
         {
-            "loc": "Austin, USA",
-            "protocol": "innovation hub with green tech incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "innovation hubs & fintech reforms"
         },
         {
-            "loc": "Bangalore, India",
-            "protocol": "policy reforms for digital economy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "anti\u2011corruption & fiscal discipline"
         },
         {
-            "loc": "Dublin, Ireland",
-            "protocol": "anti-corruption framework boosting foreign investment"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "green energy policy & trade liberalization"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID GRID FAILURES IN LAGOS THREATEN REGIONAL POWER STABILITY; REFORMS IN AUSTIN AND BANGALORE DRIVE RESILIENCE.",
-    "last_updated": "2026-08-19 05:52:29",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX DOWN 3.2%: LAGOS FLAGGED AS HIGH\u2011IMPACT NODE; ENERGY CHOKEPOINTS IN MOSCOW, DEBT STRESS IN KARACHI, AND TRADE FRICTION IN SANTIAGO THREATEN REGIONAL GROWTH. MEANWHILE, SINGAPORE, ZURICH, AND COPENHAGEN SHOWCASE STRONG PROTOCOL ADOPTION DRIVING RESILIENCE.",
+    "last_updated": "2026-08-19 06:30:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 0.7
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.55,
+        "C": 0.61
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.315,
+        "kama_compression_ratio": 0.317,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
