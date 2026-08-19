@@ -1,52 +1,52 @@
 {
-    "shi": 7.52213,
-    "health_percent": 73.5,
-    "location": "MUMBAI, INDIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:10",
+    "shi": 1.00464,
+    "health_percent": 100.37,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
+            "loc": "Karachi, Pakistan",
             "deviation": "energy chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
+            "loc": "Santiago, Chile",
             "deviation": "high debt"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "trade barriers"
+            "loc": "Moscow, Russia",
+            "deviation": "trade barrier"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "innovation hub"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "anti-corruption framework"
-        },
-        {
-            "loc": "Seattle, USA",
             "protocol": "policy reforms"
+        },
+        {
+            "loc": "Tallinn, Estonia",
+            "protocol": "anti-corruption drive"
+        },
+        {
+            "loc": "Bangalore, India",
+            "protocol": "innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN DISRUPTIONS SURGE, PROMPTING URGENT POLICY REFORMS ACROSS CONTINENTS.",
-    "last_updated": "2026-08-19 09:19:15",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION STRAINS RESOURCES; NEW TRADE ACCORDS PROMISE RELIEF; RENEWABLE INVESTMENTS SURGE.",
+    "last_updated": "2026-08-19 09:54:20",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.31,
-        "F": 0.89,
-        "T": 1.12,
-        "B": 0.76,
-        "C": 0.58
+        "P": 0.78,
+        "F": 1.05,
+        "T": 0.92,
+        "B": 1.2,
+        "C": 0.9
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": -0.0037,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
