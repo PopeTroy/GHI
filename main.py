@@ -1,8 +1,9 @@
 import os
 import json
+import re
 from datetime import datetime
-from groq import Groq
 import openai
+from groq import Groq
 
 def compute_divine_tactics(health_val):
     """
@@ -29,63 +30,77 @@ def compute_divine_tactics(health_val):
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 
-def fetch_model_completion(prompt):
+def clean_json_text(text):
+    """Strips markdown wrapping if present."""
+    text = text.strip()
+    if "```json" in text:
+        text = text.split("```json")[1].split("```")[0].strip()
+    elif "```" in text:
+        text = text.split("```")[1].split("```")[0].strip()
+    return text
+
+def fetch_nvidia_equations(prompt):
     """
-    Executes inference using current active Groq production models.
-    Fails over seamlessly across NVIDIA API models if Groq fails or is unavailable.
+    Primary Equation Computation via NVIDIA API Active Models.
+    """
+    nvidia_key = os.getenv('NVIDIA_API_KEY')
+    if not nvidia_key:
+        print("[WARNING] NVIDIA_API_KEY missing. Skipping NVIDIA equation solver...")
+        return None, None
+
+    nvidia_models = [
+        "meta/llama-3.3-70b-instruct",
+        "nvidia/llama-3.1-nemotron-70b-instruct",
+        "deepseek-ai/deepseek-r1"
+    ]
+    nv_client = openai.OpenAI(
+        base_url="https://integrate.api.nvidia.com/v1",
+        api_key=nvidia_key
+    )
+
+    for model_name in nvidia_models:
+        try:
+            print(f"[INFO] Computing Equations via NVIDIA API ({model_name})...")
+            completion = nv_client.chat.completions.create(
+                model=model_name,
+                messages=[{"role": "user", "content": prompt + "\nRespond strictly in valid JSON format."}]
+            )
+            cleaned = clean_json_text(completion.choices[0].message.content)
+            return cleaned, f"NVIDIA_{model_name.upper()}"
+        except Exception as e:
+            print(f"[WARNING] NVIDIA model {model_name} failed: {e}")
+
+    return None, None
+
+def fetch_groq_scan(prompt):
+    """
+    Global Node Audit via Groq Active Compound Models.
     """
     groq_key = os.getenv('GROQ_API_KEY')
-    nvidia_key = os.getenv('NVIDIA_API_KEY')
+    if not groq_key:
+        print("[WARNING] GROQ_API_KEY missing. Skipping Groq compound scan...")
+        return None, None
 
-    # Primary Route: Active Groq Production Models
-    if groq_key:
-        groq_models = [
-            "openai/gpt-oss-120b",
-            "llama-3.3-70b-specdec",
-            "llama-3.1-70b-versatile",
-            "qwen-2.5-coder-32b"
-        ]
-        client = Groq(api_key=groq_key)
-        for g_model in groq_models:
-            try:
-                print(f"[INFO] Initiating audit scan via Groq ({g_model})...")
-                completion = client.chat.completions.create(
-                    model=g_model,
-                    messages=[{"role": "user", "content": prompt}],
-                    response_format={"type": "json_object"}
-                )
-                return completion.choices[0].message.content, f"GROQ_{g_model.upper()}"
-            except Exception as e:
-                print(f"[WARNING] Groq model {g_model} failed: {e}. Trying next available model...")
+    groq_models = [
+        "openai/gpt-oss-120b",
+        "llama-3.3-70b-versatile",
+        "llama-3.1-8b-instant"
+    ]
+    client = Groq(api_key=groq_key)
 
-    # Secondary Route: NVIDIA API Multi-Model Cascade
-    if nvidia_key:
-        nvidia_models = [
-            "meta/llama-3.3-70b-instruct",
-            "nvidia/llama-3.1-nemotron-70b-instruct",
-            "deepseek-ai/deepseek-r1"
-        ]
-        nv_client = openai.OpenAI(
-            base_url="https://integrate.api.nvidia.com/v1",
-            api_key=nvidia_key
-        )
-        for model_name in nvidia_models:
-            try:
-                print(f"[INFO] Invoking Failover: Engaging NVIDIA API ({model_name})...")
-                completion = nv_client.chat.completions.create(
-                    model=model_name,
-                    messages=[{"role": "user", "content": prompt + "\nRespond strictly in raw JSON."}]
-                )
-                raw_text = completion.choices[0].message.content
-                if "```json" in raw_text:
-                    raw_text = raw_text.split("```json")[1].split("```")[0].strip()
-                elif "```" in raw_text:
-                    raw_text = raw_text.split("```")[1].split("```")[0].strip()
-                return raw_text, f"NVIDIA_{model_name.upper()}"
-            except Exception as e:
-                print(f"[WARNING] NVIDIA model {model_name} failed: {e}. Trying next failover model...")
+    for g_model in groq_models:
+        try:
+            print(f"[INFO] Scanning Global Nodes via Groq Compound ({g_model})...")
+            completion = client.chat.completions.create(
+                model=g_model,
+                messages=[{"role": "user", "content": prompt}],
+                response_format={"type": "json_object"}
+            )
+            return completion.choices[0].message.content, f"GROQ_{g_model.upper()}"
+        except Exception as e:
+            print(f"[WARNING] Groq model {g_model} failed: {e}")
 
-    raise RuntimeError("CRITICAL FAILURE: All Groq and NVIDIA API inference engines failed. Check API keys and secrets.")
+    return None, None
 
 def run_ghi_metric_engine():
     prompt = """
@@ -96,7 +111,9 @@ def run_ghi_metric_engine():
     - Protocols (P): Growth improvements (Policy reforms, anti-corruption, innovation).
     - Equation: (N * P * F * T) / (B * C)
     
-    MISSION: Identify High Impact Location, 3 Bottleneck Nodes, and 3 Stable (High SHI) Nodes.
+    MISSION: Compute equation metrics and scan for Primary High Impact Location, 3 Bottleneck Nodes (Lowest SHI), and 3 Stable Nodes (Highest SHI).
+    
+    CRITICAL CONSTRAINT: health_percent MUST BE A FLOAT BETWEEN 0.0 AND 100.0 (DO NOT EXCEED 100).
     
     REQUIRED OUTPUT JSON:
     {
@@ -111,19 +128,30 @@ def run_ghi_metric_engine():
     }
     """
 
+    raw_content, active_engine = fetch_nvidia_equations(prompt)
+    
+    # Fallback to Groq if NVIDIA is unavailable
+    if not raw_content:
+        raw_content, active_engine = fetch_groq_scan(prompt)
+
+    if not raw_content:
+        raise RuntimeError("CRITICAL FAILURE: Both NVIDIA and Groq engines failed to return data.")
+
     try:
-        raw_content, active_engine = fetch_model_completion(prompt)
         raw = json.loads(raw_content)
         
         m = raw['metrics']
         shi = (m['N'] * m['P'] * m['F'] * m['T']) / (m['B'] * m['C'] if m['B'] * m['C'] != 0 else 0.00001)
 
-        health_val = float(raw['health_percent'])
+        # STRICT CAP: Enforce 0% to 100% boundary on health_percent
+        raw_health = float(raw['health_percent'])
+        health_val = min(100.0, max(0.0, raw_health))
+
         tactical_data = compute_divine_tactics(health_val)
 
         output_data = {
             "shi": round(shi, 5),
-            "health_percent": health_val,
+            "health_percent": round(health_val, 2),
             "location": raw['primary_high_impact'].upper(),
             "collapse_type": raw['collapse_type'].upper(),
             "collapse_timer": raw['collapse_timer'],
@@ -139,7 +167,7 @@ def run_ghi_metric_engine():
         with open("shi_data.json", "w") as f:
             json.dump(output_data, f, indent=4)
         
-        print(f"Sync Success via [{active_engine}]: {output_data['location']} - Collapse Type: {output_data['collapse_type']}")
+        print(f"Sync Success via [{active_engine}]: {output_data['location']} - Health: {output_data['health_percent']}%")
 
     except Exception as e:
         print(f"Engine Failure: {e}")
