@@ -40,20 +40,22 @@ def clean_json_text(text):
 def fetch_nvidia_cascade(prompt):
     """
     Executes GHI metrics calculation and global node scanning strictly using 
-    NVIDIA's inference API across an expansive multi-model cascade.
+    NVIDIA's API across high-capacity reasoning endpoints.
     """
     nvidia_key = os.getenv('NVIDIA_API_KEY')
     if not nvidia_key:
         raise ValueError("CRITICAL ERROR: NVIDIA_API_KEY missing from environment secrets.")
 
-    # High-Performance NVIDIA API Model List
+    # High-Performance NVIDIA API Model List matching screenshot endpoints
     nvidia_models = [
-        "meta/llama-3.3-70b-instruct",
-        "nvidia/llama-3.1-nemotron-70b-instruct",
-        "deepseek-ai/deepseek-r1",
-        "mistralai/mistral-large-2-instruct",
-        "qwen/qwen2.5-72b-instruct",
-        "google/gemma-2-27b-it"
+        "openai/gpt-oss-120b",
+        "nvidia/nemotron-3-super-120b-a12b",
+        "nvidia/llama-3.3-nemotron-super-49b-v1.5",
+        "google/gemma-4-31b-it",
+        "stepfun-ai/step-3.7-flash",
+        "nvidia/nemotron-3-ultra-550b-a55b",
+        "nvidia/nemotron-3-nano-30b-a3b",
+        "openai/gpt-oss-20b"
     ]
 
     nv_client = openai.OpenAI(
@@ -110,7 +112,7 @@ def run_ghi_metric_engine():
         m = raw['metrics']
         shi = (m['N'] * m['P'] * m['F'] * m['T']) / (m['B'] * m['C'] if m['B'] * m['C'] != 0 else 0.00001)
 
-        # Enforce 0% to 100% boundary on health_percent
+        # Enforce strict 0% to 100% boundary on health_percent
         raw_health = float(raw['health_percent'])
         health_val = min(100.0, max(0.0, raw_health))
 
