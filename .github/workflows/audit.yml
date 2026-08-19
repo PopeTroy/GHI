@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install openai
 
-      - name: Run GHI Engine (NVIDIA Divine Cascade)
+      - name: Run GHI Engine
         env:
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
         run: python main.py
