@@ -1,52 +1,52 @@
 {
-    "shi": 3.21984,
-    "health_percent": 322.1,
+    "shi": 3.25312,
+    "health_percent": 78.4,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Energy chokepoint due to regional supply constraints"
+            "loc": "Johannesburg, South Africa",
+            "deviation": "energy chokepoint due to aging grid"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from export tariffs on copper"
+            "loc": "Mumbai, India",
+            "deviation": "high debt burden affecting fiscal stability"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt leading to fiscal instability"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "trade barriers from protectionist policies"
         }
     ],
     "high_shi": [
         {
+            "loc": "Zurich, Switzerland",
+            "protocol": "robust financial regulation and innovation hub"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub policy fostering fintech expansion"
+            "protocol": "transparent governance and anti-corruption measures"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Anti-corruption reforms and green tech subsidies"
-        },
-        {
-            "loc": "Austin, USA",
-            "protocol": "Policy reforms incentivizing renewable energy projects"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "green energy integration and policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1\ufe0f GRID STRESS SPIKES IN LAGOS; \ud83d\udea2 TRADE BARRIERS TIGHTEN IN SANTIAGO; \ud83d\udcc8 INNOVATION SURGE IN SINGAPORE.",
-    "last_updated": "2026-08-19 11:25:10",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN DISRUPTIONS LOOM, PROMPTING URGENT REFORMS ACROSS AFRICA, ASIA, AND LATIN AMERICA.",
+    "last_updated": "2026-08-19 11:50:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.86,
-        "F": 0.93,
-        "T": 0.78,
+        "P": 0.78,
+        "F": 0.92,
+        "T": 0.85,
         "B": 0.45,
-        "C": 0.62
+        "C": 0.6
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": -2.221,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
