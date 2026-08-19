@@ -1,52 +1,52 @@
 {
-    "shi": 2.03657,
-    "health_percent": 78.5,
+    "shi": 0.18,
+    "health_percent": 18.0,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation and debt crisis"
+        },
+        {
+            "loc": "Sanaa, Yemen",
+            "deviation": "Energy chokepoint and civil unrest"
+        },
+        {
+            "loc": "Kyiv, Ukraine",
+            "deviation": "Supply chain break due to conflict"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial innovation"
+            "loc": "Berlin, Germany",
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Seoul, South Korea",
+            "protocol": "Anti-corruption measures and tech growth"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Technology adoption"
+            "loc": "Ottawa, Canada",
+            "protocol": "Energy diversification and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; MONITOR DEBT AND ENERGY FLOWS.",
-    "last_updated": "2026-08-19 22:56:36",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH AT 18%; PRIMARY IMPACT IN SINGAPORE; WATCH FOR SUPPLY CHAIN RISKS IN UKRAINE AND ENERGY CHOKEPOINTS IN YEMEN.",
+    "last_updated": "2026-08-19 23:23:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.05
+        "P": 0.5,
+        "F": 0.5,
+        "T": 0.5,
+        "B": 1.0,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.82,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
