@@ -1,52 +1,52 @@
 {
-    "shi": 2.61801,
-    "health_percent": 68.3,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:12:30",
+    "shi": 1.93042,
+    "health_percent": 68.4,
+    "location": "TOKYO, JAPAN",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:33",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "energy chokepoint due to sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoint due to aging grid"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "high external debt burden"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers from tariff spikes"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "trade barriers on key exports"
+            "deviation": "High sovereign debt pressures"
         }
     ],
     "high_shi": [
         {
+            "loc": "Munich, Germany",
+            "protocol": "Innovation grants for green tech"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption policy reforms"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "innovation hubs & fintech reforms"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "anti\u2011corruption & fiscal discipline"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "green energy policy & trade liberalization"
+            "protocol": "Digital trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX DOWN 3.2%: LAGOS FLAGGED AS HIGH\u2011IMPACT NODE; ENERGY CHOKEPOINTS IN MOSCOW, DEBT STRESS IN KARACHI, AND TRADE FRICTION IN SANTIAGO THREATEN REGIONAL GROWTH. MEANWHILE, SINGAPORE, ZURICH, AND COPENHAGEN SHOWCASE STRONG PROTOCOL ADOPTION DRIVING RESILIENCE.",
-    "last_updated": "2026-08-19 06:30:14",
+    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR GRID COLLAPSE | GLOBAL ECONOMIC STABILITY INDEX SHOWS RISING RISK IN SOUTH ASIA, WHILE EUROPEAN NODES REPORT STEADY GROWTH.",
+    "last_updated": "2026-08-19 07:22:45",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
+        "P": 0.78,
+        "F": 0.85,
         "T": 0.92,
-        "B": 0.55,
-        "C": 0.61
+        "B": 0.65,
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.317,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
