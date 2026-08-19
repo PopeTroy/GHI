@@ -1,9 +1,9 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 78.4,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
@@ -15,7 +15,7 @@
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures"
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
@@ -25,15 +25,15 @@
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Green energy transition"
+            "protocol": "Anti-corruption measures"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Technological innovation hub"
+            "protocol": "Innovation incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT STRAINS WHILE ADVANCED ECONOMIES PUSH INNOVATION-LED GROWTH.",
-    "last_updated": "2026-08-19 15:16:48",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOLS.",
+    "last_updated": "2026-08-19 15:51:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
