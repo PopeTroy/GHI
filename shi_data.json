@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "LONDON, UNITED KINGDOM",
+    "health_percent": 57.3,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "36:12:45",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high debt"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and civil unrest"
+            "deviation": "High debt"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and supply chain break"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and financial stability"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and fiscal prudence"
+            "protocol": "Innovation"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS LIKE ZURICH AND SINGAPORE MAINTAIN HIGH SHI, EMERGING MARKETS FACE ENERGY AND DEBT BOTTLENECKS RAISING COLLAPSE RISKS.",
-    "last_updated": "2026-08-19 16:52:07",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY PRICES FLUCTUATE; POLICY SHIFTS IN EUROPE AIM TO REDUCE BOTTLENECKS.",
+    "last_updated": "2026-08-19 17:17:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.427,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
