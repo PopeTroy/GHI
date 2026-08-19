@@ -1,52 +1,52 @@
 {
-    "shi": 2.44163,
-    "health_percent": 68.4,
+    "shi": 0.9234,
+    "health_percent": 92.34,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "energy chokepoint"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "trade barrier"
+        },
+        {
             "loc": "Moscow, Russia",
-            "deviation": "Energy transmission chokepoint"
-        },
-        {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "High sovereign debt servicing"
-        },
-        {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "Trade tariff barriers"
+            "deviation": "high sovereign debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade facilitation"
+            "protocol": "innovation hub"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Fiscal transparency reforms"
+            "protocol": "anti-corruption reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced manufacturing innovation"
+            "loc": "Bangalore, India",
+            "protocol": "policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1 GRID STRESS IN LAGOS RISES 12% | \ud83d\udcc8 INNOVATION HUBS IN SINGAPORE BOOST SHI BY 8% | \ud83d\udea7 TRADE BARRIERS IN MOSCOW CAUSE 7% DEVIATION | \ud83d\udcc9 DEBT BURDEN IN SAO PAULO SPIKES 5%",
-    "last_updated": "2026-08-19 10:25:20",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC MONITOR: STABILITY RISING IN ASIA, CHALLENGES IN AFRICA.",
+    "last_updated": "2026-08-19 10:55:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.23,
-        "F": 0.98,
-        "T": 1.1,
-        "B": 0.85,
-        "C": 0.92
+        "P": 0.9,
+        "F": 0.95,
+        "T": 0.9,
+        "B": 1.2,
+        "C": 1.0
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "kama_compression_ratio": 0.0766,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
