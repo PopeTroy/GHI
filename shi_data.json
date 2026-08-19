@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 84.5,
+    "shi": 2.508,
+    "health_percent": 78.5,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint due to aging grid infrastructure"
+            "deviation": "Energy chokepoint due to aging grid"
+        },
+        {
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Trade barrier from export tariffs"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt and sanctions pressure"
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barriers from regional tariff spikes"
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy integration"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced fintech regulatory sandbox"
+            "protocol": "Anti-corruption digital governance"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Industry 4.0 manufacturing incentives"
-        },
-        {
-            "loc": "Austin, USA",
-            "protocol": "Tech startup tax credits and anti-corruption reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation tax incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS WEST AFRICAN TRADE HUB LAGOS FACES IMMINENT SUPPLY CHAIN BREAK; POLICY REFORMS IN SINGAPORE AND GERMANY BOOST STABILITY, WHILE ENERGY STRAINS TIGHTEN IN SOUTH ASIA.",
-    "last_updated": "2026-08-19 08:01:54",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID URBANIZATION FUELS DEMAND; POLICY REFORMS IN COPENHAGEN AND SINGAPORE BOOST STABILITY WHILE GRID STRAINS IN KARACHI SIGNAL LOOMING COLLAPSE.",
+    "last_updated": "2026-08-19 08:50:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.85,
-        "T": 0.92,
-        "B": 0.65,
-        "C": 0.7
+        "P": 1.2,
+        "F": 0.95,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 0.9
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.155,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
