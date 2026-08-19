@@ -1,52 +1,52 @@
 {
-    "shi": 2.51979,
-    "health_percent": 68.3,
+    "shi": 3.05486,
+    "health_percent": 68.5,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "120:45:30",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to aging grid"
+            "deviation": "energy chokepoint due to aging grid"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "High external debt limiting fiscal flexibility"
+            "deviation": "high external debt impacting fiscal stability"
         },
         {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "Trade barriers from regional tariffs"
+            "loc": "Moscow, Russia",
+            "deviation": "trade barriers from sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital trade platform"
+            "loc": "Austin, USA",
+            "protocol": "innovation hub with green tech incentives"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti\u2011corruption framework"
+            "loc": "Bangalore, India",
+            "protocol": "policy reforms for digital economy"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "High\u2011R&D innovation incentives"
+            "loc": "Dublin, Ireland",
+            "protocol": "anti-corruption framework boosting foreign investment"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | \u26a1\ufe0f LAGOS FACES IMMINENT GRID OVERLOAD; CHILE'S DEBT RESTRUCTURING GAINS TRACTION; SINGAPORE'S NEW TRADE PORTAL CUTS TRANSACTION TIMES BY 30%.",
-    "last_updated": "2026-08-19 05:20:01",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | RAPID GRID FAILURES IN LAGOS THREATEN REGIONAL POWER STABILITY; REFORMS IN AUSTIN AND BANGALORE DRIVE RESILIENCE.",
+    "last_updated": "2026-08-19 05:52:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 1.2,
         "F": 0.9,
-        "T": 0.78,
-        "B": 0.55,
-        "C": 0.62
+        "T": 1.1,
+        "B": 0.8,
+        "C": 0.7
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.317,
+        "kama_compression_ratio": 0.315,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
