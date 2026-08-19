@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 75.5,
-    "location": "LONDON, UK",
+    "shi": 4.2768,
+    "health_percent": 78.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:12",
+    "collapse_timer": "12:34:56",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation"
+        },
+        {
+            "loc": "Yemen, Sana'a",
+            "deviation": "Civil unrest"
+        },
+        {
+            "loc": "Sudan, Khartoum",
             "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Germany, Berlin",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Canada, Ottawa",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MIXED PERFORMANCE WITH EMERGING MARKETS FACING BOTTLENECKS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
-    "last_updated": "2026-08-19 20:40:31",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH KEY BOTTLENECKS IN FRAGILE STATES WHILE INNOVATION HUBS SUSTAIN GROWTH.",
+    "last_updated": "2026-08-19 21:03:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.245,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
