@@ -1,52 +1,52 @@
 {
-    "shi": 0.18,
-    "health_percent": 18.0,
+    "shi": 2.1384,
+    "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and debt crisis"
-        },
-        {
-            "loc": "Sanaa, Yemen",
-            "deviation": "Energy chokepoint and civil unrest"
-        },
-        {
-            "loc": "Kyiv, Ukraine",
-            "deviation": "Supply chain break due to conflict"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Berlin, Germany",
-            "protocol": "Policy reforms and innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Anti-corruption measures and tech growth"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Ottawa, Canada",
-            "protocol": "Energy diversification and fiscal stability"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH AT 18%; PRIMARY IMPACT IN SINGAPORE; WATCH FOR SUPPLY CHAIN RISKS IN UKRAINE AND ENERGY CHOKEPOINTS IN YEMEN.",
-    "last_updated": "2026-08-19 23:23:42",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING CHOKEPOINTS IN SOUTH ASIA.",
+    "last_updated": "2026-08-19 23:45:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.5,
-        "F": 0.5,
-        "T": 0.5,
-        "B": 1.0,
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.82,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
