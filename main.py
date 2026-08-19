@@ -39,24 +39,26 @@ def clean_json_text(text):
 
 def fetch_nvidia_cascade(prompt):
     """
-    Executes GHI metrics calculation strictly using verified production 
-    NVIDIA endpoints with a hard 10-second request timeout.
+    Executes GHI metrics calculation using next-gen reasoning models 
+    from the current NVIDIA catalog.
     """
     nvidia_key = os.getenv('NVIDIA_API_KEY')
     if not nvidia_key:
         raise ValueError("CRITICAL ERROR: NVIDIA_API_KEY missing from environment secrets.")
 
-    # High-speed production endpoints on NVIDIA API
+    # Primary active models mapped directly from your NVIDIA API console
     nvidia_models = [
-        "meta/llama-3.3-70b-instruct",
-        "nvidia/llama-3.1-nemotron-70b-instruct",
-        "mistralai/mistral-large-2-instruct"
+        "openai/gpt-oss-120b",
+        "nvidia/nemotron-3-super-120b-a12b",
+        "google/gemma-4-31b-it",
+        "stepfun-ai/step-3.7-flash",
+        "nvidia/llama-3.3-nemotron-super-49b-v1.5"
     ]
 
     nv_client = openai.OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=nvidia_key,
-        timeout=10.0  # Prevents long hanging requests
+        timeout=25.0  # Safe timeout balance for dense JSON reasoning
     )
 
     for model_name in nvidia_models:
@@ -64,7 +66,7 @@ def fetch_nvidia_cascade(prompt):
             print(f"[INFO] Executing scan via NVIDIA ({model_name})...")
             completion = nv_client.chat.completions.create(
                 model=model_name,
-                messages=[{"role": "user", "content": prompt + "\nRespond strictly in valid raw JSON format."}],
+                messages=[{"role": "user", "content": prompt + "\nRespond strictly in valid raw JSON format without markdown preamble."}],
                 temperature=0.2
             )
             cleaned = clean_json_text(completion.choices[0].message.content)
