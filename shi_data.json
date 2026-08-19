@@ -1,52 +1,52 @@
 {
-    "shi": 5.45068,
-    "health_percent": 68.4,
+    "shi": 0.64491,
+    "health_percent": 64.5,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "high inflation and debt"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy infrastructure bottleneck due to aging power grid"
         },
         {
-            "loc": "Kolkata, India",
-            "deviation": "energy grid constraints"
+            "loc": "Santiago, Chile",
+            "deviation": "Trade barrier from export tariffs on copper"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "sanction\u2011induced trade barriers"
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
             "loc": "Munich, Germany",
-            "protocol": "green energy investment"
+            "protocol": "Advanced renewable energy integration"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "anti\u2011corruption digital governance"
+            "loc": "Seoul, South Korea",
+            "protocol": "Aggressive anti-corruption digital governance"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "AI\u2011driven productivity reforms"
+            "protocol": "Policy reforms for housing affordability"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | \u26a0\ufe0f GLOBAL RISK ALERT: SUPPLY CHAIN DISRUPTIONS SURGE AS BOTTLENECKS IN ENERGY AND TRADE INTENSIFY. NATIONS ADOPTING RAPID INNOVATION PROTOCOLS SEE SHI RISE, WHILE OTHERS FACE LOOMING COLLAPSE.",
-    "last_updated": "2026-08-19 03:27:27",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL INDICES SHOW MODERATE STABILITY (64.5% HEALTH) WITH SUPPLY CHAIN RISKS RISING; FOCUS ON LAGOS AS HIGH-IMPACT NODE.",
+    "last_updated": "2026-08-19 04:09:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.31,
-        "F": 0.97,
-        "T": 1.12,
-        "B": 0.85,
-        "C": 0.78
+        "P": 0.9,
+        "F": 0.95,
+        "T": 0.88,
+        "B": 1.4,
+        "C": 1.2
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.355,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
