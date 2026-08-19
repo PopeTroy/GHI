@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "LONDON, UK",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:15",
+    "shi": 2.34378,
+    "health_percent": 73.58,
+    "location": "ROTTERDAM, NETHERLANDS",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "deviation": "Energy transmission chokepoint due to aging grid infrastructure"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "loc": "Santiago, Chile",
+            "deviation": "Trade barrier from recent export tariffs on copper"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High sovereign debt leading to fiscal instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration and smart grid upgrades"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "loc": "Seoul, South Korea",
+            "protocol": "AI-driven supply chain optimization and anti-corruption reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Toronto, Canada",
+            "protocol": "Diversified trade agreements and low debt-to-GDP ratio"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL-DRIVEN RESILIENCE.",
-    "last_updated": "2026-08-19 19:16:38",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS EU GREEN BOND ISSUANCE HITS RECORD; ASIAN TECH HUBS REPORT 12% YOY PRODUCTIVITY BOOST; AFRICAN ENERGY CONSORTIUM SECURES $3B FOR GRID MODERNIZATION.",
+    "last_updated": "2026-08-19 19:43:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.2642,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
