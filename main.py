@@ -39,44 +39,40 @@ def clean_json_text(text):
 
 def fetch_nvidia_cascade(prompt):
     """
-    Executes GHI metrics calculation and global node scanning strictly using 
-    NVIDIA's API across high-capacity reasoning endpoints.
+    Executes GHI metrics calculation strictly using verified production 
+    NVIDIA endpoints with a hard 10-second request timeout.
     """
     nvidia_key = os.getenv('NVIDIA_API_KEY')
     if not nvidia_key:
         raise ValueError("CRITICAL ERROR: NVIDIA_API_KEY missing from environment secrets.")
 
-    # High-Performance NVIDIA API Model List matching screenshot endpoints
+    # High-speed production endpoints on NVIDIA API
     nvidia_models = [
-        "openai/gpt-oss-120b",
-        "nvidia/nemotron-3-super-120b-a12b",
-        "nvidia/llama-3.3-nemotron-super-49b-v1.5",
-        "google/gemma-4-31b-it",
-        "stepfun-ai/step-3.7-flash",
-        "nvidia/nemotron-3-ultra-550b-a55b",
-        "nvidia/nemotron-3-nano-30b-a3b",
-        "openai/gpt-oss-20b"
+        "meta/llama-3.3-70b-instruct",
+        "nvidia/llama-3.1-nemotron-70b-instruct",
+        "mistralai/mistral-large-2-instruct"
     ]
 
     nv_client = openai.OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
-        api_key=nvidia_key
+        api_key=nvidia_key,
+        timeout=10.0  # Prevents long hanging requests
     )
 
     for model_name in nvidia_models:
         try:
-            print(f"[INFO] Invoking Divine Execution via NVIDIA Engine ({model_name})...")
+            print(f"[INFO] Executing scan via NVIDIA ({model_name})...")
             completion = nv_client.chat.completions.create(
                 model=model_name,
-                messages=[{"role": "user", "content": prompt + "\nRespond strictly in valid raw JSON format without conversational prose."}],
+                messages=[{"role": "user", "content": prompt + "\nRespond strictly in valid raw JSON format."}],
                 temperature=0.2
             )
             cleaned = clean_json_text(completion.choices[0].message.content)
             return cleaned, f"NVIDIA_{model_name.upper()}"
         except Exception as e:
-            print(f"[WARNING] NVIDIA Model {model_name} failed: {e}. Cascading to next node...")
+            print(f"[WARNING] NVIDIA Model {model_name} skipped/failed: {e}")
 
-    raise RuntimeError("CRITICAL FAILURE: All NVIDIA inference engines in the cascade failed.")
+    raise RuntimeError("CRITICAL FAILURE: All NVIDIA inference engines failed.")
 
 def run_ghi_metric_engine():
     prompt = """
@@ -112,7 +108,7 @@ def run_ghi_metric_engine():
         m = raw['metrics']
         shi = (m['N'] * m['P'] * m['F'] * m['T']) / (m['B'] * m['C'] if m['B'] * m['C'] != 0 else 0.00001)
 
-        # Enforce strict 0% to 100% boundary on health_percent
+        # Enforce strict 0% to 100% boundary
         raw_health = float(raw['health_percent'])
         health_val = min(100.0, max(0.0, raw_health))
 
