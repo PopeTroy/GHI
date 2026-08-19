@@ -1,52 +1,52 @@
 {
-    "shi": 2.34378,
-    "health_percent": 73.58,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 0.87729,
+    "health_percent": 87.78,
+    "location": "SHANGHAI, CHINA",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy transmission chokepoint due to aging grid infrastructure"
+            "deviation": "Severe energy chokepoint due to aging grid infrastructure."
+        },
+        {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers from regional tariffs and port congestion."
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from recent export tariffs on copper"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt leading to fiscal instability"
+            "deviation": "High sovereign debt leading to fiscal strain."
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration and smart grid upgrades"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Advanced anti-corruption framework and fintech innovation."
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "AI-driven supply chain optimization and anti-corruption reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Robust renewable energy policies and circular economy initiatives."
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified trade agreements and low debt-to-GDP ratio"
+            "loc": "Singapore, Singapore",
+            "protocol": "Strategic trade facilitation and digital governance reforms."
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS EU GREEN BOND ISSUANCE HITS RECORD; ASIAN TECH HUBS REPORT 12% YOY PRODUCTIVITY BOOST; AFRICAN ENERGY CONSORTIUM SECURES $3B FOR GRID MODERNIZATION.",
-    "last_updated": "2026-08-19 19:43:40",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY AT 87.8% \u2013 SHANGHAI LEADS IMPACT; GRID RISKS RISING IN LAGOS, KARACHI, SANTIAGO; ZURICH, COPENHAGEN, SINGAPORE REMAIN RESILIENT.",
+    "last_updated": "2026-08-19 20:03:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.78,
-        "C": 0.88
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 1.5,
+        "C": 1.3
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2642,
+        "kama_compression_ratio": 0.1222,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
