@@ -1,52 +1,52 @@
 {
-    "shi": 2.2344,
-    "health_percent": 68.5,
-    "location": "SHANGHAI, CHINA",
+    "shi": 2.1384,
+    "health_percent": 78.5,
+    "location": "LONDON, UNITED KINGDOM",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "36:12:45",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint and high debt"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy supply chokepoint due to aging grid"
+            "deviation": "Trade barriers and civil unrest"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade sanctions limiting export corridors"
-        },
-        {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "High sovereign debt burden affecting fiscal space"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and supply chain break"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration policy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption policies and innovation hub"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "AI-driven anti-corruption platform"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business reforms and financial stability"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation hub incentives for clean tech"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and fiscal prudence"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES TO 2.23, SHANGHAI LEADS IMPACT, GRID RISKS PEAK IN LAGOS, MOSCOW, S\u00c3O PAULO.",
-    "last_updated": "2026-08-19 16:15:15",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS LIKE ZURICH AND SINGAPORE MAINTAIN HIGH SHI, EMERGING MARKETS FACE ENERGY AND DEBT BOTTLENECKS RAISING COLLAPSE RISKS.",
+    "last_updated": "2026-08-19 16:52:07",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
         "B": 0.8,
-        "C": 0.9
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.315,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
