@@ -1,52 +1,52 @@
 {
-    "shi": 3.8843,
-    "health_percent": 78.4,
-    "location": "SHANGHAI, CHINA",
+    "shi": 5.45068,
+    "health_percent": 68.4,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "energy chokepoint"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "high inflation and debt"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "high debt"
+            "loc": "Kolkata, India",
+            "deviation": "energy grid constraints"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "trade barriers"
+            "deviation": "sanction\u2011induced trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Munich, Germany",
-            "protocol": "innovation hub"
+            "protocol": "green energy investment"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "anti\u2011corruption digital governance"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "anti-corruption"
+            "protocol": "AI\u2011driven productivity reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICES SHOW RISING PRESSURES IN AFRICA, LATIN AMERICA, AND EASTERN EUROPE AS SUPPLY CHAIN DISRUPTIONS INTENSIFY.",
-    "last_updated": "2026-08-19 02:32:22",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | \u26a0\ufe0f GLOBAL RISK ALERT: SUPPLY CHAIN DISRUPTIONS SURGE AS BOTTLENECKS IN ENERGY AND TRADE INTENSIFY. NATIONS ADOPTING RAPID INNOVATION PROTOCOLS SEE SHI RISE, WHILE OTHERS FACE LOOMING COLLAPSE.",
+    "last_updated": "2026-08-19 03:27:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.73,
-        "F": 0.88,
+        "P": 2.31,
+        "F": 0.97,
         "T": 1.12,
-        "B": 0.95,
-        "C": 1.05
+        "B": 0.85,
+        "C": 0.78
     },
     "engine_active": "GROQ_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.216,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
