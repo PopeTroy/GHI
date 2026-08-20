@@ -1,52 +1,52 @@
 {
-    "shi": 3.22226,
-    "health_percent": 71.23,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 2.1384,
+    "health_percent": 45.67,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy import dependency > 70%"
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade tariffs on copper rising"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "External debt servicing > 40% of GDP"
+            "deviation": "High external debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation pressures"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced manufacturing incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "AI-driven regulatory sandbox"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Green infrastructure tax credits"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX TRENDING UPWARD; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN KEY PORTS.",
-    "last_updated": "2026-08-20 19:41:28",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
+    "last_updated": "2026-08-20 20:04:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.45,
-        "C": 0.62
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2877,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5433,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
