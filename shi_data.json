@@ -1,48 +1,48 @@
 {
-    "shi": 4.2768,
+    "shi": 2.34378,
     "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:12",
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy transmission bottleneck due to aging grid"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barrier from port congestion"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption reforms"
+            "protocol": "Advanced anti-corruption fintech reforms"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Innovation hub incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub with AI-driven policy"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Trade barrier reduction"
+            "loc": "Munich, Germany",
+            "protocol": "Robust renewable energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES GRAPPLE WITH DEBT WHILE ADVANCED ECONOMIES PUSH INNOVATION-LED GROWTH.",
-    "last_updated": "2026-08-20 13:17:53",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX AT 78.5% \u2013 SHANGHAI LEADS IMPACT, GRID RISKS RISE IN LAGOS, KARACHI, SANTIAGO; ZURICH, SINGAPORE, MUNICH SHOWCASE RESILIENCE.",
+    "last_updated": "2026-08-20 14:03:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
