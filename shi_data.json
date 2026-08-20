@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
+    "health_percent": 75.3,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and energy chokepoints"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Energy chokepoints and high debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Policy reforms and anti-corruption"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation and policy reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-corruption measures"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption and innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES INNOVATE.",
-    "last_updated": "2026-08-20 03:34:33",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-08-20 04:20:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.247,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
