@@ -1,52 +1,52 @@
 {
-    "shi": 2.34378,
-    "health_percent": 78.5,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 2.1384,
+    "health_percent": 73.5,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "12:34:56",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy supply chokepoint due to sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barrier from export controls"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
         },
         {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "High sovereign debt pressure"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial transparency reforms"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub incentives"
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Green energy infrastructure upgrade"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS EU UNVEILS ANTI-CORRUPTION PACKAGE; US GRID RESILIENCE PLAN GAINS BIPARTISAN SUPPORT; EMERGING ECONOMIES CUT TARIFFS TO BOOST TRADE.",
-    "last_updated": "2026-08-20 22:38:59",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MIXED SIGNALS; MONITOR ENERGY CHOKEPOINTS IN SOUTH ASIA AND DEBT LEVELS IN SUB-SAHARAN AFRICA.",
+    "last_updated": "2026-08-20 23:03:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.78,
-        "C": 0.88
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
