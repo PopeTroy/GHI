@@ -1,52 +1,52 @@
 {
-    "shi": 2.08931,
-    "health_percent": 71.3,
+    "shi": 2.54422,
+    "health_percent": 78.4,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to aging grid infrastructure."
+            "deviation": "Severe energy chokepoint due to aging grid"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "Trade barriers from export tariffs on copper."
+            "deviation": "Trade barriers from export tariffs on copper"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt burden limiting fiscal flexibility."
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Advanced green energy integration and anti-corruption reforms."
+            "protocol": "Advanced renewable integration policy"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade facilitation and robust fiscal reserves."
+            "protocol": "Anti-corruption digital governance"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability measures and innovation incentives."
+            "protocol": "Innovation hub with fintech incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL MARKETS RALLY AS NEW ANTI-CORRUPTION PACT SIGNS IN EUROPE; AFRICAN ENERGY CORRIDORS RECEIVE $5B INVESTMENT; ASIAN SUPPLY CHAINS ADAPT TO NEW TRADE PROTOCOLS.",
-    "last_updated": "2026-08-20 17:45:12",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX AT 78.4% \u2013 LAGOS FACES RISING CIVIL UNREST, WHILE COPENHAGEN, SINGAPORE, AND ZURICH LEAD REFORMS.",
+    "last_updated": "2026-08-20 18:15:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 1.12,
-        "T": 0.95,
-        "B": 0.65,
-        "C": 0.88
+        "F": 0.65,
+        "T": 0.92,
+        "B": 0.55,
+        "C": 0.48
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.287,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
