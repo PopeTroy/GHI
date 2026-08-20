@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 68.3,
+    "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "120:00:00",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unstable power grid"
-        },
-        {
             "loc": "Yangon, Myanmar",
-            "deviation": "Political unrest causing supply chain disruptions"
+            "deviation": "Trade barriers and energy chokepoints"
+        },
+        {
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "High debt and political instability"
+        },
+        {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints and high debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Comprehensive financial regulation and innovation hub"
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and anti-corruption measures"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption and green energy initiatives"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Tech-driven growth policies and strong healthcare"
+            "protocol": "Innovation and skilled workforce development"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND NORTH AMERICA.",
-    "last_updated": "2026-08-20 20:42:31",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL ADHERENCE.",
+    "last_updated": "2026-08-20 21:06:47",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.317,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
