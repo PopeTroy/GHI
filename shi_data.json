@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 76.4,
-    "location": "LAGOS, NIGERIA",
+    "shi": 2.1384,
+    "health_percent": 50.0,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy transmission bottleneck due to aging grid infrastructure"
+            "loc": "Zurich, Switzerland",
+            "deviation": "High debt"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from recent export tariffs on copper"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "Trade barrier"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt limiting fiscal stimulus"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital trade platform reducing customs delays"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and fiscal prudence"
+            "protocol": "Policy reform"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy integration boosting energy security"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 76.4%: LAGOS FACES SUPPLY CHAIN BREAK; WATCH ENERGY, TRADE, DEBT BOTTLENECKS; TOP PROTOCOLS IN SINGAPORE, ZURICH, COPENHAGEN.",
-    "last_updated": "2026-08-20 15:57:28",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH WITH SUPPLY CHAIN RISKS EMERGING IN KEY EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL ADHERENCE.",
+    "last_updated": "2026-08-20 16:42:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 0.7
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.236,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.5,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
