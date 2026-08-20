@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 42.77,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "health_percent": 73.2,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "12:30:45",
     "bottlenecks": [
         {
-            "loc": "Zurich, Switzerland",
-            "deviation": "High debt"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt and energy chokepoints"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Trade barrier"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
-            "loc": "Houston, USA",
-            "deviation": "Energy chokepoint"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Policy reform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Anti-corruption"
+            "loc": "Oslo, Norway",
+            "protocol": "Robust fiscal reforms and green energy transition"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business regulations and tech hub development"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; PRIMARY IMPACT IN NEW YORK WITH SUPPLY CHAIN RISKS; BOTTLENECKS IN ZURICH, SINGAPORE, HOUSTON; STABLE NODES IN COPENHAGEN, TOKYO, TORONTO.",
-    "last_updated": "2026-08-20 10:17:10",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN EMERGING ECONOMIES.",
+    "last_updated": "2026-08-20 10:53:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5723,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.268,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
