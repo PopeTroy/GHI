@@ -1,52 +1,52 @@
 {
-    "shi": 2.54422,
-    "health_percent": 78.4,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:12:30",
+    "shi": 0.36,
+    "health_percent": 36.0,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to aging grid"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barriers from export tariffs on copper"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and civil unrest"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt pressure"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Infrastructure bottlenecks and high debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Advanced renewable integration policy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong policy reforms and innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption digital governance"
+            "protocol": "Anti-corruption and technological innovation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub with fintech incentives"
+            "loc": "Oslo, Norway",
+            "protocol": "Sustainable energy policies and low debt"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX AT 78.4% \u2013 LAGOS FACES RISING CIVIL UNREST, WHILE COPENHAGEN, SINGAPORE, AND ZURICH LEAD REFORMS.",
-    "last_updated": "2026-08-20 18:15:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH AT 36%; PRIMARY IMPACT IN NEW YORK; SUPPLY CHAIN BREAK RISK LOOMING; MONITOR BOTTLENECKS IN SOUTH ASIA AND AFRICA.",
+    "last_updated": "2026-08-20 19:06:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.65,
-        "T": 0.92,
-        "B": 0.55,
-        "C": 0.48
+        "P": 1.0,
+        "F": 1.0,
+        "T": 1.0,
+        "B": 2.0,
+        "C": 2.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.216,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.64,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
