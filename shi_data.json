@@ -6,34 +6,34 @@
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation and debt crisis"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints"
+            "loc": "Yemen, Sana'a",
+            "deviation": "Energy chokepoint and civil unrest"
         },
         {
-            "loc": "Port-au-Prince, Haiti",
-            "deviation": "High debt"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Trade barriers due to conflict"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Germany, Berlin",
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "South Korea, Seoul",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Canada, Ottawa",
+            "protocol": "Sustainable energy investment"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA POSE NEAR-TERM RISK.",
-    "last_updated": "2026-08-20 05:00:20",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN CONFLICT ZONES WHILE INNOVATION HUBS MAINTAIN HIGH SHI.",
+    "last_updated": "2026-08-20 05:39:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
