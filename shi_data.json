@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 24.66,
-    "location": "LAGOS, NIGERIA",
+    "shi": 2.1384,
+    "health_percent": 75.3,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint due to aging grid"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation and debt crisis"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Sanctions-induced trade barriers"
+            "loc": "Yemen, Sana'a",
+            "deviation": "Energy chokepoint and civil unrest"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt pressure"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Trade barriers and supply chain disruption"
         }
     ],
     "high_shi": [
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Advanced anti-corruption framework"
+            "loc": "Germany, Berlin",
+            "protocol": "Policy reform and innovation"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation-driven growth policies"
+            "loc": "South Korea, Seoul",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust fiscal stability measures"
+            "loc": "Canada, Ottawa",
+            "protocol": "Sustainable energy investment"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN DISRUPTIONS IN ASIA ACCELERATE, WHILE EUROPEAN HUBS REPORT STEADY GROWTH.",
-    "last_updated": "2026-08-20 08:26:52",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; KEY BOTTLENECKS IN VENEZUELA, YEMEN, UKRAINE; HIGH\u2011IMPACT HUB SINGAPORE DRIVES GROWTH.",
+    "last_updated": "2026-08-20 09:08:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 0.7
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.7534,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.247,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
