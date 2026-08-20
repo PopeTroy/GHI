@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 3.05486,
+    "health_percent": 24.66,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoints and high debt"
+            "deviation": "Energy chokepoint due to aging grid"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and port congestion"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions-induced trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and fiscal instability"
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory reforms and innovation hub"
-        },
-        {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and anti-corruption measures"
+            "protocol": "Advanced anti-corruption framework"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Smart nation initiatives and trade facilitation"
+            "protocol": "Innovation-driven growth policies"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust fiscal stability measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; KEY BOTTLENECKS IN EMERGING MARKETS STRAIN SUPPLY CHAINS, WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE THROUGH INNOVATION AND POLICY REFORMS.",
-    "last_updated": "2026-08-20 07:53:19",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN DISRUPTIONS IN ASIA ACCELERATE, WHILE EUROPEAN HUBS REPORT STEADY GROWTH.",
+    "last_updated": "2026-08-20 08:26:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.7534,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
