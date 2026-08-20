@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 75.3,
+    "shi": 14.256,
+    "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation and debt crisis"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Energy chokepoint and civil unrest"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "Trade barriers and supply chain disruption"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation pressures"
         }
     ],
     "high_shi": [
         {
-            "loc": "Germany, Berlin",
-            "protocol": "Policy reform and innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption framework"
         },
         {
-            "loc": "South Korea, Seoul",
-            "protocol": "Anti-corruption measures"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy leadership"
         },
         {
-            "loc": "Canada, Ottawa",
-            "protocol": "Sustainable energy investment"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced innovation ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; KEY BOTTLENECKS IN VENEZUELA, YEMEN, UKRAINE; HIGH\u2011IMPACT HUB SINGAPORE DRIVES GROWTH.",
-    "last_updated": "2026-08-20 09:08:09",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS; ASIAN HUBS RESILIENT WHILE EMERGING MARKETS FACE DEBT AND ENERGY PRESSURES.",
+    "last_updated": "2026-08-20 09:49:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.4,
+        "C": 0.3
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.247,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
