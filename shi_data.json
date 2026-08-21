@@ -1,52 +1,52 @@
 {
-    "shi": 2.03657,
-    "health_percent": 73.4,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 2.1384,
+    "health_percent": 78.5,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "loc": "Yemen, Sana'a",
+            "deviation": "Civil Unrest"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Energy Chokepoint"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal policy and green energy transition"
+            "loc": "Switzerland, Zurich",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced technology adoption and stable debt"
+            "loc": "Germany, Berlin",
+            "protocol": "Policy Reform"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING CHOKEPOINTS IN SOUTH ASIA.",
-    "last_updated": "2026-08-21 23:04:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES; KEY REFORMS IN EUROPE AND ASIA BOLSTER SHI WHILE DEBT AND UNREST PERSIST IN VULNERABLE REGIONS.",
+    "last_updated": "2026-08-21 23:35:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.05
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
