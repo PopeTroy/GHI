@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "NEW YORK, USA",
+    "health_percent": 45.67,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe energy chokepoints and high debt"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Civil Unrest"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers and rising inflation"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "Energy Chokepoint"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation risk and grid instability"
         }
     ],
     "high_shi": [
         {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption policies and innovation hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and fiscal prudence"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
-        },
-        {
-            "loc": "Switzerland, Zurich",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Germany, Berlin",
-            "protocol": "Policy Reform"
+            "protocol": "Trade facilitation and digital infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES; KEY REFORMS IN EUROPE AND ASIA BOLSTER SHI WHILE DEBT AND UNREST PERSIST IN VULNERABLE REGIONS.",
-    "last_updated": "2026-08-21 23:35:50",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EUROPE'S HUBS HOLD FIRM WHILE EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN THE NEXT 48 HOURS.",
+    "last_updated": "2026-08-21 23:57:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5433,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
