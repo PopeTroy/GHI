@@ -1,52 +1,52 @@
 {
-    "shi": 0.36,
-    "health_percent": 36.0,
-    "location": "ZURICH, SWITZERLAND",
+    "shi": 2.03657,
+    "health_percent": 85.3,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and corruption"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation and grid collapse"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and tech hub"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE HEALTH WITH EMERGING RISKS IN ENERGY AND DEBT SECTORS.",
-    "last_updated": "2026-08-21 19:44:07",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-08-21 20:01:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.0,
-        "F": 1.0,
-        "T": 1.0,
-        "B": 2.0,
-        "C": 2.0
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.64,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.147,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
