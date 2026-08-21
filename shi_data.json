@@ -1,52 +1,52 @@
 {
-    "shi": 1.8521,
-    "health_percent": 75.3,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.08931,
+    "health_percent": 67.65,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "High debt and energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy import dependency and foreign debt spikes"
         },
         {
-            "loc": "Port-au-Prince, Haiti",
-            "deviation": "Trade barriers and political instability"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanction-induced trade barriers"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and fiscal deficits"
+            "loc": "Beijing, China",
+            "deviation": "Overcapacity in manufacturing leading to export bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration and fiscal prudence"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption measures and green energy"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms and fintech innovation"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Infrastructure investment and skilled workforce"
+            "protocol": "Diversified trade agreements and green tech subsidies"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA AND CARIBBEAN POSE IMMINENT RISKS, WHILE NORDIC AND NORTH AMERICAN HUBS MAINTAIN STRONG PROTOCOLS.",
-    "last_updated": "2026-08-21 01:38:29",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS RALLY AS EU GREEN POLICY GAINS TRACTION; ASIAN SUPPLY CHAINS ADJUST TO NEW TARIFFS; US DEBT CEILING TALKS INTENSIFY.",
+    "last_updated": "2026-08-21 02:48:57",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.23,
-        "F": 0.87,
-        "T": 1.05,
-        "B": 0.78,
-        "C": 1.12
+        "P": 0.78,
+        "F": 1.12,
+        "T": 0.95,
+        "B": 0.65,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.247,
+        "kama_compression_ratio": 0.3235,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
