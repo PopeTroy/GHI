@@ -1,52 +1,52 @@
 {
-    "shi": 1.6758,
-    "health_percent": 84.2,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 2.1384,
+    "health_percent": 42.77,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy transmission chokepoint due to aging grid"
+            "deviation": "Severe energy chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Sanctions\u2011induced trade barriers on energy imports"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt and trade barriers"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt limiting fiscal response"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political instability causing trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital governance and anti\u2011corruption platform"
+            "protocol": "Innovation hub with anti-corruption reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and low debt exposure"
+            "protocol": "Strong financial policies and innovation"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Industrial innovation clusters and green energy transition"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy reforms and energy diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS LAGOS LAUNCHES RENEWABLE MICRO\u2011GRID; EU BACKS MUNICH'S GREEN TECH FUND; SINGAPORE'S ANTI\u2011CORRUPTION AI CUTS ILLICIT FLOWS BY 30%.",
-    "last_updated": "2026-08-21 06:18:01",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS LOOM IN EMERGING MARKETS WHILE INNOVATION HUBS MAINTAIN RESILIENCE.",
+    "last_updated": "2026-08-21 07:14:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
         "B": 0.8,
-        "C": 1.2
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.158,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5723,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
