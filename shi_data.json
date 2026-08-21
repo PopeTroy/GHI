@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 42.77,
-    "location": "NEW YORK, USA",
+    "shi": 2.64,
+    "health_percent": 79.2,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "deviation": "Severe energy chokepoints and rising external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Port congestion and trade barriers"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability causing trade barriers"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and fiscal imbalances"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with anti-corruption reforms"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial policies and innovation"
+            "protocol": "Strong anti-corruption framework and innovation hub"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms and energy diversification"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and high-tech innovation"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and fiscal prudence"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS LOOM IN EMERGING MARKETS WHILE INNOVATION HUBS MAINTAIN RESILIENCE.",
-    "last_updated": "2026-08-21 07:14:19",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING CHOKEPOINTS IN SOUTH ASIA AND AFRICA.",
+    "last_updated": "2026-08-21 08:01:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
+        "F": 1.1,
+        "T": 1.0,
         "B": 0.8,
-        "C": 1.0
+        "C": 0.9
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5723,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.208,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
