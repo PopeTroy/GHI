@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 57.3,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "shi": 2.34378,
+    "health_percent": 43.2,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "deviation": "Severe trade barriers and port congestion"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoint due to pipeline sanctions"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "deviation": "High sovereign debt and fiscal strain"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability reforms"
+            "protocol": "Robust anti\u2011corruption framework and fiscal discipline"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption measures"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation\u2011driven policy reforms and digital infrastructure"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation incentives"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced green energy integration and transparent governance"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES STABILIZE THROUGH POLICY REFORMS.",
-    "last_updated": "2026-08-21 08:53:38",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY AT 43% \u2013 WATCH GRID RISKS IN SHANGHAI, WHILE ZURICH, SINGAPORE, MUNICH LEAD REFORMS.",
+    "last_updated": "2026-08-21 09:27:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.427,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.568,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
