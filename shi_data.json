@@ -1,52 +1,52 @@
 {
-    "shi": 2.10296,
-    "health_percent": 68.4,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 2.1384,
+    "health_percent": 73.5,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Beijing, China",
-            "deviation": "Energy chokepoint due to coal supply constraints"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt and energy chokepoint"
         },
         {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "Trade barriers from export tariffs on commodities"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and port congestion"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt and sanctions pressure"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political instability and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Innovation hub policy reforms boosting tech sector"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Anti-corruption measures enhancing financial stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business reforms and tech hub"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Renewable energy incentives driving sustainable growth"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISING, FOCUS ON ENERGY, TRADE, AND DEBT REFORMS.",
-    "last_updated": "2026-08-21 13:55:00",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS SUPPLY CHAIN DISRUPTIONS EASE IN ASIA WHILE EUROPE FACES INFLATIONARY PRESSURES.",
+    "last_updated": "2026-08-21 14:35:24",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.85,
-        "C": 0.9
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
