@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 73.2,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "36:12:00",
+    "shi": 3.85605,
+    "health_percent": 68.73,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "Energy supply chokepoint due to aging grid"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade sanctions increasing import costs"
+        },
+        {
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "High sovereign debt limiting fiscal flexibility"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption reforms"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration policy"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Innovation hub"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust anti-corruption framework"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Robust trade facilitation"
+            "loc": "Seoul, South Korea",
+            "protocol": "AI-driven manufacturing innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN HIGH SHI SCORES.",
-    "last_updated": "2026-08-21 10:04:17",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES AS RENEWABLE POLICIES TAKE HOLD, BUT ENERGY CHOKEPOINTS IN AFRICA AND SANCTIONS IN EUROPE THREATEN BALANCE.",
+    "last_updated": "2026-08-21 10:41:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
+        "P": 1.23,
+        "F": 0.95,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 0.8,
+        "C": 0.6
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.268,
+        "kama_compression_ratio": 0.3127,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
