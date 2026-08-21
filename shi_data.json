@@ -1,52 +1,52 @@
 {
-    "shi": 0.6336,
-    "health_percent": 63.36,
-    "location": "NEW YORK, USA",
+    "shi": 1.8521,
+    "health_percent": 75.3,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
+            "loc": "Yangon, Myanmar",
             "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Trade barriers and political instability"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and grid collapse"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints and fiscal deficits"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation"
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and tech hub"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption measures and green energy"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Energy efficiency and fiscal discipline"
+            "loc": "Toronto, Canada",
+            "protocol": "Infrastructure investment and skilled workforce"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE RESILIENCE; WATCH FOR EMERGING SUPPLY CHAIN DISRUPTIONS IN SOUTH ASIA.",
-    "last_updated": "2026-08-20 23:58:25",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA AND CARIBBEAN POSE IMMINENT RISKS, WHILE NORDIC AND NORTH AMERICAN HUBS MAINTAIN STRONG PROTOCOLS.",
+    "last_updated": "2026-08-21 01:38:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 1.1,
-        "T": 1.0,
-        "B": 2.0,
-        "C": 1.5
+        "P": 1.23,
+        "F": 0.87,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 1.12
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.3664,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.247,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
