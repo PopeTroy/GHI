@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 2.14,
-    "location": "LONDON, UK",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 2.03657,
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
+            "deviation": "High debt and energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Robust fiscal policy and green energy transition"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and stable debt"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE IMPROVEMENT; WATCH FOR ENERGY CHOKEPOINTS IN SOUTH ASIA.",
-    "last_updated": "2026-08-21 22:46:26",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING CHOKEPOINTS IN SOUTH ASIA.",
+    "last_updated": "2026-08-21 23:04:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9786,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
