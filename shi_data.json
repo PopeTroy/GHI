@@ -1,52 +1,52 @@
 {
-    "shi": 2.08931,
-    "health_percent": 67.65,
-    "location": "ROTTERDAM, NETHERLANDS",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 2.34378,
+    "health_percent": 76.56,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy import dependency and foreign debt spikes"
+            "deviation": "Severe energy chokepoint due to aging grid infrastructure"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Sanction-induced trade barriers"
+            "deviation": "Trade barriers from sanctions impacting commodity flows"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Overcapacity in manufacturing leading to export bottlenecks"
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt limiting fiscal stimulus"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration and fiscal prudence"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption framework and fintech innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms and fintech innovation"
+            "protocol": "Efficient trade facilitation and low debt-to-GDP ratio"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Diversified trade agreements and green tech subsidies"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable energy integration and industrial diversification"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS RALLY AS EU GREEN POLICY GAINS TRACTION; ASIAN SUPPLY CHAINS ADJUST TO NEW TARIFFS; US DEBT CEILING TALKS INTENSIFY.",
-    "last_updated": "2026-08-21 02:48:57",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES TO 2.34; SHANGHAI FLAGGED AS PRIMARY IMPACT HUB; GRID COLLAPSE RISK PEAKS IN 48H; BOTTLENECKS IN LAGOS, MOSCOW, SANTIAGO; STABLE NODES THRIVING IN ZURICH, SINGAPORE, MUNICH.",
+    "last_updated": "2026-08-21 03:38:38",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.12,
-        "T": 0.95,
-        "B": 0.65,
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
         "C": 0.88
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3235,
+        "kama_compression_ratio": 0.2344,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
