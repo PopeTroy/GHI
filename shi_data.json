@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "shi": 3.05486,
+    "health_percent": 75.33,
+    "location": "MUMBAI, INDIA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt and energy chokepoint"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and port congestion"
+            "deviation": "high energy import dependency"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability and sanctions"
+            "loc": "Santiago, Chile",
+            "deviation": "restrictive commodity export tariffs"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "sanction\u2011induced financial strain"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "financial transparency reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and tech hub"
+            "loc": "Tokyo, Japan",
+            "protocol": "advanced manufacturing incentives"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and fiscal stability"
+            "protocol": "green energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS SUPPLY CHAIN DISRUPTIONS EASE IN ASIA WHILE EUROPE FACES INFLATIONARY PRESSURES.",
-    "last_updated": "2026-08-21 14:35:24",
+    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY AT 75% \u2013 PRIORITIZE ENERGY DIVERSIFICATION, ANTI\u2011CORRUPTION POLICIES, AND INNOVATION INCENTIVES.",
+    "last_updated": "2026-08-21 15:06:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.2467,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
