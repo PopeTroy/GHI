@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 68.15,
-    "location": "SHANGHAI, CHINA",
+    "health_percent": 46.78,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy chokepoints and high debt"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers and rising inflation"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and grid instability"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms and innovation hub"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption measures and financial stability"
+            "protocol": "Innovation"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and high productivity"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH AT 68.15%; PRIMARY IMPACT IN SHANGHAI; SUPPLY CHAIN BREAK RISK LOOMING WITH 48-HOUR TIMER; BOTTLENECKS CONCENTRATED IN LAGOS, KARACHI, CARACAS; STRONGEST RESILIENCE IN ZURICH, SINGAPORE, COPENHAGEN.",
-    "last_updated": "2026-08-21 18:00:14",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN SOUTH ASIA.",
+    "last_updated": "2026-08-21 18:50:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3185,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5322,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
