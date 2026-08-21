@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 78.5,
+    "shi": 2.1384,
+    "health_percent": 57.3,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "High external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "deviation": "Hyperinflation pressures"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and financial innovation"
+            "protocol": "Strong anti-corruption reforms"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and fiscal prudence"
+            "protocol": "Innovation hub incentives"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Advanced technology adoption and stable monetary policy"
+            "protocol": "Trade barrier reduction"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; BOTTLENECKS CONCENTRATED IN SOUTH ASIA AND WEST AFRICA, WHILE NORDIC AND EAST ASIAN HUBS LEAD IN PROTOCOL-DRIVEN GROWTH.",
-    "last_updated": "2026-08-21 16:56:52",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT STRAINS WHILE ADVANCED ECONOMIES PUSH GREEN TECH INCENTIVES.",
+    "last_updated": "2026-08-21 17:30:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.427,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
