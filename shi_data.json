@@ -1,52 +1,52 @@
 {
-    "shi": 2.34378,
-    "health_percent": 43.2,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 4.2768,
+    "health_percent": 73.2,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "36:12:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe trade barriers and port congestion"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint due to pipeline sanctions"
+            "deviation": "High external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High sovereign debt and fiscal strain"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti\u2011corruption framework and fiscal discipline"
+            "protocol": "Strong anti-corruption reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation\u2011driven policy reforms and digital infrastructure"
+            "loc": "Oslo, Norway",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced green energy integration and transparent governance"
+            "loc": "Tokyo, Japan",
+            "protocol": "Robust trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY AT 43% \u2013 WATCH GRID RISKS IN SHANGHAI, WHILE ZURICH, SINGAPORE, MUNICH LEAD REFORMS.",
-    "last_updated": "2026-08-21 09:27:37",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN HIGH SHI SCORES.",
+    "last_updated": "2026-08-21 10:04:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.78,
-        "C": 0.88
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.5,
+        "C": 0.8
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.568,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.268,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
