@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 57.3,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "GRID COLLAPSE",
+    "health_percent": 68.15,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe energy chokepoints and high debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers and rising inflation"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures"
+            "deviation": "Hyperinflation and grid instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption reforms"
+            "protocol": "Strong policy reforms and innovation hub"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Innovation hub incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption measures and financial stability"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Trade barrier reduction"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and high productivity"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT STRAINS WHILE ADVANCED ECONOMIES PUSH GREEN TECH INCENTIVES.",
-    "last_updated": "2026-08-21 17:30:18",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH AT 68.15%; PRIMARY IMPACT IN SHANGHAI; SUPPLY CHAIN BREAK RISK LOOMING WITH 48-HOUR TIMER; BOTTLENECKS CONCENTRATED IN LAGOS, KARACHI, CARACAS; STRONGEST RESILIENCE IN ZURICH, SINGAPORE, COPENHAGEN.",
+    "last_updated": "2026-08-21 18:00:14",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.427,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3185,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
