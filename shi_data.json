@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 85.5,
-    "location": "NEW YORK, USA",
+    "shi": 2.652,
+    "health_percent": 62.4,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "36:12:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint due to grid failures"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers from port congestion"
+            "deviation": "Severe energy chokepoint"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "High debt distress"
+            "deviation": "High debt-to-GDP ratio"
+        },
+        {
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Trade barriers and customs delays"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial innovation and anti-corruption"
+            "protocol": "Innovation hub with strong anti-corruption"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and tech hub"
+            "protocol": "Policy reforms and efficient logistics"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition"
+            "loc": "Toronto, Canada",
+            "protocol": "Financial stability and green energy initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EMERGING MARKETS FACE ENERGY AND TRADE CHOKEPOINTS WHILE ADVANCED ECONOMIES LEVERAGE INNOVATION AND GREEN TRANSITIONS TO MAINTAIN RESILIENCE.",
-    "last_updated": "2026-08-21 20:58:18",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE BOTTLENECKS WHILE ADVANCED ECONOMIES MAINTAIN PROTOCOLS FOR GROWTH.",
+    "last_updated": "2026-08-21 21:29:51",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.3,
+        "F": 0.85,
+        "T": 1.05,
+        "B": 0.7,
+        "C": 0.9
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.145,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.376,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
