@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 75.33,
-    "location": "MUMBAI, INDIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 4.2768,
+    "health_percent": 73.5,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint and rising external debt"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "high energy import dependency"
+            "deviation": "Port congestion and currency volatility"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "restrictive commodity export tariffs"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "sanction\u2011induced financial strain"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and political instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "financial transparency reforms"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "advanced manufacturing incentives"
+            "protocol": "Robust financial regulation and innovation hub"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "green energy integration"
+            "protocol": "Green energy transition and low corruption"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade facilitation and digital infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: MUMBAI, INDIA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY AT 75% \u2013 PRIORITIZE ENERGY DIVERSIFICATION, ANTI\u2011CORRUPTION POLICIES, AND INNOVATION INCENTIVES.",
-    "last_updated": "2026-08-21 15:06:57",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; ASIAN EMERGING MARKETS FACE PRESSURE WHILE EUROPEAN HUBS MAINTAIN RESILIENCE.",
+    "last_updated": "2026-08-21 15:47:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 0.7
+        "B": 0.5,
+        "C": 0.8
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2467,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
