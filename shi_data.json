@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 2.14,
-    "location": "NEW YORK, USA",
+    "health_percent": 42.5,
+    "location": "SHANGHAI, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:30:15",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation pressures"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Innovation hub policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "protocol": "Green energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN SOUTH ASIA.",
-    "last_updated": "2026-08-22 20:22:57",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES BENEFIT FROM INNOVATION-DRIVEN GROWTH.",
+    "last_updated": "2026-08-22 20:46:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9786,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.575,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
