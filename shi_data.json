@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:15",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "Severe energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unstable grid"
+            "deviation": "High debt burden"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption reforms and innovation hub"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal policy and renewable energy transition"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policies and world-class infrastructure"
+            "protocol": "Policy reforms"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MIXED RESILIENCE: WHILE SINGAPORE LEADS IN PROTOCOL STRENGTH, EMERGING MARKETS FACE ENERGY AND DEBT BOTTLENECKS THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN THE NEXT TWO DAYS.",
-    "last_updated": "2026-08-22 04:05:03",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS; CORE ECONOMIES MAINTAIN STRONG PROTOCOLS.",
+    "last_updated": "2026-08-22 04:45:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
