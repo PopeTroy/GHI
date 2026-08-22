@@ -1,52 +1,52 @@
 {
-    "shi": 0.6336,
-    "health_percent": 63.36,
+    "shi": 3.05486,
+    "health_percent": 3.06,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "Energy chokepoint and high debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and volatile currency"
+            "deviation": "Trade barriers and corruption"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability and infrastructure decay"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and innovation hub"
+            "protocol": "Financial innovation and low corruption"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms driving green energy transition"
+            "protocol": "Trade facilitation and tech investment"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "High fiscal stability and advanced digital infrastructure"
+            "protocol": "Green energy transition and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES IN SOUTH ASIA CONTRAST WITH STRONG GOVERNANCE IN EUROPE AND SOUTHEAST ASIA.",
-    "last_updated": "2026-08-22 12:54:19",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES WHILE ADVANCED ECONOMIES LEVERAGE INNOVATION AND GOVERNANCE TO MAINTAIN RESILIENCE.",
+    "last_updated": "2026-08-22 13:27:23",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
-        "F": 1.1,
-        "T": 1.0,
-        "B": 2.0,
-        "C": 1.5
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 0.7
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.3664,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.9694,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
