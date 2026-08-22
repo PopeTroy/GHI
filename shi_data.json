@@ -1,20 +1,20 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
+    "health_percent": 75.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
             "deviation": "Severe energy chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
+            "loc": "Yangon, Myanmar",
             "deviation": "High debt burden"
         },
         {
-            "loc": "Yangon, Myanmar",
+            "loc": "Port-au-Prince, Haiti",
             "deviation": "Trade barriers"
         }
     ],
@@ -32,8 +32,8 @@
             "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS; CORE ECONOMIES MAINTAIN STRONG PROTOCOLS.",
-    "last_updated": "2026-08-22 04:45:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY PRICES FLUCTUATE.",
+    "last_updated": "2026-08-22 05:13:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.245,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
