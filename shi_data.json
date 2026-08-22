@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 45.67,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "health_percent": 85.0,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy chokepoints and high debt"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers and rising inflation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation risk and grid instability"
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
+            "protocol": "Financial stability reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and fiscal prudence"
+            "loc": "Oslo, Norway",
+            "protocol": "Green energy transition"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Trade facilitation and digital infrastructure"
+            "loc": "Tokyo, Japan",
+            "protocol": "Technological innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EUROPE'S HUBS HOLD FIRM WHILE EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN THE NEXT 48 HOURS.",
-    "last_updated": "2026-08-21 23:57:45",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY REFORMS STABILIZE KEY ECONOMIES WHILE DEBT PRESSURES LINGER IN EMERGING MARKETS.",
+    "last_updated": "2026-08-22 01:21:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5433,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.15,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
