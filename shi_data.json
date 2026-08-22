@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 3.06,
+    "shi": 2.1384,
+    "health_percent": 85.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint and high debt"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and sanctions"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyper-inflation pressures and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial innovation and low corruption"
+            "protocol": "Strong anti-corruption framework and innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Trade facilitation and tech investment"
+            "protocol": "Pro-growth policy reforms and financial stability"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and strong governance"
+            "loc": "Oslo, Norway",
+            "protocol": "Robust energy transition and low debt levels"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES WHILE ADVANCED ECONOMIES LEVERAGE INNOVATION AND GOVERNANCE TO MAINTAIN RESILIENCE.",
-    "last_updated": "2026-08-22 13:27:23",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; PRIMARY IMPACT CENTERED IN NEW YORK. BOTTLENECKS CLUSTER IN EMERGING MARKETS WITH ENERGY AND DEBT STRESSES, WHILE STABLE NODES BENEFIT FROM STRONG GOVERNANCE AND INNOVATION.",
+    "last_updated": "2026-08-22 13:54:24",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 0.7
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9694,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.145,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
