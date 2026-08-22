@@ -1,52 +1,52 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "NEW YORK, USA",
+    "shi": 2.03657,
+    "health_percent": 78.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation"
+        },
+        {
+            "loc": "Yemen, Sana'a",
+            "deviation": "Civil unrest"
+        },
+        {
+            "loc": "Ukraine, Kyiv",
             "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Germany, Berlin",
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
+            "loc": "South Korea, Seoul",
             "protocol": "Innovation"
         },
         {
-            "loc": "Oslo, Norway",
+            "loc": "Canada, Ottawa",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE WITH EMERGING RISKS IN ENERGY AND DEBT SECTORS.",
-    "last_updated": "2026-08-22 15:01:21",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE; SUPPLY CHAIN RISKS PERSIST IN EASTERN EUROPE WHILE INNOVATION HUBS IN ASIA DRIVE GROWTH.",
+    "last_updated": "2026-08-22 15:31:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.8,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
