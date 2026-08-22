@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "health_percent": 78.5,
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "deviation": "Civil unrest"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Policy reform"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Robust energy grid and fiscal prudence"
-        },
-        {
-            "loc": "Sydney, Australia",
-            "protocol": "Effective trade facilitation and health resilience"
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY REFORMS OFFSET REGIONAL BOTTLENECKS.",
-    "last_updated": "2026-08-22 02:31:46",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH KEY BOTTLENECKS IN EMERGING MARKETS AND STRONG PROTOCOL-DRIVEN NODES IN EUROPE AND ASIA.",
+    "last_updated": "2026-08-22 03:24:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
