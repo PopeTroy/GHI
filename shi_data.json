@@ -1,46 +1,46 @@
 {
-    "shi": 2.1384,
+    "shi": 4.2768,
     "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:15",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation and debt crisis"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and sanctions"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Energy chokepoint and conflict"
+            "loc": "Sanaa, Yemen",
+            "deviation": "Civil war and blockade"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "Trade barriers and sanctions"
+            "loc": "Beirut, Lebanon",
+            "deviation": "Banking collapse and power shortages"
         }
     ],
     "high_shi": [
         {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial resilience and innovation"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation and anti-corruption"
+            "protocol": "Trade hub and anti-corruption"
         },
         {
-            "loc": "Switzerland, Zurich",
-            "protocol": "Policy reforms and financial stability"
-        },
-        {
-            "loc": "Germany, Munich",
-            "protocol": "Industrial innovation and energy transition"
+            "loc": "Frankfurt, Germany",
+            "protocol": "Industrial strength and green transition"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS HIGHLIGHTED IN VENEZUELA, YEMEN, UKRAINE WHILE SINGAPORE, ZURICH, MUNICH LEAD WITH STRONG PROTOCOLS.",
-    "last_updated": "2026-08-22 17:01:05",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN REFORMS.",
+    "last_updated": "2026-08-22 17:30:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
