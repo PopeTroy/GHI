@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "LONDON, UK",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:30:15",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade barriers and unstable grid"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Civil unrest"
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reform"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Strong anti-corruption reforms and innovation hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "protocol": "Robust fiscal policy and renewable energy transition"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business policies and world-class infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH KEY BOTTLENECKS IN EMERGING MARKETS AND STRONG PROTOCOL-DRIVEN NODES IN EUROPE AND ASIA.",
-    "last_updated": "2026-08-22 03:24:17",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MIXED RESILIENCE: WHILE SINGAPORE LEADS IN PROTOCOL STRENGTH, EMERGING MARKETS FACE ENERGY AND DEBT BOTTLENECKS THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN THE NEXT TWO DAYS.",
+    "last_updated": "2026-08-22 04:05:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
