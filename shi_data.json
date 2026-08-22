@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 2.34378,
+    "health_percent": 29.87,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to grid overload"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio limiting fiscal space"
+            "deviation": "Severe energy chokepoint due to aging grid infrastructure."
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers causing import shortages"
+            "loc": "Moscow, Russia",
+            "deviation": "Trade barriers from sanctions impacting commodity flows."
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt leading to fiscal strain."
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub with strong anti-corruption measures"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration and anti-corruption reforms."
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovative fintech policies and transparent governance."
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Policy reforms boosting green energy adoption"
-        },
-        {
-            "loc": "Sydney, Australia",
-            "protocol": "Robust financial regulation and low sovereign debt"
+            "protocol": "Robust trade agreements and diversified energy portfolio."
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN SOUTH ASIA WHILE EUROPE MAINTAINS RESILIENCE.",
-    "last_updated": "2026-08-22 06:04:08",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES TO 2.34, HEALTH AT 29.9% \u2013 FOCUS ON ENERGY IN LAGOS, SANCTIONS IN MOSCOW, DEBT IN BUENOS AIRES; MUNICH, SINGAPORE, TORONTO LEAD REFORMS.",
+    "last_updated": "2026-08-22 06:56:13",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.7013,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
