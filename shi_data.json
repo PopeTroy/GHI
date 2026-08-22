@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:30:15",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Venezuela, Caracas",
             "deviation": "Hyperinflation and debt crisis"
         },
         {
-            "loc": "Sana\\'a, Yemen",
-            "deviation": "Civil unrest and supply chain break"
+            "loc": "Yemen, Sana'a",
+            "deviation": "Energy chokepoint and conflict"
         },
         {
-            "loc": "Kyiv, Ukraine",
-            "deviation": "Energy chokepoints and trade barriers"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Trade barriers and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial innovation and anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms and green energy"
+            "loc": "Switzerland, Zurich",
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "protocol": "Infrastructure investment and tech innovation"
+            "loc": "Germany, Munich",
+            "protocol": "Industrial innovation and energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE; KEY HUBS MAINTAIN STRENGTH WHILE SELECT REGIONS FACE ACUTE PRESSURES REQUIRING IMMEDIATE POLICY INTERVENTION.",
-    "last_updated": "2026-08-22 16:39:32",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS HIGHLIGHTED IN VENEZUELA, YEMEN, UKRAINE WHILE SINGAPORE, ZURICH, MUNICH LEAD WITH STRONG PROTOCOLS.",
+    "last_updated": "2026-08-22 17:01:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
