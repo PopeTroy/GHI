@@ -1,52 +1,52 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "NEW YORK, USA",
+    "shi": 2.1384,
+    "health_percent": 46.78,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "High debt and energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and volatile currency"
+            "deviation": "Trade barriers and civil unrest risk"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "deviation": "Hyper-inflation and grid collapse"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and high-tech infrastructure"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and fiscal stability"
+            "protocol": "Renewable energy leadership and fiscal prudence"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and resilient supply chains"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH AT 57.02%; SUPPLY CHAIN VULNERABILITIES DOMINATE RISK OUTLOOK; ZURICH, SINGAPORE, COPENHAGEN LEAD RESILIENCE WHILE KARACHI, LAGOS, CARACAS FACE ACUTE BOTTLENECKS.",
-    "last_updated": "2026-08-22 22:15:30",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS LOOM OVER EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-08-22 22:43:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5322,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
