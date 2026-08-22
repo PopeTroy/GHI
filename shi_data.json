@@ -6,34 +6,34 @@
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Port au Prince, Haiti",
-            "deviation": "Severe trade barriers and energy chokepoints"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Severe energy chokepoint due to grid overload"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and high debt"
+            "deviation": "High debt-to-GDP ratio limiting fiscal space"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers causing import shortages"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust policy reforms and financial stability"
+            "protocol": "Innovation hub with strong anti-corruption measures"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Innovation and policy reforms"
+            "protocol": "Policy reforms boosting green energy adoption"
+        },
+        {
+            "loc": "Sydney, Australia",
+            "protocol": "Robust financial regulation and low sovereign debt"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES REMAIN THE PRIMARY RISK.",
-    "last_updated": "2026-08-22 05:45:29",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN SOUTH ASIA WHILE EUROPE MAINTAINS RESILIENCE.",
+    "last_updated": "2026-08-22 06:04:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
