@@ -3,19 +3,19 @@
     "health_percent": 57.02,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
             "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and political instability"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and volatile currency"
         },
         {
-            "loc": "Harare, Zimbabwe",
-            "deviation": "Hyperinflation risk and currency collapse"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
@@ -25,15 +25,15 @@
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and financial stability"
+            "protocol": "Pro-business reforms and high-tech infrastructure"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy leadership and fiscal prudence"
+            "protocol": "Green energy transition and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; KEY BOTTLENECKS IN SOUTH ASIA AND AFRICA THREATEN SUPPLY CHAINS, WHILE EUROPEAN HUBS MAINTAIN HIGH SHI THROUGH ROBUST PROTOCOLS.",
-    "last_updated": "2026-08-22 21:54:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH AT 57.02%; SUPPLY CHAIN VULNERABILITIES DOMINATE RISK OUTLOOK; ZURICH, SINGAPORE, COPENHAGEN LEAD RESILIENCE WHILE KARACHI, LAGOS, CARACAS FACE ACUTE BOTTLENECKS.",
+    "last_updated": "2026-08-22 22:15:30",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
