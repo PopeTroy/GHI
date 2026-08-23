@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "NEW YORK, USA",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:30:15",
     "bottlenecks": [
         {
-            "loc": "Port Au Prince, Haiti",
-            "deviation": "Severe energy chokepoint"
-        },
-        {
-            "loc": "Yangon, Myanmar",
-            "deviation": "High debt and trade barriers"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint and corruption"
+            "deviation": "Severe energy chokepoint and high external debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure bottlenecks"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation pressures and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and innovation"
+            "protocol": "Robust anti-corruption framework and innovation hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Energy diversification and policy reforms"
+            "protocol": "Strong policy reforms and sustainable energy transition"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technological adoption and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN EMERGING ECONOMIES.",
-    "last_updated": "2026-08-23 16:38:02",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; PRIMARY IMPACT IN SINGAPORE DUE TO SUPPLY CHAIN VULNERABILITIES, WHILE BOTTLENECKS CONCENTRATE IN EMERGING MARKETS FACING DEBT AND ENERGY CONSTRAINTS.",
+    "last_updated": "2026-08-23 17:00:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
