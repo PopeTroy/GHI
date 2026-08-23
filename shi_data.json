@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 68.5,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "shi": 1.881,
+    "health_percent": 84.3,
+    "location": "LONDON, UNITED KINGDOM",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint due to pipeline sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barrier from export controls on rare earths"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt increasing fiscal strain"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced fintech regulatory sandbox boosting innovation"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and transparent governance"
+            "protocol": "Strong anti-corruption policies and innovation hub"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Tech hub incentives driving rapid R&D investment"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business reforms and high-tech infrastructure"
+        },
+        {
+            "loc": "Oslo, Norway",
+            "protocol": "Sustainable energy transition and fiscal prudence"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 68.5%: LAGOS LEADS IMPACT, SUPPLY CHAIN RISK PEAKS, WHILE SINGAPORE, ZURICH, AND AUSTIN SHOWCASE TOP PROTOCOLS.",
-    "last_updated": "2026-08-23 21:02:50",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; EUROPE LEADS IN PROTOCOL ADOPTION WHILE SOUTH ASIA FACES MOUNTING BOTTLENECKS.",
+    "last_updated": "2026-08-23 21:32:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 0.7
+        "P": 1.1,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.7,
+        "C": 1.2
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.315,
+        "kama_compression_ratio": 0.157,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
