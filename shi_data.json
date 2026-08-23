@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 45.6,
+    "health_percent": 78.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:30:15",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint and high external debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and port congestion"
+        },
+        {
             "loc": "Caracas, Venezuela",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
-            "loc": "Sana'a, Yemen",
-            "deviation": "Trade barriers and civil unrest"
-        },
-        {
-            "loc": "Khartoum, Sudan",
-            "deviation": "Energy chokepoints and hyperinflation risk"
+            "deviation": "Hyperinflation risk and fiscal deficit"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies"
+            "protocol": "Robust financial regulation and innovation hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Innovation and green energy reforms"
+            "protocol": "Strong anti-corruption policies and renewable energy transition"
         },
         {
-            "loc": "Luxembourg, Luxembourg",
-            "protocol": "Robust financial regulation"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and fiscal discipline"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS MAINTAIN HIGH SHI, SEVERAL REGIONS FACE MOUNTING DEBT AND SUPPLY CHAIN PRESSURES, PROMPTING VIGILANT MONITORING OF POTENTIAL COLLAPSE TRIGGERS.",
-    "last_updated": "2026-08-23 05:51:21",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES EMERGING IN EMERGING MARKETS, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL-DRIVEN GROWTH.",
+    "last_updated": "2026-08-23 06:19:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.544,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
