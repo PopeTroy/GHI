@@ -7,33 +7,33 @@
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "Trade barriers and unstable power grid"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption policies and innovation hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "protocol": "Renewable energy leadership and fiscal prudence"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "protocol": "Advanced infrastructure and technology adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICYMAKERS DEBATE STIMULUS MEASURES.",
-    "last_updated": "2026-08-22 23:51:25",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS THRIVE, EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN TWO DAYS.",
+    "last_updated": "2026-08-23 00:27:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
