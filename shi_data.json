@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.05734,
+    "health_percent": 78.4,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "loc": "Beijing, China",
+            "deviation": "Energy import dependency on rare earths"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unstable power grid"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions-induced trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "High municipal debt levels"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
+            "protocol": "Financial transparency reforms"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy leadership and fiscal prudence"
+            "loc": "Singapore, Singapore",
+            "protocol": "Digital trade facilitation platform"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced infrastructure and technology adoption"
+            "loc": "Munich, Germany",
+            "protocol": "Green energy infrastructure investment"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS THRIVE, EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN TWO DAYS.",
-    "last_updated": "2026-08-23 00:27:49",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS RALLY AS ANTI-CORRUPTION MEASURES TAKE HOLD; ENERGY CORRIDORS IN CENTRAL ASIA SEE RENEWED INVESTMENT; DEBT RELIEF TALKS PROGRESS IN LATIN AMERICA.",
+    "last_updated": "2026-08-23 02:09:52",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
+        "P": 0.78,
+        "F": 0.92,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.65,
+        "C": 0.85
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
