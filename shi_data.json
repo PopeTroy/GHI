@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "deviation": "High debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability causing trade barriers"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade reforms and tech investment"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal health and green energy transition"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS SUPPLY CHAIN DISRUPTIONS EASE IN ASIA WHILE EUROPE FACES INFLATIONARY PRESSURES.",
-    "last_updated": "2026-08-23 15:21:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS INFLATION PRESSURES EASE, WHILE COMMODITY PRICES STABILIZE AMID CAUTIOUS OPTIMISM.",
+    "last_updated": "2026-08-23 15:43:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
