@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 57.3,
+    "shi": 4.2768,
+    "health_percent": 42.77,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "High debt and energy chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade barriers and inflation"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation and grid instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and innovation incentives"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Innovation"
+            "protocol": "Green energy transition and fiscal prudence"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade facilitation and digital infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-08-23 17:29:33",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-08-23 17:51:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.427,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5723,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
