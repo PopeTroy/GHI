@@ -1,46 +1,46 @@
 {
-    "shi": 4.2768,
+    "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "deviation": "Severe energy chokepoint and high debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "deviation": "Trade barriers and civil unrest"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "deviation": "Hyper-inflation and grid collapse"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Strong anti-corruption and innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust fiscal reforms and green energy transition"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Advanced trade facilitation and tech adoption"
+            "loc": "Munich, Germany",
+            "protocol": "Energy efficiency and tech growth"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PUSH FOR GREEN INNOVATION.",
-    "last_updated": "2026-08-23 11:47:51",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES PERSIST IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE THROUGH INNOVATION AND POLICY REFORMS.",
+    "last_updated": "2026-08-23 12:03:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
