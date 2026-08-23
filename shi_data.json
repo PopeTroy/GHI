@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
+            "loc": "Zurich, Switzerland",
             "deviation": "High debt"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barrier"
+        },
+        {
+            "loc": "Houston, USA",
+            "deviation": "Energy chokepoint"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reform"
         },
         {
-            "loc": "Toronto, Canada",
+            "loc": "Tokyo, Japan",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Melbourne, Australia",
+            "loc": "Toronto, Canada",
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS REGIONAL BOTTLENECKS EASE IN EUROPE WHILE SUPPLY CHAIN STRESSES PERSIST IN ASIA.",
-    "last_updated": "2026-08-23 08:51:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN RISKS EMERGING IN KEY TRADE HUBS.",
+    "last_updated": "2026-08-23 09:15:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
