@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 78.5,
+    "shi": 0.6336,
+    "health_percent": 63.36,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
             "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and volatile currency"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and political instability"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability causing supply chain disruptions"
+            "loc": "Havana, Cuba",
+            "deviation": "Limited foreign investment and aging infrastructure"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and innovation hub"
+            "protocol": "Strong anti-corruption policies and financial innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption measures and tech-driven growth"
+            "protocol": "Pro-business reforms and tech hub development"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and high social trust"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and fiscal prudence"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH STRONG GOVERNANCE IN NORDIC AND ASIAN HUBS.",
-    "last_updated": "2026-08-23 13:59:58",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH AT 63.36%; SUPPLY CHAIN RISKS LOOM; FOCUS ON REINFORCING ZURICH, SINGAPORE, OSLO WHILE ADDRESSING KARACHI, YANGON, HAVANA BOTTLENECKS.",
+    "last_updated": "2026-08-23 14:32:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "F": 1.1,
+        "T": 1.0,
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.3664,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
