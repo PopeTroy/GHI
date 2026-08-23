@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "LONDON, UNITED KINGDOM",
+    "health_percent": 85.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barrier surge"
+            "loc": "Zurich, Switzerland",
+            "deviation": "High debt"
         },
         {
-            "loc": "Karachi, Pakistan",
+            "loc": "Singapore, Singapore",
+            "deviation": "Trade barrier"
+        },
+        {
+            "loc": "Houston, USA",
             "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Port-au-Prince, Haiti",
-            "deviation": "High debt-to-GDP"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
+            "loc": "Copenhagen, Denmark",
             "protocol": "Policy reform"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption drive"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation hub"
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE RESILIENCE WITH EMERGING RISKS IN SUPPLY CHAINS.",
-    "last_updated": "2026-08-23 19:37:36",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES EMERGING IN KEY TRADE HUBS.",
+    "last_updated": "2026-08-23 19:55:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.145,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
