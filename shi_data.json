@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:20:10",
+    "shi": 3.05486,
+    "health_percent": 76.37,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export sanctions causing supply choke"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "loc": "Beijing, China",
+            "deviation": "Trade barrier escalation on rare earths"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "High sovereign debt pressure on fiscal stability"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Advanced anti-corruption fintech framework"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and fiscal prudence"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub with AI-driven trade facilitation"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced technology adoption and stable governance"
+            "loc": "Toronto, Canada",
+            "protocol": "Green energy policy reforms and carbon pricing"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN STABILITY.",
-    "last_updated": "2026-08-23 23:29:16",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX RISES AS ZURICH, SINGAPORE, AND TORONTO LEAD REFORMS; BOTTLENECKS PERSIST IN MOSCOW, BEIJING, AND S\u00c3O PAULO.",
+    "last_updated": "2026-08-23 23:48:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 0.8,
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.2363,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
