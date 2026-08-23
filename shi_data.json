@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 21.38,
-    "location": "NEW YORK, USA",
+    "shi": 3.05486,
+    "health_percent": 68.5,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoint due to pipeline sanctions"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "Beijing, China",
+            "deviation": "Trade barrier from export controls on rare earths"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt increasing fiscal strain"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Advanced fintech regulatory sandbox boosting innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption framework and transparent governance"
+        },
+        {
+            "loc": "Austin, USA",
+            "protocol": "Tech hub incentives driving rapid R&D investment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE STRESS; SUPPLY CHAIN VULNERABILITIES DOMINATE RISK OUTLOOK.",
-    "last_updated": "2026-08-23 20:44:57",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 68.5%: LAGOS LEADS IMPACT, SUPPLY CHAIN RISK PEAKS, WHILE SINGAPORE, ZURICH, AND AUSTIN SHOWCASE TOP PROTOCOLS.",
+    "last_updated": "2026-08-23 21:02:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.7862,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.315,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
