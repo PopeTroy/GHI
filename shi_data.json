@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
+    "health_percent": 68.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Severe energy chokepoint and rising external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade barriers due to port congestion and currency volatility"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyper-inflation pressures and sanctions limiting imports"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption framework and innovation incentives"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Pro-business policies and high-tech infrastructure"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation"
+            "protocol": "Green energy transition and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS INFLATION PRESSURES EASE, WHILE COMMODITY PRICES STABILIZE AMID CAUTIOUS OPTIMISM.",
-    "last_updated": "2026-08-23 15:43:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | ANALYSTS WARN THAT SUPPLY CHAIN DISRUPTIONS IN KEY MARITIME ROUTES COULD TRIGGER REGIONAL INFLATION SPIKES, WHILE POLICY REFORMS IN EUROPE AIM TO BOLSTER RESILIENCE.",
+    "last_updated": "2026-08-23 16:01:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.315,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
