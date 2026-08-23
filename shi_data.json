@@ -1,20 +1,20 @@
 {
-    "shi": 2.1384,
-    "health_percent": 42.77,
-    "location": "LAGOS, NIGERIA",
+    "shi": 1.44,
+    "health_percent": 1.44,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
-        },
-        {
-            "loc": "Yangon, Myanmar",
             "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Port-au-Prince, Haiti",
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Yangon, Myanmar",
             "deviation": "Trade barriers"
         }
     ],
@@ -25,28 +25,28 @@
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation incentives"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN LAGOS POSE IMMINENT RISK; MONITOR DEBT IN KARACHI AND ENERGY IN YANGON.",
-    "last_updated": "2026-08-23 22:39:52",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MIXED SIGNALS; MONITOR ENERGY CHOKEPOINTS IN SOUTH ASIA.",
+    "last_updated": "2026-08-23 22:59:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
+        "P": 1.0,
+        "F": 1.0,
+        "T": 1.0,
+        "B": 1.0,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5723,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.9856,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
