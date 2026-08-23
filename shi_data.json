@@ -1,52 +1,52 @@
 {
-    "shi": 1.881,
-    "health_percent": 84.3,
-    "location": "LONDON, UNITED KINGDOM",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 4.2768,
+    "health_percent": 73.5,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and high-tech infrastructure"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy transition and fiscal prudence"
+            "loc": "Melbourne, Australia",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; EUROPE LEADS IN PROTOCOL ADOPTION WHILE SOUTH ASIA FACES MOUNTING BOTTLENECKS.",
-    "last_updated": "2026-08-23 21:32:22",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-08-23 21:53:12",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.1,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.7,
-        "C": 1.2
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.157,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
