@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 45.0,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 0.18,
+    "health_percent": 18.0,
+    "location": "ZURICH, SWITZERLAND",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "deviation": "Severe energy chokepoint due to grid overload"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt-to-GDP ratio limiting fiscal response"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers causing supply chain delays"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced anti-corruption reforms and digital governance"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy transition and grid resilience"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Innovation hub"
+            "protocol": "Innovation hubs and skilled workforce development"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN SOUTHEAST ASIA.",
-    "last_updated": "2026-08-23 18:49:31",
+    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS WATCH: ENERGY PRICES FLUCTUATE AS GRID UPGRADES PROCEED; DEBT SUSTAINABILITY TALKS CONTINUE IN EMERGING ECONOMIES; INNOVATION CORRIDORS SHOW STEADY GROWTH.",
+    "last_updated": "2026-08-23 19:12:49",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
+        "P": 0.5,
+        "F": 0.5,
+        "T": 0.5,
+        "B": 1.0,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.55,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.82,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
