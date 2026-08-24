@@ -1,52 +1,52 @@
 {
-    "shi": 2.90351,
-    "health_percent": 42.5,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "08:15:30",
+    "shi": 2.1384,
+    "health_percent": 32.08,
+    "location": "NEW YORK, USA",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and hyperinflation"
+        },
+        {
+            "loc": "Sanaa, Yemen",
+            "deviation": "Energy chokepoints and supply chain break"
+        },
+        {
+            "loc": "Beirut, Lebanon",
+            "deviation": "Trade barriers and financial instability"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and innovation hub"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption and financial stability"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Sydney, Australia",
-            "protocol": "Anti-corruption measures"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced manufacturing and green energy"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES GRAPPLE WITH DEBT WHILE ADVANCED ECONOMIES PUSH INNOVATION.",
-    "last_updated": "2026-08-24 22:45:38",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX AT 32.08%; MONITORING BOTTLENECKS IN CARACAS, SANAA, BEIRUT; REINFORCING PROTOCOLS IN SINGAPORE, ZURICH, MUNICH.",
+    "last_updated": "2026-08-24 23:06:07",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.2,
-        "T": 0.95,
-        "B": 0.42,
-        "C": 1.05
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
         "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.575,
+        "kama_compression_ratio": 0.6792,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
