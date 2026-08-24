@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 42.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.9504,
+    "health_percent": 95.04,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "12:34:56",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "deviation": "Trade barriers and unstable power grid"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political unrest causing trade disruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Strong anti-corruption policies and financial innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal policy and green energy transition"
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced trade facilitation and tech-driven growth"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Effective trade facilitation and technological adoption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy leadership and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND OCEANIA.",
-    "last_updated": "2026-08-24 11:53:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS RESILIENT CORE ECONOMIES WHILE EMERGING MARKETS FACE BOTTLENECKS; MONITOR SUPPLY CHAIN RISKS IN SOUTH ASIA.",
+    "last_updated": "2026-08-24 12:29:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
+        "P": 0.8,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
+        "B": 1.2,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.575,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.0496,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
