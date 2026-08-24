@@ -1,52 +1,52 @@
 {
-    "shi": 3.32404,
-    "health_percent": 68.4,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 2.1384,
+    "health_percent": 42.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "12:34:56",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt and energy chokepoints"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "energy transmission bottleneck due to aging grid infrastructure"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "sanction\u2011induced trade barrier on critical raw materials"
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "high sovereign debt limiting fiscal stimulus"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "advanced digital trade platform and anti\u2011corruption framework"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "robust renewable energy integration and fiscal prudence"
+            "loc": "Oslo, Norway",
+            "protocol": "Robust fiscal policy and green energy transition"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "diversified tech innovation hub with transparent governance"
+            "loc": "Sydney, Australia",
+            "protocol": "Effective trade facilitation and technological adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN DISRUPTIONS HIT EUROPE; ASIAN TECH EXPORTS SURGE; ENERGY PRICES STABILIZE AFTER NEW GRID INVESTMENTS.",
-    "last_updated": "2026-08-24 11:23:25",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND OCEANIA.",
+    "last_updated": "2026-08-24 11:53:15",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.92,
-        "T": 1.15,
-        "B": 0.65,
-        "C": 0.55
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.575,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
