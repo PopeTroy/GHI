@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 76.37,
+    "shi": 2.34378,
+    "health_percent": 73.42,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export sanctions causing supply choke"
-        },
-        {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier escalation on rare earths"
+            "deviation": "Trade barrier"
         },
         {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "High sovereign debt pressure on fiscal stability"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy chokepoint"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "High sovereign debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Advanced anti-corruption fintech framework"
+            "loc": "San Francisco, USA",
+            "protocol": "Policy reform"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with AI-driven trade facilitation"
+            "loc": "Tallinn, Estonia",
+            "protocol": "Anti-corruption drive"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Green energy policy reforms and carbon pricing"
+            "loc": "Bangalore, India",
+            "protocol": "Innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX RISES AS ZURICH, SINGAPORE, AND TORONTO LEAD REFORMS; BOTTLENECKS PERSIST IN MOSCOW, BEIJING, AND S\u00c3O PAULO.",
-    "last_updated": "2026-08-23 23:48:55",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY TEETERS AS TRADE, ENERGY, AND DEBT PRESSURES MOUNT; REFORMS IN TECH HUBS SPARK HOPE.",
+    "last_updated": "2026-08-24 00:25:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 0.7
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2363,
+        "kama_compression_ratio": 0.2658,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
