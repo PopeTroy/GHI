@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 2.91324,
+    "health_percent": 73.4,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unreliable power grid"
+            "deviation": "Severe energy chokepoint and foreign debt surge"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability causing supply chain disruptions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers due to regional tariffs"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "High inflation and fiscal deficits"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Comprehensive financial regulation and innovation hub"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration and fiscal prudence"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Robust anti-corruption framework and tech innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption measures and advanced logistics"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and strong social safety nets"
+            "protocol": "Strategic trade facilitation and sovereign wealth management"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN SOUTH ASIA.",
-    "last_updated": "2026-08-24 13:33:34",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS EU GREEN BOND ISSUANCE HITS RECORD; ASIAN MANUFACTURING REBOUNDS; US DEBT CEILING TALKS STALL.",
+    "last_updated": "2026-08-24 14:22:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 0.78,
+        "F": 0.92,
+        "T": 0.85,
+        "B": 0.45,
+        "C": 0.67
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
