@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 68.3,
-    "location": "NEW YORK, USA",
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and rising external debt"
+            "deviation": "High debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers exacerbating supply chain disruptions"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation pressures and fiscal instability"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and innovation incentives"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-growth policy reforms and high-tech investment"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy transition and strong fiscal health"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES ADJUST TO NEW TRADE POLICIES WHILE ADVANCED ECONOMIES STEER TOWARD GREEN INNOVATION.",
-    "last_updated": "2026-08-24 06:29:26",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-08-24 07:41:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.317,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
