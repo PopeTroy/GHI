@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "NEW YORK, USA",
+    "shi": 1.8521,
+    "health_percent": 73.4,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "36:12:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High sovereign debt"
+            "deviation": "Trade barriers coupled with volatile currency"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "deviation": "Infrastructure bottlenecks and rising inflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption reforms"
+            "protocol": "Comprehensive financial regulation and innovation hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Policy stability"
+            "protocol": "Strong anti-corruption measures and green energy transition"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business reforms and world-class logistics"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL INDICATORS SHOW MODERATE RISK; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN EMERGING MARKETS.",
-    "last_updated": "2026-08-24 20:04:42",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; KEY BOTTLENECKS IN EMERGING MARKETS THREATEN SUPPLY CHAINS, WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE THROUGH INNOVATION AND SOUND GOVERNANCE.",
+    "last_updated": "2026-08-24 20:45:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.23,
+        "F": 0.87,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 1.12
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
