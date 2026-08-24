@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
+    "health_percent": 55.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:30:15",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Severe trade barriers and energy chokepoints"
-        },
-        {
-            "loc": "Port-au-Prince, Haiti",
-            "deviation": "Extreme debt burden and infrastructure decay"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Persistent energy shortages and regulatory bottlenecks"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Comprehensive policy reforms and anti-corruption measures"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Strong innovation ecosystem and sustainable energy policies"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust financial stability and transparent governance"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES GRAPPLE WITH BOTTLENECKS WHILE ADVANCED ECONOMIES LEVERAGE PROTOCOLS TO SUSTAIN GROWTH.",
-    "last_updated": "2026-08-24 15:09:14",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-08-24 15:55:31",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.445,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
