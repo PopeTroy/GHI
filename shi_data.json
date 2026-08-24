@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 42.8,
-    "location": "NEW YORK, USA",
+    "shi": 2.1384,
+    "health_percent": 45.67,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
+            "loc": "Port au Prince, Haiti",
+            "deviation": "Severe energy chokepoint"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high debt"
+            "deviation": "High external debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and civil unrest risk"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and supply chain break"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and financial stability"
+            "protocol": "Innovation hub & low corruption"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Robust energy grid and low debt"
+            "protocol": "Strong policy reforms"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption & tech investment"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE FINANCIAL HUBS REMAIN RESILIENT, EMERGING MARKETS FACE ENERGY AND DEBT PRESSURES REQUIRING COORDINATED POLICY RESPONSE.",
-    "last_updated": "2026-08-24 23:33:32",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY PRICES FLUCTUATE; POLICY REFORMS IN EUROPE BOOST CONFIDENCE WHILE DEBT CONCERNS LINGER IN EMERGING ECONOMIES.",
+    "last_updated": "2026-08-24 23:54:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
         "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.572,
+        "kama_compression_ratio": 0.5433,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
