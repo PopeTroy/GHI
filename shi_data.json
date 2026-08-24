@@ -1,6 +1,6 @@
 {
-    "shi": 0.9504,
-    "health_percent": 95.04,
+    "shi": 2.1384,
+    "health_percent": 73.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
@@ -11,42 +11,42 @@
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unstable power grid"
+            "deviation": "Trade barriers and unreliable power grid"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "Political unrest causing trade disruption"
+            "deviation": "Political instability causing supply chain disruptions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and financial innovation"
+            "protocol": "Comprehensive financial regulation and innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Advanced trade facilitation and tech-driven growth"
+            "protocol": "Anti-corruption measures and advanced logistics"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy leadership and fiscal stability"
+            "protocol": "Green energy transition and strong social safety nets"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS RESILIENT CORE ECONOMIES WHILE EMERGING MARKETS FACE BOTTLENECKS; MONITOR SUPPLY CHAIN RISKS IN SOUTH ASIA.",
-    "last_updated": "2026-08-24 12:29:33",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN SOUTH ASIA.",
+    "last_updated": "2026-08-24 13:33:34",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.8,
+        "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 1.2,
+        "B": 0.8,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.0496,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
