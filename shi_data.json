@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 85.3,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.1384,
+    "health_percent": 55.5,
+    "location": "ZURICH, SWITZERLAND",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint due to grid overload"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Civil unrest"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt-to-GDP ratio limiting fiscal response"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "Energy chokepoint"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers causing port congestion"
         }
     ],
     "high_shi": [
         {
-            "loc": "Germany, Berlin",
-            "protocol": "Policy reform"
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced anti-corruption framework and digital innovation hub"
         },
         {
-            "loc": "Canada, Ottawa",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Comprehensive green energy transition policies"
         },
         {
-            "loc": "South Korea, Seoul",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust financial regulation and tech sector growth incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES; KEY REFORMS IN EUROPE AND ASIA OFFSETTING REGIONAL STRESSORS.",
-    "last_updated": "2026-08-24 19:07:08",
+    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; PRIMARY IMPACT IN ZURICH, WITH SUPPLY CHAIN BREAK RISK LOOMING IN 48 HOURS. BOTTLENECKS OBSERVED IN KARACHI, LAGOS, AND YANGON; STABILITY LEADERS INCLUDE SINGAPORE, COPENHAGEN, AND TORONTO.",
+    "last_updated": "2026-08-24 19:42:04",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 0.7
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.445,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
