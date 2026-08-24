@@ -1,52 +1,52 @@
 {
-    "shi": 2.34378,
-    "health_percent": 73.42,
+    "shi": 3.17311,
+    "health_percent": 78.4,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Beijing, China",
-            "deviation": "Trade barrier"
+            "deviation": "Energy chokepoint in coal supply"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade sanctions increasing import costs"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "High sovereign debt"
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt burden"
         }
     ],
     "high_shi": [
         {
-            "loc": "San Francisco, USA",
-            "protocol": "Policy reform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust anti-corruption framework"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "Anti-corruption drive"
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced digital trade facilitation"
         },
         {
-            "loc": "Bangalore, India",
-            "protocol": "Innovation hub"
+            "loc": "Munich, Germany",
+            "protocol": "Renewable energy integration program"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY TEETERS AS TRADE, ENERGY, AND DEBT PRESSURES MOUNT; REFORMS IN TECH HUBS SPARK HOPE.",
-    "last_updated": "2026-08-24 00:25:14",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX AT 78.4%: LAGOS LEADS IMPACT; BOTTLENECKS IN BEIJING, MOSCOW, SANTIAGO; PROTOCOLS THRIVING IN ZURICH, SINGAPORE, MUNICH.",
+    "last_updated": "2026-08-24 02:07:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.12,
         "F": 0.95,
         "T": 1.05,
         "B": 0.78,
-        "C": 0.88
+        "C": 0.65
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2658,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
