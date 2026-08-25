@@ -1,52 +1,52 @@
 {
-    "shi": 0.78545,
-    "health_percent": 78.5,
-    "location": "ZURICH, SWITZERLAND",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "21:30:00",
+    "shi": 2.1384,
+    "health_percent": 73.4,
+    "location": "S\u00c3O PAULO, BRAZIL",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Khartoum, Sudan",
-            "deviation": "Civil unrest"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers and rising inflation"
         },
         {
-            "loc": "Sana'a, Yemen",
-            "deviation": "Supply chain break"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political instability disrupting supply chains"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reform"
+            "protocol": "Robust financial regulation and innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption measures and advanced logistics"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and strong social safety nets"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR HYPER-INFLATION | GLOBAL STABILITY INDEX AT 78.5%; ZURICH LEADS STABILITY WHILE CARACAS FACES HYPER-INFLATION RISK.",
-    "last_updated": "2026-08-25 10:19:44",
+    "scroller_feed": "CRITICAL: S\u00c3O PAULO, BRAZIL TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES ADJUST TO NEW TRADE POLICIES WHILE ADVANCED ECONOMIES PURSUE GREEN TRANSITIONS.",
+    "last_updated": "2026-08-25 10:57:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.8,
+        "P": 1.2,
         "F": 0.9,
-        "T": 1.0,
-        "B": 1.2,
-        "C": 1.1
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
