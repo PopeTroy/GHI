@@ -1,21 +1,21 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
+    "shi": 2.1384,
+    "health_percent": 64.15,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Port au Prince, Haiti",
+            "deviation": "Severe trade barriers and energy chokepoints"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "High debt and political instability"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high debt"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and energy chokepoint"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and civil unrest"
+            "deviation": "Energy chokepoints and trade barriers"
         }
     ],
     "high_shi": [
@@ -25,28 +25,28 @@
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and technological innovation"
+            "protocol": "Pro-business reforms and tech innovation"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal health and green energy transition"
+            "protocol": "Robust fiscal policy and green energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; WATCH FOR SUPPLY CHAIN STRESS IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
-    "last_updated": "2026-08-25 00:59:30",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN KEY EMERGING MARKETS.",
+    "last_updated": "2026-08-25 02:22:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "kama_compression_ratio": 0.3585,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
