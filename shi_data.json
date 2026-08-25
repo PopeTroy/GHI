@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 85.3,
-    "location": "LONDON, UK",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 2.34378,
+    "health_percent": 73.58,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "loc": "Moscow, Russia",
+            "deviation": "Energy export sanctions"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and trade barriers"
+            "loc": "Beijing, China",
+            "deviation": "Trade tariff escalation"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Civil unrest and sanctions"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Rising sovereign debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Financial transparency reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and trade facilitation"
+            "protocol": "Digital trade facilitation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy and fiscal responsibility"
+            "loc": "Munich, Germany",
+            "protocol": "Green tech innovation incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS; EUROPE AND ASIA-PACIFIC LEAD IN RESILIENCE WHILE SOUTH ASIA AND LATIN AMERICA FACE MOUNTING PRESSURES.",
-    "last_updated": "2026-08-25 04:08:56",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS RENEWABLE SUBSIDIES RISE; CENTRAL BANKS SIGNAL CAUTIOUS RATE CUTS; SUPPLY CHAIN AI OPTIMIZATION CUTS DELAYS BY 30%.",
+    "last_updated": "2026-08-25 04:52:00",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "kama_compression_ratio": 0.2642,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
