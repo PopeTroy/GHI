@@ -1,21 +1,21 @@
 {
-    "shi": 2.64,
-    "health_percent": 79.2,
+    "shi": 2.1384,
+    "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
+            "loc": "Port au Prince, Haiti",
             "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Trade barrier"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
         },
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
@@ -24,29 +24,29 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Oslo, Norway",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN SUEZ WHILE DEBT CONCERNS LINGER IN LATIN AMERICA.",
-    "last_updated": "2026-08-25 21:15:03",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN KEY PORTS; RECOMMENDED FOCUS ON POLICY REFORM AND INNOVATION HUBS TO BOLSTER RESILIENCE.",
+    "last_updated": "2026-08-25 21:47:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
-        "F": 1.1,
-        "T": 1.0,
+        "F": 0.9,
+        "T": 1.1,
         "B": 0.8,
-        "C": 0.9
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.208,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
