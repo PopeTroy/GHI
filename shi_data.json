@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 73.5,
-    "location": "LONDON, UNITED KINGDOM",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "12:34:56",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to grid overload"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio limiting fiscal space"
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Trade barrier"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers from sanctions disrupting supply chains"
+            "loc": "Venezuela",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-innovation policy reforms and anti-corruption measures"
+            "loc": "Singapore",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulation and high-tech industry growth"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Sustainable energy transition and skilled workforce development"
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES ADJUST TO NEW TRADE POLICIES WHILE ADVANCED ECONOMIES PURSUE GREEN TRANSITIONS.",
-    "last_updated": "2026-08-25 17:26:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE WITH SUPPLY CHAIN VULNERABILITIES IN KEY CHOKEPOINTS.",
+    "last_updated": "2026-08-25 17:57:32",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
