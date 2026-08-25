@@ -1,52 +1,52 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "NEW YORK, USA",
+    "shi": 2.1384,
+    "health_percent": 78.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation and debt crisis"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Energy chokepoint and civil unrest"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "Trade barriers and infrastructure damage"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Switzerland, Zurich",
-            "protocol": "Low corruption and strong innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Germany, Munich",
-            "protocol": "Advanced manufacturing and green energy"
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN CONFLICT ZONES WHILE INNOVATION HUBS MAINTAIN HIGH SHI.",
-    "last_updated": "2026-08-25 12:51:50",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-08-25 13:40:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
