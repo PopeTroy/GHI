@@ -1,17 +1,17 @@
 {
     "shi": 2.1384,
-    "health_percent": 68.5,
+    "health_percent": 63.72,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "High external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Caracas, Venezuela",
@@ -21,19 +21,19 @@
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption measures"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-08-25 22:45:13",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PUSH FOR GREEN TECH INVESTMENTS.",
+    "last_updated": "2026-08-25 23:09:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.315,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.3628,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
