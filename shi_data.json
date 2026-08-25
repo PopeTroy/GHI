@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 55.5,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:03:12",
+    "shi": 0.57024,
+    "health_percent": 57.02,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
-        {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
-        },
         {
             "loc": "Lagos, Nigeria",
             "deviation": "High debt"
         },
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barrier"
+        },
+        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Energy chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Policy reform"
         },
         {
-            "loc": "Oslo, Norway",
+            "loc": "Singapore, Singapore",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
+            "loc": "Oslo, Norway",
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-08-25 19:51:27",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES INNOVATE.",
+    "last_updated": "2026-08-25 20:14:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.445,
+        "kama_compression_ratio": 0.4298,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
