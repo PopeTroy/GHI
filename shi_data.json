@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.9504,
+    "health_percent": 95.04,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "deviation": "Hyperinflation & debt default"
+        },
+        {
+            "loc": "Sanaa, Yemen",
+            "deviation": "Civil unrest & fuel chokepoint"
+        },
+        {
+            "loc": "Beirut, Lebanon",
+            "deviation": "Banking collapse & energy shortage"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption & innovation hub"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability reforms"
+            "protocol": "Financial stability & green policy"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Green energy transition"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Technological innovation hub"
+            "loc": "Frankfurt, Germany",
+            "protocol": "Industrial automation & trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN TRANSITIONS.",
-    "last_updated": "2026-08-25 16:08:29",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW RESILIENT CORE ECONOMIES AMID REGIONAL STRESS POINTS; MONITOR SUPPLY CHAIN CHOKEPOINTS AND DEBT SUSTAINABILITY FOR EARLY WARNING SIGNALS.",
+    "last_updated": "2026-08-25 16:54:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
+        "P": 0.8,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
+        "B": 1.2,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.0496,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
