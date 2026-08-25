@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 42.5,
-    "location": "LONDON, UK",
-    "collapse_type": "GRID COLLAPSE",
+    "health_percent": 73.5,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "High debt and energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "loc": "Yangon, Myanmar",
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and trade barriers"
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Havana, Cuba",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Policy reforms and innovation"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and technological innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption measures"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable energy reforms and anti-corruption"
+            "loc": "Sydney, Australia",
+            "protocol": "Innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH KEY BOTTLENECKS IN EMERGING MARKETS AND RESILIENT CORES IN EUROPE AND ASIA.",
-    "last_updated": "2026-08-25 07:51:22",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE WITH EMERGING RISKS IN SOUTH ASIA.",
+    "last_updated": "2026-08-25 08:26:45",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.575,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
