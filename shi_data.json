@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 64.15,
+    "health_percent": 73.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Port au Prince, Haiti",
-            "deviation": "Severe trade barriers and energy chokepoints"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt-to-GDP ratio"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "High debt and political instability"
-        },
-        {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and trade barriers"
+            "deviation": "Trade barriers and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Innovation hub with strong IP protection"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and tech innovation"
+            "protocol": "Anti-corruption reforms and free trade"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal policy and green energy transition"
+            "loc": "Toronto, Canada",
+            "protocol": "Green energy transition policies"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN KEY EMERGING MARKETS.",
-    "last_updated": "2026-08-25 02:22:15",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE BOTTLENECKS WHILE ADVANCED ECONOMIES LEVERAGE PROTOCOLS FOR RESILIENCE.",
+    "last_updated": "2026-08-25 03:24:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.3585,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
