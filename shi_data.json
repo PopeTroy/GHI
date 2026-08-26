@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 57.3,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.6336,
+    "health_percent": 63.36,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Port au Prince, Haiti",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure deficits"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption and innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Policy reforms and tech hub"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Oslo, Norway",
+            "protocol": "Sustainable energy policies"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SINGAPORE AS PRIMARY HIGH IMPACT NODE; SUPPLY CHAIN BREAK RISK LOOMING IN 72H.",
-    "last_updated": "2026-08-26 10:28:24",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES INNOVATE.",
+    "last_updated": "2026-08-26 11:04:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "F": 1.1,
+        "T": 1.0,
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.427,
+        "kama_compression_ratio": 0.3664,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
