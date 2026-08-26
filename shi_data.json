@@ -1,52 +1,52 @@
 {
-    "shi": 2.4265,
-    "health_percent": 72.78,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 2.1384,
+    "health_percent": 78.3,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint due to aging grid infrastructure"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Trade barriers from sanctions and export controls"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt limiting fiscal flexibility"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital trade facilitation platform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Robust anti-corruption enforcement and SME incentives"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Innovation hub with AI-driven supply chain optimization"
+            "loc": "Melbourne, Australia",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL AUDIT FLAGS ENERGY CHOKEPOINTS IN LAGOS, SANCTIONS IN MOSCOW, AND DEBT STRESS IN SANTIAGO, WHILE ROTTERDAM LEADS ANTI-CORRUPTION REFORMS AND SINGAPORE PIONEERS DIGITAL TRADE, BOOSTING STABILITY TO 72.8%.",
-    "last_updated": "2026-08-26 12:03:09",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-08-26 13:13:25",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.85,
-        "C": 0.78
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2722,
+        "kama_compression_ratio": 0.217,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
