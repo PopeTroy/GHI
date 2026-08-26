@@ -1,52 +1,52 @@
 {
-    "shi": 3.05486,
-    "health_percent": 78.34,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 2.4265,
+    "health_percent": 72.78,
+    "location": "ROTTERDAM, NETHERLANDS",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Cape Town, South Africa",
-            "deviation": "energy supply chokepoint"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "high sovereign debt"
+            "deviation": "Energy chokepoint due to aging grid infrastructure"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "trade sanctions"
+            "deviation": "Trade barriers from sanctions and export controls"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt limiting fiscal flexibility"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Advanced digital trade facilitation platform"
+        },
+        {
             "loc": "Munich, Germany",
-            "protocol": "green tech incentives"
+            "protocol": "Robust anti-corruption enforcement and SME incentives"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "anti-corruption reforms"
-        },
-        {
-            "loc": "Seoul, South Korea",
-            "protocol": "AI innovation hub"
+            "loc": "Austin, USA",
+            "protocol": "Innovation hub with AI-driven supply chain optimization"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS SHANGHAI LEADS NEW INFRASTRUCTURE WAVE | ENERGY CHOKEPOINTS TIGHTEN IN CAPE TOWN | AI BREAKTHROUGHS BOOST SEOUL'S GROWTH",
-    "last_updated": "2026-08-26 11:39:20",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL AUDIT FLAGS ENERGY CHOKEPOINTS IN LAGOS, SANCTIONS IN MOSCOW, AND DEBT STRESS IN SANTIAGO, WHILE ROTTERDAM LEADS ANTI-CORRUPTION REFORMS AND SINGAPORE PIONEERS DIGITAL TRADE, BOOSTING STABILITY TO 72.8%.",
+    "last_updated": "2026-08-26 12:03:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 0.7
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.85,
+        "C": 0.78
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2166,
+        "kama_compression_ratio": 0.2722,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
