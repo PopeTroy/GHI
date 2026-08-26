@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 78.5,
+    "shi": 1.8521,
+    "health_percent": 73.4,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Severe energy chokepoint and rising external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "deviation": "Trade barriers coupled with high inflation pressures"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political instability disrupting supply chains and fiscal deficits"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Comprehensive financial regulation and innovation incentives"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and anti-corruption frameworks"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
-        },
-        {
-            "loc": "Sydney, Australia",
-            "protocol": "Innovation"
+            "protocol": "Skilled workforce development and robust digital infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES BENEFIT FROM INNOVATION-DRIVEN GROWTH.",
-    "last_updated": "2026-08-26 09:02:15",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS DEMAND URGENT POLICY COORDINATION, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL-DRIVEN GROWTH.",
+    "last_updated": "2026-08-26 09:54:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "P": 1.23,
+        "F": 0.87,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 1.12
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
