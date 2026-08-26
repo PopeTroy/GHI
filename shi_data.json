@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 2.14,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "shi": 1.93042,
+    "health_percent": 77.24,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
+            "loc": "Beijing, China",
+            "deviation": "Heavy reliance on imported rare\u2011earth energy components"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanctions\u2011driven trade barriers and capital outflows"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "Elevated sovereign debt servicing pressures"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "FinTech regulatory sandbox fostering rapid innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub"
+            "protocol": "Tax incentives tied to R&D and digital transformation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Integrated renewable\u2011energy grid and carbon\u2011neutral policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN EMERGING ECONOMIES.",
-    "last_updated": "2026-08-26 03:52:59",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS STABILIZE AS RENEWABLE INVESTMENTS SURGE, WHILE ENERGY CHOKEPOINTS IN ASIA AND DEBT STRAINS IN LATIN AMERICA REMAIN FOCAL POINTS FOR POLICY ACTION.",
+    "last_updated": "2026-08-26 04:29:32",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.65,
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9786,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.2276,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
