@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.4,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 2.6125,
+    "health_percent": 78.4,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "deviation": "Energy transmission chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanction-induced trade barrier"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt load"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal reforms and green energy transition"
+            "loc": "Tokyo, Japan",
+            "protocol": "AI-driven supply chain optimization"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and digital infrastructure"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust fiscal oversight"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS LIKE ZURICH AND OSLO MAINTAIN HIGH SHI, EMERGING MARKETS FACE DEBT AND SUPPLY CHAIN PRESSURES, PROMPTING A 48-HOUR WATCH ON POTENTIAL SUPPLY CHAIN BREAK SCENARIOS.",
-    "last_updated": "2026-08-26 05:50:54",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX AT 78.4% \u2013 SHANGHAI LEADS IMPACT; GRID STRAIN IMMINENT.",
+    "last_updated": "2026-08-26 06:22:39",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
+        "P": 1.25,
+        "F": 0.95,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 0.9
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
