@@ -1,21 +1,21 @@
 {
-    "shi": 2.4265,
-    "health_percent": 41.2,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 2.34474,
+    "health_percent": 42.66,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint due to aging grid infrastructure"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy supply chokepoint due to aging grid"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Trade sanctions increasing import costs"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "Trade barrier from high export tariffs on copper"
-        },
-        {
-            "loc": "Athens, Greece",
-            "deviation": "Sovereign debt exceeding 200% of GDP"
+            "deviation": "High sovereign debt limiting fiscal flexibility"
         }
     ],
     "high_shi": [
@@ -24,29 +24,29 @@
             "protocol": "Advanced renewable integration policy"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "AI-driven anti-corruption platform"
+            "loc": "San Francisco, USA",
+            "protocol": "Tech-driven innovation incentives"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation tax credit for green tech"
+            "loc": "Seoul, South Korea",
+            "protocol": "Anti-corruption digital governance"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS JITTER AS SUPPLY CHAIN DISRUPTIONS IN ASIA TIGHTEN, WHILE EUROPE ROLLS OUT GREEN ENERGY INCENTIVES; WATCH LAGOS SURGE AS A NEW TRADE HUB.",
-    "last_updated": "2026-08-26 14:58:53",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES MODESTLY AS RENEWABLE POLICIES GAIN TRACTION, BUT ENERGY AND DEBT BOTTLENECKS LINGER.",
+    "last_updated": "2026-08-26 16:24:35",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.85,
-        "C": 0.78
+        "P": 1.25,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 0.95
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
         "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.588,
+        "kama_compression_ratio": 0.5734,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
