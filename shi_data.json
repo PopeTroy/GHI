@@ -1,52 +1,52 @@
 {
-    "shi": 2.99155,
-    "health_percent": 71.3,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:12:30",
+    "shi": 2.1384,
+    "health_percent": 85.3,
+    "location": "LONDON, UK",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Energy export sanctions causing supply choke"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Beijing, China",
-            "deviation": "Trade barrier escalation on rare earths"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
         },
         {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "Rising sovereign debt exceeding 90% of GDP"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Advanced anti-corruption fintech framework"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with AI\u2011driven trade facilitation"
+            "loc": "Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Green energy policy reforms boosting stability"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL MARKETS RALLY AS NEW ANTI\u2011CORRUPTION PACT SIGNS IN ZURICH; ENERGY FLOWS STABILIZE AFTER MOSCOW SANCTIONS LIFT; BRAZIL'S DEBT RESTRUCTURING PLAN GAINS CREDITOR APPROVAL; SINGAPORE LAUNCHES AI\u2011POWERED CUSTOMS PLATFORM; TORONTO'S GREEN BOND ISSUANCE HITS RECORD HIGH.",
-    "last_updated": "2026-08-27 04:40:18",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE IMPROVEMENT WITH SUPPLY CHAIN VULNERABILITIES PERSISTING IN EMERGING MARKETS WHILE ADVANCED ECONOMIES BENEFIT FROM REFORM-DRIVEN GROWTH.",
+    "last_updated": "2026-08-27 15:33:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.86,
-        "F": 0.91,
-        "T": 0.79,
-        "B": 0.48,
-        "C": 0.62
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.287,
+        "kama_compression_ratio": 0.147,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
