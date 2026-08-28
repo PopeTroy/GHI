@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 96.55,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 2.1384,
+    "health_percent": 85.6,
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy import constraints due to regional pipeline shutdown."
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers from neighboring tariffs causing export bottleneck."
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt limiting fiscal stimulus."
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barrier"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced renewable integration and anti-corruption reforms."
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust financial regulation and innovation incentives."
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade facilitation and digital governance."
+            "protocol": "Innovation hub"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS SHANGHAI LEADS UNPRECEDENTED GRID RESILIENCE; EUROPE STABILIZES, AFRICA SEEKS ENERGY REFORMS.",
-    "last_updated": "2026-08-28 00:35:22",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY PRICES FLUCTUATE.",
+    "last_updated": "2026-08-28 12:12:33",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.65,
-        "C": 0.7
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.0345,
+        "kama_compression_ratio": 0.144,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
