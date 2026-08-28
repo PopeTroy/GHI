@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 85.3,
-    "location": "LONDON, UK",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "shi": 1.93042,
+    "health_percent": 96.55,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "Severe energy import constraints due to regional pipeline shutdown."
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Trade barriers from neighboring tariffs causing export bottleneck."
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "loc": "Santiago, Chile",
+            "deviation": "High sovereign debt limiting fiscal stimulus."
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration and anti-corruption reforms."
         },
         {
-            "loc": "Singapore",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust financial regulation and innovation incentives."
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Efficient trade facilitation and digital governance."
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE IMPROVEMENT WITH SUPPLY CHAIN VULNERABILITIES PERSISTING IN EMERGING MARKETS WHILE ADVANCED ECONOMIES BENEFIT FROM REFORM-DRIVEN GROWTH.",
-    "last_updated": "2026-08-27 15:33:10",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS SHANGHAI LEADS UNPRECEDENTED GRID RESILIENCE; EUROPE STABILIZES, AFRICA SEEKS ENERGY REFORMS.",
+    "last_updated": "2026-08-28 00:35:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.65,
+        "C": 0.7
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "kama_compression_ratio": 0.0345,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
