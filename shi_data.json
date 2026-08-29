@@ -1,52 +1,52 @@
 {
-    "shi": 74.88,
-    "health_percent": 74.88,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 3.25312,
+    "health_percent": 23.5,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "energy supply chokepoint due to aging grid"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "sanction-induced trade barriers"
+            "loc": "Xinjiang, China",
+            "deviation": "Critical energy chokepoint limiting regional power exports"
         },
         {
             "loc": "Buenos Aires, Argentina",
-            "deviation": "high sovereign debt risk"
+            "deviation": "Tariff spikes and import restrictions hampering agricultural trade"
+        },
+        {
+            "loc": "Athens, Greece",
+            "deviation": "Sovereign debt levels exceeding sustainable thresholds"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "advanced renewable integration policy"
+            "loc": "Tallinn, Estonia",
+            "protocol": "Comprehensive anti-corruption reforms and transparent procurement"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "anti-corruption digital governance"
+            "loc": "Reykjavik, Iceland",
+            "protocol": "Aggressive green energy incentives driving renewable adoption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "innovation hub funding"
+            "loc": "Seoul, South Korea",
+            "protocol": "Nationwide digital infrastructure upgrade and AI innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS STEADY AS RENEWABLE SUBSIDIES LIFT EUROPEAN INDICES; AFRICAN POWER GRIDS RECEIVE EMERGENCY UPGRADES; ASIAN TECH HUBS REPORT RECORD R&D INVESTMENT.",
-    "last_updated": "2026-08-29 18:37:28",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX RISING MODESTLY; FOCUS ON ENERGY ROUTES, DEBT RELIEF, AND DIGITAL TRANSFORMATION TO AVERT IMMINENT SUPPLY CHAIN COLLAPSE.",
+    "last_updated": "2026-08-29 21:12:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.0,
-        "F": 1.3,
-        "T": 1.2,
-        "B": 0.3,
-        "C": 0.2
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
+        "B": 0.45,
+        "C": 0.6
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2512,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.765,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
