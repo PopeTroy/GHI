@@ -1,6 +1,6 @@
 {
-    "shi": 2.2344,
-    "health_percent": 67.03,
+    "shi": 74.88,
+    "health_percent": 74.88,
     "location": "SHANGHAI, CHINA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
@@ -10,12 +10,12 @@
             "deviation": "energy supply chokepoint due to aging grid"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "hyperinflationary pressure on local currency"
+            "loc": "Moscow, Russia",
+            "deviation": "sanction-induced trade barriers"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "sanctions-induced trade barriers"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "high sovereign debt risk"
         }
     ],
     "high_shi": [
@@ -24,29 +24,29 @@
             "protocol": "advanced renewable integration policy"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "robust anti-corruption digital governance"
+            "loc": "Singapore, Singapore",
+            "protocol": "anti-corruption digital governance"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "innovation hub with AI research incentives"
+            "protocol": "innovation hub funding"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX AT 67.0% \u2013 FOCUS ON ENERGY CHOKEPOINTS AND TRADE BARRIERS WHILE LEVERAGING RENEWABLE POLICIES IN EUROPE.",
-    "last_updated": "2026-08-29 15:15:37",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS STEADY AS RENEWABLE SUBSIDIES LIFT EUROPEAN INDICES; AFRICAN POWER GRIDS RECEIVE EMERGENCY UPGRADES; ASIAN TECH HUBS REPORT RECORD R&D INVESTMENT.",
+    "last_updated": "2026-08-29 18:37:28",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.8,
-        "C": 0.9
+        "P": 2.0,
+        "F": 1.3,
+        "T": 1.2,
+        "B": 0.3,
+        "C": 0.2
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3297,
+        "kama_compression_ratio": 0.2512,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
