@@ -1,52 +1,52 @@
 {
-    "shi": 3.25312,
-    "health_percent": 23.5,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 2.34378,
+    "health_percent": 78.4,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Xinjiang, China",
-            "deviation": "Critical energy chokepoint limiting regional power exports"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe energy supply constraints due to aging grid infrastructure"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Tariff spikes and import restrictions hampering agricultural trade"
+            "loc": "Moscow, Russia",
+            "deviation": "International sanctions limiting trade flows and capital movement"
         },
         {
-            "loc": "Athens, Greece",
-            "deviation": "Sovereign debt levels exceeding sustainable thresholds"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "Elevated sovereign debt pressure affecting fiscal stability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "Comprehensive anti-corruption reforms and transparent procurement"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial regulation and anti\u2011corruption framework"
         },
         {
-            "loc": "Reykjavik, Iceland",
-            "protocol": "Aggressive green energy incentives driving renewable adoption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Aggressive innovation incentives and streamlined business licensing"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Nationwide digital infrastructure upgrade and AI innovation hubs"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Advanced renewable energy integration and climate\u2011resilient urban planning"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX RISING MODESTLY; FOCUS ON ENERGY ROUTES, DEBT RELIEF, AND DIGITAL TRANSFORMATION TO AVERT IMMINENT SUPPLY CHAIN COLLAPSE.",
-    "last_updated": "2026-08-29 21:12:53",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES TO 2.34 \u2013 SHANGHAI LEADS IMPACT, GRID STRAIN IN LAGOS, SANCTIONS IN MOSCOW, DEBT IN S\u00c3O PAULO; ZURICH, SINGAPORE, COPENHAGEN SHOWCASE TOP PROTOCOLS.",
+    "last_updated": "2026-08-29 23:22:28",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.45,
-        "C": 0.6
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.88
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.765,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.216,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
