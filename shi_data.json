@@ -1,52 +1,52 @@
 {
-    "shi": 2.34378,
-    "health_percent": 78.4,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 2.2344,
+    "health_percent": 44.69,
+    "location": "ROTTERDAM, NETHERLANDS",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy supply constraints due to aging grid infrastructure"
+            "deviation": "energy chokepoint due to diesel shortages"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "International sanctions limiting trade flows and capital movement"
+            "deviation": "trade barriers from sanctions"
         },
         {
-            "loc": "S\u00e3o Paulo, Brazil",
-            "deviation": "Elevated sovereign debt pressure affecting fiscal stability"
+            "loc": "Santiago, Chile",
+            "deviation": "high sovereign debt risk"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and anti\u2011corruption framework"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Aggressive innovation incentives and streamlined business licensing"
+            "protocol": "advanced digital trade platform"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Advanced renewable energy integration and climate\u2011resilient urban planning"
+            "loc": "Munich, Germany",
+            "protocol": "green energy integration policy"
+        },
+        {
+            "loc": "Austin, USA",
+            "protocol": "tech innovation hub incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES TO 2.34 \u2013 SHANGHAI LEADS IMPACT, GRID STRAIN IN LAGOS, SANCTIONS IN MOSCOW, DEBT IN S\u00c3O PAULO; ZURICH, SINGAPORE, COPENHAGEN SHOWCASE TOP PROTOCOLS.",
-    "last_updated": "2026-08-29 23:22:28",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 44.7% \u2013 ROTTERDAM LEADS IMPACT; SUPPLY CHAIN BREAK LOOMING IN 48H.",
+    "last_updated": "2026-08-30 01:23:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.12,
         "F": 0.95,
         "T": 1.05,
-        "B": 0.78,
-        "C": 0.88
+        "B": 0.8,
+        "C": 0.9
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.216,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5531,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
