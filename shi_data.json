@@ -1,52 +1,52 @@
 {
-    "shi": 2.2344,
-    "health_percent": 44.69,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 2.1384,
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt and energy chokepoints"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "energy chokepoint due to diesel shortages"
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "trade barriers from sanctions"
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "high sovereign debt risk"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "advanced digital trade platform"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "green energy integration policy"
+            "loc": "Oslo, Norway",
+            "protocol": "Robust fiscal reforms and green energy transition"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "tech innovation hub incentives"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and stable governance"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 44.7% \u2013 ROTTERDAM LEADS IMPACT; SUPPLY CHAIN BREAK LOOMING IN 48H.",
-    "last_updated": "2026-08-30 01:23:43",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN INNOVATION.",
+    "last_updated": "2026-08-30 07:02:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
         "B": 0.8,
-        "C": 0.9
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5531,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
