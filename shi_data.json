@@ -1,48 +1,48 @@
 {
-    "shi": 2.1384,
+    "shi": 2.4265,
     "health_percent": 73.4,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "location": "NEW YORK, USA",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "energy import dependency"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "high sovereign debt"
+        },
+        {
+            "loc": "Sao Paulo, Brazil",
+            "deviation": "trade tariff spikes"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal reforms and green energy transition"
+            "protocol": "digital tax reform"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Advanced technology adoption and stable governance"
+            "protocol": "green infrastructure investment"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "anti-corruption task force"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN INNOVATION.",
-    "last_updated": "2026-08-30 07:02:17",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS GRID STRAIN IN NEW YORK ACCELERATES; POLICYMAKERS PUSH RAPID RENEWABLE ROLLOUT.",
+    "last_updated": "2026-08-30 12:46:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.78,
+        "C": 0.85
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
