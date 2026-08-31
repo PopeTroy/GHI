@@ -1,52 +1,52 @@
 {
-    "shi": 2.08931,
-    "health_percent": 68.4,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 0.43605,
+    "health_percent": 43.52,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy supply chokepoint due to aging grid"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barrier from maritime congestion"
+            "deviation": "Severe energy chokepoint, 30% power loss"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt pressure"
+            "deviation": "Trade barrier due to export tariffs, 25% import slowdown"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "High sovereign debt, 28% debt-to-GDP ratio"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Advanced fintech regulatory framework"
+            "protocol": "Advanced fintech regulation"
         },
         {
             "loc": "Singapore, Singapore",
             "protocol": "Innovation hub incentives"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Robust anti-corruption enforcement"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX RISES TO 2.09; SHANGHAI LEADS IMPACT, WHILE ZURICH, SINGAPORE, AND MUNICH SHOWCASE TOP PROTOCOLS. ENERGY, TRADE, AND DEBT BOTTLENECKS PERSIST IN LAGOS, KARACHI, AND SANTIAGO.",
-    "last_updated": "2026-08-31 19:40:43",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 43.5%: LAGOS FACES SUPPLY CHAIN BREAK, WHILE ZURICH, SINGAPORE, AND COPENHAGEN LEAD WITH ROBUST PROTOCOLS.",
+    "last_updated": "2026-08-31 23:25:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.12,
+        "P": 0.9,
+        "F": 0.85,
         "T": 0.95,
-        "B": 0.65,
-        "C": 0.88
+        "B": 1.2,
+        "C": 2.0
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5648,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
