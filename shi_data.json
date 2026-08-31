@@ -1,52 +1,52 @@
 {
-    "shi": 1.93042,
-    "health_percent": 52.3,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "shi": 2.1384,
+    "health_percent": 78.5,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint due to aging grid"
+            "loc": "Venezuela, Caracas",
+            "deviation": "High debt"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt and inflation"
+            "loc": "Sudan, Khartoum",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "Sanction-induced trade barriers"
+            "loc": "Myanmar, Yangon",
+            "deviation": "Trade barrier"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and anti-corruption reforms"
+            "loc": "Germany, Berlin",
+            "protocol": "Policy reform"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub with AI-driven policy reforms"
+            "loc": "Canada, Ottawa",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and trade liberalization"
+            "loc": "South Korea, Seoul",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS ENERGY CHOKEPOINTS TIGHTEN; EU PUSHES GREEN SUBSIDIES; AI POLICY REFORMS SURGE IN ASIA.",
-    "last_updated": "2026-08-31 00:35:19",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN RISKS IN VULNERABLE REGIONS; REFORMS IN EUROPE AND ASIA BOLSTER RESILIENCE.",
+    "last_updated": "2026-08-31 06:06:40",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.78,
-        "T": 0.92,
-        "B": 0.65,
-        "C": 0.7
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.477,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
