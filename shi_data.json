@@ -1,52 +1,52 @@
 {
     "shi": 1.93042,
-    "health_percent": 68.4,
+    "health_percent": 52.3,
     "location": "SHANGHAI, CHINA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "energy chokepoint due to aging grid"
+            "deviation": "Energy chokepoint due to aging grid"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "trade barrier from port congestion"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt and inflation"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "high sovereign debt risk"
+            "loc": "Moscow, Russia",
+            "deviation": "Sanction-induced trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Munich, Germany",
-            "protocol": "advanced renewable integration policy"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial regulation and anti-corruption reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "robust anti-corruption framework"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub with AI-driven policy reforms"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "AI-driven logistics optimization"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and trade liberalization"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS ENERGY CHOKEPOINTS TIGHTEN, WHILE INNOVATION HUBS IN EUROPE AND ASIA PUSH GROWTH.",
-    "last_updated": "2026-08-30 22:07:09",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS JITTER AS ENERGY CHOKEPOINTS TIGHTEN; EU PUSHES GREEN SUBSIDIES; AI POLICY REFORMS SURGE IN ASIA.",
+    "last_updated": "2026-08-31 00:35:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.92,
-        "T": 0.85,
+        "P": 0.85,
+        "F": 0.78,
+        "T": 0.92,
         "B": 0.65,
         "C": 0.7
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.477,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
