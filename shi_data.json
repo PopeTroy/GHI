@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 73.4,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.08931,
+    "health_percent": 68.4,
+    "location": "SHANGHAI, CHINA",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "36:12:00",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "Energy transmission chokepoint causing 30% supply loss"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt leading to credit squeeze"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "Trade sanctions restricting export of key commodities"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Advanced fintech regulation fostering innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and fiscal prudence"
+            "loc": "Singapore, Singapore",
+            "protocol": "Comprehensive anti-corruption framework"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced technology adoption and stable governance"
+            "loc": "Munich, Germany",
+            "protocol": "Green energy subsidies accelerating renewable adoption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE BOTTLENECKS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
-    "last_updated": "2026-09-01 01:59:27",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | \u26a1 GLOBAL MARKETS RALLY AS EU GREEN BOND ISSUANCE HITS RECORD; ASIAN SUPPLY CHAINS ADAPT TO NEW TRADE ACCORDS; AFRICAN NATIONS NEGOTIATE DEBT RELIEF; US GRID UPGRADES MITIGATE OUTAGE RISKS.",
+    "last_updated": "2026-09-01 07:39:30",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "P": 0.78,
+        "F": 1.12,
+        "T": 0.95,
+        "B": 0.65,
+        "C": 0.88
     },
-    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
+    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
