@@ -1,52 +1,52 @@
 {
-    "shi": 0.43605,
-    "health_percent": 43.52,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "shi": 4.2768,
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "36:12:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint, 30% power loss"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Santiago, Chile",
-            "deviation": "Trade barrier due to export tariffs, 25% import slowdown"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Moscow, Russia",
-            "deviation": "High sovereign debt, 28% debt-to-GDP ratio"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Advanced fintech regulation"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub incentives"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and fiscal prudence"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy integration"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and stable governance"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY AT 43.5%: LAGOS FACES SUPPLY CHAIN BREAK, WHILE ZURICH, SINGAPORE, AND COPENHAGEN LEAD WITH ROBUST PROTOCOLS.",
-    "last_updated": "2026-08-31 23:25:08",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE BOTTLENECKS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-09-01 01:59:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.9,
-        "F": 0.85,
-        "T": 0.95,
-        "B": 1.2,
-        "C": 2.0
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.5,
+        "C": 0.8
     },
-    "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
+    "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5648,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
