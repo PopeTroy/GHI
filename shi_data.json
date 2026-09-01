@@ -1,52 +1,52 @@
 {
-    "shi": 2.10296,
-    "health_percent": 63.09,
-    "location": "ROTTERDAM, NETHERLANDS",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 2.4265,
+    "health_percent": 57.33,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint due to aging grid"
+            "loc": "Shanghai, China",
+            "deviation": "Escalating trade tariffs disrupting export flows"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade sanctions limiting export capacity"
+            "deviation": "Energy supply chokepoint due to pipeline constraints"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High sovereign debt burden"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "Rising sovereign debt increasing fiscal vulnerability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced digital trade platform"
+            "loc": "San Francisco, USA",
+            "protocol": "Tech innovation tax credits boosting AI startups"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Green energy innovation hub"
+            "loc": "Berlin, Germany",
+            "protocol": "Green energy subsidies accelerating renewable deployment"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Tech startup ecosystem incentives"
+            "loc": "Tokyo, Japan",
+            "protocol": "National AI research incentives enhancing productivity"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS RALLY AS RENEWABLE INVESTMENTS SURGE; SUPPLY CHAIN DISRUPTIONS EASE IN SOUTHEAST ASIA; DEBT RELIEF TALKS PROGRESS IN EMERGING ECONOMIES.",
-    "last_updated": "2026-09-01 19:49:51",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX AT 57.33% \u2013 LAGOS LEADS IMPACT, WHILE SHANGHAI, MOSCOW, AND S\u00c3O PAULO FACE CRITICAL BOTTLENECKS; POLICY REFORMS IN SAN FRANCISCO, BERLIN, AND TOKYO DRIVE RESILIENCE.",
+    "last_updated": "2026-09-01 22:07:42",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.12,
         "F": 0.95,
         "T": 1.05,
         "B": 0.85,
-        "C": 0.9
+        "C": 0.78
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.3691,
+        "kama_compression_ratio": 0.4267,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
