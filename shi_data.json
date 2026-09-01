@@ -1,52 +1,52 @@
 {
-    "shi": 2.08931,
-    "health_percent": 68.4,
+    "shi": 2.1384,
+    "health_percent": 45.7,
     "location": "SHANGHAI, CHINA",
     "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy transmission chokepoint causing 30% supply loss"
-        },
-        {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt leading to credit squeeze"
+            "deviation": "Energy chokepoint due to aging grid"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade sanctions restricting export of key commodities"
+            "deviation": "Trade barriers from sanctions"
+        },
+        {
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "High sovereign debt levels"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Advanced fintech regulation fostering innovation"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Comprehensive anti-corruption framework"
+            "protocol": "Advanced fintech regulatory sandbox"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Green energy subsidies accelerating renewable adoption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Zero\u2011tax corruption reforms"
+        },
+        {
+            "loc": "Austin, USA",
+            "protocol": "AI\u2011driven manufacturing innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | \u26a1 GLOBAL MARKETS RALLY AS EU GREEN BOND ISSUANCE HITS RECORD; ASIAN SUPPLY CHAINS ADAPT TO NEW TRADE ACCORDS; AFRICAN NATIONS NEGOTIATE DEBT RELIEF; US GRID UPGRADES MITIGATE OUTAGE RISKS.",
-    "last_updated": "2026-09-01 07:39:30",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS RALLY AS RENEWABLE INVESTMENTS SURGE; SUPPLY CHAIN BOTTLENECKS EASE IN EUROPE; INFLATION PRESSURES EASE IN ASIA.",
+    "last_updated": "2026-09-01 12:44:46",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.12,
-        "T": 0.95,
-        "B": 0.65,
-        "C": 0.88
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.543,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
