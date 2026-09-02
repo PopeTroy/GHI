@@ -1,52 +1,52 @@
 {
-    "shi": 0.68429,
-    "health_percent": 68.43,
-    "location": "SHANGHAI, CHINA",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 6.912,
+    "health_percent": 69.14,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "energy supply chokepoint due to aging grid"
-        },
-        {
-            "loc": "Moscow, Russia",
-            "deviation": "sanction-induced trade barriers on energy exports"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy supply chokepoint due to aging grid"
         },
         {
             "loc": "Santiago, Chile",
-            "deviation": "high sovereign debt limiting fiscal flexibility"
+            "deviation": "Trade barrier from export tariffs on copper"
+        },
+        {
+            "loc": "Moscow, Russia",
+            "deviation": "High sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "robust anti-corruption framework and fintech innovation"
+            "loc": "Munich, Germany",
+            "protocol": "Advanced renewable integration policy"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "efficient trade facilitation and digital governance"
+            "loc": "Tokyo, Japan",
+            "protocol": "AI-driven supply chain optimization"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "green energy transition policies and low debt"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust anti-corruption framework"
         }
     ],
-    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX AT 68.4%; GRID STRESS RISING IN ASIA, ENERGY CHOKEPOINTS IN AFRICA, DEBT PRESSURES IN SOUTH AMERICA.",
-    "last_updated": "2026-09-02 00:10:50",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDEX RISES AS RENEWABLE POLICIES TAKE HOLD, BUT ENERGY CHOKEPOINTS LINGER.",
+    "last_updated": "2026-09-02 04:36:02",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 2.5,
-        "C": 1.0
+        "P": 1.3,
+        "F": 1.1,
+        "T": 1.2,
+        "B": 0.55,
+        "C": 0.65
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3157,
+        "kama_compression_ratio": 0.3086,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
