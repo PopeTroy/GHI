@@ -1,52 +1,52 @@
 {
-    "shi": 2.4265,
-    "health_percent": 71.5,
-    "location": "ROTTERDAM, NETHERLANDS",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 3.564,
+    "health_percent": 71.28,
+    "location": "SHANGHAI, CHINA",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy transmission losses due to aging grid"
+            "deviation": "Severe energy chokepoint due to aging grid infrastructure"
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt pressure limiting fiscal stimulus"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Sanctions-induced trade barriers on energy exports"
-        },
-        {
-            "loc": "Santiago, Chile",
-            "deviation": "High sovereign debt limiting fiscal stimulus"
+            "deviation": "Trade barriers from sanctions disrupting export corridors"
         }
     ],
     "high_shi": [
         {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Advanced anti-corruption framework and fintech innovation hub"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade facilitation and anti-corruption platform"
+            "protocol": "Strategic trade facilitation and green energy policy reforms"
         },
         {
             "loc": "Munich, Germany",
-            "protocol": "Green manufacturing incentives and R&D tax credits"
-        },
-        {
-            "loc": "Austin, USA",
-            "protocol": "Tech startup ecosystem support and workforce upskilling"
+            "protocol": "Robust industrial diversification and AI research incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX RISES AS EUROPE AND ASIA ADOPT GREEN PROTOCOLS, BUT AFRICAN ENERGY BOTTLENECKS THREATEN SUPPLY CHAINS.",
-    "last_updated": "2026-09-02 09:00:17",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY AT 71.28% \u2013 SHANGHAI LEADS IMPACT, GRID COLLAPSE LOOMING IN 48H; BOTTLENECKS IN LAGOS, BUENOS AIRES, MOSCOW; STABILITY CHAMPIONS: ZURICH, SINGAPORE, MUNICH.",
+    "last_updated": "2026-09-02 13:32:35",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.12,
-        "F": 0.95,
-        "T": 1.05,
-        "B": 0.85,
-        "C": 0.78
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 0.6
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.285,
+        "kama_compression_ratio": 0.2872,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
