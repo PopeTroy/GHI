@@ -1,52 +1,52 @@
 {
-    "shi": 2.4569,
-    "health_percent": 49.12,
-    "location": "LAGOS, NIGERIA",
+    "shi": 2.2344,
+    "health_percent": 84.5,
+    "location": "SHANGHAI, CHINA",
     "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:23:12",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy transmission chokepoint due to aging grid infrastructure."
-        },
-        {
-            "loc": "Sao Paulo, Brazil",
-            "deviation": "High sovereign debt limiting fiscal stimulus."
+            "loc": "Lagos, Nigeria",
+            "deviation": "energy supply chokepoint due to aging grid"
         },
         {
             "loc": "Moscow, Russia",
-            "deviation": "Trade sanctions creating export barriers."
+            "deviation": "sanction-induced trade barriers"
+        },
+        {
+            "loc": "Santiago, Chile",
+            "deviation": "high sovereign debt pressure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Advanced renewable integration and anti-corruption reforms."
+            "loc": "Zurich, Switzerland",
+            "protocol": "robust anti-corruption framework"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade facilitation and fiscal prudence."
+            "protocol": "continuous innovation incentives"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and innovation incentives."
+            "loc": "Munich, Germany",
+            "protocol": "advanced renewable energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GLOBAL AUDIT FLAGS ENERGY GRID STRESS IN KARACHI, DEBT PRESSURE IN SAO PAULO, AND SANCTION IMPACTS IN MOSCOW; STABILITY GAINS SEEN IN COPENHAGEN, SINGAPORE, ZURICH.",
-    "last_updated": "2026-09-02 19:52:27",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX AT 2.23; HEALTH AT 84.5%. SHANGHAI LEADS IMPACT; GRID RISKS RISING IN LAGOS, MOSCOW, SANTIAGO.",
+    "last_updated": "2026-09-02 22:12:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 0.92,
-        "T": 0.85,
-        "B": 0.65,
-        "C": 0.55
+        "P": 1.12,
+        "F": 0.95,
+        "T": 1.05,
+        "B": 0.8,
+        "C": 0.9
     },
     "engine_active": "NVIDIA_OPENAI/GPT-OSS-120B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5088,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.155,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
