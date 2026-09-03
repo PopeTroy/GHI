@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
+    "health_percent": 85.6,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt and energy chokepoints"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure bottlenecks"
+        },
+        {
             "loc": "Caracas, Venezuela",
-            "deviation": "High debt & energy chokepoint"
-        },
-        {
-            "loc": "Sana'a, Yemen",
-            "deviation": "Trade barriers & civil unrest"
-        },
-        {
-            "loc": "Beirut, Lebanon",
-            "deviation": "Banking collapse & hyperinflation risk"
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong policy reforms & innovation"
+            "protocol": "Strong anti-corruption policies and innovation hubs"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption & robust fiscal policy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and fiscal stability"
         },
         {
-            "loc": "Luxembourg, Luxembourg",
-            "protocol": "Financial stability & high-tech growth"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and resilient supply chains"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS POSE NEAR-TERM RISK, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL-DRIVEN GROWTH.",
-    "last_updated": "2026-09-03 13:37:55",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS SINGAPORE LEADING WITH HIGH SHI, WHILE KARACHI, LAGOS, AND CARACAS FACE CRITICAL BOTTLENECKS REQUIRING URGENT POLICY REFORMS.",
+    "last_updated": "2026-09-03 17:13:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.144,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
