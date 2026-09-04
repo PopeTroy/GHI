@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.4,
+    "health_percent": 78.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Port au Prince, Haiti",
-            "deviation": "Severe energy chokepoint and high debt"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers and energy chokepoints"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt and infrastructure bottlenecks"
+            "deviation": "Trade barriers and volatile currency"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and anti-corruption"
+            "protocol": "Robust financial regulation and innovation hub"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Innovation and sustainable energy"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and low corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms and innovation"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced manufacturing and fiscal discipline"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: KEY TRADE HUBS REMAIN RESILIENT WHILE SEVERAL EMERGING MARKETS FACE ACUTE BOTTLENECKS THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN THE NEXT TWO DAYS.",
-    "last_updated": "2026-09-04 08:58:22",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; BOTTLENECKS CONCENTRATED IN SOUTH ASIA AND LATIN AMERICA, WHILE NORDIC AND SWISS HUBS LEAD IN PROTOCOLS.",
+    "last_updated": "2026-09-04 13:23:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
