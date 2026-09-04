@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 85.3,
+    "health_percent": 2.14,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Karachi, Pakistan",
             "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Sanaa, Yemen",
-            "deviation": "Trade barriers and civil unrest"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
-            "loc": "Beirut, Lebanon",
-            "deviation": "Banking collapse and inflation"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong financial regulation and innovation"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Luxembourg, Luxembourg",
-            "protocol": "Policy reforms and anti-corruption"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust financial reforms and green energy transition"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation hub and trade facilitation"
+            "loc": "Sydney, Australia",
+            "protocol": "Advanced trade facilitation and tech hub development"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS SUPPLY CHAIN DISRUPTIONS EASE IN ASIA WHILE DEBT CONCERNS LINGER IN LATIN AMERICA.",
-    "last_updated": "2026-09-04 00:05:57",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-09-04 04:24:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.9786,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
