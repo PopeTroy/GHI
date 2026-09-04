@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 2.14,
+    "health_percent": 73.4,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Port au Prince, Haiti",
+            "deviation": "Severe energy chokepoint and high debt"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Trade barriers and energy chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "deviation": "High debt and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Policy reforms and anti-corruption"
+        },
+        {
+            "loc": "Oslo, Norway",
+            "protocol": "Innovation and sustainable energy"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Robust financial reforms and green energy transition"
-        },
-        {
-            "loc": "Sydney, Australia",
-            "protocol": "Advanced trade facilitation and tech hub development"
+            "protocol": "Policy reforms and innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
-    "last_updated": "2026-09-04 04:24:37",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: KEY TRADE HUBS REMAIN RESILIENT WHILE SEVERAL EMERGING MARKETS FACE ACUTE BOTTLENECKS THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN THE NEXT TWO DAYS.",
+    "last_updated": "2026-09-04 08:58:22",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9786,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
