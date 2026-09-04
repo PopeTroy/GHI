@@ -6,34 +6,34 @@
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy chokepoints"
+        },
+        {
+            "loc": "Sanaa, Yemen",
+            "deviation": "Trade barriers and civil unrest"
+        },
+        {
+            "loc": "Beirut, Lebanon",
+            "deviation": "Banking collapse and inflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong financial regulation and innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "loc": "Luxembourg, Luxembourg",
+            "protocol": "Policy reforms and anti-corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub and trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE; KEY BOTTLENECKS IN ENERGY AND DEBT PERSIST, WHILE INNOVATION HUBS MAINTAIN STRONG PROTOCOL ADHERENCE.",
-    "last_updated": "2026-09-03 22:08:59",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS SUPPLY CHAIN DISRUPTIONS EASE IN ASIA WHILE DEBT CONCERNS LINGER IN LATIN AMERICA.",
+    "last_updated": "2026-09-04 00:05:57",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
