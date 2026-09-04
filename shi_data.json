@@ -1,39 +1,39 @@
 {
     "shi": 4.2768,
-    "health_percent": 42.77,
-    "location": "CARACAS, VENEZUELA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "57:13:48",
+    "health_percent": 78.5,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Extreme debt and energy chokepoints"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Severe trade barriers and high debt"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Nairobi, Kenya",
-            "deviation": "Energy chokepoints and policy instability"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced policy reforms and tech hub"
+            "loc": "Oslo, Norway",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust financial regulation and green energy initiatives"
+            "loc": "Tokyo, Japan",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: CARACAS, VENEZUELA TARGETED FOR HYPER-INFLATION | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; WATCH FOR HYPERINFLATION RISKS IN VENEZUELA WHILE ZURICH LEADS IN RESILIENCE.",
-    "last_updated": "2026-09-04 16:55:58",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE IMPROVEMENT; WATCH FOR EMERGING CHOKEPOINTS IN SOUTHEAST ASIA.",
+    "last_updated": "2026-09-04 19:19:58",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5723,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
