@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 73.4,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.1384,
+    "health_percent": 73.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Energy chokepoint"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation and debt crisis"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "loc": "Yemen, Sana'a",
+            "deviation": "Energy chokepoint and civil unrest"
         },
         {
-            "loc": "Port-au-Prince, Haiti",
-            "deviation": "Trade barriers"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Trade barriers and infrastructure damage"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and anti-corruption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption"
+            "loc": "Switzerland, Zurich",
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Germany, Munich",
+            "protocol": "Industrial innovation and energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-09-05 09:24:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; PRIMARY IMPACT IN NEW YORK DUE TO SUPPLY CHAIN VULNERABILITIES; WATCH BOTTLENECK NODES IN CARACAS, SANA'A, KYIV FOR ESCALATION.",
+    "last_updated": "2026-09-05 12:55:00",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
