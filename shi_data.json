@@ -1,52 +1,52 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "NEW YORK, USA",
+    "shi": 4.2768,
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation & debt crisis"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         },
         {
-            "loc": "Sanaa, Yemen",
-            "deviation": "Energy chokepoint & civil unrest"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Kyiv, Ukraine",
-            "deviation": "War-induced supply chain break"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Berlin, Germany",
-            "protocol": "Policy reforms & innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Ottawa, Canada",
-            "protocol": "Anti-corruption & green energy"
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Tech innovation & trade openness"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH AT 57.0%; BOTTLENECKS IN CARACAS, SANAA, KYIV; STRENGTHS IN BERLIN, OTTAWA, SEOUL.",
-    "last_updated": "2026-09-06 16:27:14",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES GRAPPLE WITH BOTTLENECKS WHILE ADVANCED ECONOMIES PUSH REFORMS.",
+    "last_updated": "2026-09-06 18:33:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
