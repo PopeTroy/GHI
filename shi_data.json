@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 2.14,
+    "health_percent": 73.4,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "12:05:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers, energy chokepoints"
-        },
-        {
-            "loc": "Khartoum, Sudan",
-            "deviation": "High debt, political instability"
-        },
-        {
-            "loc": "Sana'a, Yemen",
-            "deviation": "Supply chain break, energy chokepoints"
+            "deviation": "Hyperinflation pressure"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms, anti-corruption"
+            "protocol": "Strong anti-corruption reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Innovation, sustainable growth"
+            "loc": "Oslo, Norway",
+            "protocol": "Innovation hub incentives"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Technological advancement, fiscal discipline"
+            "loc": "Toronto, Canada",
+            "protocol": "Trade facilitation policies"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODEST IMPROVEMENT; PRIMARY HIGH IMPACT HUB SINGAPORE LEADS IN RESILIENCE, WHILE VENEZUELA, SUDAN, AND YEMEN FACE CRITICAL BOTTLENECKS REQUIRING URGENT POLICY INTERVENTION.",
-    "last_updated": "2026-09-07 04:49:08",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT STRAINS WHILE ADVANCED ECONOMIES PUSH GREEN TECH INCENTIVES.",
+    "last_updated": "2026-09-07 09:47:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
-        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9786,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
