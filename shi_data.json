@@ -1,52 +1,52 @@
 {
-    "shi": 1.8521,
-    "health_percent": 73.4,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 4.2768,
+    "health_percent": 73.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "36:12:07",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "High debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers coupled with infrastructure decay"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation-driven fiscal instability and sanctions"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Comprehensive financial regulation and innovation hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Strong anti-corruption measures and green energy transition"
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms coupled with world-class logistics"
+            "loc": "Sydney, Australia",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; KEY BOTTLENECKS IN EMERGING MARKETS THREATEN SUPPLY CHAINS, WHILE NORDIC AND SWISS HUBS MAINTAIN HIGH RESILIENCE THROUGH PROTOCOL-DRIVEN GROWTH.",
-    "last_updated": "2026-09-08 00:20:15",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-09-08 04:53:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.23,
-        "F": 0.87,
-        "T": 1.05,
-        "B": 0.78,
-        "C": 1.12
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
