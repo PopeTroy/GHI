@@ -1,52 +1,52 @@
 {
-    "shi": 5.08579,
-    "health_percent": 50.86,
-    "location": "LONDON, UK",
+    "shi": 2.1384,
+    "health_percent": 46.78,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "loc": "Shanghai, China",
+            "deviation": "High debt and energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers coupled with volatile currency"
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation pressures and sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints and fiscal instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and innovation hub"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms driving high-tech growth"
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy transition and fiscal stability"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Sustainable innovation and robust governance"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH STRONG PROTOCOL-DRIVEN RESILIENCE IN ADVANCED ECONOMIES.",
-    "last_updated": "2026-09-09 17:49:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN ASIA.",
+    "last_updated": "2026-09-09 20:04:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.35,
-        "F": 0.88,
-        "T": 1.02,
-        "B": 0.47,
-        "C": 0.73
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4914,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5322,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
