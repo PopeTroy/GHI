@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 46.78,
-    "location": "NEW YORK, USA",
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Shanghai, China",
-            "deviation": "High debt and energy chokepoint"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint due to grid instability"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "High debt-to-GDP ratio limiting fiscal space"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and fiscal instability"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers causing import shortages"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Comprehensive anti-corruption reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and financial stability"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy innovation incentives"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable innovation and robust governance"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced digital infrastructure policy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN ASIA.",
-    "last_updated": "2026-09-09 20:04:42",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; ASIAN HUBS DEMONSTRATE RESILIENCE WHILE EMERGING MARKETS FACE PRESSURE ON DEBT AND ENERGY.",
+    "last_updated": "2026-09-09 22:30:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5322,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
