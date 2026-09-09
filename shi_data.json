@@ -3,7 +3,7 @@
     "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "36:12:45",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
@@ -11,7 +11,7 @@
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
             "loc": "Caracas, Venezuela",
@@ -21,19 +21,19 @@
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Financial innovation and low corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust financial regulation and green energy transition"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and strong governance"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Advanced tech sector and stable fiscal policy"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced manufacturing and policy stability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN STEADY GROWTH.",
-    "last_updated": "2026-09-09 05:18:56",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN STABILITY.",
+    "last_updated": "2026-09-09 09:54:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
