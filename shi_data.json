@@ -1,46 +1,46 @@
 {
-    "shi": 2.1384,
+    "shi": 2.03657,
     "health_percent": 78.5,
-    "location": "NEW YORK, USA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "72:14:05",
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and rising external debt"
+            "deviation": "High external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers due to port congestion and currency volatility"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures and sanctions-induced supply constraints"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and innovation hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and low corruption"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Strategic trade policies and technological advancement"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE BOTTLENECKS WHILE ADVANCED ECONOMIES MAINTAIN PROTOCOLS FOR GROWTH.",
-    "last_updated": "2026-09-11 13:38:47",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES BENEFIT FROM INNOVATION-DRIVEN GROWTH.",
+    "last_updated": "2026-09-11 17:14:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.0
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
