@@ -1,20 +1,20 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.1384,
+    "health_percent": 75.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
-        },
         {
             "loc": "Karachi, Pakistan",
             "deviation": "High debt"
         },
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
+        },
+        {
+            "loc": "Yangon, Myanmar",
             "deviation": "Trade barriers"
         }
     ],
@@ -24,29 +24,29 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN STEADY GROWTH.",
-    "last_updated": "2026-09-12 15:44:04",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS; MONITOR EMERGING BOTTLENECKS.",
+    "last_updated": "2026-09-12 17:52:09",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.245,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
