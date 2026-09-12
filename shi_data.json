@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 78.3,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Severe trade barriers and port congestion"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "deviation": "Energy chokepoints due to grid instability"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt and trade barriers"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "deviation": "High sovereign debt limiting fiscal response"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Comprehensive anti-corruption framework"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal policy and renewable energy transition"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Innovation-driven green energy policies"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade facilitation and tech hub"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust financial regulation and debt sustainability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED SIGNALS WITH EMERGING MARKETS FACING PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
-    "last_updated": "2026-09-12 08:48:41",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA AND AFRICA POSE NEAR\u2011TERM RISKS, WHILE NORDIC AND NORTH AMERICAN HUBS RETAIN STRONG PROTOCOL-DRIVEN RESILIENCE.",
+    "last_updated": "2026-09-12 12:25:20",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.217,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
