@@ -1,52 +1,52 @@
 {
-    "shi": 85.0,
-    "health_percent": 85.0,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 3.05486,
+    "health_percent": 85.3,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "12:05:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt burden"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation risk and fiscal instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Strong anti-corruption policies and financial innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption reforms"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and fiscal prudence"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade facilitation and tech-driven growth"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW RESILIENCE AS SUPPLY CHAINS ADAPT; WATCH FOR EMERGING BOTTLENECKS IN SOUTH ASIA.",
-    "last_updated": "2026-09-12 00:10:35",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC STABILITY SHOWS MIXED SIGNALS; KEY CHOKEPOINTS IN EMERGING MARKETS THREATEN SUPPLY CHAINS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE THROUGH INNOVATION AND PRUDENT FISCAL POLICIES.",
+    "last_updated": "2026-09-12 04:34:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 5.0,
-        "F": 4.0,
-        "T": 2.951388888888889,
-        "B": 1.0,
-        "C": 1.0
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 0.7
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.15,
+        "kama_compression_ratio": 0.147,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
