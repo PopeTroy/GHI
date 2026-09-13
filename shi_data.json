@@ -6,16 +6,16 @@
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
+        },
+        {
             "loc": "Karachi, Pakistan",
             "deviation": "High debt"
         },
         {
             "loc": "Lagos, Nigeria",
             "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
@@ -24,16 +24,16 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES STABILIZE THROUGH INNOVATION.",
-    "last_updated": "2026-09-12 23:38:26",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SINGAPORE AS PRIMARY IMPACT NODE; SUPPLY CHAIN RISKS LOOM, WHILE ZURICH, COPENHAGEN, AND TORONTO LEAD IN PROTOCOL-DRIVEN RESILIENCE.",
+    "last_updated": "2026-09-13 01:25:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
