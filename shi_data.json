@@ -1,21 +1,21 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "health_percent": 78.5,
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Trade barrier"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
@@ -24,16 +24,16 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SINGAPORE AS PRIMARY IMPACT NODE; SUPPLY CHAIN RISKS LOOM, WHILE ZURICH, COPENHAGEN, AND TORONTO LEAD IN PROTOCOL-DRIVEN RESILIENCE.",
-    "last_updated": "2026-09-13 01:25:08",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-09-13 06:33:12",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
