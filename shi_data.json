@@ -1,52 +1,52 @@
 {
-    "shi": 2.03657,
-    "health_percent": 57.3,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 2.1384,
+    "health_percent": 65.3,
+    "location": "ZURICH, SWITZERLAND",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt"
+            "deviation": "Trade barriers and unreliable power grid"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
             "loc": "Oslo, Norway",
-            "protocol": "Innovation"
+            "protocol": "Strong anti-corruption policies and renewable energy investment"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Efficient trade facilitation and digital innovation hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Comprehensive fiscal stability and green transition"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-09-14 06:14:55",
+    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; KEY BOTTLENECKS IN EMERGING MARKETS THREATEN SUPPLY CHAINS WHILE NORDIC AND SINGAPOREAN NODES LEAD IN PROTOCOL-DRIVEN GROWTH.",
+    "last_updated": "2026-09-14 18:31:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 1.05
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.427,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.347,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
