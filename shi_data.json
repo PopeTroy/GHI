@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 65.3,
-    "location": "ZURICH, SWITZERLAND",
+    "health_percent": 73.4,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Energy chokepoint"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unreliable power grid"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Policy reforms"
+        },
+        {
             "loc": "Oslo, Norway",
-            "protocol": "Strong anti-corruption policies and renewable energy investment"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade facilitation and digital innovation hub"
-        },
-        {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Comprehensive fiscal stability and green transition"
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; KEY BOTTLENECKS IN EMERGING MARKETS THREATEN SUPPLY CHAINS WHILE NORDIC AND SINGAPOREAN NODES LEAD IN PROTOCOL-DRIVEN GROWTH.",
-    "last_updated": "2026-09-14 18:31:17",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-09-14 21:59:34",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.347,
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
