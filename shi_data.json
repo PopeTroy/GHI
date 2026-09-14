@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 42.8,
+    "health_percent": 64.2,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to grid overload"
+            "deviation": "Severe energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio limiting fiscal response"
+            "deviation": "High debt and trade barriers"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers causing prolonged port delays"
+            "deviation": "Political instability causing trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Comprehensive anti-corruption framework"
+            "protocol": "Strong anti-corruption and innovation policies"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Comprehensive renewable energy integration"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Innovation hub with strong R&D incentives"
-        },
-        {
-            "loc": "Melbourne, Australia",
-            "protocol": "Resilient supply chain diversification policies"
+            "protocol": "Robust fiscal reforms and tech hub growth"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE STRESS; WATCH FOR ENERGY CHOKEPOINTS IN SOUTH ASIA AND DEBT VULNERABILITIES IN WEST AFRICA.",
-    "last_updated": "2026-09-13 23:12:03",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOLS.",
+    "last_updated": "2026-09-14 01:07:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.572,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.358,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
