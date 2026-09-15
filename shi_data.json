@@ -1,46 +1,46 @@
 {
-    "shi": 3.05486,
+    "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflationary pressures"
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework"
+            "protocol": "Financial innovation"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Advanced renewable energy integration"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Cutting-edge innovation hubs"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY REFORMS ACCELERATE IN ASIA WHILE ENERGY CHOKEPOINTS PERSIST IN EUROPE.",
-    "last_updated": "2026-09-15 14:58:23",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-09-15 18:52:37",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
         "B": 0.8,
-        "C": 0.7
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
