@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 73.5,
-    "location": "NEW YORK, USA",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "deviation": "High external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "Energy chokepoints"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation risk and sanctions"
+            "deviation": "Hyperinflation pressures"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade logistics and fiscal stability"
+            "protocol": "Strong anti-corruption reforms"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and low debt"
+            "protocol": "Innovation hub incentives"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Trade barrier reduction"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
-    "last_updated": "2026-09-15 21:51:09",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES GRAPPLE WITH DEBT WHILE ADVANCED ECONOMIES PUSH GREEN INNOVATION.",
+    "last_updated": "2026-09-15 23:47:56",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
