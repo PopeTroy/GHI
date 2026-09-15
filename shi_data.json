@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 45.6,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "120:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe energy chokepoint"
         },
         {
-            "loc": "Sudan, Khartoum",
-            "deviation": "Energy chokepoint"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High sovereign debt"
         },
         {
-            "loc": "Myanmar, Yangon",
-            "deviation": "Trade barrier"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "Germany, Berlin",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Anti-corruption reforms"
         },
         {
-            "loc": "South Korea, Seoul",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS, WHILE ADVANCED ECONOMIES BENEFIT FROM REFORM-DRIVEN GROWTH.",
-    "last_updated": "2026-09-15 05:13:26",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY PRICES FLUCTUATE AND POLICY DEBATES INTENSIFY.",
+    "last_updated": "2026-09-15 10:07:25",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.544,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
