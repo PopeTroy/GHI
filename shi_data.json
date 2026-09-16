@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 2.14,
+    "shi": 4.2768,
+    "health_percent": 4.28,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High debt"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and unstable power grid"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political unrest causing supply chain disruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption policies and innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Efficient trade policies and high-tech infrastructure"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy leadership and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; PRIMARY IMPACT IN NEW YORK; SUPPLY CHAIN BREAK RISK ESCALATING; MONITOR BOTTLENECK NODES IN LAGOS, KARACHI, CARACAS FOR URGENT INTERVENTION.",
-    "last_updated": "2026-09-16 06:51:53",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN SOUTH ASIA.",
+    "last_updated": "2026-09-16 12:18:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
         "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
-        "kama_compression_ratio": 0.9786,
+        "kama_compression_ratio": 0.9572,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
