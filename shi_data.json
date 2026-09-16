@@ -1,52 +1,52 @@
 {
-    "shi": 4.2768,
-    "health_percent": 42.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.57024,
+    "health_percent": 57.02,
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "High debt"
+            "loc": "S\u00e3o Paulo, Brazil",
+            "deviation": "High debt and energy chokepoint"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Sudan, Khartoum",
-            "deviation": "Trade barriers"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Political instability and fiscal strain"
         }
     ],
     "high_shi": [
         {
-            "loc": "Switzerland, Zurich",
-            "protocol": "Policy reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-growth policy reforms and anti-corruption measures"
         },
         {
-            "loc": "Germany, Frankfurt",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation hub with strong financial regulation"
         },
         {
-            "loc": "Canada, Toronto",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Sustainable energy policies and skilled workforce"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-09-16 20:06:41",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN EMERGING MARKETS.",
+    "last_updated": "2026-09-16 22:54:28",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.8
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.575,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.4298,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
