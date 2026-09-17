@@ -1,52 +1,52 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "NEW YORK, USA",
+    "shi": 2.1384,
+    "health_percent": 84.3,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to grid overload"
+            "deviation": "High debt and energy chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio limiting fiscal space"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers from sanctions and customs delays"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub with strong anti-corruption policies"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and world-class infrastructure"
+            "loc": "Oslo, Norway",
+            "protocol": "Robust fiscal reforms and green energy transition"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and fiscal stability"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and stable debt levels"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS RISE IN EMERGING ECONOMIES; INNOVATION CORRIDORS IN ZURICH AND SINGAPORE CONTINUE TO ATTRACT INVESTMENT.",
-    "last_updated": "2026-09-17 11:35:48",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED RESILIENCE; ASIAN HUBS LEAD IN PROTOCOL ADOPTION WHILE EMERGING MARKETS FACE DEBT AND ENERGY PRESSURES.",
+    "last_updated": "2026-09-17 15:38:53",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 2.0,
-        "C": 1.5
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.157,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
