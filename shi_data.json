@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "health_percent": 78.3,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "deviation": "High debt and energy chokepoints"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and civil unrest"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures"
+            "deviation": "Infrastructure bottlenecks and high debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability reforms"
+            "protocol": "Strong policy reforms and innovation"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption measures and tech hub"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Green energy transition"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Technological innovation hub"
+            "protocol": "Sustainable energy policies and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY REFORMS IN EUROPE BOOST CONFIDENCE WHILE DEBT CONCERNS LINGER IN EMERGING ECONOMIES.",
-    "last_updated": "2026-09-17 01:04:43",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH NOTABLE SUPPLY CHAIN STRESS IN KEY EMERGING MARKETS, WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL-DRIVEN RESILIENCE.",
+    "last_updated": "2026-09-17 06:06:03",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.217,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
