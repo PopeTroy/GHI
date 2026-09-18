@@ -1,52 +1,52 @@
 {
-    "shi": 0.6336,
-    "health_percent": 63.36,
-    "location": "ZURICH, SWITZERLAND",
+    "shi": 1.88829,
+    "health_percent": 63.4,
+    "location": "LONDON, UNITED KINGDOM",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "120:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
+            "deviation": "High debt and energy chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unreliable power grid"
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political instability causing supply chain disruptions"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Comprehensive anti-corruption reforms and green innovation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Strong fiscal policy and technology hub incentives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Efficient trade policies and tech investment"
         },
         {
-            "loc": "Melbourne, Australia",
-            "protocol": "Robust healthcare infrastructure and education investment"
+            "loc": "Oslo, Norway",
+            "protocol": "Sustainable energy reforms and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH AT 63.36%; ZURICH LEADS IMPACT POTENTIAL WHILE SUPPLY CHAIN RISKS LOOM. WATCH KARACHI, LAGOS, YANGON FOR BOTTLENECKS; COPENHAGEN, TORONTO, MELBOURNE EXEMPLIFY BEST PROTOCOLS.",
-    "last_updated": "2026-09-18 19:49:51",
+    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING BOTTLENECKS IN SOUTH ASIA AND AFRICA.",
+    "last_updated": "2026-09-18 21:57:47",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 1.1,
-        "T": 1.0,
-        "B": 2.0,
-        "C": 1.5
+        "P": 1.05,
+        "F": 0.92,
+        "T": 1.08,
+        "B": 0.78,
+        "C": 1.02
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.3664,
+        "kama_compression_ratio": 0.366,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
