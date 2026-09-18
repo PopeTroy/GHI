@@ -1,21 +1,21 @@
 {
-    "shi": 0.36,
-    "health_percent": 36.0,
-    "location": "NEW YORK, USA",
+    "shi": 4.2768,
+    "health_percent": 73.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint"
-        },
-        {
-            "loc": "Lagos, Nigeria",
+            "loc": "Yangon, Myanmar",
             "deviation": "Trade barriers"
         },
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Karachi, Pakistan",
             "deviation": "High debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         }
     ],
     "high_shi": [
@@ -24,29 +24,29 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Toronto, Canada",
             "protocol": "Innovation"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Sydney, Australia",
             "protocol": "Anti-corruption"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH AT 36%; PRIMARY IMPACT NODE NEW YORK FACES SUPPLY CHAIN BREAK RISK WITHIN 72H; BOTTLENECK NODES IDENTIFIED IN KARACHI, LAGOS, CARACAS; STABLE NODES HIGHLIGHTED IN ZURICH, SINGAPORE, COPENHAGEN.",
-    "last_updated": "2026-09-17 19:16:39",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-09-18 00:27:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.0,
-        "F": 1.0,
-        "T": 1.0,
-        "B": 2.0,
-        "C": 2.0
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.64,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
