@@ -1,52 +1,52 @@
 {
-    "shi": 1.88829,
-    "health_percent": 63.4,
-    "location": "LONDON, UNITED KINGDOM",
+    "shi": 2.64,
+    "health_percent": 78.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "loc": "Singapore, Singapore",
+            "deviation": "Port congestion due to regulatory delays"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "loc": "Houston, USA",
+            "deviation": "Natural gas pipeline capacity constraints"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Rotterdam, Netherlands",
+            "deviation": "Customs paperwork backlog"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Financial transparency reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and tech investment"
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced robotics adoption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy reforms and fiscal stability"
+            "loc": "Toronto, Canada",
+            "protocol": "Green energy incentive program"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING BOTTLENECKS IN SOUTH ASIA AND AFRICA.",
-    "last_updated": "2026-09-18 21:57:47",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES ADJUST TO NEW TRADE POLICIES WHILE DEVELOPED NATIONS INVEST IN RESILIENT INFRASTRUCTURE.",
+    "last_updated": "2026-09-19 00:04:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.05,
-        "F": 0.92,
-        "T": 1.08,
-        "B": 0.78,
-        "C": 1.02
+        "P": 1.2,
+        "F": 1.1,
+        "T": 1.0,
+        "B": 0.8,
+        "C": 0.9
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.366,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
