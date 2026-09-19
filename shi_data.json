@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 85.5,
-    "location": "ZURICH, SWITZERLAND",
+    "health_percent": 73.5,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint due to grid overload"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt-to-GDP ratio limiting fiscal space"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "High debt"
-        },
-        {
-            "loc": "Kabul, Afghanistan",
-            "deviation": "Trade barriers"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers from sanctions and customs delays"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation"
+            "protocol": "Advanced anti-corruption framework and digital trade facilitation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Anti-corruption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial regulation and innovation hub incentives"
+        },
+        {
+            "loc": "Toronto, Canada",
+            "protocol": "Comprehensive policy reforms supporting green energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY SHIFTS RIPPLE ACROSS CONTINENTS.",
-    "last_updated": "2026-09-19 13:00:35",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; MONITOR ENERGY CHOKEPOINTS IN SOUTH ASIA AND DEBT VULNERABILITIES IN WEST AFRICA.",
+    "last_updated": "2026-09-19 16:22:38",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.145,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
