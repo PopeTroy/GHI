@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "LONDON, UK",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "12:34:56",
+    "shi": 0.74618,
+    "health_percent": 74.7,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "deviation": "Severe energy chokepoints and high debt"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Trade barrier"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Trade barriers and currency instability"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reform"
+            "protocol": "Strong anti-corruption and innovation hub"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Policy reforms and financial stability"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and high trust"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE IMPROVEMENT WITH STRONG PROTOCOL ADOPTION IN FINANCIAL HUBS, WHILE EMERGING MARKETS FACE DEBT AND TRADE CHALLENGES.",
-    "last_updated": "2026-09-20 00:48:42",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GLOBAL STABILITY INDICATORS SHOW MIXED SIGNALS; EMERGING MARKETS FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-09-20 05:29:06",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
+        "P": 0.8,
         "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "T": 0.95,
+        "B": 1.2,
+        "C": 1.1
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.253,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
