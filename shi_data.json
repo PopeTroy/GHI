@@ -1,52 +1,52 @@
 {
-    "shi": 8.8128,
-    "health_percent": 78.4,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.1384,
+    "health_percent": 57.3,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "02:30:15",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and political instability"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers"
+            "loc": "Havana, Cuba",
+            "deviation": "Infrastructure decay and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Financial innovation and low corruption"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade facilitation and tech adoption"
         },
         {
-            "loc": "Sydney, Australia",
-            "protocol": "Innovation"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and strong governance"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-09-20 19:41:33",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EMERGING MARKETS FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES LEVERAGE INNOVATION FOR RESILIENCE.",
+    "last_updated": "2026-09-20 21:51:17",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.2,
-        "T": 0.9,
-        "B": 0.3,
-        "C": 0.5
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.216,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.427,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
