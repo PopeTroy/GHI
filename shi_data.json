@@ -1,52 +1,52 @@
 {
-    "shi": 0.7776,
-    "health_percent": 77.76,
-    "location": "NEW YORK, USA",
+    "shi": 2.1384,
+    "health_percent": 64.15,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "12:05:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unstable power grid"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Political unrest causing trade disruption"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption reforms and innovation hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms boosting trade efficiency"
+            "loc": "Oslo, Norway",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition and fiscal stability"
+            "loc": "Toronto, Canada",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
-    "last_updated": "2026-09-20 10:03:20",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN RISKS IN EMERGING MARKETS; CORE ECONOMIES REMAIN RESILIENT DUE TO STRONG PROTOCOLS.",
+    "last_updated": "2026-09-20 14:09:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
-        "F": 1.0,
-        "T": 0.9,
-        "B": 2.0,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
         "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2224,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.3585,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
