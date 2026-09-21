@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 78.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Energy chokepoint and civil unrest"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers due to sanctions and infrastructure decay"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "War-induced supply chain break"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Chronic political instability and debt distress"
         }
     ],
     "high_shi": [
         {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Comprehensive financial regulation and innovation hub"
+        },
+        {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation-driven growth"
+            "protocol": "Anti-corruption policies and trade facilitation"
         },
         {
-            "loc": "Germany, Berlin",
-            "protocol": "Policy reforms and anti-corruption"
-        },
-        {
-            "loc": "Canada, Ottawa",
-            "protocol": "Sustainable energy transition"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and strong fiscal buffers"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH KEY BOTTLENECKS IN CONFLICT ZONES; INNOVATION HUBS REMAIN RESILIENT.",
-    "last_updated": "2026-09-21 01:41:45",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES IN SOUTH ASIA POSE NEAR-TERM RISK WHILE NORDIC AND SWISS HUBS MAINTAIN HIGH SHI.",
+    "last_updated": "2026-09-21 14:15:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
