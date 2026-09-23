@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 75.0,
+    "health_percent": 75.0,
+    "location": "ZURICH, SWITZERLAND",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "deviation": "High debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "loc": "Houston, USA",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barrier"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial innovation and low corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Policy reform"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and strong governance"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced manufacturing and robotics"
+            "loc": "Berlin, Germany",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-09-22 22:25:51",
+    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY REFORMS BOOST STABILITY WHILE ENERGY CHOKEPOINTS PERSIST.",
+    "last_updated": "2026-09-23 00:50:53",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 2.0,
+        "F": 2.0,
+        "T": 2.0,
+        "B": 0.5,
+        "C": 0.3072
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.25,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
