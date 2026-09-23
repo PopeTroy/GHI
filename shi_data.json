@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 73.5,
-    "location": "NEW YORK, USA",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Severe energy chokepoint due to grid instability"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "High external debt servicing constraints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and corruption"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and grid collapse"
+            "loc": "Port-au-Prince, Haiti",
+            "deviation": "Trade barriers from customs delays"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
+            "protocol": "Comprehensive financial regulation and innovation hub"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition policies"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and tech hub"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy and strong governance"
+            "protocol": "Anti-corruption measures and digital trade facilitation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN STEADY GROWTH.",
-    "last_updated": "2026-09-23 05:20:23",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA OFFSET BY STRONG GOVERNANCE IN EUROPE AND CITY-STATE HUBS.",
+    "last_updated": "2026-09-23 10:07:40",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
