@@ -1,9 +1,9 @@
 {
     "shi": 2.1384,
-    "health_percent": 42.5,
+    "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "72:14:05",
+    "collapse_timer": "48:20:10",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
@@ -15,25 +15,25 @@
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk"
+            "deviation": "Hyperinflation pressures"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability reforms"
+            "protocol": "Strong anti-corruption framework"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Green energy transition"
+            "protocol": "Renewable energy leadership"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Technological innovation hub"
+            "protocol": "Advanced innovation ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY SHIFTS RIPPLE THROUGH SUPPLY CHAINS.",
-    "last_updated": "2026-09-23 18:58:09",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES INNOVATE.",
+    "last_updated": "2026-09-23 22:11:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.575,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
