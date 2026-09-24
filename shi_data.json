@@ -1,52 +1,52 @@
 {
-    "shi": 0.3456,
-    "health_percent": 34.56,
-    "location": "LONDON, UK",
+    "shi": 2.03657,
+    "health_percent": 73.4,
+    "location": "SHANGHAI, CHINA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "36:12:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint due to grid instability"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High debt burden limiting fiscal response"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers causing import shortages"
+            "loc": "Lebanon, Beirut",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework"
+            "loc": "Germany, Berlin",
+            "protocol": "Policy reform"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Innovation-driven economic policies"
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy transition initiatives"
+            "loc": "South Korea, Seoul",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS INDICATE MODERATE HEALTH; MONITOR SUPPLY CHAIN DISRUPTIONS IN EMERGING MARKETS FOR POTENTIAL ESCALATION.",
-    "last_updated": "2026-09-24 00:31:14",
+    "scroller_feed": "CRITICAL: SHANGHAI, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS; EMERGING MARKETS FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES BENEFIT FROM REFORM-DRIVEN GROWTH.",
+    "last_updated": "2026-09-24 05:17:43",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.8,
+        "P": 1.2,
         "F": 0.9,
-        "T": 1.0,
-        "B": 2.0,
-        "C": 1.5
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.6544,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.266,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
