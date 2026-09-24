@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 1.44,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Innovation hub"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Trade liberalization"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING DEBT STRESSES IN SOUTH ASIA.",
-    "last_updated": "2026-09-24 15:08:58",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICES SHOW MIXED SIGNALS; MONITOR EMERGING MARKET DEBT.",
+    "last_updated": "2026-09-24 19:08:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.9856,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
