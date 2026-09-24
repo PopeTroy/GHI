@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.3456,
+    "health_percent": 34.56,
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:20:10",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt"
+            "deviation": "Energy chokepoint due to grid instability"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints"
+            "deviation": "High debt burden limiting fiscal response"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures"
+            "deviation": "Trade barriers causing import shortages"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption framework"
+            "protocol": "Robust anti-corruption framework"
+        },
+        {
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation-driven economic policies"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Renewable energy leadership"
-        },
-        {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced innovation ecosystem"
+            "protocol": "Sustainable energy transition initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES INNOVATE.",
-    "last_updated": "2026-09-23 22:11:21",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS INDICATE MODERATE HEALTH; MONITOR SUPPLY CHAIN DISRUPTIONS IN EMERGING MARKETS FOR POTENTIAL ESCALATION.",
+    "last_updated": "2026-09-24 00:31:14",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
+        "P": 0.8,
         "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "T": 1.0,
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.6544,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
