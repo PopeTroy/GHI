@@ -1,52 +1,52 @@
 {
-    "shi": 11.4048,
-    "health_percent": 57.3,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.1384,
+    "health_percent": 78.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
-            "loc": "Venezuela, Caracas",
-            "deviation": "Hyperinflation and debt"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
-            "loc": "Yemen, Sana'a",
-            "deviation": "Energy chokepoints"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and deteriorating grid infrastructure"
         },
         {
-            "loc": "Ukraine, Kyiv",
-            "deviation": "Trade barriers"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Political instability causing supply chain disruptions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Germany, Berlin",
-            "protocol": "Policy reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Comprehensive policy reforms and anti-corruption measures"
         },
         {
-            "loc": "South Korea, Seoul",
-            "protocol": "Innovation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation hub with strong fiscal policies"
         },
         {
-            "loc": "Canada, Ottawa",
-            "protocol": "Anti-corruption"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition and robust social safety nets"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; MONITOR ENERGY CHOKEPOINTS.",
-    "last_updated": "2026-09-25 19:25:44",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; WHILE CORE ECONOMIES MAINTAIN RESILIENCE, EMERGING BOTTLENECKS IN ENERGY AND DEBT THREATEN NEAR-TERM SUPPLY CHAINS.",
+    "last_updated": "2026-09-25 22:40:02",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.5,
-        "C": 0.3
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.427,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
