@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "NEW YORK, USA",
+    "health_percent": 78.5,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and fiscal instability"
+            "deviation": "Hyperinflation and debt default"
+        },
+        {
+            "loc": "Sana'a, Yemen",
+            "deviation": "Energy chokepoints and civil unrest"
+        },
+        {
+            "loc": "Kyiv, Ukraine",
+            "deviation": "Trade barriers and infrastructure damage"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms and innovation"
+            "protocol": "Financial resilience and innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption measures and tech hub"
+            "protocol": "Trade efficiency and anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Sustainable growth and green energy"
+            "loc": "Munich, Germany",
+            "protocol": "Industrial policy and green energy"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EMERGING MARKETS FACE DEBT AND SUPPLY CHAIN PRESSURES, WHILE ADVANCED ECONOMIES BENEFIT FROM REFORM-DRIVEN GROWTH AND INNOVATION.",
-    "last_updated": "2026-09-27 13:00:12",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS LINGER IN EMERGING ECONOMIES.",
+    "last_updated": "2026-09-27 17:40:07",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
