@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.5,
-    "location": "LONDON, UK",
+    "health_percent": 75.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Yangon, Myanmar",
+            "deviation": "High debt"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt and energy chokepoints"
+            "deviation": "Trade barrier"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
-        },
-        {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "deviation": "Energy chokepoint"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
+            "protocol": "Policy reforms"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and fiscal stability"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and low debt"
+            "loc": "Seoul, South Korea",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE IMPROVEMENT; WATCH FOR EMERGING BOTTLENECKS IN SOUTH ASIA AND LATIN AMERICA.",
-    "last_updated": "2026-09-29 23:02:47",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA AND AFRICA POSE IMMEDIATE RISKS, WHILE INNOVATION HUBS IN EUROPE AND EAST ASIA DRIVE RESILIENCE.",
+    "last_updated": "2026-09-30 02:01:49",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.215,
+        "kama_compression_ratio": 0.245,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
