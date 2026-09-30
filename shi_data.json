@@ -1,21 +1,21 @@
 {
-    "shi": 2.1384,
-    "health_percent": 75.5,
+    "shi": 2.73993,
+    "health_percent": 57.3,
     "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
+            "loc": "Karachi, Pakistan",
             "deviation": "High debt"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Trade barrier"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy chokepoints"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
@@ -24,29 +24,29 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
+            "loc": "Oslo, Norway",
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Seoul, South Korea",
+            "loc": "Tokyo, Japan",
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN SOUTHEAST ASIA AND AFRICA POSE IMMEDIATE RISKS, WHILE INNOVATION HUBS IN EUROPE AND EAST ASIA DRIVE RESILIENCE.",
-    "last_updated": "2026-09-30 02:01:49",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-09-30 08:23:36",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 0.78,
+        "F": 1.05,
+        "T": 0.92,
+        "B": 0.33,
+        "C": 1.2
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.245,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.427,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
