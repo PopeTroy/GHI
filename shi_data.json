@@ -1,21 +1,21 @@
 {
-    "shi": 0.57024,
-    "health_percent": 57.02,
-    "location": "ZURICH, SWITZERLAND",
+    "shi": 0.045,
+    "health_percent": 4.5,
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
-        {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Trade barrier"
-        },
         {
             "loc": "Lagos, Nigeria",
             "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Caracas, Venezuela",
+            "loc": "Karachi, Pakistan",
             "deviation": "High debt"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
@@ -28,25 +28,25 @@
             "protocol": "Anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
+            "loc": "Oslo, Norway",
             "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
-    "last_updated": "2026-10-02 06:35:57",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW LOW HEALTH PERCENTILE DUE TO HIGH BOTTLENECKS; PRIMARY IMPACT IN LONDON WITH SUPPLY CHAIN BREAK RISK WITHIN 48 HOURS.",
+    "last_updated": "2026-10-02 13:09:05",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
+        "P": 0.5,
+        "F": 0.5,
+        "T": 0.5,
         "B": 2.0,
-        "C": 1.5
+        "C": 2.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4298,
+        "active_eye": "RINNEGAN_ALMIGHTY_PUSH_REBOOT",
+        "tailed_beast_chakra": "TEN_TAILS_COLLAPSE_IMPERATIVE",
+        "kama_compression_ratio": 0.955,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
