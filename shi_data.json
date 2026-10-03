@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 85.0,
-    "location": "LONDON, UK",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "12:30:45",
+    "location": "NEW YORK, USA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint and high external debt"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and unstable power grid"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation risk and sanctions"
+            "deviation": "Hyperinflation and debt crisis"
+        },
+        {
+            "loc": "Sanaa, Yemen",
+            "deviation": "Energy chokepoint and civil unrest"
+        },
+        {
+            "loc": "Khartoum, Sudan",
+            "deviation": "Trade barriers and sanctions"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and innovation hub"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and high-tech infrastructure"
+            "protocol": "Innovation hub and anti-corruption"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy leadership and fiscal stability"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and policy reforms"
+        },
+        {
+            "loc": "Munich, Germany",
+            "protocol": "Industrial innovation and energy efficiency"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; EUROPE LEADS IN RESILIENCE WHILE SOUTH ASIA AND AFRICA FACE CRITICAL BOTTLENECKS.",
-    "last_updated": "2026-10-03 19:13:42",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH NOTABLE BOTTLENECKS IN VULNERABLE ECONOMIES WHILE INNOVATION HUBS MAINTAIN RESILIENCE.",
+    "last_updated": "2026-10-03 22:09:44",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
