@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 21.38,
-    "location": "ZURICH, SWITZERLAND",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "08:30:00",
+    "shi": 0.57024,
+    "health_percent": 57.02,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt & energy chokepoint"
+            "deviation": "Energy chokepoint"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers & infrastructure deficits"
+            "deviation": "High debt"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation risk & sanctions"
+            "deviation": "Trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms & innovation"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption & tech hub"
+            "protocol": "Policy reforms"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition & social stability"
+            "protocol": "Anti-corruption"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH; WATCH FOR GRID STRESS IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE THROUGH REFORM AND INNOVATION.",
-    "last_updated": "2026-10-05 08:05:46",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS IN SOUTHEAST ASIA PROMPT VIGILANCE, WHILE EUROPEAN HUBS MAINTAIN STRONG PROTOCOLS.",
+    "last_updated": "2026-10-05 17:06:18",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 2.0,
+        "C": 1.5
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.7862,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.4298,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
