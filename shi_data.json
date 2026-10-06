@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
+    "health_percent": 85.3,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "12:34:56",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barrier"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt and energy chokepoints"
         },
         {
-            "loc": "Singapore, Singapore",
-            "deviation": "Energy chokepoint"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "High debt"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Innovation hub"
+            "loc": "Singapore, Singapore",
+            "protocol": "Efficient trade policies and fiscal stability"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy transition and social welfare"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS POLICY SHIFTS LOOM.",
-    "last_updated": "2026-10-06 16:39:08",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MIXED SIGNALS; EMERGING MARKETS FACE PRESSURE WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
+    "last_updated": "2026-10-06 21:14:16",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.147,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
