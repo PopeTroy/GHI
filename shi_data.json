@@ -3,37 +3,37 @@
     "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
-            "loc": "Port au Prince, Haiti",
-            "deviation": "Severe energy chokepoint"
-        },
-        {
-            "loc": "Yangon, Myanmar",
-            "deviation": "High debt burden"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers"
+            "deviation": "High debt and energy chokepoint"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure deficits"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyper-inflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial innovation hub"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition"
+            "loc": "Oslo, Norway",
+            "protocol": "Robust fiscal reforms and green energy investment"
         },
         {
-            "loc": "Tokyo, Japan",
-            "protocol": "Advanced manufacturing automation"
+            "loc": "Singapore, Singapore",
+            "protocol": "Pro-business regulations and tech hub development"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN STRONG PROTOCOL ADHERENCE.",
-    "last_updated": "2026-10-07 19:39:42",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS REMAIN VOLATILE AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN TRANSITIONS.",
+    "last_updated": "2026-10-07 23:50:15",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
