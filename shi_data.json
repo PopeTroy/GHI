@@ -1,9 +1,9 @@
 {
-    "shi": 2.1384,
+    "shi": 4.2768,
     "health_percent": 73.5,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
@@ -15,32 +15,32 @@
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation and sanctions"
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "protocol": "Financial stability reforms"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal reforms and green energy investment"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation and anti-corruption measures"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Pro-business regulations and tech hub development"
+            "loc": "Toronto, Canada",
+            "protocol": "Green energy transition policies"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS REMAIN VOLATILE AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN TRANSITIONS.",
-    "last_updated": "2026-10-07 23:50:15",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE PRESSURE WHILE ADVANCED ECONOMIES STABILIZE.",
+    "last_updated": "2026-10-08 03:03:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
