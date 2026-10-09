@@ -3,37 +3,37 @@
     "health_percent": 73.5,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt"
+            "deviation": "Severe energy chokepoint"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High sovereign debt"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Trade barriers and hyperinflation risk"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Robust anti-corruption framework"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption"
+            "protocol": "Innovation-driven policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Innovation"
+            "loc": "Oslo, Norway",
+            "protocol": "Sustainable energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN RISKS HIGHLIGHTED; KEY BOTTLENECKS IN EMERGING MARKETS CONTRAST WITH STRONG PROTOCOL-DRIVEN RESILIENCE IN ADVANCED ECONOMIES.",
-    "last_updated": "2026-10-08 22:23:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RISK; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
+    "last_updated": "2026-10-09 02:23:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
