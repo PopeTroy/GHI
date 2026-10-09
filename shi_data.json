@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 73.5,
-    "location": "NEW YORK, USA",
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "deviation": "Severe energy chokepoint and high external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High sovereign debt"
+            "deviation": "Trade barriers and infrastructure bottlenecks"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers and hyperinflation risk"
+            "deviation": "Hyperinflation risk and sanctions-induced trade disruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework"
-        },
-        {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation-driven policy reforms"
+            "protocol": "Robust financial regulation and innovation incentives"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy transition"
+            "protocol": "Strong anti-corruption measures and green energy transition"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and resilient supply chains"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RISK; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
-    "last_updated": "2026-10-09 02:23:13",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: WHILE INNOVATION HUBS LIKE ZURICH AND OSLO MAINTAIN HIGH SHI, EMERGING MARKETS FACE ENERGY AND DEBT BOTTLENECKS THAT COULD TRIGGER SUPPLY CHAIN DISRUPTIONS WITHIN THE NEXT TWO DAYS.",
+    "last_updated": "2026-10-09 09:23:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
