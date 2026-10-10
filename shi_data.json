@@ -1,52 +1,52 @@
 {
-    "shi": 2.652,
-    "health_percent": 84.7,
-    "location": "LONDON, UNITED KINGDOM",
+    "shi": 2.1384,
+    "health_percent": 73.5,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "08:15:30",
     "bottlenecks": [
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Severe hyperinflation and currency controls"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt and energy chokepoint"
         },
         {
-            "loc": "Sana'a, Yemen",
-            "deviation": "Ongoing civil war disrupting energy supplies"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and civil unrest"
         },
         {
-            "loc": "Beirut, Lebanon",
-            "deviation": "Banking collapse and port explosion aftermath"
+            "loc": "Havana, Cuba",
+            "deviation": "Energy chokepoint and low innovation"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and low corruption"
+            "protocol": "Strong anti-corruption and innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Strategic trade policies and innovation hub"
+            "protocol": "Policy reforms and high FDI"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Advanced manufacturing and renewable energy integration"
+            "loc": "Toronto, Canada",
+            "protocol": "Robust financial sector and green energy"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; SUPPLY CHAIN VULNERABILITIES PERSIST IN FRAGILE STATES WHILE CORE ECONOMIES MAINTAIN STRONG PROTOCOLS.",
-    "last_updated": "2026-10-09 21:07:20",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS; EMERGING MARKETS FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES BENEFIT FROM INNOVATION-DRIVEN GROWTH.",
+    "last_updated": "2026-10-10 00:47:10",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.3,
-        "F": 0.85,
-        "T": 1.05,
-        "B": 0.7,
-        "C": 0.9
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.153,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
