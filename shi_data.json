@@ -1,52 +1,52 @@
 {
-    "shi": 2.1384,
-    "health_percent": 85.3,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 2.55,
+    "health_percent": 73.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "36:12:45",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High external debt and energy chokepoints"
-        },
-        {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation and sanctions"
+            "deviation": "High debt and energy chokepoint"
+        },
+        {
+            "loc": "Khartoum, Sudan",
+            "deviation": "Trade barriers and civil unrest"
+        },
+        {
+            "loc": "Beirut, Lebanon",
+            "deviation": "Banking crisis and hyperinflation risk"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption policies and financial innovation"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and fiscal prudence"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and tech hub development"
+            "protocol": "Strong anti-corruption and innovation hub"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Robust financial reforms and policy stability"
+        },
+        {
+            "loc": "Munich, Germany",
+            "protocol": "Advanced manufacturing and green energy policies"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: ASIAN HUBS RESILIENT WHILE EMERGING MARKETS FACE DEBT PRESSURES; POLICY REFORMS IN EUROPE BOLSTER CONFIDENCE.",
-    "last_updated": "2026-10-10 06:27:21",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: EMERGING MARKETS FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES LEVERAGE INNOVATION TO SUSTAIN GROWTH.",
+    "last_updated": "2026-10-10 12:56:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.2,
-        "F": 0.9,
-        "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "P": 1.25,
+        "F": 0.85,
+        "T": 1.05,
+        "B": 0.7,
+        "C": 0.9
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
