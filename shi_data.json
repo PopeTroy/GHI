@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 73.5,
-    "location": "LAGOS, NIGERIA",
+    "health_percent": 85.3,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "08:15:30",
+    "collapse_timer": "36:12:45",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "deviation": "High external debt and energy chokepoints"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and civil unrest"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
-            "loc": "Havana, Cuba",
-            "deviation": "Energy chokepoint and low innovation"
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation"
+            "protocol": "Strong anti-corruption policies and financial innovation"
+        },
+        {
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and fiscal prudence"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms and high FDI"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Robust financial sector and green energy"
+            "protocol": "Pro-business reforms and tech hub development"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS; EMERGING MARKETS FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES BENEFIT FROM INNOVATION-DRIVEN GROWTH.",
-    "last_updated": "2026-10-10 00:47:10",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: ASIAN HUBS RESILIENT WHILE EMERGING MARKETS FACE DEBT PRESSURES; POLICY REFORMS IN EUROPE BOLSTER CONFIDENCE.",
+    "last_updated": "2026-10-10 06:27:21",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.265,
+        "kama_compression_ratio": 0.147,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
