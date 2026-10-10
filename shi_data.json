@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 78.5,
-    "location": "NEW YORK, USA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "location": "ZURICH, SWITZERLAND",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoints"
+            "deviation": "Severe energy chokepoint and rising external debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure deficits"
+            "deviation": "Trade barriers exacerbating supply chain fragility"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation risk and sanctions"
+            "deviation": "Hyperinflation pressure and fiscal deficit"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Comprehensive anti-corruption reforms and green innovation"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Efficient trade policies and fiscal stability"
+            "protocol": "World-class logistics hub with digital trade facilitation"
         },
         {
-            "loc": "Copenhagen, Denmark",
-            "protocol": "Renewable energy transition and fiscal prudence"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable monetary policy and strong financial regulation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED STABILITY; EMERGING MARKETS FACE BOTTLENECKS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE.",
-    "last_updated": "2026-10-10 20:42:38",
+    "scroller_feed": "CRITICAL: ZURICH, SWITZERLAND TARGETED FOR GRID COLLAPSE | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; EUROPEAN HUBS LEAD IN PROTOCOL ADOPTION WHILE SOUTH ASIAN AND LATIN AMERICAN NODES FACE MOUNTING BOTTLENECKS.",
+    "last_updated": "2026-10-10 23:52:46",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
