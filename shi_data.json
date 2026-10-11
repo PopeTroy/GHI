@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 78.3,
-    "location": "LONDON, UNITED KINGDOM",
+    "health_percent": 78.5,
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint due to grid failures"
+            "deviation": "High external debt and energy chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt-to-GDP ratio limiting fiscal response"
+            "deviation": "Trade barriers and infrastructure deficits"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Trade barriers causing import shortages"
+            "deviation": "Hyperinflation and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and innovation incentives"
+            "protocol": "Strong anti-corruption policies and innovation hubs"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business policy reforms and strategic infrastructure investment"
+            "protocol": "Pro-business reforms and technological advancement"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Sustainable energy transition and strong fiscal buffers"
+            "protocol": "Sustainable energy policies and fiscal stability"
         }
     ],
-    "scroller_feed": "CRITICAL: LONDON, UNITED KINGDOM TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW RESILIENCE AMID POLICY SHIFTS, WITH SUPPLY CHAIN ADJUSTMENTS UNDERWAY.",
-    "last_updated": "2026-10-11 16:18:56",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY PRICES FLUCTUATE AND POLICY REFORMS ADVANCE IN KEY ECONOMIES.",
+    "last_updated": "2026-10-11 20:23:54",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.217,
+        "kama_compression_ratio": 0.215,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
