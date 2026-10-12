@@ -1,52 +1,52 @@
 {
-    "shi": 0.72319,
-    "health_percent": 72.3,
-    "location": "TOKYO, JAPAN",
+    "shi": 2.1384,
+    "health_percent": 42.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt and energy chokepoints"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and corruption"
+        },
+        {
             "loc": "Caracas, Venezuela",
-            "deviation": "Severe hyperinflation and oil export sanctions"
-        },
-        {
-            "loc": "Sana'a, Yemen",
-            "deviation": "Port blockade and fuel shortages"
-        },
-        {
-            "loc": "Khartoum, Sudan",
-            "deviation": "Currency collapse and debt distress"
+            "deviation": "Hyperinflation and grid collapse"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Advanced trade facilitation and anti-corruption measures"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust financial regulation and innovation hub"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "High-tech manufacturing and green energy policies"
+            "loc": "Oslo, Norway",
+            "protocol": "Renewable energy transition and fiscal prudence"
+        },
+        {
+            "loc": "Tokyo, Japan",
+            "protocol": "Advanced technology adoption and supply chain resilience"
         }
     ],
-    "scroller_feed": "CRITICAL: TOKYO, JAPAN TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RESILIENCE; WATCH FOR EMERGING CHOKEPOINTS IN ENERGY AND TRADE.",
-    "last_updated": "2026-10-12 02:41:40",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH; KEY BOTTLENECKS IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
+    "last_updated": "2026-10-12 09:47:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.88,
-        "T": 0.95,
-        "B": 1.3,
-        "C": 1.05
+        "P": 1.2,
+        "F": 0.9,
+        "T": 1.1,
+        "B": 0.8,
+        "C": 1.0
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.277,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.575,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
