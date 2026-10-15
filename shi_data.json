@@ -1,39 +1,39 @@
 {
     "shi": 4.2768,
-    "health_percent": 42.8,
-    "location": "NEW YORK, USA",
+    "health_percent": 73.5,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Karachi, Pakistan",
+            "deviation": "High external debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
             "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Trade barrier"
-        },
-        {
             "loc": "Caracas, Venezuela",
-            "deviation": "High debt"
+            "deviation": "Hyperinflation"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Policy reforms"
+            "protocol": "Financial stability reforms"
+        },
+        {
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Green energy transition"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Innovation hub"
-        },
-        {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Technological innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE RISK; MONITOR ENERGY CHOKEPOINTS AND DEBT LEVELS FOR POTENTIAL ESCALATION.",
-    "last_updated": "2026-10-15 14:58:11",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS EMERGING ECONOMIES FACE DEBT PRESSURES WHILE ADVANCED ECONOMIES PURSUE GREEN INNOVATION.",
+    "last_updated": "2026-10-15 19:00:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.572,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.265,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
