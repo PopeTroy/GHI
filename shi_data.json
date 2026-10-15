@@ -1,20 +1,20 @@
 {
-    "shi": 2.1384,
-    "health_percent": 85.6,
+    "shi": 4.2768,
+    "health_percent": 42.8,
     "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:03:12",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Los Angeles, USA",
-            "deviation": "Trade barriers"
-        },
-        {
-            "loc": "Rotterdam, Netherlands",
+            "loc": "Singapore, Singapore",
             "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Singapore, Singapore",
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Trade barrier"
+        },
+        {
+            "loc": "Caracas, Venezuela",
             "deviation": "High debt"
         }
     ],
@@ -24,29 +24,29 @@
             "protocol": "Policy reforms"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Anti-corruption"
+            "loc": "Tokyo, Japan",
+            "protocol": "Innovation hub"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Innovation"
+            "loc": "Toronto, Canada",
+            "protocol": "Anti-corruption measures"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY METRICS SHOW MODERATE HEALTH WITH PRIMARY IMPACT IN NEW YORK; SUPPLY CHAIN BREAK RISK PROJECTED IN 48 HOURS.",
-    "last_updated": "2026-10-15 10:06:41",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDICATORS SHOW MODERATE RISK; MONITOR ENERGY CHOKEPOINTS AND DEBT LEVELS FOR POTENTIAL ESCALATION.",
+    "last_updated": "2026-10-15 14:58:11",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.144,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.572,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
