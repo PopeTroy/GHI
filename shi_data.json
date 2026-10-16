@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
-    "health_percent": 85.3,
+    "health_percent": 68.15,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:00:00",
+    "collapse_timer": "48:03:12",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint due to grid instability"
+            "deviation": "Severe energy chokepoints and high debt"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt burden"
+            "deviation": "Trade barriers and corruption"
         },
         {
             "loc": "Caracas, Venezuela",
-            "deviation": "Hyperinflation pressures"
+            "deviation": "Hyper-inflation and civil unrest"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory reforms and innovation hub"
+            "protocol": "Strong anti-corruption and innovation hub"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Renewable energy transition and anti-corruption measures"
+            "loc": "Copenhagen, Denmark",
+            "protocol": "Renewable energy leadership and policy reforms"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Advanced manufacturing and technology adoption"
+            "protocol": "Advanced technology and fiscal discipline"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ECONOMIC INDICATORS SHOW MIXED STABILITY; WATCH FOR SUPPLY CHAIN DISRUPTIONS IN EMERGING MARKETS WHILE ADVANCED ECONOMIES MAINTAIN RESILIENCE VIA POLICY REFORMS.",
-    "last_updated": "2026-10-16 20:55:05",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN RISKS RISING IN SOUTHEAST ASIA WHILE EUROPE MAINTAINS RESILIENCE.",
+    "last_updated": "2026-10-16 23:15:17",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.147,
+        "kama_compression_ratio": 0.3185,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
