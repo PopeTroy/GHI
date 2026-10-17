@@ -6,34 +6,34 @@
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Severe energy chokepoint due to grid instability"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt and trade barriers"
+            "deviation": "High debt and energy chokepoint"
         },
         {
-            "loc": "Port-au-Prince, Haiti",
-            "deviation": "Civil unrest and infrastructure decay"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and infrastructure bottlenecks"
+        },
+        {
+            "loc": "Caracas, Venezuela",
+            "deviation": "Hyperinflation risk and sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Robust anti-corruption framework and innovation hub"
+            "protocol": "Strong anti-corruption and innovation policies"
         },
         {
             "loc": "Copenhagen, Denmark",
-            "protocol": "Green energy transition policies"
+            "protocol": "Renewable energy transition and fiscal prudence"
         },
         {
             "loc": "Tokyo, Japan",
-            "protocol": "Advanced technology adoption and fiscal discipline"
+            "protocol": "Advanced technology adoption and stable debt"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL MARKETS SHOW MIXED SIGNALS AS ENERGY CHOKEPOINTS EASE IN EUROPE WHILE DEBT CONCERNS LINGER IN SOUTH ASIA.",
-    "last_updated": "2026-10-17 09:44:25",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE HEALTH; SUPPLY CHAIN VULNERABILITIES IN EMERGING MARKETS CONTRAST WITH RESILIENT HUBS IN EUROPE AND ASIA.",
+    "last_updated": "2026-10-17 13:15:59",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
