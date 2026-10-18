@@ -1,46 +1,46 @@
 {
-    "shi": 2.1384,
+    "shi": 4.2768,
     "health_percent": 73.5,
-    "location": "SINGAPORE, SINGAPORE",
+    "location": "NEW YORK, USA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "12:05:30",
+    "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High debt and energy chokepoint"
+            "loc": "Venezuela, Caracas",
+            "deviation": "Hyperinflation and debt crisis"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and infrastructure bottlenecks"
+            "loc": "Yemen, Sana'a",
+            "deviation": "Energy chokepoint and civil unrest"
         },
         {
-            "loc": "Caracas, Venezuela",
-            "deviation": "Hyper-inflation risk and sanctions"
+            "loc": "Ukraine, Kyiv",
+            "deviation": "Supply chain break due to conflict"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Strong anti-corruption and innovation policies"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Robust fiscal reforms and green energy transition"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Pro-business reforms and tech innovation"
+            "protocol": "Innovation and anti-corruption reforms"
+        },
+        {
+            "loc": "Switzerland, Zurich",
+            "protocol": "Policy reforms and financial stability"
+        },
+        {
+            "loc": "Germany, Munich",
+            "protocol": "Industrial innovation and energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MIXED SIGNALS: ASIAN HUBS RESILIENT WHILE EMERGING MARKETS FACE DEBT AND ENERGY PRESSURES.",
-    "last_updated": "2026-10-17 23:03:49",
+    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY INDEX SHOWS MODERATE RISK; MONITOR SUPPLY CHAINS IN EASTERN EUROPE AND ENERGY FLOWS IN MIDDLE EAST.",
+    "last_updated": "2026-10-18 00:57:06",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
         "F": 0.9,
         "T": 1.1,
-        "B": 0.8,
-        "C": 1.0
+        "B": 0.5,
+        "C": 0.8
     },
     "engine_active": "NVIDIA_NVIDIA/NEMOTRON-3-SUPER-120B-A12B",
     "shinobi_tactics": {
