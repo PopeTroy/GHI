@@ -1,39 +1,39 @@
 {
     "shi": 2.1384,
     "health_percent": 73.5,
-    "location": "NEW YORK, USA",
+    "location": "LONDON, UK",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:00:00",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Severe energy chokepoint"
+            "loc": "Shanghai, China",
+            "deviation": "Trade barrier"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt burden"
+            "deviation": "Energy chokepoint"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation hub"
+            "protocol": "Policy reform"
         },
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Policy reforms"
+            "protocol": "Anti-corruption"
         },
         {
             "loc": "Oslo, Norway",
-            "protocol": "Anti-corruption measures"
+            "protocol": "Innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: NEW YORK, USA TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH KEY BOTTLENECKS IN EMERGING MARKETS AND STRONG PROTOCOLS IN ADVANCED ECONOMIES.",
-    "last_updated": "2026-10-20 02:02:57",
+    "scroller_feed": "CRITICAL: LONDON, UK TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL STABILITY SHOWS MODERATE HEALTH WITH SUPPLY CHAIN RISKS IN EUROPE; ASIAN BOTTLENECKS PERSIST WHILE NORDIC REFORMS BOOST RESILIENCE.",
+    "last_updated": "2026-10-20 07:26:05",
     "formula_metrics": {
         "N": 1.44,
         "P": 1.2,
