@@ -1,52 +1,52 @@
 {
-    "shi": 0.45033,
-    "health_percent": 43.72,
+    "shi": 0.30037,
+    "health_percent": 41.78,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "114:08:22",
+    "collapse_timer": "142:11:09",
     "bottlenecks": [
         {
-            "loc": "Port Said, Egypt",
-            "deviation": "Maritime Chokepoint Congestion"
+            "loc": "CARACAS, VENEZUELA",
+            "deviation": "Hyper-inflationary currency devaluation"
         },
         {
-            "loc": " Caracas, Venezuela",
-            "deviation": "Hyper-Debt Default"
+            "loc": "SUEZ, EGYPT",
+            "deviation": "Maritime transit chokepoint congestion"
         },
         {
-            "loc": "Kinshasa, DRC",
-            "deviation": "Critical Mineral Export Barrier"
+            "loc": "BEIRUT, LEBANON",
+            "deviation": "Systemic banking sector insolvency"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Fiscal Neutrality Optimization"
+            "loc": "ZURICH, SWITZERLAND",
+            "protocol": "Fiscal neutrality and asset diversification"
         },
         {
-            "loc": "Seoul, South Korea",
-            "protocol": "Next-Gen Semiconductor Integration"
+            "loc": "TOKYO, JAPAN",
+            "protocol": "High-precision automation integration"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Sovereign Wealth Diversification"
+            "loc": "OSLO, NORWAY",
+            "protocol": "Sovereign wealth fund stability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ALERT: GHI LOGIC ENGINE DETECTING SYSTEMIC VOLATILITY IN STRAIT OF HORMUZ... PROTOCOL P-82 INITIATING... DEBT-TO-GDP RATIOS SPIKING IN EMERGING MARKETS... STABILITY INDEX FLUCTUATING...",
-    "last_updated": "2026-10-20 17:40:11",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ALERT: B-NODE DEVIATION DETECTED IN SUEZ SECTOR; SHI VARIANCE INCREASING IN APAC REGION; PROTOCOL P-08 IMPLEMENTATION PENDING IN EU ZONES.",
+    "last_updated": "2026-10-23 05:16:36",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.82,
-        "F": 1.15,
+        "F": 0.67,
         "T": 0.91,
-        "B": 2.45,
+        "B": 2.14,
         "C": 1.12
     },
     "engine_active": "NVIDIA_GOOGLE/GEMMA-4-31B-IT",
     "shinobi_tactics": {
         "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
         "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5628,
+        "kama_compression_ratio": 0.5822,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
