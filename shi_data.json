@@ -1,52 +1,52 @@
 {
-    "shi": 0.30037,
-    "health_percent": 41.72,
+    "shi": 0.896,
+    "health_percent": 72.85,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "114:08:22",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "CARACAS, VENEZUELA",
-            "deviation": "Hyper-inflationary currency devaluation"
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Geopolitical blockage risk"
         },
         {
-            "loc": "SUEZ, EGYPT",
-            "deviation": "Maritime transit chokepoint congestion"
+            "loc": "Frankfurt, Germany",
+            "deviation": "Energy grid instability"
         },
         {
-            "loc": "BEIRUT, LEBANON",
-            "deviation": "Systemic banking sector insolvency"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Sovereign debt default risk"
         }
     ],
     "high_shi": [
         {
-            "loc": "ZURICH, SWITZERLAND",
-            "protocol": "Fiscal neutrality and asset diversification"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial regulatory resilience"
         },
         {
-            "loc": "SEOUL, SOUTH KOREA",
-            "protocol": "High-velocity semiconductor innovation"
+            "loc": "Helsinki, Finland",
+            "protocol": "Digital governance anti-corruption"
         },
         {
-            "loc": "OSLO, NORWAY",
-            "protocol": "Sovereign wealth fund stability"
+            "loc": "Austin, USA",
+            "protocol": "Semiconductor innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ALERT: GLOBAL LIQUIDITY TIGHTENING DETECTED... B-NODE DEVIATION INCREASING IN MENA REGION... P-PROTOCOL DEPLOYMENT ACTIVE IN APAC... SYSTEM STABILITY TRENDING DOWNWARD.",
-    "last_updated": "2026-11-05 17:53:04",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ALERT: CRITICAL LOGISTICS NODE SINGAPORE FACES SUPPLY CHAIN BREAK RISK WITHIN 48 HOURS. GLOBAL BOTTLENECKS INTENSIFY AT SUEZ, FRANKFURT, AND KARACHI. STABLE SHI ANCHORS HOLD AT ZURICH, HELSINKI, AND AUSTIN. ENGINE STABILITY INDEX AT 72.85%.",
+    "last_updated": "2026-11-05 20:16:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.67,
-        "T": 0.91,
-        "B": 2.14,
-        "C": 1.12
+        "P": 1.25,
+        "F": 0.98,
+        "T": 1.12,
+        "B": 2.1,
+        "C": 1.05
     },
-    "engine_active": "NVIDIA_GOOGLE/GEMMA-4-31B-IT",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5828,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.2715,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
