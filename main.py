@@ -59,7 +59,7 @@ def fetch_nvidia_nim_cascade(prompt):
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=nvidia_key,
         timeout=20.0
-    ]
+    )
 
     for model_name in nvidia_nim_models:
         try:
