@@ -1,6 +1,6 @@
 {
-    "shi": 0.62732,
-    "health_percent": 42.78,
+    "shi": 0.30037,
+    "health_percent": 41.72,
     "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "114:08:22",
@@ -32,21 +32,21 @@
             "protocol": "Sovereign wealth fund stability"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ALERT: GLOBAL TRADE VOLATILITY INCREASING... B-NODE DEVIATION DETECTED IN SUEZ... P-PROTOCOL IMPLEMENTATION ACCELERATING IN EAST ASIA... SYSTEM HEALTH AT 42.78%... MONITORING FOR SUPPLY CHAIN BREAK...",
-    "last_updated": "2026-11-04 02:10:05",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | ALERT: GLOBAL LIQUIDITY TIGHTENING DETECTED... B-NODE DEVIATION INCREASING IN MENA REGION... P-PROTOCOL DEPLOYMENT ACTIVE IN APAC... SYSTEM STABILITY TRENDING DOWNWARD.",
+    "last_updated": "2026-11-05 17:53:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 2.85,
-        "F": 0.92,
-        "T": 1.15,
-        "B": 4.12,
-        "C": 1.68
+        "P": 0.82,
+        "F": 0.67,
+        "T": 0.91,
+        "B": 2.14,
+        "C": 1.12
     },
     "engine_active": "NVIDIA_GOOGLE/GEMMA-4-31B-IT",
     "shinobi_tactics": {
         "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
         "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5722,
+        "kama_compression_ratio": 0.5828,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
