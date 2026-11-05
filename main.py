@@ -37,58 +37,57 @@ def clean_json_text(text):
         text = text.split("```")[1].split("```")[0].strip()
     return text
 
-def fetch_nvidia_cascade(prompt):
+def fetch_nvidia_nim_cascade(prompt):
     """
-    Executes GHI metrics calculation using next-gen reasoning models 
-    from the current NVIDIA catalog.
+    Executes GHI metrics calculation and node scanning using NVIDIA NIM microservice 
+    endpoints with automated failover across top-tier models.
     """
     nvidia_key = os.getenv('NVIDIA_API_KEY')
     if not nvidia_key:
-        raise ValueError("CRITICAL ERROR: NVIDIA_API_KEY missing from environment secrets.")
+        print("CRITICAL ERROR: NVIDIA_API_KEY missing.")
+        exit(1)
 
-    # Primary active models mapped directly from your NVIDIA API console
-    nvidia_models = [
-        "openai/gpt-oss-120b",
-        "nvidia/nemotron-3-super-120b-a12b",
-        "google/gemma-4-31b-it",
-        "stepfun-ai/step-3.7-flash",
-        "nvidia/llama-3.3-nemotron-super-49b-v1.5"
+    # High-performance NVIDIA NIM models from your verified dashboard catalog
+    nvidia_nim_models = [
+        "mistralai/mistral-large-4",
+        "nvidia/nemotron-3.5-super-vl-120b-a12b",
+        "nvidia/nemotron-3.5-lightning-30b-a3b",
+        "nvidia/nemotron-3.5-bolt-e4b"
     ]
 
     nv_client = openai.OpenAI(
         base_url="https://integrate.api.nvidia.com/v1",
         api_key=nvidia_key,
-        timeout=25.0  # Safe timeout balance for dense JSON reasoning
-    )
+        timeout=20.0
+    ]
 
-    for model_name in nvidia_models:
+    for model_name in nvidia_nim_models:
         try:
-            print(f"[INFO] Executing scan via NVIDIA ({model_name})...")
+            print(f"[INFO] Invoking NVIDIA NIM Microservice ({model_name})...")
             completion = nv_client.chat.completions.create(
                 model=model_name,
                 messages=[{"role": "user", "content": prompt + "\nRespond strictly in valid raw JSON format without markdown preamble."}],
                 temperature=0.2
             )
             cleaned = clean_json_text(completion.choices[0].message.content)
-            return cleaned, f"NVIDIA_{model_name.upper()}"
+            return cleaned, f"NVIDIA_NIM_{model_name.upper().replace('/', '_')}"
         except Exception as e:
-            print(f"[WARNING] NVIDIA Model {model_name} skipped/failed: {e}")
+            print(f"[WARNING] NVIDIA NIM Model {model_name} failed: {e}. Cascading...")
 
-    raise RuntimeError("CRITICAL FAILURE: All NVIDIA inference engines failed.")
+    raise RuntimeError("CRITICAL FAILURE: All NVIDIA NIM Microservice inference engines failed.")
 
 def run_ghi_metric_engine():
     prompt = """
-    SYSTEM: GHI Logic Engine - Global Economic Stability & Architectural Audit.
+    SYSTEM: GHI Logic Engine - Economic Stability & Growth.
     
     DEFINITIONS:
     - Bottlenecks (B): Deviations from stability (Trade barriers, energy chokepoints, high debt).
     - Protocols (P): Growth improvements (Policy reforms, anti-corruption, innovation).
     - Equation: (N * P * F * T) / (B * C)
     
-    MISSION: Compute equation metrics and identify Primary High Impact Location, 3 Bottleneck Nodes (Lowest SHI), and 3 Stable Nodes (Highest SHI).
+    MISSION: Identify High Impact Location, 3 Bottleneck Nodes, and 3 Stable (High SHI) Nodes.
     
-    CRITICAL CONSTRAINTS: 
-    - health_percent MUST BE A FLOAT STRICTLY BETWEEN 0.0 AND 100.0 (DO NOT EXCEED 100).
+    CRITICAL CONSTRAINT: health_percent MUST BE A FLOAT STRICTLY BETWEEN 0.0 AND 100.0 (DO NOT EXCEED 100).
     
     REQUIRED OUTPUT JSON:
     {
@@ -104,13 +103,13 @@ def run_ghi_metric_engine():
     """
 
     try:
-        raw_content, active_engine = fetch_nvidia_cascade(prompt)
+        raw_content, active_engine = fetch_nvidia_nim_cascade(prompt)
         raw = json.loads(raw_content)
         
         m = raw['metrics']
         shi = (m['N'] * m['P'] * m['F'] * m['T']) / (m['B'] * m['C'] if m['B'] * m['C'] != 0 else 0.00001)
 
-        # Enforce strict 0% to 100% boundary
+        # Enforce strict 0% to 100% boundary to prevent over-100% visual errors
         raw_health = float(raw['health_percent'])
         health_val = min(100.0, max(0.0, raw_health))
 
@@ -134,7 +133,7 @@ def run_ghi_metric_engine():
         with open("shi_data.json", "w") as f:
             json.dump(output_data, f, indent=4)
         
-        print(f"Sync Success via [{active_engine}]: Location: {output_data['location']} - Health: {output_data['health_percent']}%")
+        print(f"Sync Success via [{active_engine}]: {output_data['location']} - Health: {output_data['health_percent']}%")
 
     except Exception as e:
         print(f"Engine Failure: {e}")
