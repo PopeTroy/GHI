@@ -1,52 +1,52 @@
 {
-    "shi": 0.55062,
-    "health_percent": 68.42,
-    "location": "SHENZHEN, CHINA",
+    "shi": 1.31139,
+    "health_percent": 67.45,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Maritime trade barrier and energy chokepoint"
-        },
-        {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy grid instability and sovereign debt strain"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High external debt and civil unrest risk"
+            "deviation": "Port congestion and energy chokepoints"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and political instability"
+        },
+        {
+            "loc": "Lima, Peru",
+            "deviation": "High debt and infrastructure bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption frameworks and fintech innovation"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Trade liberalization and digital policy reforms"
+            "protocol": "Digital trade facilitation and anti-corruption"
         },
         {
-            "loc": "Oslo, Norway",
-            "protocol": "Energy diversification and sovereign wealth stability"
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance and innovation hubs"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SHENZHEN, CHINA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: SHENZHEN SUPPLY-CHAIN STRESS DETECTED; SUEZ TRANSIT DELAYS EXCEED 14 HOURS; ZURICH SHI REMAINS ABOVE 90.0.",
-    "last_updated": "2026-11-06 18:05:56",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 18%; ENERGY GRID INSTABILITY REPORTED IN SECTOR 4. MONITORING CIVIL UNREST RISK IN DISTRICT 5.",
+    "last_updated": "2026-11-06 23:03:43",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 1.12,
         "T": 0.97,
-        "B": 2.3,
-        "C": 1.05
+        "B": 1.3,
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3158,
+        "kama_compression_ratio": 0.3255,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
