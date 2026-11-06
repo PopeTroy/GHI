@@ -1,52 +1,52 @@
 {
-    "shi": 2.3068,
-    "health_percent": 68.42,
-    "location": "LAGOS, NIGERIA",
+    "shi": 0.53139,
+    "health_percent": 76.32,
+    "location": "DUBAI, UAE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:33:12",
+    "collapse_timer": "48:30:12",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Geopolitical transit restrictions and piracy risk"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt and import controls"
+            "loc": "Frankfurt, Germany",
+            "deviation": "Energy grid chokepoint and industrial debt exposure"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and infrastructure decay"
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Port congestion and high sovereign debt servicing"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade facilitation"
-        },
-        {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and innovation hubs"
+            "protocol": "Digital governance and anti-corruption blockchain ledger"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free zone policy reforms and logistics integration"
+            "loc": "Auckland, New Zealand",
+            "protocol": "Renewable energy grid decentralization and trade innovation"
+        },
+        {
+            "loc": "Luxembourg City, Luxembourg",
+            "protocol": "Cross-border regulatory harmonization and fintech policy reform"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERTS: EMERGING MARKET VOLATILITY RISING; WATCH PORT CONGESTION AND CURRENCY SPREADS IN PRIMARY CORRIDOR.",
-    "last_updated": "2026-11-05 23:06:34",
+    "scroller_feed": "CRITICAL: DUBAI, UAE TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE MONITORING: BOTTLENECK PRESSURE RISING IN EURASIAN TRANSIT CORRIDORS; SHI STABLE IN BALTIC AND OCEANIA HUBS. PRIMARY IMPACT ZONE: DUBAI, UAE. ESTIMATED SUPPLY CHAIN BREAK WINDOW: 48 HOURS.",
+    "last_updated": "2026-11-06 03:23:58",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 0.91,
-        "T": 1.05,
-        "B": 0.67,
-        "C": 0.73
+        "P": 0.87,
+        "F": 1.15,
+        "T": 0.96,
+        "B": 2.41,
+        "C": 1.08
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3158,
+        "kama_compression_ratio": 0.2368,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
