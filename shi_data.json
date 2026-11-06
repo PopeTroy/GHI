@@ -1,52 +1,52 @@
 {
-    "shi": 0.53139,
-    "health_percent": 76.32,
-    "location": "DUBAI, UAE",
+    "shi": 0.52745,
+    "health_percent": 72.55,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:30:12",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Geopolitical transit restrictions and piracy risk"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Port congestion and energy chokepoints"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy grid chokepoint and industrial debt exposure"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt service and trade barriers"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Port congestion and high sovereign debt servicing"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Infrastructure decay and civil unrest"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Digital trade corridor and anti-corruption automation"
+        },
+        {
             "loc": "Tallinn, Estonia",
-            "protocol": "Digital governance and anti-corruption blockchain ledger"
+            "protocol": "E-governance and blockchain land registry"
         },
         {
-            "loc": "Auckland, New Zealand",
-            "protocol": "Renewable energy grid decentralization and trade innovation"
-        },
-        {
-            "loc": "Luxembourg City, Luxembourg",
-            "protocol": "Cross-border regulatory harmonization and fintech policy reform"
+            "loc": "Dubai, UAE",
+            "protocol": "Free zone innovation and logistics hub reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: DUBAI, UAE TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE MONITORING: BOTTLENECK PRESSURE RISING IN EURASIAN TRANSIT CORRIDORS; SHI STABLE IN BALTIC AND OCEANIA HUBS. PRIMARY IMPACT ZONE: DUBAI, UAE. ESTIMATED SUPPLY CHAIN BREAK WINDOW: 48 HOURS.",
-    "last_updated": "2026-11-06 03:23:58",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34% | LAGOS DEBT-TO-GDP HITS 89% | SINGAPORE SHI INDEX RISES TO 94.2 | TALLINN E-RESIDENCY APPLICATIONS SURGE 22%",
+    "last_updated": "2026-11-06 11:17:08",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.87,
-        "F": 1.15,
-        "T": 0.96,
-        "B": 2.41,
+        "F": 1.12,
+        "T": 0.95,
+        "B": 2.34,
         "C": 1.08
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2368,
+        "kama_compression_ratio": 0.2745,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
