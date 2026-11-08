@@ -1,52 +1,52 @@
 {
-    "shi": 1.2824,
-    "health_percent": 73.56,
-    "location": "LAGOS, NIGERIA",
+    "shi": 0.55062,
+    "health_percent": 68.42,
+    "location": "ROTTERDAM, NETHERLANDS",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_timer": "120:45:30",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and fuel subsidy volatility"
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Geopolitical transit restrictions and siltation chokepoints"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Circular debt and energy chokepoints"
+            "loc": "Frankfurt, Germany",
+            "deviation": "Energy grid instability and high industrial debt exposure"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Import controls and high sovereign debt"
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Port congestion and trade barrier tariffs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Digital trade hub and anti-corruption protocol"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation protocol"
+            "protocol": "Anti-corruption governance and financial innovation"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain integration"
+            "loc": "Helsinki, Finland",
+            "protocol": "Digital public administration and green energy transition"
+        },
+        {
+            "loc": "Austin, USA",
+            "protocol": "Semiconductor R&D and startup policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS PORT DWELL TIME EXCEEDS 11 DAYS; KARACHI GRID FREQUENCY UNSTABLE AT 48.2HZ; BUENOS AIRES SOVEREIGN SPREAD WIDENS TO 1,450 BPS. GHI STABILITY INDEX DIPS TO 73.56.",
-    "last_updated": "2026-11-07 23:03:33",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | ALERT: GHI METRICS INDICATE FRAGILITY IN EU LOGISTICS CORRIDOR. ROTTERDAM IDENTIFIED AS PRIMARY HIGH-IMPACT NODE. MONITOR SUEZ AND FRANKFURT FOR DEVIATION SPIKES. SHI NODES HOLDING STABILITY PROTOCOLS.",
+    "last_updated": "2026-11-08 02:21:50",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.05,
-        "T": 0.94,
-        "B": 1.28,
-        "C": 0.71
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2644,
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
