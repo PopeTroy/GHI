@@ -1,52 +1,52 @@
 {
-    "shi": 0.784,
-    "health_percent": 67.42,
+    "shi": 0.38727,
+    "health_percent": 64.2,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:33",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Severe port congestion and customs delays"
+            "deviation": "Port congestion and energy chokepoints"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Circular debt and energy shortfalls"
+            "deviation": "High sovereign debt and trade barriers"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Land subsidence and flood-risk trade chokepoints"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Civil unrest and infrastructure decay"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and digital trade corridors"
+            "protocol": "Anti-corruption and digital trade protocols"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "High-precision manufacturing and anti-corruption governance"
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance and innovation reforms"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Clean energy grid resilience and innovation hubs"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and policy transparency"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS IDENTIFIED AS HIGH-IMPACT NODE. CIVIL UNREST TIMER ACTIVE. BOTTLENECKS DETECTED IN PORT LOGISTICS, ENERGY DEBT, AND SUBSIDENCE ZONES. STABLE NODES SHOW STRONG SHI SCORES.",
-    "last_updated": "2026-11-08 20:25:01",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS PORT THROUGHPUT DOWN 34%; KARACHI DEBT SERVICING AT 68% OF REVENUE; YANGON SUPPLY ROUTES DISRUPTED. STABLE CORRIDORS: SINGAPORE-TALLINN-ZURICH TRADE LANE OPERATING AT 98% EFFICIENCY.",
+    "last_updated": "2026-11-08 23:53:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.25,
-        "F": 0.98,
-        "T": 1.12,
-        "B": 2.4,
-        "C": 1.05
+        "P": 0.78,
+        "F": 1.12,
+        "T": 0.89,
+        "B": 2.45,
+        "C": 1.18
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3258,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.358,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
