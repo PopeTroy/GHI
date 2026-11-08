@@ -1,52 +1,52 @@
 {
-    "shi": 1.27225,
-    "health_percent": 73.45,
+    "shi": 0.784,
+    "health_percent": 67.42,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:12:33",
     "bottlenecks": [
         {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe port congestion and customs delays"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
+            "deviation": "Circular debt and energy shortfalls"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt and currency controls"
-        },
-        {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and infrastructure decay"
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Land subsidence and flood-risk trade chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade hub and anti-corruption governance"
+            "protocol": "Automated customs clearance and digital trade corridors"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation incentives"
+            "loc": "Munich, Germany",
+            "protocol": "High-precision manufacturing and anti-corruption governance"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and policy reforms"
+            "loc": "Vancouver, Canada",
+            "protocol": "Clean energy grid resilience and innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI LOGIC ENGINE SCANNING GLOBAL NODES: STABILITY INDEX HOLDING AT 73.45%; WATCH FOR CONTAGION IN EMERGING MARKETS.",
-    "last_updated": "2026-11-08 16:04:03",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS IDENTIFIED AS HIGH-IMPACT NODE. CIVIL UNREST TIMER ACTIVE. BOTTLENECKS DETECTED IN PORT LOGISTICS, ENERGY DEBT, AND SUBSIDENCE ZONES. STABLE NODES SHOW STRONG SHI SCORES.",
+    "last_updated": "2026-11-08 20:25:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.12,
-        "T": 0.97,
-        "B": 1.34,
-        "C": 0.78
+        "P": 1.25,
+        "F": 0.98,
+        "T": 1.12,
+        "B": 2.4,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2655,
+        "kama_compression_ratio": 0.3258,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
