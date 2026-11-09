@@ -1,52 +1,52 @@
 {
-    "shi": 0.55062,
-    "health_percent": 68.42,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "shi": 0.9695,
+    "health_percent": 42.37,
+    "location": "KARACHI, PAKISTAN",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and customs delays"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy grid instability and circular debt"
+            "deviation": "Energy chokepoints and circular debt"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Trade barriers and logistics chokepoints"
+            "loc": "Beirut, Lebanon",
+            "deviation": "Trade barriers and banking sector freeze"
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt and currency controls"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and anti-corruption digital ledger"
-        },
-        {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance innovation and blockchain public registries"
+            "protocol": "Anti-corruption and digital trade protocols"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory sandbox and innovation hub"
+            "protocol": "Financial stability and innovation incentives"
+        },
+        {
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance and policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS BOTTLENECK INDEX RISING; SUPPLY CHAIN BREAK TIMER ACTIVE. HIGH-SHI NODES MAINTAINING PROTOCOL STABILITY.",
-    "last_updated": "2026-11-09 12:45:26",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR CIVIL UNREST | ALERT: GHI INSTABILITY DETECTED IN SOUTH ASIAN CORRIDOR. MONITOR CURRENCY SWAPS AND GRID LOAD THRESHOLDS. SHI PROTOCOLS ACTIVE IN BALTIC AND ALPINE ZONES.",
+    "last_updated": "2026-11-09 22:44:29",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.12,
-        "T": 0.97,
-        "B": 2.3,
-        "C": 1.05
+        "P": 0.82,
+        "F": 1.15,
+        "T": 0.93,
+        "B": 1.67,
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3158,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5763,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
