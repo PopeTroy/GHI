@@ -1,52 +1,52 @@
 {
-    "shi": 0.38727,
-    "health_percent": 64.2,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:33",
+    "shi": 0.53379,
+    "health_percent": 64.3,
+    "location": "KARACHI, PAKISTAN",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and energy chokepoints"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High sovereign debt and trade barriers"
+            "deviation": "Energy chokepoint: circular debt and daily load-shedding"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Civil unrest and infrastructure decay"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barrier: severe port congestion and FX restrictions"
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High debt: sovereign default risk and currency controls"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
-        },
-        {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and innovation reforms"
+            "protocol": "Anti-corruption and digital trade facilitation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and policy transparency"
+            "protocol": "Financial regulatory stability and fintech innovation"
+        },
+        {
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance and blockchain-based public services"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS PORT THROUGHPUT DOWN 34%; KARACHI DEBT SERVICING AT 68% OF REVENUE; YANGON SUPPLY ROUTES DISRUPTED. STABLE CORRIDORS: SINGAPORE-TALLINN-ZURICH TRADE LANE OPERATING AT 98% EFFICIENCY.",
-    "last_updated": "2026-11-08 23:53:09",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | KHI GRID LOAD AT 91% | LAG PORT DWELL TIME +38% | EZE SOVEREIGN SPREAD 742BPS | GHI STABILITY ENGINE RECALIBRATING...",
+    "last_updated": "2026-11-09 04:02:23",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.12,
-        "T": 0.89,
-        "B": 2.45,
-        "C": 1.18
+        "P": 0.87,
+        "F": 1.05,
+        "T": 0.92,
+        "B": 2.18,
+        "C": 1.04
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.358,
+        "kama_compression_ratio": 0.357,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
