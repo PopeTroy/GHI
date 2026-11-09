@@ -1,52 +1,52 @@
 {
-    "shi": 0.53379,
-    "health_percent": 64.3,
-    "location": "KARACHI, PAKISTAN",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:32:10",
+    "shi": 0.55062,
+    "health_percent": 68.42,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint: circular debt and daily load-shedding"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barrier: severe port congestion and FX restrictions"
+            "deviation": "Port congestion and customs delays"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High debt: sovereign default risk and currency controls"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy grid instability and circular debt"
+        },
+        {
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Trade barriers and logistics chokepoints"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade facilitation"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory stability and fintech innovation"
+            "protocol": "Automated customs clearance and anti-corruption digital ledger"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain-based public services"
+            "protocol": "E-governance innovation and blockchain public registries"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial regulatory sandbox and innovation hub"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | KHI GRID LOAD AT 91% | LAG PORT DWELL TIME +38% | EZE SOVEREIGN SPREAD 742BPS | GHI STABILITY ENGINE RECALIBRATING...",
-    "last_updated": "2026-11-09 04:02:23",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS BOTTLENECK INDEX RISING; SUPPLY CHAIN BREAK TIMER ACTIVE. HIGH-SHI NODES MAINTAINING PROTOCOL STABILITY.",
+    "last_updated": "2026-11-09 12:45:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
-        "F": 1.05,
-        "T": 0.92,
-        "B": 2.18,
-        "C": 1.04
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.357,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
