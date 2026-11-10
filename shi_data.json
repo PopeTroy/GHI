@@ -1,52 +1,52 @@
 {
-    "shi": 0.9695,
-    "health_percent": 42.37,
-    "location": "KARACHI, PAKISTAN",
+    "shi": 0.55062,
+    "health_percent": 68.42,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:33:12",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Severe port congestion and customs delays"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
+            "deviation": "Circular debt in energy sector causing blackouts"
         },
         {
-            "loc": "Beirut, Lebanon",
-            "deviation": "Trade barriers and banking sector freeze"
-        },
-        {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt and currency controls"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and import restrictions on essential goods"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
+            "protocol": "Digital trade documentation and anti-corruption e-governance"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation incentives"
+            "loc": "Munich, Germany",
+            "protocol": "Industrial innovation hubs and renewable energy grid integration"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and policy reforms"
+            "loc": "Toronto, Canada",
+            "protocol": "Fiscal transparency and skilled immigration policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR CIVIL UNREST | ALERT: GHI INSTABILITY DETECTED IN SOUTH ASIAN CORRIDOR. MONITOR CURRENCY SWAPS AND GRID LOAD THRESHOLDS. SHI PROTOCOLS ACTIVE IN BALTIC AND ALPINE ZONES.",
-    "last_updated": "2026-11-09 22:44:29",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA IDENTIFIED AS HIGH-IMPACT NODE. CIVIL UNREST RISK ESCALATING DUE TO GRID INSTABILITY AND PORT BOTTLENECKS. SHI STABLE NODES: SINGAPORE, MUNICH, TORONTO MAINTAINING PROTOCOL COMPLIANCE.",
+    "last_updated": "2026-11-10 04:21:37",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.15,
-        "T": 0.93,
-        "B": 1.67,
-        "C": 0.78
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5763,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
