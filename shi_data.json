@@ -1,52 +1,52 @@
 {
-    "shi": 0.84939,
-    "health_percent": 67.4,
+    "shi": 0.49207,
+    "health_percent": 73.56,
     "location": "KARACHI, PAKISTAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:33:12",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and customs delays"
+            "deviation": "Port congestion and energy chokepoints"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid instability and fuel shortages"
+            "deviation": "High debt service and trade barriers"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and import licensing restrictions"
+            "deviation": "Infrastructure decay and civil unrest risk"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital customs automation and anti-corruption compliance"
+            "protocol": "Automated customs clearance and anti-corruption digital ledger"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free trade zone innovation and logistics hub reforms"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Debt-to-GDP containment and financial innovation sandbox"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain-based public procurement"
+            "protocol": "E-governance reforms and blockchain-based public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 22% AMID CUSTOMS BACKLOG; LAGOS GRID FREQUENCY DROPS BELOW 48HZ; YANGON IMPORT LICENSES SUSPENDED PENDING REVIEW. SINGAPORE SHI INDEX RISES TO 94.1.",
-    "last_updated": "2026-11-10 12:49:51",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34% | LAGOS DEBT YIELD SPIKES TO 18% | SINGAPORE SHI INDEX HITS 94.2 | ZURICH GRID STABILITY NOMINAL",
+    "last_updated": "2026-11-10 20:03:33",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.78,
-        "F": 1.12,
-        "T": 0.95,
-        "B": 1.34,
+        "F": 1.15,
+        "T": 0.92,
+        "B": 2.3,
         "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.326,
+        "kama_compression_ratio": 0.2644,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
