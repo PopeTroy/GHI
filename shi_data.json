@@ -1,52 +1,52 @@
 {
-    "shi": 0.52792,
-    "health_percent": 67.42,
+    "shi": 5.91476,
+    "health_percent": 68.4,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:12:33",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "145:22:09",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoints and port congestion"
+            "loc": "LAGOS, NIGERIA",
+            "deviation": "Energy Supply Instability"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High sovereign debt and trade barriers"
+            "loc": "ABUJA, NIGERIA",
+            "deviation": "Currency Volatility"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "Currency devaluation and import restrictions"
+            "loc": "PORT HARCOURT, NIGERIA",
+            "deviation": "Logistics Infrastructure Decay"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and anti-corruption digital ledger"
+            "loc": "ABUJA, NIGERIA",
+            "protocol": "Policy Reform Implementation"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance policy reforms and blockchain innovation"
+            "loc": "IBADAN, NIGERIA",
+            "protocol": "Local Innovation Hub Growth"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free trade zone expansion and AI logistics optimization"
+            "loc": "KANO, NIGERIA",
+            "protocol": "Anti-Corruption Initiatives"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ALERT: LAGOS IDENTIFIED AS PRIMARY HIGH-IMPACT NODE. CIVIL UNREST TIMER ACTIVE. BOTTLENECKS DETECTED IN ENERGY, DEBT, AND CURRENCY SECTORS. STABLE SHI NODES: SINGAPORE, TALLINN, DUBAI.",
-    "last_updated": "2026-11-11 15:06:55",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW MODERATE STABILITY BUT HIGH INFLATIONARY PRESSURE IN LAGOS. POLICY REFORMS IN ABUJA AND LOCAL INNOVATION IN IBADAN OFFER POTENTIAL STABILIZATION PATHWAYS. URGENT ATTENTION REQUIRED ON ENERGY AND CURRENCY VOLATILITY.",
+    "last_updated": "2026-11-11 21:56:41",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
-        "F": 1.12,
-        "T": 0.93,
-        "B": 2.3,
-        "C": 1.05
+        "F": 0.92,
+        "T": 0.78,
+        "B": 0.45,
+        "C": 0.33
     },
-    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-BOLT-E4B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3258,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
