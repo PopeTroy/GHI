@@ -1,52 +1,52 @@
 {
-    "shi": 0.49207,
-    "health_percent": 73.56,
+    "shi": 0.51168,
+    "health_percent": 47.32,
     "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and energy chokepoints"
+            "deviation": "Energy chokepoints and circular debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt service and trade barriers"
+            "deviation": "Port trade barriers and forex restrictions"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "Infrastructure decay and civil unrest risk"
+            "deviation": "Civil unrest and supply chain disruption"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and anti-corruption digital ledger"
+            "protocol": "Anti-corruption and digital trade protocols"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Debt-to-GDP containment and financial innovation sandbox"
+            "protocol": "Financial innovation and debt sustainability"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance reforms and blockchain-based public registries"
+            "loc": "Helsinki, Finland",
+            "protocol": "Education reform and green energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34% | LAGOS DEBT YIELD SPIKES TO 18% | SINGAPORE SHI INDEX HITS 94.2 | ZURICH GRID STABILITY NOMINAL",
-    "last_updated": "2026-11-10 20:03:33",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR CIVIL UNREST | ALERT: KARACHI, PAKISTAN IDENTIFIED AS HIGH-IMPACT INSTABILITY NODE. CIVIL UNREST TIMER ACTIVE. BOTTLENECKS DETECTED IN ENERGY, TRADE, AND GOVERNANCE SECTORS. STABLE SHI NODES: SINGAPORE, ZURICH, HELSINKI.",
+    "last_updated": "2026-11-11 00:36:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
+        "P": 0.82,
         "F": 1.15,
-        "T": 0.92,
+        "T": 0.91,
         "B": 2.3,
         "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2644,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5268,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
