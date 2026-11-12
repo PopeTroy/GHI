@@ -1,52 +1,52 @@
 {
-    "shi": 5.91476,
-    "health_percent": 68.4,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "145:22:09",
+    "shi": 0.82258,
+    "health_percent": 73.42,
+    "location": "ROTTERDAM, NETHERLANDS",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
-            "loc": "LAGOS, NIGERIA",
-            "deviation": "Energy Supply Instability"
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Geopolitical transit restrictions and siltation chokepoints"
         },
         {
-            "loc": "ABUJA, NIGERIA",
-            "deviation": "Currency Volatility"
+            "loc": "Frankfurt, Germany",
+            "deviation": "Energy grid instability and high industrial debt exposure"
         },
         {
-            "loc": "PORT HARCOURT, NIGERIA",
-            "deviation": "Logistics Infrastructure Decay"
+            "loc": "Los Angeles, USA",
+            "deviation": "Port congestion and trade tariff barriers"
         }
     ],
     "high_shi": [
         {
-            "loc": "ABUJA, NIGERIA",
-            "protocol": "Policy Reform Implementation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial regulatory transparency and anti-corruption frameworks"
         },
         {
-            "loc": "IBADAN, NIGERIA",
-            "protocol": "Local Innovation Hub Growth"
+            "loc": "Helsinki, Finland",
+            "protocol": "Digital governance innovation and renewable energy integration"
         },
         {
-            "loc": "KANO, NIGERIA",
-            "protocol": "Anti-Corruption Initiatives"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade facilitation reforms and smart infrastructure deployment"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR HYPER-INFLATION | ECONOMIC INDICATORS SHOW MODERATE STABILITY BUT HIGH INFLATIONARY PRESSURE IN LAGOS. POLICY REFORMS IN ABUJA AND LOCAL INNOVATION IN IBADAN OFFER POTENTIAL STABILIZATION PATHWAYS. URGENT ATTENTION REQUIRED ON ENERGY AND CURRENCY VOLATILITY.",
-    "last_updated": "2026-11-11 21:56:41",
+    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE ALERTS: BOTTLENECK PRESSURE RISING IN EURASIAN TRANSIT CORRIDORS. SHI STABILITY HOLDING IN NORTHERN EUROPE AND SINGAPORE. MONITOR COLLAPSE TIMER FOR SUPPLY CHAIN BREAK IN 48 HOURS.",
+    "last_updated": "2026-11-12 02:40:28",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 0.92,
-        "T": 0.78,
-        "B": 0.45,
-        "C": 0.33
+        "P": 0.82,
+        "F": 1.05,
+        "T": 0.91,
+        "B": 1.27,
+        "C": 1.08
     },
-    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-BOLT-E4B",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "kama_compression_ratio": 0.2658,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
