@@ -1,39 +1,39 @@
 {
     "shi": 0.55062,
-    "health_percent": 55.07,
+    "health_percent": 68.42,
     "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "96:33:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and customs delays"
+            "deviation": "Energy chokepoint: circular debt and aging grid infrastructure"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid instability and fuel shortages"
+            "loc": "Lima, Peru",
+            "deviation": "Trade barrier: port congestion and customs delays"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Sovereign debt overhang and currency controls"
+            "loc": "Cairo, Egypt",
+            "deviation": "High debt: sovereign debt servicing exceeding 40% of revenue"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade documentation and anti-corruption automation"
-        },
-        {
-            "loc": "Dubai, UAE",
-            "protocol": "Free zone policy reforms and logistics innovation"
+            "protocol": "Anti-corruption digital governance and trade facilitation"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain-based public registries"
+            "protocol": "Policy reforms: e-residency and blockchain public registries"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Innovation: financial stability sandbox and green bond standards"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: GHI ENGINE DETECTS CRITICAL SUPPLY CHAIN VULNERABILITY IN SOUTH ASIA. PRIMARY NODE KARACHI TRENDING TOWARD COLLAPSE. STABLE CORRIDORS IDENTIFIED IN SINGAPORE, DUBAI, TALLINN.",
-    "last_updated": "2026-11-12 10:20:40",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | ALERT: KARACHI GRID LOAD AT 98% CAPACITY; LIMA PORT QUEUE 18 VESSELS; CAIRO DEBT YIELD SPIKING TO 28%. STABLE CORRIDORS: SINGAPORE, TALLINN, ZURICH MAINTAINING SHI > 90.",
+    "last_updated": "2026-11-12 18:27:39",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
@@ -44,9 +44,9 @@
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4493,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
