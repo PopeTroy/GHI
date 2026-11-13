@@ -1,52 +1,52 @@
 {
-    "shi": 5.48229,
-    "health_percent": 68.4,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "HYPER-INFLATION",
-    "collapse_timer": "145:02:33",
+    "shi": 1.02512,
+    "health_percent": 67.42,
+    "location": "KARACHI, PAKISTAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Port congestion and energy chokepoints"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Currency devaluation"
+            "deviation": "High sovereign debt and trade barriers"
         },
         {
-            "loc": "Port Harcourt, Nigeria",
-            "deviation": "Energy infrastructure failure"
-        },
-        {
-            "loc": "Abuja, Nigeria",
-            "deviation": "Regulatory uncertainty"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Infrastructure decay and regulatory instability"
         }
     ],
     "high_shi": [
         {
-            "loc": "Cape Town, South Africa",
-            "protocol": "Digital financial inclusion"
+            "loc": "Singapore, Singapore",
+            "protocol": "Automated customs clearance and anti-corruption digital ledger"
         },
         {
-            "loc": "Nairobi, Kenya",
-            "protocol": "Renewable energy adoption"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Stable monetary policy and fintech innovation hub"
         },
         {
-            "loc": "Accra, Ghana",
-            "protocol": "Trade agreement implementation"
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance reforms and blockchain public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR HYPER-INFLATION | GLOBAL ECONOMIC INDICATORS SHOW INCREASING VOLATILITY IN WEST AFRICAN MARKETS. LOCALIZED POLICY REFORMS IN GHANA AND KENYA OFFER POTENTIAL STABILITY ANCHORS AMIDST INFLATIONARY PRESSURES IN NIGERIA.",
-    "last_updated": "2026-11-13 18:46:58",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34%; LAGOS DEBT SERVICING AT 18% OF REVENUE; YANGON GRID INSTABILITY TRIGGERS FACTORY SHUTDOWNS. SHI LEADERS SINGAPORE, ZURICH, TALLINN DEPLOY PROTOCOL UPGRADES.",
+    "last_updated": "2026-11-13 23:56:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.75,
-        "F": 0.82,
-        "T": 0.91,
-        "B": 0.35,
-        "C": 0.42
+        "P": 0.78,
+        "F": 1.12,
+        "T": 0.95,
+        "B": 1.34,
+        "C": 0.87
     },
-    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-BOLT-E4B",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.316,
+        "kama_compression_ratio": 0.3258,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
