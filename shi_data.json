@@ -1,52 +1,52 @@
 {
-    "shi": 1.18681,
-    "health_percent": 73.82,
+    "shi": 1.58745,
+    "health_percent": 68.42,
     "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "72:14:05",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and energy chokepoints"
+            "deviation": "Energy chokepoint: circular debt in power sector"
         },
         {
-            "loc": "Lima, Peru",
-            "deviation": "High sovereign debt and trade barriers"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barrier: port congestion and forex restrictions"
         },
         {
-            "loc": "Khartoum, Sudan",
-            "deviation": "Civil unrest disrupting logistics and banking"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High debt: sovereign debt restructuring stalemate"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs and anti-corruption digital ledger"
+            "protocol": "Anti-corruption and digital trade facilitation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stablecoin reserve integration and financial innovation"
+            "protocol": "Financial innovation and regulatory stability"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance policy reforms and blockchain land registry"
+            "protocol": "E-governance and blockchain public services"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34%; ENERGY GRID AT 62% CAPACITY. MONITOR DEBT SPREADS IN LIMA. INNOVATION INDEX RISING IN TALLINN.",
-    "last_updated": "2026-11-12 23:48:03",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR GRID COLLAPSE | ALERT: KARACHI GRID STRESS AT 94% CAPACITY; LAGOS PORT BACKLOG HITS 14 DAYS; ARGENTINA BOND YIELDS SPIKE 200BPS. STABLE CORRIDORS: SINGAPORE TRADE LANES OPEN, ZURICH FINTECH INFLOWS STEADY, TALLINN E-RESIDENCY GROWTH +12%.",
+    "last_updated": "2026-11-13 03:40:03",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.15,
-        "T": 0.91,
-        "B": 1.37,
-        "C": 0.76
+        "P": 1.25,
+        "F": 0.92,
+        "T": 1.1,
+        "B": 1.35,
+        "C": 0.85
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2618,
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
