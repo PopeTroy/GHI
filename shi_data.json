@@ -1,44 +1,44 @@
 {
-    "shi": 0.51168,
-    "health_percent": 51.16,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 0.55062,
+    "health_percent": 55.06,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Energy chokepoint and trade barrier congestion"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Port congestion and customs delays"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt and currency instability"
+            "deviation": "Energy grid instability and circular debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Grid collapse risk and port inefficiencies"
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Trade barriers and import licensing bottlenecks"
         }
     ],
     "high_shi": [
         {
+            "loc": "Singapore, Singapore",
+            "protocol": "Digital trade documentation and anti-corruption automation"
+        },
+        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial innovation"
+            "protocol": "Financial regulatory sandbox and innovation hubs"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "Digital governance and policy reforms"
-        },
-        {
-            "loc": "Oslo, Norway",
-            "protocol": "Energy stability and sovereign wealth management"
+            "protocol": "E-governance and blockchain-based public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GLOBAL ALERT: SUEZ CHOKEPOINT INTENSIFIES; KARACHI DEBT SPIRAL ACCELERATES; LAGOS GRID FRAGILITY TRIGGERS SUPPLY CHAIN BREAK WATCH. ZURICH LEADS SHI INDEX WITH 94.2 STABILITY.",
-    "last_updated": "2026-11-14 18:24:23",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA IDENTIFIED AS PRIMARY HIGH-IMPACT NODE. CIVIL UNREST RISK ESCALATING DUE TO SUPPLY CHAIN BOTTLENECKS. SYSTEM HEALTH AT 55.06%. IMMEDIATE PROTOCOL DEPLOYMENT RECOMMENDED.",
+    "last_updated": "2026-11-14 22:39:22",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.15,
-        "T": 0.91,
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
         "B": 2.3,
         "C": 1.05
     },
@@ -46,7 +46,7 @@
     "shinobi_tactics": {
         "active_eye": "SHARINGAN_THREE_TOMOE",
         "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4884,
+        "kama_compression_ratio": 0.4494,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
