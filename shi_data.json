@@ -1,52 +1,52 @@
 {
-    "shi": 1.02512,
-    "health_percent": 67.42,
-    "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:32:10",
+    "shi": 1.27225,
+    "health_percent": 68.42,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and energy chokepoints"
+            "deviation": "Energy chokepoints and circular debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "High sovereign debt and trade barriers"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "Trade barriers and high sovereign debt"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Infrastructure decay and regulatory instability"
+            "loc": "Beirut, Lebanon",
+            "deviation": "Grid collapse risk and currency controls"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and anti-corruption digital ledger"
+            "protocol": "Anti-corruption and digital trade infrastructure"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Stable monetary policy and fintech innovation hub"
+            "protocol": "Financial stability and innovation hub"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance reforms and blockchain public registries"
+            "loc": "Helsinki, Finland",
+            "protocol": "Policy reforms and green energy integration"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34%; LAGOS DEBT SERVICING AT 18% OF REVENUE; YANGON GRID INSTABILITY TRIGGERS FACTORY SHUTDOWNS. SHI LEADERS SINGAPORE, ZURICH, TALLINN DEPLOY PROTOCOL UPGRADES.",
-    "last_updated": "2026-11-13 23:56:16",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ALERT: LAGOS PORT CONGESTION HITS 18-DAY HIGH; REGIONAL TRADE REROUTED VIA ABIDJAN AS NAIRA VOLATILITY SPIKES AND FUEL SUBSIDY REMOVAL TRIGGERS TRANSPORT STRIKES.",
+    "last_updated": "2026-11-14 05:27:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
+        "P": 0.85,
         "F": 1.12,
-        "T": 0.95,
+        "T": 0.97,
         "B": 1.34,
-        "C": 0.87
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3258,
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
