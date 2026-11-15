@@ -1,52 +1,52 @@
 {
-    "shi": 0.81295,
-    "health_percent": 71.36,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:12:30",
+    "shi": 1.34929,
+    "health_percent": 92.5,
+    "location": "KINSHASA, DR CONGO",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "67:21:13",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and fuel subsidy debt"
+            "loc": "Lahore, Pakistan",
+            "deviation": "Energy chokepoint and trade barriers"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Circular debt and energy chokepoints"
+            "loc": "Bogota, Colombia",
+            "deviation": "High sovereign debt and capital flight"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Trade barriers and currency controls"
+            "loc": "Istanbul, Turkey",
+            "deviation": "Regulatory friction and currency volatility"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation hubs"
+            "protocol": "Precision monetary policy and financial transparency"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain integration"
+            "loc": "Stockholm, Sweden",
+            "protocol": "Sustainable urban planning and digital service integration"
+        },
+        {
+            "loc": "Vancouver, Canada",
+            "protocol": "Green energy transition and anti-corruption oversight"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ENGINE SCANNING GLOBAL NODES: LAGOS FLAGGED AS HIGH IMPACT; WATCH FOR CIVIL UNREST TRIGGERS AMID SUPPLY CHAIN STRESS.",
-    "last_updated": "2026-11-15 09:17:57",
+    "scroller_feed": "CRITICAL: KINSHASA, DR CONGO TARGETED FOR GRID COLLAPSE | NODE SCAN COMPLETE. THREE CRITICAL BOTTLENECKS IDENTIFIED IN MENA AND LATAM REGIONS. HIGH-SHI NODES STABILIZING SYSTEM TRAJECTORY.",
+    "last_updated": "2026-11-15 16:28:49",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.05,
-        "T": 0.94,
-        "B": 1.28,
-        "C": 1.12
+        "P": 1.33,
+        "F": 0.91,
+        "T": 1.08,
+        "B": 1.55,
+        "C": 0.9
     },
-    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-LIGHTNING-30B-A3B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2864,
+        "kama_compression_ratio": 0.075,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
