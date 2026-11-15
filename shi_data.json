@@ -1,52 +1,52 @@
 {
-    "shi": 0.55062,
-    "health_percent": 55.06,
+    "shi": 0.72126,
+    "health_percent": 68.44,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:32:10",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "142:30:15",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and customs delays"
+            "loc": "Apapa Port, Nigeria",
+            "deviation": "Trade barrier: chronic port congestion and customs clearance delays"
         },
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy grid instability and circular debt"
+            "loc": "National Grid Control Center, Nigeria",
+            "deviation": "Energy chokepoint: systemic grid instability and generation shortfall"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Trade barriers and import licensing bottlenecks"
+            "loc": "Debt Management Office, Nigeria",
+            "deviation": "High debt: elevated debt-service-to-revenue ratio crowding out capital expenditure"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Digital trade documentation and anti-corruption automation"
+            "loc": "Yaba, Lagos, Nigeria",
+            "protocol": "Innovation protocol: tech startup clusters and digital economy policy reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory sandbox and innovation hubs"
+            "loc": "Lekki Free Trade Zone, Nigeria",
+            "protocol": "Policy reform protocol: tax holidays and single-window import/export clearance"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain-based public registries"
+            "loc": "Eko Atlantic, Lagos, Nigeria",
+            "protocol": "Anti-corruption protocol: blockchain land-title registry and transparent concession bidding"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA IDENTIFIED AS PRIMARY HIGH-IMPACT NODE. CIVIL UNREST RISK ESCALATING DUE TO SUPPLY CHAIN BOTTLENECKS. SYSTEM HEALTH AT 55.06%. IMMEDIATE PROTOCOL DEPLOYMENT RECOMMENDED.",
-    "last_updated": "2026-11-14 22:39:22",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | ALERT: LAGOS GRID FREQUENCY DROPPING BELOW 48HZ; APAPA CONTAINER DWELL TIME UP 34%; DMO WARNS DEBT SERVICE AT 92% OF REVENUE; YABA TECH CORRIDOR ATTRACTS $45M FDI; LEKKI FTZ CUSTOMS PROCESSING REDUCED TO 4 HOURS.",
+    "last_updated": "2026-11-15 02:07:54",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.12,
-        "T": 0.97,
-        "B": 2.3,
-        "C": 1.05
+        "P": 0.87,
+        "F": 1.05,
+        "T": 0.92,
+        "B": 1.41,
+        "C": 1.19
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.4494,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3156,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
