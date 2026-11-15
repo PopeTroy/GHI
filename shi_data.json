@@ -1,52 +1,52 @@
 {
-    "shi": 1.34929,
-    "health_percent": 92.5,
-    "location": "KINSHASA, DR CONGO",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "67:21:13",
+    "shi": 0.77929,
+    "health_percent": 73.56,
+    "location": "KARACHI, PAKISTAN",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Lahore, Pakistan",
-            "deviation": "Energy chokepoint and trade barriers"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Port congestion and customs clearance backlog"
         },
         {
-            "loc": "Bogota, Colombia",
-            "deviation": "High sovereign debt and capital flight"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy grid instability and fuel supply chokepoint"
         },
         {
-            "loc": "Istanbul, Turkey",
-            "deviation": "Regulatory friction and currency volatility"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade sanctions and financial isolation"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Precision monetary policy and financial transparency"
+            "loc": "Singapore, Singapore",
+            "protocol": "Digital trade documentation and automated anti-corruption screening"
         },
         {
-            "loc": "Stockholm, Sweden",
-            "protocol": "Sustainable urban planning and digital service integration"
+            "loc": "Dubai, UAE",
+            "protocol": "Free zone regulatory reforms and smart logistics innovation"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Green energy transition and anti-corruption oversight"
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance integration and blockchain public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: KINSHASA, DR CONGO TARGETED FOR GRID COLLAPSE | NODE SCAN COMPLETE. THREE CRITICAL BOTTLENECKS IDENTIFIED IN MENA AND LATAM REGIONS. HIGH-SHI NODES STABILIZING SYSTEM TRAJECTORY.",
-    "last_updated": "2026-11-15 16:28:49",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | KARACHI PORT BACKLOG EXCEEDS 12,000 TEU; LAGOS DIESEL RESERVES BELOW 48 HOURS; SINGAPORE STRAIT FLOW STABLE; TALLINN E-GOV UPTIME 99.98%",
+    "last_updated": "2026-11-15 21:10:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.33,
-        "F": 0.91,
-        "T": 1.08,
-        "B": 1.55,
-        "C": 0.9
+        "P": 0.82,
+        "F": 1.05,
+        "T": 0.91,
+        "B": 1.27,
+        "C": 1.14
     },
-    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-LIGHTNING-30B-A3B",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.075,
+        "kama_compression_ratio": 0.2644,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
