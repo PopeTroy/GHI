@@ -1,52 +1,52 @@
 {
-    "shi": 0.77929,
-    "health_percent": 73.56,
-    "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:32:10",
+    "shi": 1.21338,
+    "health_percent": 68.4,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and customs clearance backlog"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid instability and fuel supply chokepoint"
+            "deviation": "Port congestion and customs delays"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade sanctions and financial isolation"
+            "loc": "Kano, Nigeria",
+            "deviation": "Energy grid instability and fuel shortages"
+        },
+        {
+            "loc": "Port Harcourt, Nigeria",
+            "deviation": "High sovereign debt servicing costs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Digital trade documentation and automated anti-corruption screening"
+            "loc": "Nairobi, Kenya",
+            "protocol": "Digital payment infrastructure and anti-corruption e-governance"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free zone regulatory reforms and smart logistics innovation"
+            "loc": "Accra, Ghana",
+            "protocol": "Trade liberalization and port automation reforms"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance integration and blockchain public registries"
+            "loc": "Cape Town, South Africa",
+            "protocol": "Renewable energy innovation and fintech hub development"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | KARACHI PORT BACKLOG EXCEEDS 12,000 TEU; LAGOS DIESEL RESERVES BELOW 48 HOURS; SINGAPORE STRAIT FLOW STABLE; TALLINN E-GOV UPTIME 99.98%",
-    "last_updated": "2026-11-15 21:10:19",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ALERT: LAGOS BOTTLENECK INDEX RISING; SHI NODES IN EAST AFRICA SHOW PROTOCOL RESILIENCE. MONITOR DEBT-TO-GDP AND GRID FREQUENCY DEVIATIONS.",
+    "last_updated": "2026-11-16 01:01:52",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.82,
-        "F": 1.05,
+        "F": 1.15,
         "T": 0.91,
-        "B": 1.27,
-        "C": 1.14
+        "B": 1.34,
+        "C": 0.76
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2644,
+        "kama_compression_ratio": 0.316,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
