@@ -1,52 +1,52 @@
 {
-    "shi": 1.27225,
-    "health_percent": 68.42,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:33",
+    "shi": 3.5929,
+    "health_percent": 78.45,
+    "location": "SINGAPORE, SINGAPORE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "144:30:12",
     "bottlenecks": [
         {
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Maritime trade barrier and energy chokepoint"
+        },
+        {
+            "loc": "Frankfurt, Germany",
+            "deviation": "Energy grid dependency and industrial slowdown"
+        },
+        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and energy chokepoints"
-        },
-        {
-            "loc": "Karachi, Pakistan",
-            "deviation": "High sovereign debt and trade barriers"
-        },
-        {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Civil unrest and supply chain disruption"
+            "deviation": "Sovereign debt stress and port congestion"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
-        },
-        {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation hubs"
+            "protocol": "Financial anti-corruption and regulatory stability"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and policy reforms"
+            "loc": "Helsinki, Finland",
+            "protocol": "Digital governance and innovation incentives"
+        },
+        {
+            "loc": "Austin, USA",
+            "protocol": "Tech sector policy reform and infrastructure investment"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GHI LOGIC ENGINE SCANNING GLOBAL STABILITY INDICES; CRITICAL ENERGY CHOKEPOINTS DETECTED IN WEST AFRICAN TRADE CORRIDORS.",
-    "last_updated": "2026-11-16 07:53:12",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE ACTIVE: SUEZ DEVIATION CRITICAL, ZURICH SHI HOLDING AT 94.2, MONITORING SUPPLY CHAIN BREAK TIMER.",
+    "last_updated": "2026-11-16 17:45:42",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.12,
-        "T": 0.97,
-        "B": 1.34,
-        "C": 0.78
+        "P": 1.25,
+        "F": 0.92,
+        "T": 1.1,
+        "B": 0.78,
+        "C": 0.65
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3158,
+        "kama_compression_ratio": 0.2155,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
