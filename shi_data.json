@@ -1,52 +1,52 @@
 {
-    "shi": 3.5929,
-    "health_percent": 78.45,
-    "location": "SINGAPORE, SINGAPORE",
+    "shi": 0.52448,
+    "health_percent": 68.42,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "144:30:12",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Maritime trade barrier and energy chokepoint"
+            "loc": "Mombasa, Kenya",
+            "deviation": "Port congestion and customs delays"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy grid dependency and industrial slowdown"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints and circular debt"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Sovereign debt stress and port congestion"
+            "loc": "Lima, Peru",
+            "deviation": "Trade barriers and informal tariffs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial anti-corruption and regulatory stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Automated customs clearance and anti-corruption digital ledger"
         },
         {
-            "loc": "Helsinki, Finland",
-            "protocol": "Digital governance and innovation incentives"
+            "loc": "Munich, Germany",
+            "protocol": "Grid modernization and renewable energy integration"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Tech sector policy reform and infrastructure investment"
+            "loc": "Toronto, Canada",
+            "protocol": "Fiscal transparency and innovation grant ecosystem"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE ACTIVE: SUEZ DEVIATION CRITICAL, ZURICH SHI HOLDING AT 94.2, MONITORING SUPPLY CHAIN BREAK TIMER.",
-    "last_updated": "2026-11-16 17:45:42",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: LAGOS CORRIDOR VOLATILITY RISING; MONITOR PORT THROUGHPUT AND ENERGY RESERVES. SHI NODES MAINTAINING RESILIENCE VIA PROTOCOL DEPLOYMENT.",
+    "last_updated": "2026-11-17 01:07:01",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.25,
-        "F": 0.92,
-        "T": 1.1,
-        "B": 0.78,
-        "C": 0.65
+        "P": 0.87,
+        "F": 1.15,
+        "T": 0.92,
+        "B": 2.34,
+        "C": 1.08
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2155,
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
