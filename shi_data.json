@@ -1,46 +1,46 @@
 {
-    "shi": 0.51168,
+    "shi": 1.21338,
     "health_percent": 68.42,
-    "location": "KARACHI, PAKISTAN",
-    "collapse_type": "CIVIL UNREST",
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:33",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and energy chokepoints"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt service and trade barriers"
+            "deviation": "Port congestion and customs delays"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Infrastructure decay and regulatory instability"
+            "loc": "Johannesburg, South Africa",
+            "deviation": "Energy grid instability and load shedding"
+        },
+        {
+            "loc": "Nairobi, Kenya",
+            "deviation": "High sovereign debt servicing costs"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade innovation"
+            "protocol": "Digital trade documentation and anti-corruption automation"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Energy grid modernization and policy reform"
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance and blockchain-based public registries"
         },
         {
-            "loc": "Toronto, Canada",
-            "protocol": "Fiscal stability and innovation hub development"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial innovation hubs and regulatory sandboxes"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR CIVIL UNREST | ALERT: KARACHI PORT THROUGHPUT DOWN 18% | LAGOS DEBT YIELD SPIKES TO 14.2% | SINGAPORE SHI INDEX HOLDS AT 94.1 | GRID STRESS REPORTED IN YANGON INDUSTRIAL ZONE",
-    "last_updated": "2026-11-17 09:10:18",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS PORT THROUGHPUT DOWN 18% | JOHANNESBURG GRID AT 62% CAPACITY | NAIROBI DEBT YIELD SPIKES TO 14.2% | SINGAPORE SHI INDEX RISES TO 94.1 | TALLINN E-RESIDENCY APPLICATIONS UP 22% | ZURICH FINTECH INVESTMENT HITS RECORD Q3",
+    "last_updated": "2026-11-17 18:33:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.82,
         "F": 1.15,
         "T": 0.91,
-        "B": 2.3,
-        "C": 1.05
+        "B": 1.34,
+        "C": 0.76
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
