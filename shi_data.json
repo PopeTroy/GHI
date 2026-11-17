@@ -1,46 +1,46 @@
 {
-    "shi": 0.52448,
+    "shi": 0.51168,
     "health_percent": 68.42,
-    "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:32:10",
+    "location": "KARACHI, PAKISTAN",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:12:33",
     "bottlenecks": [
         {
-            "loc": "Mombasa, Kenya",
-            "deviation": "Port congestion and customs delays"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
+            "deviation": "Port congestion and energy chokepoints"
         },
         {
-            "loc": "Lima, Peru",
-            "deviation": "Trade barriers and informal tariffs"
+            "loc": "Lagos, Nigeria",
+            "deviation": "High debt service and trade barriers"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "Infrastructure decay and regulatory instability"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and anti-corruption digital ledger"
+            "protocol": "Anti-corruption and digital trade innovation"
         },
         {
             "loc": "Munich, Germany",
-            "protocol": "Grid modernization and renewable energy integration"
+            "protocol": "Energy grid modernization and policy reform"
         },
         {
             "loc": "Toronto, Canada",
-            "protocol": "Fiscal transparency and innovation grant ecosystem"
+            "protocol": "Fiscal stability and innovation hub development"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: LAGOS CORRIDOR VOLATILITY RISING; MONITOR PORT THROUGHPUT AND ENERGY RESERVES. SHI NODES MAINTAINING RESILIENCE VIA PROTOCOL DEPLOYMENT.",
-    "last_updated": "2026-11-17 01:07:01",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR CIVIL UNREST | ALERT: KARACHI PORT THROUGHPUT DOWN 18% | LAGOS DEBT YIELD SPIKES TO 14.2% | SINGAPORE SHI INDEX HOLDS AT 94.1 | GRID STRESS REPORTED IN YANGON INDUSTRIAL ZONE",
+    "last_updated": "2026-11-17 09:10:18",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.87,
+        "P": 0.82,
         "F": 1.15,
-        "T": 0.92,
-        "B": 2.34,
-        "C": 1.08
+        "T": 0.91,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
