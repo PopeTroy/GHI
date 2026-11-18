@@ -1,52 +1,52 @@
 {
-    "shi": 0.48209,
-    "health_percent": 78.42,
+    "shi": 0.55062,
+    "health_percent": 72.35,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and customs delays"
+            "deviation": "Energy chokepoint: grid instability and fuel subsidy distortions"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Circular debt in energy sector"
+            "deviation": "High debt servicing and import compression"
         },
         {
             "loc": "Jakarta, Indonesia",
-            "deviation": "Trade barriers on imported components"
+            "deviation": "Trade barriers and port congestion"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital customs automation"
+            "protocol": "Anti-corruption and digital trade facilitation"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and anti-corruption framework"
+            "protocol": "E-governance and innovation hub policy"
         },
         {
             "loc": "Dubai, UAE",
-            "protocol": "Free zone innovation hubs"
+            "protocol": "Free zone reforms and logistics innovation"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: LAGOS IDENTIFIED AS HIGH-IMPACT NODE; MONITOR PORT THROUGHPUT AND DEBT SERVICING RATIOS.",
-    "last_updated": "2026-11-18 17:33:07",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | ALERT: LAGOS GRID STRESS AT 89%; KARACHI DEBT-TO-GDP HITS 78%; JAKARTA PORT DWELL TIME UP 34%. STABLE CORRIDORS: SINGAPORE SHI 94.2, TALLINN SHI 91.7, DUBAI SHI 88.9.",
+    "last_updated": "2026-11-18 23:33:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.25,
-        "F": 0.98,
-        "T": 1.1,
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
         "B": 2.3,
-        "C": 1.75
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2158,
+        "kama_compression_ratio": 0.2765,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
