@@ -1,52 +1,52 @@
 {
-    "shi": 0.55062,
-    "health_percent": 78.45,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 1.27225,
+    "health_percent": 67.42,
+    "location": "LAGOS, NIGERIA",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "142:30:15",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Port Said, Egypt",
-            "deviation": "Trade barrier / maritime chokepoint congestion"
-        },
-        {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy chokepoint / grid instability"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "High debt / sovereign default risk"
+            "deviation": "Energy chokepoints and circular debt"
+        },
+        {
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "Trade barriers and currency controls"
+        },
+        {
+            "loc": "Beirut, Lebanon",
+            "deviation": "High debt and banking sector collapse"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption / financial transparency reforms"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and trade facilitation protocols"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "Digital governance / e-residency innovation"
+            "protocol": "Digital governance and innovation protocols"
         },
         {
-            "loc": "Shenzhen, China",
-            "protocol": "Technology innovation / supply chain optimization"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and regulatory reform protocols"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | ALERT: SUEZ TRANSIT DELAYS EXCEED 48 HOURS; FRANKFURT ENERGY RESERVES AT 12%; KARACHI BOND YIELDS SPIKE TO 24%. MONITORING SHI THRESHOLDS ACROSS GHI NETWORK.",
-    "last_updated": "2026-11-19 21:51:53",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | LAGOS PORT CONGESTION INTENSIFIES; NAIRA VOLATILITY STRAINS IMPORT FINANCING; REGIONAL SUPPLY CHAINS FACE BREAK RISK WITHIN 48 HOURS.",
+    "last_updated": "2026-11-20 02:44:55",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 1.12,
         "T": 0.97,
-        "B": 2.3,
-        "C": 1.05
+        "B": 1.34,
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2155,
+        "kama_compression_ratio": 0.3258,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
