@@ -1,52 +1,52 @@
 {
-    "shi": 0.72998,
-    "health_percent": 71.35,
-    "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 0.51168,
+    "health_percent": 51.17,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Severe port congestion and customs clearance backlog"
+            "deviation": "Energy chokepoint and port congestion"
         },
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid instability causing industrial shutdowns"
+            "loc": "Lima, Peru",
+            "deviation": "High sovereign debt and trade barriers"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and restricted banking access"
+            "loc": "Cairo, Egypt",
+            "deviation": "Currency devaluation and import restrictions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "AI-driven customs automation and anti-corruption blockchain ledger"
+            "protocol": "Anti-corruption and digital trade infrastructure"
         },
         {
-            "loc": "Rotterdam, Netherlands",
-            "protocol": "Renewable energy grid integration and smart port logistics"
+            "loc": "Munich, Germany",
+            "protocol": "Industrial innovation and energy diversification"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free trade zone regulatory reform and digital trade finance"
+            "loc": "Toronto, Canada",
+            "protocol": "Fiscal transparency and fintech regulation"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: KARACHI PORT THROUGHPUT DOWN 38%; LAGOS GRID AT 41% CAPACITY; SINGAPORE SHI INDEX CLIMBS TO 94.6; MONITOR COLLAPSE TIMER.",
-    "last_updated": "2026-11-20 10:35:25",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ALERT: LAGOS BOTTLENECK PRESSURE RISING; SHI NODES HOLDING STABLE. MONITOR DEBT-TO-GDP IN EMERGING MARKETS.",
+    "last_updated": "2026-11-20 18:47:51",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.82,
-        "F": 1.05,
+        "F": 1.15,
         "T": 0.91,
-        "B": 1.38,
-        "C": 1.12
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2865,
+        "active_eye": "SHARINGAN_THREE_TOMOE",
+        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
+        "kama_compression_ratio": 0.4883,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
