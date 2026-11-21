@@ -1,52 +1,52 @@
 {
-    "shi": 0.81809,
-    "health_percent": 72.35,
-    "location": "ROTTERDAM, NETHERLANDS",
+    "shi": 0.39873,
+    "health_percent": 42.67,
+    "location": "KARACHI, PAKISTAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Geopolitical transit restrictions and sedimentation chokepoints"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints and circular debt"
         },
         {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy grid instability and high industrial debt exposure"
+            "loc": "Beirut, Lebanon",
+            "deviation": "Trade barriers and banking sector freeze"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Port congestion and sovereign debt servicing pressure"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt and currency controls"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Transparent regulatory sandbox and anti-corruption framework"
+            "loc": "Singapore, Singapore",
+            "protocol": "Anti-corruption and digital trade protocols"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Digital trade documentation and innovation hub incentives"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability and innovation policy reforms"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance integration and blockchain-based public registries"
+            "protocol": "E-governance and blockchain integration"
         }
     ],
-    "scroller_feed": "CRITICAL: ROTTERDAM, NETHERLANDS TARGETED FOR SUPPLY CHAIN BREAK | ALERT: SUEZ TRANSIT DELAYS COMPOUNDING WITH FRANKFURT ENERGY VOLATILITY; SHI LEADERS ZURICH AND SINGAPORE DEPLOYING PROTOCOL UPGRADES TO BUFFER SUPPLY CHAIN BREAK RISK.",
-    "last_updated": "2026-11-21 07:29:34",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | KARACHI PORT CONGESTION WORSENING; ENERGY SHORTFALLS TRIGGERING INDUSTRIAL SHUTDOWNS; CURRENCY VOLATILITY SPIKING IMPORT COSTS ACROSS SOUTH ASIA.",
+    "last_updated": "2026-11-21 15:33:04",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.25,
-        "F": 0.98,
-        "T": 1.12,
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
         "B": 2.3,
-        "C": 1.05
+        "C": 1.45
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2765,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.5733,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
