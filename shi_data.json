@@ -1,52 +1,52 @@
 {
-    "shi": 0.39873,
-    "health_percent": 42.67,
+    "shi": 0.30582,
+    "health_percent": 34.7,
     "location": "KARACHI, PAKISTAN",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
+            "deviation": "Port congestion and customs delays"
         },
         {
-            "loc": "Beirut, Lebanon",
-            "deviation": "Trade barriers and banking sector freeze"
+            "loc": "Lagos, Nigeria",
+            "deviation": "Energy grid chokepoints and fuel shortages"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "High sovereign debt and currency controls"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and banking sanctions"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
+            "protocol": "Digital trade documentation and anti-corruption automation"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation policy reforms"
+            "loc": "Dubai, UAE",
+            "protocol": "Free zone policy reforms and innovation hubs"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain integration"
+            "protocol": "E-governance and blockchain-based public services"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | KARACHI PORT CONGESTION WORSENING; ENERGY SHORTFALLS TRIGGERING INDUSTRIAL SHUTDOWNS; CURRENCY VOLATILITY SPIKING IMPORT COSTS ACROSS SOUTH ASIA.",
-    "last_updated": "2026-11-21 15:33:04",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 40% | LAGOS GRID INSTABILITY SPREADING | YANGON BANKING SANCTIONS TIGHTEN | SINGAPORE DIGITAL CUSTOMS REDUCES CLEARANCE TO 4 HOURS | DUBAI FREE ZONE INVESTMENT SURGES | TALLINN E-RESIDENCY EXPANDS TO 120 COUNTRIES",
+    "last_updated": "2026-11-21 21:04:48",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.78,
         "F": 1.12,
-        "T": 0.97,
-        "B": 2.3,
-        "C": 1.45
+        "T": 0.95,
+        "B": 2.34,
+        "C": 1.67
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
         "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.5733,
+        "kama_compression_ratio": 0.653,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
