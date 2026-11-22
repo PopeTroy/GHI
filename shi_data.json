@@ -1,52 +1,52 @@
 {
-    "shi": 1.31919,
-    "health_percent": 68.42,
+    "shi": 1.18681,
+    "health_percent": 78.45,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "142:30:12",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
-        },
-        {
-            "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and port congestion"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "High debt servicing and forex scarcity"
+            "deviation": "Severe port congestion and customs delays"
+        },
+        {
+            "loc": "Karachi, Pakistan",
+            "deviation": "Circular debt in energy sector causing blackouts"
+        },
+        {
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Trade barriers on imported intermediate goods"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
-        },
-        {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability and innovation hubs"
+            "protocol": "Digital customs automation and anti-corruption e-governance"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and policy reforms"
+            "protocol": "Blockchain-based public procurement and regulatory sandboxes"
+        },
+        {
+            "loc": "Dubai, UAE",
+            "protocol": "Free zone innovation hubs and streamlined FDI approvals"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | ALERT: LAGOS PORT THROUGHPUT DOWN 34%; KARACHI GRID INSTABILITY AT CRITICAL THRESHOLD; YANGON CUSTOMS DELAYS EXCEEDING 72 HOURS. GHI STABILITY INDEX TRENDING NEGATIVE ACROSS EMERGING CORRIDOR.",
-    "last_updated": "2026-11-22 08:00:21",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | PRIMARY HIGH IMPACT: LAGOS, NIGERIA. COLLAPSE RISK: CIVIL UNREST. TIMER: 48:32:10. BOTTLENECKS: LAGOS PORT CONGESTION, KARACHI ENERGY DEBT, JAKARTA TRADE BARRIERS. STABLE SHI NODES: SINGAPORE, TALLINN, DUBAI.",
+    "last_updated": "2026-11-22 16:11:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
-        "F": 1.12,
-        "T": 0.98,
-        "B": 1.34,
+        "P": 0.82,
+        "F": 1.15,
+        "T": 0.91,
+        "B": 1.37,
         "C": 0.76
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3158,
+        "kama_compression_ratio": 0.2155,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
