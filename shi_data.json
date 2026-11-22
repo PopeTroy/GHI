@@ -1,52 +1,52 @@
 {
-    "shi": 0.30582,
-    "health_percent": 34.7,
-    "location": "KARACHI, PAKISTAN",
+    "shi": 0.55062,
+    "health_percent": 68.42,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:33:12",
     "bottlenecks": [
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and customs delays"
+            "deviation": "Energy chokepoints and high sovereign debt"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid chokepoints and fuel shortages"
+            "deviation": "Port congestion and trade barriers"
         },
         {
             "loc": "Yangon, Myanmar",
-            "deviation": "Trade barriers and banking sanctions"
+            "deviation": "Civil unrest and infrastructure decay"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital trade documentation and anti-corruption automation"
+            "protocol": "Automated customs clearance and anti-corruption digital ledger"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free zone policy reforms and innovation hubs"
+            "loc": "Rotterdam, Netherlands",
+            "protocol": "Green hydrogen hub and smart grid integration"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and blockchain-based public services"
+            "protocol": "E-governance and blockchain-based public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 40% | LAGOS GRID INSTABILITY SPREADING | YANGON BANKING SANCTIONS TIGHTEN | SINGAPORE DIGITAL CUSTOMS REDUCES CLEARANCE TO 4 HOURS | DUBAI FREE ZONE INVESTMENT SURGES | TALLINN E-RESIDENCY EXPANDS TO 120 COUNTRIES",
-    "last_updated": "2026-11-21 21:04:48",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: BOTTLENECK INTENSITY RISING IN SOUTH ASIA; SHI PROTOCOLS HOLDING IN BALTIC-NORDIC CORRIDOR. MONITOR COLLAPSE TIMER.",
+    "last_updated": "2026-11-22 01:11:59",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
+        "P": 0.85,
         "F": 1.12,
-        "T": 0.95,
-        "B": 2.34,
-        "C": 1.67
+        "T": 0.97,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
-        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
-        "kama_compression_ratio": 0.653,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
