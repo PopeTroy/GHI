@@ -1,52 +1,52 @@
 {
-    "shi": 1.18681,
-    "health_percent": 78.45,
+    "shi": 0.55062,
+    "health_percent": 68.42,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:32:10",
+    "collapse_type": "SUPPLY CHAIN BREAK",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Severe port congestion and customs delays"
+            "deviation": "Port congestion and customs clearance delays"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Circular debt in energy sector causing blackouts"
+            "deviation": "Energy grid instability and circular debt"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Trade barriers on imported intermediate goods"
+            "loc": "Cairo, Egypt",
+            "deviation": "High sovereign debt and currency devaluation"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital customs automation and anti-corruption e-governance"
+            "protocol": "Digital trade documentation and anti-corruption automation"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "Blockchain-based public procurement and regulatory sandboxes"
+            "protocol": "E-governance and blockchain-based public registries"
         },
         {
             "loc": "Dubai, UAE",
-            "protocol": "Free zone innovation hubs and streamlined FDI approvals"
+            "protocol": "Free zone regulatory reforms and innovation hubs"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | PRIMARY HIGH IMPACT: LAGOS, NIGERIA. COLLAPSE RISK: CIVIL UNREST. TIMER: 48:32:10. BOTTLENECKS: LAGOS PORT CONGESTION, KARACHI ENERGY DEBT, JAKARTA TRADE BARRIERS. STABLE SHI NODES: SINGAPORE, TALLINN, DUBAI.",
-    "last_updated": "2026-11-22 16:11:09",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: LAGOS IDENTIFIED AS PRIMARY HIGH-IMPACT NODE. BOTTLENECKS DETECTED IN PORT LOGISTICS, ENERGY INFRASTRUCTURE, AND SOVEREIGN DEBT. SHI LEADERS: SINGAPORE, TALLINN, DUBAI DEPLOYING PROTOCOL UPGRADES. HEALTH INDEX AT 68.42%. COLLAPSE TIMER ACTIVE.",
+    "last_updated": "2026-11-22 21:46:16",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.15,
-        "T": 0.91,
-        "B": 1.37,
-        "C": 0.76
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2155,
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
