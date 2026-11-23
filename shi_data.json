@@ -1,52 +1,52 @@
 {
-    "shi": 0.48209,
-    "health_percent": 72.55,
-    "location": "KARACHI, PAKISTAN",
+    "shi": 0.39873,
+    "health_percent": 67.42,
+    "location": "SINGAPORE, SINGAPORE",
     "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:32:10",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
+            "loc": "Suez Canal, Egypt",
+            "deviation": "Maritime chokepoint congestion and geopolitical risk"
+        },
+        {
+            "loc": "Frankfurt, Germany",
+            "deviation": "Energy grid instability and high industrial debt"
+        },
+        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Port congestion and energy chokepoints"
-        },
-        {
-            "loc": "Lima, Peru",
-            "deviation": "High sovereign debt and trade barriers"
-        },
-        {
-            "loc": "Kyiv, Ukraine",
-            "deviation": "Infrastructure damage and logistics disruption"
+            "deviation": "Trade barriers and sovereign debt distress"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Digital trade documentation and anti-corruption automation"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial regulatory transparency and anti-corruption frameworks"
         },
         {
-            "loc": "Munich, Germany",
-            "protocol": "Industrial innovation hubs and energy grid modernization"
+            "loc": "Helsinki, Finland",
+            "protocol": "Digital governance innovation and energy diversification"
         },
         {
-            "loc": "Vancouver, Canada",
-            "protocol": "Sustainable port reform and fiscal transparency"
+            "loc": "Austin, USA",
+            "protocol": "Semiconductor supply chain reshoring and R&D tax incentives"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | ALERT: KARACHI PORT THROUGHPUT DOWN 34% | SINGAPORE SHI INDEX HITS 94.2 | MUNICH INNOVATION GRANTS +12% | GLOBAL DEBT SERVICE RATIO RISING",
-    "last_updated": "2026-11-23 10:39:09",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE DETECTS CRITICAL SUPPLY CHAIN FRAGILITY IN EURASIAN CORRIDORS; STABILITY INDEX AT 67.42% WITH IMMEDIATE PROTOCOL DEPLOYMENT RECOMMENDED IN HIGH-IMPACT NODES.",
+    "last_updated": "2026-11-23 22:14:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.25,
-        "F": 0.98,
-        "T": 1.1,
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
         "B": 2.3,
-        "C": 1.75
+        "C": 1.45
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2745,
+        "kama_compression_ratio": 0.3258,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
