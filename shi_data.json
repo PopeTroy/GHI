@@ -1,52 +1,52 @@
 {
-    "shi": 0.39873,
-    "health_percent": 67.42,
+    "shi": 1.27225,
+    "health_percent": 73.45,
     "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Suez Canal, Egypt",
-            "deviation": "Maritime chokepoint congestion and geopolitical risk"
-        },
-        {
-            "loc": "Frankfurt, Germany",
-            "deviation": "Energy grid instability and high industrial debt"
-        },
-        {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers and sovereign debt distress"
+            "deviation": "Energy chokepoint and circular debt"
+        },
+        {
+            "loc": "Lagos, Nigeria",
+            "deviation": "Trade barriers and port congestion"
+        },
+        {
+            "loc": "Yangon, Myanmar",
+            "deviation": "High debt and trade barriers"
         }
     ],
     "high_shi": [
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory transparency and anti-corruption frameworks"
+            "protocol": "Anti-corruption and financial transparency"
         },
         {
-            "loc": "Helsinki, Finland",
-            "protocol": "Digital governance innovation and energy diversification"
+            "loc": "Singapore, Singapore",
+            "protocol": "Innovation and trade facilitation"
         },
         {
-            "loc": "Austin, USA",
-            "protocol": "Semiconductor supply chain reshoring and R&D tax incentives"
+            "loc": "Tallinn, Estonia",
+            "protocol": "Digital governance and policy reforms"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR SUPPLY CHAIN BREAK | GHI ENGINE DETECTS CRITICAL SUPPLY CHAIN FRAGILITY IN EURASIAN CORRIDORS; STABILITY INDEX AT 67.42% WITH IMMEDIATE PROTOCOL DEPLOYMENT RECOMMENDED IN HIGH-IMPACT NODES.",
-    "last_updated": "2026-11-23 22:14:27",
+    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GHI ALERT: PRIMARY HIGH-IMPACT NODE SINGAPORE, SINGAPORE APPROACHING GRID COLLAPSE TIMER 48:32:10. HEALTH PERCENT 73.45. BOTTLENECKS ACTIVE IN KARACHI, LAGOS, YANGON. STABLE SHI NODES: ZURICH, SINGAPORE, TALLINN.",
+    "last_updated": "2026-11-24 06:07:50",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
         "F": 1.12,
         "T": 0.97,
-        "B": 2.3,
-        "C": 1.45
+        "B": 1.34,
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.3258,
+        "kama_compression_ratio": 0.2655,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
