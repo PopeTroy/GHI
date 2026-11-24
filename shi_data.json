@@ -1,52 +1,52 @@
 {
-    "shi": 1.27225,
-    "health_percent": 73.45,
-    "location": "SINGAPORE, SINGAPORE",
-    "collapse_type": "GRID COLLAPSE",
+    "shi": 1.02512,
+    "health_percent": 67.4,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "CIVIL UNREST",
     "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoint and circular debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Trade barriers and port congestion"
+            "deviation": "Port congestion and customs delays"
         },
         {
-            "loc": "Yangon, Myanmar",
-            "deviation": "High debt and trade barriers"
+            "loc": "Johannesburg, South Africa",
+            "deviation": "Energy grid instability and load shedding"
+        },
+        {
+            "loc": "Nairobi, Kenya",
+            "deviation": "High sovereign debt servicing costs"
         }
     ],
     "high_shi": [
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Anti-corruption and financial transparency"
+            "loc": "Singapore, Singapore",
+            "protocol": "Digital trade documentation and anti-corruption automation"
         },
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Innovation and trade facilitation"
+            "loc": "Dubai, UAE",
+            "protocol": "Free zone policy reforms and innovation hubs"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "Digital governance and policy reforms"
+            "protocol": "E-governance and blockchain-based public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: SINGAPORE, SINGAPORE TARGETED FOR GRID COLLAPSE | GHI ALERT: PRIMARY HIGH-IMPACT NODE SINGAPORE, SINGAPORE APPROACHING GRID COLLAPSE TIMER 48:32:10. HEALTH PERCENT 73.45. BOTTLENECKS ACTIVE IN KARACHI, LAGOS, YANGON. STABLE SHI NODES: ZURICH, SINGAPORE, TALLINN.",
-    "last_updated": "2026-11-24 06:07:50",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ALERT: LAGOS BOTTLENECK INDEX RISING; PORT DWELL TIME UP 34%. MONITOR CIVIL UNREST RISK. STABLE CORRIDORS: SINGAPORE-DUBAI-TALLINN TRADE LANE SHOWING SHI GAINS.",
+    "last_updated": "2026-11-24 17:37:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.78,
         "F": 1.12,
-        "T": 0.97,
+        "T": 0.95,
         "B": 1.34,
-        "C": 0.78
+        "C": 0.87
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
         "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
         "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.2655,
+        "kama_compression_ratio": 0.326,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
