@@ -1,52 +1,52 @@
 {
-    "shi": 1.25912,
-    "health_percent": 73.4,
-    "location": "JAKARTA, INDONESIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:22:10",
+    "shi": 0.25975,
+    "health_percent": 38.92,
+    "location": "KARACHI, PAKISTAN",
+    "collapse_type": "HYPER-INFLATION",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
-            "loc": "Mumbai, India",
-            "deviation": "Trade barrier on semiconductors"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoint: circular debt and grid instability"
         },
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint affecting crude exports"
+            "deviation": "Trade barrier: port congestion and customs delays"
         },
         {
-            "loc": "Detroit, USA",
-            "deviation": "High industrial debt and plant closures"
+            "loc": "Yangon, Myanmar",
+            "deviation": "High debt: sovereign default risk and currency volatility"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and financial transparency protocol"
+            "protocol": "Anti-corruption digital governance and trade facilitation"
         },
         {
             "loc": "Zurich, Switzerland",
-            "protocol": "Innovation and green finance protocol"
+            "protocol": "Financial innovation and regulatory stability"
         },
         {
-            "loc": "Vienna, Austria",
-            "protocol": "Policy reform and renewable energy integration protocol"
+            "loc": "Tallinn, Estonia",
+            "protocol": "E-governance reforms and blockchain public registries"
         }
     ],
-    "scroller_feed": "CRITICAL: JAKARTA, INDONESIA TARGETED FOR SUPPLY CHAIN BREAK | ECONOMIC STABILITY INDEX FLUCTUATES; TRADE CORRIDORS UNDER REVIEW AMID GEOPOLITICAL REALIGNMENT.",
-    "last_updated": "2026-11-25 01:36:54",
+    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR HYPER-INFLATION | ALERT: KARACHI INFLATION HITS 38.2% YOY; GRID LOAD SHEDDING EXCEEDS 10 HOURS DAILY. MONITOR: LAGOS PORT BACKLOG CLEARS SLOWLY; SINGAPORE STI INDEX STEADY.",
+    "last_updated": "2026-11-25 10:27:26",
     "formula_metrics": {
         "N": 1.44,
-        "P": 1.23,
-        "F": 0.95,
-        "T": 1.1,
-        "B": 1.4,
-        "C": 1.05
+        "P": 0.83,
+        "F": 1.05,
+        "T": 0.91,
+        "B": 2.47,
+        "C": 1.78
     },
-    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-LIGHTNING-30B-A3B",
+    "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
-        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
-        "kama_compression_ratio": 0.266,
+        "active_eye": "MANGEKYO_SPACE_TIME_ISOLATION",
+        "tailed_beast_chakra": "NINE_TAILS_KAMA_OVERDRIVE",
+        "kama_compression_ratio": 0.6108,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
