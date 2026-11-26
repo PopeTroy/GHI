@@ -1,52 +1,52 @@
 {
-    "shi": 0.9695,
-    "health_percent": 54.3,
-    "location": "KARACHI, PAKISTAN",
-    "collapse_type": "SUPPLY CHAIN BREAK",
+    "shi": 1.02512,
+    "health_percent": 68.42,
+    "location": "LAGOS, NIGERIA",
+    "collapse_type": "GRID COLLAPSE",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
-            "loc": "Karachi, Pakistan",
-            "deviation": "Energy chokepoints and circular debt"
-        },
-        {
             "loc": "Lagos, Nigeria",
-            "deviation": "Foreign exchange trade barriers"
+            "deviation": "Energy grid instability and fuel subsidy removal causing industrial downtime"
         },
         {
-            "loc": "Buenos Aires, Argentina",
-            "deviation": "Sovereign debt overhang"
+            "loc": "Apapa Port, Nigeria",
+            "deviation": "Severe trade barriers and customs bottlenecks delaying imports"
+        },
+        {
+            "loc": "Abuja, Nigeria",
+            "deviation": "High sovereign debt servicing crowding out infrastructure investment"
         }
     ],
     "high_shi": [
         {
-            "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption and digital trade protocols"
+            "loc": "Kigali, Rwanda",
+            "protocol": "Digital governance and anti-corruption reforms"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial regulatory stability"
+            "loc": "Singapore, Singapore",
+            "protocol": "Trade facilitation and innovation hub policies"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-governance innovation protocols"
+            "protocol": "E-residency and blockchain-based public administration"
         }
     ],
-    "scroller_feed": "CRITICAL: KARACHI, PAKISTAN TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: KARACHI PORT THROUGHPUT DOWN 18% AMID GRID INSTABILITY; REGIONAL CONTAGION RISK ELEVATED.",
-    "last_updated": "2026-11-26 02:46:29",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | LAGOS INFLATION SPIKES TO 28.9% AS GRID FAILURES HALT MANUFACTURING; INVESTORS PIVOT TO KIGALI'S STABLE SHI CORRIDOR.",
+    "last_updated": "2026-11-26 11:33:09",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.15,
-        "T": 0.93,
-        "B": 1.67,
-        "C": 0.78
+        "P": 0.78,
+        "F": 1.12,
+        "T": 0.95,
+        "B": 1.34,
+        "C": 0.87
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
-        "active_eye": "SHARINGAN_THREE_TOMOE",
-        "tailed_beast_chakra": "FOUR_TAILS_RESONANCE",
-        "kama_compression_ratio": 0.457,
+        "active_eye": "JOUGAN_DIMENSIONAL_PREDICTION",
+        "tailed_beast_chakra": "EIGHT_TAILS_SEALED",
+        "kama_compression_ratio": 0.3158,
         "genjutsu_defense_status": "ACTIVE_UNPERVERTED"
     }
 }
