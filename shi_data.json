@@ -1,46 +1,46 @@
 {
-    "shi": 1.02512,
+    "shi": 0.51168,
     "health_percent": 68.42,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:32:10",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy grid instability and fuel subsidy removal causing industrial downtime"
+            "deviation": "Severe energy chokepoints and grid instability"
         },
         {
-            "loc": "Apapa Port, Nigeria",
-            "deviation": "Severe trade barriers and customs bottlenecks delaying imports"
+            "loc": "Karachi, Pakistan",
+            "deviation": "High sovereign debt and trade barriers"
         },
         {
-            "loc": "Abuja, Nigeria",
-            "deviation": "High sovereign debt servicing crowding out infrastructure investment"
+            "loc": "Jakarta, Indonesia",
+            "deviation": "Port congestion and supply chain bottlenecks"
         }
     ],
     "high_shi": [
         {
-            "loc": "Kigali, Rwanda",
-            "protocol": "Digital governance and anti-corruption reforms"
-        },
-        {
             "loc": "Singapore, Singapore",
-            "protocol": "Trade facilitation and innovation hub policies"
+            "protocol": "Anti-corruption digital governance and trade facilitation"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-residency and blockchain-based public administration"
+            "protocol": "E-residency policy reforms and innovation hubs"
+        },
+        {
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial stability protocols and low-debt fiscal management"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | LAGOS INFLATION SPIKES TO 28.9% AS GRID FAILURES HALT MANUFACTURING; INVESTORS PIVOT TO KIGALI'S STABLE SHI CORRIDOR.",
-    "last_updated": "2026-11-26 11:33:09",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA FLAGGED AS PRIMARY HIGH-IMPACT LOCATION. CIVIL UNREST COLLAPSE TIMER ACTIVE. CRITICAL BOTTLENECKS IN ENERGY, DEBT, AND LOGISTICS DETECTED. STABLE HIGH-SHI NODES: SINGAPORE, TALLINN, ZURICH.",
+    "last_updated": "2026-11-26 20:30:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
-        "F": 1.12,
-        "T": 0.95,
-        "B": 1.34,
-        "C": 0.87
+        "P": 0.82,
+        "F": 1.15,
+        "T": 0.91,
+        "B": 2.3,
+        "C": 1.05
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
