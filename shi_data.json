@@ -1,5 +1,5 @@
 {
-    "shi": 0.51168,
+    "shi": 0.55062,
     "health_percent": 68.42,
     "location": "LAGOS, NIGERIA",
     "collapse_type": "CIVIL UNREST",
@@ -7,38 +7,38 @@
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Severe energy chokepoints and grid instability"
+            "deviation": "Severe port congestion and customs delays"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "High sovereign debt and trade barriers"
+            "deviation": "Circular debt in energy sector causing blackouts"
         },
         {
             "loc": "Jakarta, Indonesia",
-            "deviation": "Port congestion and supply chain bottlenecks"
+            "deviation": "Trade barriers and import licensing bottlenecks"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption digital governance and trade facilitation"
+            "protocol": "Digital customs automation and anti-corruption e-governance"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "E-residency policy reforms and innovation hubs"
+            "protocol": "Blockchain-based public registry and regulatory sandbox"
         },
         {
-            "loc": "Zurich, Switzerland",
-            "protocol": "Financial stability protocols and low-debt fiscal management"
+            "loc": "Dubai, UAE",
+            "protocol": "Free zone innovation hubs and streamlined FDI approvals"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA FLAGGED AS PRIMARY HIGH-IMPACT LOCATION. CIVIL UNREST COLLAPSE TIMER ACTIVE. CRITICAL BOTTLENECKS IN ENERGY, DEBT, AND LOGISTICS DETECTED. STABLE HIGH-SHI NODES: SINGAPORE, TALLINN, ZURICH.",
-    "last_updated": "2026-11-26 20:30:19",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA FLAGGED AS PRIMARY HIGH-IMPACT LOCATION. CIVIL UNREST RISK RISING AMID ENERGY CHOKEPOINTS AND TRADE BARRIERS. STABLE SHI NODES DEMONSTRATE RESILIENCE THROUGH DIGITAL GOVERNANCE AND INNOVATION PROTOCOLS.",
+    "last_updated": "2026-11-27 03:11:27",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.82,
-        "F": 1.15,
-        "T": 0.91,
+        "P": 0.85,
+        "F": 1.12,
+        "T": 0.97,
         "B": 2.3,
         "C": 1.05
     },
