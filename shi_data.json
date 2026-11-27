@@ -2,38 +2,38 @@
     "shi": 0.55062,
     "health_percent": 68.42,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "CIVIL UNREST",
-    "collapse_timer": "48:32:10",
+    "collapse_type": "GRID COLLAPSE",
+    "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Severe port congestion and customs delays"
+            "deviation": "Energy chokepoint: national grid instability causing 12-hour daily outages"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Circular debt in energy sector causing blackouts"
+            "deviation": "Trade barriers: port congestion and customs delays increasing import costs by 34%"
         },
         {
-            "loc": "Jakarta, Indonesia",
-            "deviation": "Trade barriers and import licensing bottlenecks"
+            "loc": "Cairo, Egypt",
+            "deviation": "High debt: sovereign debt servicing consuming 45% of annual revenue"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Digital customs automation and anti-corruption e-governance"
+            "protocol": "Anti-corruption digital governance and trade facilitation hub"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "Blockchain-based public registry and regulatory sandbox"
+            "protocol": "Policy reforms: e-residency and blockchain-based public administration"
         },
         {
             "loc": "Dubai, UAE",
-            "protocol": "Free zone innovation hubs and streamlined FDI approvals"
+            "protocol": "Innovation: free zone tax incentives and AI-driven logistics infrastructure"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | ALERT: LAGOS, NIGERIA FLAGGED AS PRIMARY HIGH-IMPACT LOCATION. CIVIL UNREST RISK RISING AMID ENERGY CHOKEPOINTS AND TRADE BARRIERS. STABLE SHI NODES DEMONSTRATE RESILIENCE THROUGH DIGITAL GOVERNANCE AND INNOVATION PROTOCOLS.",
-    "last_updated": "2026-11-27 03:11:27",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GHI ALERT: LAGOS GRID STRESS AT 89% CAPACITY. BOTTLENECK INTENSITY RISING IN SOUTH ASIA. STABLE PROTOCOLS HOLDING IN BALTIC AND GULF CORRIDORS.",
+    "last_updated": "2026-11-27 12:24:13",
     "formula_metrics": {
         "N": 1.44,
         "P": 0.85,
