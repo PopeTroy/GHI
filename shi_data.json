@@ -1,46 +1,46 @@
 {
-    "shi": 0.55062,
+    "shi": 1.27533,
     "health_percent": 68.42,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "GRID COLLAPSE",
+    "collapse_type": "SUPPLY CHAIN BREAK",
     "collapse_timer": "48:12:30",
     "bottlenecks": [
         {
             "loc": "Lagos, Nigeria",
-            "deviation": "Energy chokepoint: national grid instability causing 12-hour daily outages"
+            "deviation": "Port congestion and fuel subsidy volatility"
         },
         {
             "loc": "Karachi, Pakistan",
-            "deviation": "Trade barriers: port congestion and customs delays increasing import costs by 34%"
+            "deviation": "Circular debt and energy chokepoints"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "High debt: sovereign debt servicing consuming 45% of annual revenue"
+            "loc": "Colombo, Sri Lanka",
+            "deviation": "Import restrictions and high external debt"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Anti-corruption digital governance and trade facilitation hub"
+            "protocol": "Digital trade facilitation and anti-corruption protocols"
         },
         {
             "loc": "Tallinn, Estonia",
-            "protocol": "Policy reforms: e-residency and blockchain-based public administration"
+            "protocol": "E-governance and blockchain land registry"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Innovation: free zone tax incentives and AI-driven logistics infrastructure"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial innovation and regulatory stability"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR GRID COLLAPSE | GHI ALERT: LAGOS GRID STRESS AT 89% CAPACITY. BOTTLENECK INTENSITY RISING IN SOUTH ASIA. STABLE PROTOCOLS HOLDING IN BALTIC AND GULF CORRIDORS.",
-    "last_updated": "2026-11-27 12:24:13",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | LAGOS PORT QUEUES EXCEED 72 HOURS; KARACHI CIRCULAR DEBT HITS PKR 2.3 TRILLION; COLOMBO IMPORT LICENSING DELAYS DISRUPT MEDICINE AND FUEL SUPPLY CHAINS.",
+    "last_updated": "2026-11-27 21:31:19",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.85,
+        "P": 0.87,
         "F": 1.12,
-        "T": 0.97,
-        "B": 2.3,
-        "C": 1.05
+        "T": 0.95,
+        "B": 1.34,
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
