@@ -1,46 +1,46 @@
 {
-    "shi": 1.02512,
+    "shi": 1.27533,
     "health_percent": 68.42,
     "location": "LAGOS, NIGERIA",
-    "collapse_type": "SUPPLY CHAIN BREAK",
-    "collapse_timer": "48:12:30",
+    "collapse_type": "CIVIL UNREST",
+    "collapse_timer": "48:12:33",
     "bottlenecks": [
         {
-            "loc": "Lagos, Nigeria",
-            "deviation": "Port congestion and customs delays"
+            "loc": "Karachi, Pakistan",
+            "deviation": "Energy chokepoints and circular debt"
         },
         {
-            "loc": "Johannesburg, South Africa",
-            "deviation": "Energy grid instability and load shedding"
+            "loc": "Buenos Aires, Argentina",
+            "deviation": "High sovereign debt and import barriers"
         },
         {
-            "loc": "Cairo, Egypt",
-            "deviation": "High sovereign debt and currency controls"
+            "loc": "Yangon, Myanmar",
+            "deviation": "Trade barriers and civil unrest"
         }
     ],
     "high_shi": [
         {
             "loc": "Singapore, Singapore",
-            "protocol": "Automated customs clearance and trade facilitation"
+            "protocol": "Anti-corruption and digital trade protocols"
         },
         {
-            "loc": "Tallinn, Estonia",
-            "protocol": "E-governance and anti-corruption digital identity"
+            "loc": "Zurich, Switzerland",
+            "protocol": "Financial policy reforms and innovation"
         },
         {
-            "loc": "Dubai, UAE",
-            "protocol": "Free zone innovation hubs and regulatory sandboxes"
+            "loc": "Helsinki, Finland",
+            "protocol": "Education innovation and green energy transition"
         }
     ],
-    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR SUPPLY CHAIN BREAK | GHI ALERT: LAGOS PORT THROUGHPUT DOWN 14% AMID CUSTOMS BACKLOG; SHI NODES SINGAPORE AND TALLINN MAINTAINING STABILITY PROTOCOLS; MONITOR SUPPLY CHAIN BREAK RISK IN WEST AFRICA CORRIDOR.",
-    "last_updated": "2026-11-28 03:28:55",
+    "scroller_feed": "CRITICAL: LAGOS, NIGERIA TARGETED FOR CIVIL UNREST | GHI ALERT: LAGOS PORT CONGESTION HITS 18-DAY HIGH; NAIRA VOLATILITY SPREADS TO REGIONAL TRADE CORRIDORS. MONITOR BORDER DELAYS AND FUEL SUPPLY CHAINS.",
+    "last_updated": "2026-11-28 12:14:08",
     "formula_metrics": {
         "N": 1.44,
-        "P": 0.78,
+        "P": 0.87,
         "F": 1.12,
         "T": 0.95,
         "B": 1.34,
-        "C": 0.87
+        "C": 0.78
     },
     "engine_active": "NVIDIA_NIM_NVIDIA_NEMOTRON-3.5-SUPER-VL-120B-A12B",
     "shinobi_tactics": {
